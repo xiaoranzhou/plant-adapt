@@ -1,0 +1,6 @@
+curl 'https://www.camelina-hub.org/api/getBucketObjectData?bucket_name=camelina&object_name=Plink%2Fplink.bed&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJndWVzdEB1bnR3aXN0LWh1Yi5vcmciLCJyb2xlIjoiUmV2aWV3ZXIiLCJleHAiOjE3NTc1MTE0NTV9.uLYigNqRHeq6huYseMftLGqdVoOslncKS9GHQUng5p8' \
+  -X 'POST' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36' \
+  -H 'DNT: 1' \
+  -H 'Referer: https://www.camelina-hub.org/plink-worker.js' \
+  -o plink.bed

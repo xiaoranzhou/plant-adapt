@@ -1,0 +1,675 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manhattan Plot - Complete Dataset (Self-Contained)</title>
+    <script src="public/plotly.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        .controls {
+            margin-bottom: 15px;
+            text-align: center;
+        }
+        .controls button {
+            margin: 5px;
+            padding: 10px 20px;
+            background: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        .controls button:hover:not(:disabled) {
+            background: #45a049;
+        }
+        .controls button:disabled {
+            background: #cccccc;
+            cursor: not-allowed;
+        }
+        .controls button.secondary {
+            background: #2196F3;
+        }
+        .controls button.secondary:hover:not(:disabled) {
+            background: #1976D2;
+        }
+        .progress {
+            margin: 20px 0;
+            text-align: center;
+        }
+        .progress-bar {
+            width: 100%;
+            height: 24px;
+            background: #f0f0f0;
+            border-radius: 12px;
+            overflow: hidden;
+            margin: 10px 0;
+            position: relative;
+        }
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #4CAF50, #45a049);
+            transition: width 0.3s ease;
+            width: 0%;
+        }
+        .progress-text {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-weight: bold;
+            color: #333;
+            font-size: 12px;
+        }
+        .stats {
+            text-align: center;
+            margin: 20px 0;
+            color: #666;
+        }
+        .performance-metrics {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 10px;
+            margin: 15px 0;
+        }
+        .metric-card {
+            background: #f8f9fa;
+            border: 1px solid #dee2e6;
+            border-radius: 4px;
+            padding: 10px;
+            text-align: center;
+        }
+        .metric-value {
+            font-size: 18px;
+            font-weight: bold;
+            color: #2196F3;
+        }
+        .metric-label {
+            font-size: 11px;
+            color: #6c757d;
+            text-transform: uppercase;
+        }
+        #plotDiv {
+            width: 100%;
+            height: 600px;
+        }
+        .loading {
+            text-align: center;
+            padding: 40px;
+            font-size: 18px;
+            color: #666;
+        }
+        .performance-note {
+            background: #e3f2fd;
+            border-left: 4px solid #2196F3;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        .error {
+            background: #f8d7da;
+            color: #721c24;
+            border-left: 4px solid #dc3545;
+        }
+        .success {
+            background: #d4edda;
+            color: #155724;
+            border-left: 4px solid #28a745;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Complete Manhattan Plot - All Data Points</h1>
+        
+        <div class="performance-note">
+            <h3>🚀 Complete Dataset Visualization</h3>
+            <p>This self-contained version uses an inline Web Worker to process and display all 291K+ data points without external dependencies or UI blocking.</p>
+        </div>
+        
+        <div class="controls">
+            <button onclick="loadCompleteDataset()" id="loadBtn">Load Complete Dataset (291K+ points)</button>
+            <button onclick="loadTestDataset()">Load Test Dataset (1K points)</button>
+            <button onclick="toggleSignificanceLine()">Toggle Significance Line</button>
+            <button onclick="exportPlot()" class="secondary">Export PNG</button>
+            <button onclick="exportSVG()" class="secondary">Export SVG</button>
+            <button onclick="clearPlot()">Clear</button>
+        </div>
+        
+        <div class="progress" id="progressSection" style="display: none;">
+            <div id="progressMessage">Processing data...</div>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
+                <div class="progress-text" id="progressText">0%</div>
+            </div>
+        </div>
+        
+        <div class="performance-metrics" id="metricsSection" style="display: none;">
+            <div class="metric-card">
+                <div class="metric-value" id="totalPoints">0</div>
+                <div class="metric-label">Total Points</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-value" id="displayedPoints">0</div>
+                <div class="metric-label">Displayed</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-value" id="processingTime">0s</div>
+                <div class="metric-label">Process Time</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-value" id="renderTime">0s</div>
+                <div class="metric-label">Render Time</div>
+            </div>
+        </div>
+        
+        <div class="stats" id="stats">
+            Ready to load the complete dataset. This version displays all data points efficiently using Web Workers.
+        </div>
+        
+        <div id="plotDiv" class="loading">
+            Click "Load Complete Dataset" to process and display all 291K+ data points.
+        </div>
+    </div>
+
+    <script>
+        let worker = null;
+        let currentData = null;
+        let showSignificanceLine = true;
+        let processingStartTime = 0;
+        let renderStartTime = 0;
+        const significanceThreshold = -Math.log10(5e-8);
+
+        // Define colors for each chromosome
+        const chrColors = [
+            '#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd',
+            '#8c564b', '#e377c2', '#7f7f7f', '#bcbd22', '#17becf',
+            '#aec7e8', '#ffbb78', '#98df8a', '#ff9896', '#c5b0d5',
+            '#c49c94', '#f7b6d3', '#c7c7c7', '#dbdb8d', '#9edae5',
+            '#393b79', '#637939'
+        ];
+
+        function createInlineWorker() {
+            const workerScript = `
+                let processedData = null;
+                
+                self.onmessage = function(e) {
+                    const { type, data } = e.data;
+                    
+                    switch(type) {
+                        case 'PROCESS_DATA':
+                            processGWASData(data);
+                            break;
+                        case 'CREATE_TRACES':
+                            createPlotTraces(data);
+                            break;
+                    }
+                };
+                
+                function processGWASData(data) {
+                    self.postMessage({ type: 'STATUS', message: 'Starting data processing...' });
+                    
+                    const processed = [];
+                    let currentOffset = 0;
+                    const chromosomes = [...new Set(data.map(d => d[0]))].sort((a, b) => a - b);
+                    const totalChromosomes = chromosomes.length;
+                    
+                    for (let chrIndex = 0; chrIndex < totalChromosomes; chrIndex++) {
+                        const chr = chromosomes[chrIndex];
+                        
+                        self.postMessage({ 
+                            type: 'PROGRESS', 
+                            progress: (chrIndex / totalChromosomes) * 60,
+                            message: \`Processing chromosome \${chr} (\${chrIndex + 1}/\${totalChromosomes})...\`
+                        });
+                        
+                        const chrData = data.filter(d => d[0] === chr)
+                            .sort((a, b) => a[1] - b[1]);
+                        
+                        if (chrData.length === 0) continue;
+                        
+                        // Find max position efficiently
+                        let maxPos = 0;
+                        for (let i = 0; i < chrData.length; i++) {
+                            if (chrData[i][1] > maxPos) {
+                                maxPos = chrData[i][1];
+                            }
+                        }
+                        
+                        for (let i = 0; i < chrData.length; i++) {
+                            const d = chrData[i];
+                            processed.push({
+                                chr: d[0],
+                                originalPos: d[1],
+                                position: currentOffset + d[1],
+                                pValue: d[2],
+                                logP: -Math.log10(Math.max(d[2], 1e-300))
+                            });
+                        }
+                        
+                        currentOffset += maxPos;
+                    }
+                    
+                    processedData = processed;
+                    self.postMessage({ 
+                        type: 'DATA_PROCESSED', 
+                        data: processed,
+                        dataCount: processed.length,
+                        progress: 60,
+                        message: \`Data processing complete. Processed \${processed.length.toLocaleString()} points.\`
+                    });
+                }
+                
+                function createPlotTraces(config) {
+                    if (!processedData) {
+                        self.postMessage({ type: 'ERROR', message: 'No processed data available' });
+                        return;
+                    }
+                    
+                    self.postMessage({ type: 'STATUS', message: 'Creating plot traces...' });
+                    
+                    const traces = [];
+                    const chromosomes = [...new Set(processedData.map(d => d.chr))].sort((a, b) => a - b);
+                    const chrColors = config.chrColors;
+                    const totalChromosomes = chromosomes.length;
+                    
+                    for (let index = 0; index < totalChromosomes; index++) {
+                        const chr = chromosomes[index];
+                        
+                        self.postMessage({ 
+                            type: 'PROGRESS', 
+                            progress: 60 + (index / totalChromosomes) * 30,
+                            message: \`Creating trace for chromosome \${chr} (\${index + 1}/\${totalChromosomes})...\`
+                        });
+                        
+                        const chrData = processedData.filter(d => d.chr === chr);
+                        if (chrData.length === 0) continue;
+                        
+                        const trace = {
+                            x: chrData.map(d => d.position),
+                            y: chrData.map(d => d.logP),
+                            mode: 'markers',
+                            type: 'scattergl',
+                            name: \`Chr \${chr}\`,
+                            marker: {
+                                color: chrColors[(chr - 1) % chrColors.length],
+                                size: 6,
+                                opacity: 0.6,
+                                line: { width: 0 }
+                            },
+                            hovertemplate: 
+                                '<b>Chr %{customdata[0]}</b><br>' +
+                                'Position: %{customdata[1]:,}<br>' +
+                                'P-value: %{customdata[2]:.2e}<br>' +
+                                '-log10(P): %{y:.2f}<br>' +
+                                '<extra></extra>',
+                            customdata: chrData.map(d => [d.chr, d.originalPos, d.pValue]),
+                            showlegend: false
+                        };
+                        
+                        traces.push(trace);
+                    }
+                    
+                    self.postMessage({ 
+                        type: 'PROGRESS', 
+                        progress: 90,
+                        message: 'Adding significance line and calculating ticks...'
+                    });
+                    
+                    // Add significance line if requested
+                    if (config.showSignificanceLine && processedData.length > 0) {
+                        let maxPos = 0;
+                        for (let i = 0; i < processedData.length; i++) {
+                            if (processedData[i].position > maxPos) {
+                                maxPos = processedData[i].position;
+                            }
+                        }
+                        
+                        traces.push({
+                            x: [0, maxPos],
+                            y: [config.significanceThreshold, config.significanceThreshold],
+                            mode: 'lines',
+                            type: 'scatter',
+                            name: 'Significance (5×10⁻⁸)',
+                            line: {
+                                color: 'red',
+                                width: 2,
+                                dash: 'dash'
+                            },
+                            hoverinfo: 'none',
+                            showlegend: false
+                        });
+                    }
+                    
+                    // Calculate chromosome ticks
+                    const ticks = [];
+                    const labels = [];
+                    for (let i = 0; i < chromosomes.length; i++) {
+                        const chr = chromosomes[i];
+                        const chrData = processedData.filter(d => d.chr === chr);
+                        if (chrData.length > 0) {
+                            let minPos = Infinity;
+                            let maxPos = -Infinity;
+                            for (let j = 0; j < chrData.length; j++) {
+                                const pos = chrData[j].position;
+                                if (pos < minPos) minPos = pos;
+                                if (pos > maxPos) maxPos = pos;
+                            }
+                            ticks.push((minPos + maxPos) / 2);
+                            labels.push(chr.toString());
+                        }
+                    }
+                    
+                    self.postMessage({ 
+                        type: 'TRACES_READY', 
+                        traces: traces,
+                        ticks: ticks,
+                        labels: labels,
+                        dataCount: processedData.length,
+                        progress: 100,
+                        message: \`Plot ready! Displaying \${processedData.length.toLocaleString()} points.\`
+                    });
+                }
+                
+                self.onerror = function(error) {
+                    self.postMessage({ 
+                        type: 'ERROR', 
+                        message: 'Worker error: ' + error.message,
+                        error: error
+                    });
+                };
+            `;
+
+            const blob = new Blob([workerScript], { type: 'application/javascript' });
+            return new Worker(URL.createObjectURL(blob));
+        }
+
+        function initWorker() {
+            if (worker) {
+                worker.terminate();
+            }
+
+            try {
+                worker = createInlineWorker();
+            } catch (error) {
+                console.error('Failed to create worker:', error);
+                document.getElementById('plotDiv').innerHTML = 
+                    '<div class="loading error">Error: Could not create Web Worker. Your browser may not support Web Workers.</div>';
+                return;
+            }
+
+            worker.onmessage = function(e) {
+                const { type, data, traces, ticks, labels, dataCount, progress, message, error } = e.data;
+                
+                switch(type) {
+                    case 'STATUS':
+                        updateStatus(message);
+                        break;
+                    case 'PROGRESS':
+                        updateProgress(progress, message);
+                        break;
+                    case 'DATA_PROCESSED':
+                        currentData = data;
+                        const processedCount = dataCount || (data ? data.length : 0);
+                        document.getElementById('totalPoints').textContent = processedCount.toLocaleString();
+                        updateStatus(`Data processed: \${processedCount.toLocaleString()} points`);
+                        
+                        // Continue to create traces
+                        worker.postMessage({ 
+                            type: 'CREATE_TRACES', 
+                            data: {
+                                chrColors: chrColors,
+                                showSignificanceLine: showSignificanceLine,
+                                significanceThreshold: significanceThreshold
+                            }
+                        });
+                        break;
+                    case 'TRACES_READY':
+                        renderStartTime = performance.now();
+                        createPlotFromTraces(traces, ticks, labels, dataCount);
+                        hideProgress();
+                        updateStatus('Plot rendering complete!');
+                        break;
+                    case 'ERROR':
+                        updateStatus('ERROR: ' + message);
+                        hideProgress();
+                        document.getElementById('plotDiv').innerHTML = 
+                            '<div class="loading error">Error: ' + message + '</div>';
+                        break;
+                }
+            };
+
+            worker.onerror = function(error) {
+                console.error('Worker error:', error);
+                updateStatus('Worker error: ' + error.message);
+                hideProgress();
+            };
+        }
+
+        function showProgress() {
+            document.getElementById('progressSection').style.display = 'block';
+            document.getElementById('metricsSection').style.display = 'grid';
+        }
+
+        function hideProgress() {
+            document.getElementById('progressSection').style.display = 'none';
+            document.getElementById('loadBtn').disabled = false;
+            
+            const processingTime = ((performance.now() - processingStartTime) / 1000).toFixed(2);
+            document.getElementById('processingTime').textContent = processingTime + 's';
+        }
+
+        function updateProgress(progress, message) {
+            document.getElementById('progressFill').style.width = progress + '%';
+            document.getElementById('progressText').textContent = Math.round(progress) + '%';
+            if (message) {
+                document.getElementById('progressMessage').textContent = message;
+            }
+        }
+
+        function updateStatus(message) {
+            console.log('Status:', message);
+        }
+
+        async function loadDataset(filename, isTest = false) {
+            document.getElementById('plotDiv').innerHTML = '<div class="loading">Loading data...</div>';
+            document.getElementById('stats').innerHTML = 'Loading data...';
+            document.getElementById('loadBtn').disabled = true;
+            
+            // Reset metrics
+            document.getElementById('totalPoints').textContent = '0';
+            document.getElementById('displayedPoints').textContent = '0';
+            document.getElementById('processingTime').textContent = '0s';
+            document.getElementById('renderTime').textContent = '0s';
+            
+            processingStartTime = performance.now();
+            showProgress();
+            
+            try {
+                const response = await fetch(filename);
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: \${response.status}`);
+                }
+                const jsonData = await response.json();
+                
+                updateStatus(`Data loaded: \${jsonData.data.length.toLocaleString()} points`);
+                
+                // Initialize worker and start processing
+                initWorker();
+                worker.postMessage({ type: 'PROCESS_DATA', data: jsonData.data });
+                
+            } catch (error) {
+                console.error('Error loading data:', error);
+                document.getElementById('plotDiv').innerHTML = 
+                    '<div class="loading error">Error loading data: ' + error.message + '</div>';
+                document.getElementById('stats').innerHTML = 'Error loading data';
+                hideProgress();
+                updateStatus('Error loading data: ' + error.message);
+            }
+        }
+
+        function createPlotFromTraces(traces, ticks, labels, dataCount) {
+            const layout = {
+                title: {
+                    text: 'Complete Manhattan Plot - All Data Points',
+                    font: { size: 20 }
+                },
+                xaxis: {
+                    title: {
+                        text: 'Chromosome',
+                        font: { size: 16, family: 'Arial, sans-serif' }
+                    },
+                    showgrid: true,
+                    gridcolor: '#f0f0f0',
+                    tickmode: 'array',
+                    tickvals: ticks,
+                    ticktext: labels,
+                    fixedrange: false,
+                    titlefont: { size: 14 }
+                },
+                yaxis: {
+                    title: {
+                        text: '-log₁₀(P-value)',
+                        font: { size: 16, family: 'Arial, sans-serif' }
+                    },
+                    showgrid: true,
+                    gridcolor: '#f0f0f0',
+                    fixedrange: false,
+                    titlefont: { size: 14 }
+                },
+                hovermode: 'closest',
+                showlegend: false,
+                plot_bgcolor: 'white',
+                paper_bgcolor: 'white',
+                margin: { l: 60, r: 30, t: 60, b: 60 }
+            };
+
+            const config = {
+                responsive: true,
+                displayModeBar: true,
+                modeBarButtonsToRemove: ['pan2d', 'lasso2d', 'select2d'],
+                displaylogo: false,
+                toImageButtonOptions: {
+                    format: 'png',
+                    filename: 'manhattan_plot_complete',
+                    height: 800,
+                    width: 1400,
+                    scale: 2
+                }
+            };
+
+            Plotly.newPlot('plotDiv', traces, layout, config);
+            
+            // Calculate render time
+            const renderTime = ((performance.now() - renderStartTime) / 1000).toFixed(2);
+            document.getElementById('renderTime').textContent = renderTime + 's';
+            
+            // Update displayed points count
+            const displayedPoints = traces.reduce((sum, trace) => {
+                return sum + (trace.x ? trace.x.length : 0);
+            }, 0) - (showSignificanceLine ? 2 : 0);
+            document.getElementById('displayedPoints').textContent = displayedPoints.toLocaleString();
+            
+            // Update stats
+            const totalCount = dataCount || displayedPoints;
+            document.getElementById('stats').innerHTML = 
+                `<span class="success">Successfully rendered \${displayedPoints.toLocaleString()} data points</span>`;
+        }
+
+        function loadCompleteDataset() {
+            loadDataset('public/gwas_data.json', false);
+        }
+
+        function loadTestDataset() {
+            loadDataset('public/gwas_data_test.json', true);
+        }
+
+        function toggleSignificanceLine() {
+            showSignificanceLine = !showSignificanceLine;
+            if (currentData && worker) {
+                showProgress();
+                updateStatus('Updating significance line...');
+                worker.postMessage({ 
+                    type: 'CREATE_TRACES', 
+                    data: {
+                        chrColors: chrColors,
+                        showSignificanceLine: showSignificanceLine,
+                        significanceThreshold: significanceThreshold
+                    }
+                });
+            }
+        }
+
+        function exportPlot() {
+            const plotDiv = document.getElementById('plotDiv');
+            if (currentData && plotDiv && plotDiv._fullLayout) {
+                Plotly.downloadImage('plotDiv', {
+                    format: 'png',
+                    filename: 'manhattan_plot_complete',
+                    height: 800,
+                    width: 1400,
+                    scale: 2
+                });
+            } else {
+                alert('Please load data first before exporting.');
+            }
+        }
+
+        function exportSVG() {
+            const plotDiv = document.getElementById('plotDiv');
+            if (currentData && plotDiv && plotDiv._fullLayout) {
+                Plotly.downloadImage('plotDiv', {
+                    format: 'svg',
+                    filename: 'manhattan_plot_complete',
+                    height: 800,
+                    width: 1400
+                });
+            } else {
+                alert('Please load data first before exporting.');
+            }
+        }
+
+        function clearPlot() {
+            document.getElementById('plotDiv').innerHTML = '<div class="loading">Plot cleared. Click "Load Complete Dataset" to display data.</div>';
+            document.getElementById('stats').innerHTML = 'Plot cleared.';
+            document.getElementById('metricsSection').style.display = 'none';
+            
+            // Reset metrics
+            document.getElementById('totalPoints').textContent = '0';
+            document.getElementById('displayedPoints').textContent = '0';
+            document.getElementById('processingTime').textContent = '0s';
+            document.getElementById('renderTime').textContent = '0s';
+            
+            if (worker) {
+                worker.terminate();
+                worker = null;
+            }
+            hideProgress();
+        }
+
+        // Initialize
+        window.onload = function() {
+            console.log('Complete Manhattan Plot ready');
+        };
+    </script>
+</body>
+</html>
