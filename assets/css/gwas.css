@@ -1,0 +1,195 @@
+/* GWAS Analysis & PLINK Interface Styles */
+
+/* File Upload Section */
+.file-upload-section {
+    margin-bottom: 30px;
+    padding: 20px;
+    border: 2px dashed #ddd;
+    border-radius: 8px;
+    background-color: #fafafa;
+}
+
+.file-group {
+    margin-bottom: 15px;
+}
+
+.file-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #555;
+}
+
+.file-group input[type="file"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background: white;
+}
+
+.file-status {
+    margin-top: 5px;
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-size: 12px;
+}
+
+.file-status.success {
+    background-color: #d4edda;
+    color: #155724;
+}
+
+.file-status.error {
+    background-color: #f8d7da;
+    color: #721c24;
+}
+
+/* Controls Section */
+.controls {
+    display: flex;
+    gap: 10px;
+    margin: 20px 0;
+    align-items: center;
+}
+
+.command-input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-family: monospace;
+}
+
+/* Output Section */
+.output-section {
+    margin-top: 30px;
+}
+
+.output-tabs {
+    display: flex;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 15px;
+}
+
+.tab {
+    padding: 10px 20px;
+    background: #f8f9fa;
+    border: 1px solid #ddd;
+    border-bottom: none;
+    cursor: pointer;
+    margin-right: 5px;
+    border-radius: 5px 5px 0 0;
+}
+
+.tab.active {
+    background: white;
+    border-bottom: 1px solid white;
+}
+
+.output-content {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+    min-height: 200px;
+    font-family: monospace;
+    white-space: pre-wrap;
+    overflow-x: auto;
+}
+
+/* Loading Animation */
+.loading {
+    display: none;
+    text-align: center;
+    padding: 20px;
+}
+
+.spinner {
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #3498db;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    animation: spin 2s linear infinite;
+    margin: 0 auto;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Info and Error Messages */
+.file-info {
+    background: #e7f3ff;
+    padding: 10px;
+    border-radius: 4px;
+    margin-top: 20px;
+    border-left: 4px solid #007bff;
+}
+
+.error-message {
+    background: #f8d7da;
+    color: #721c24;
+    padding: 15px;
+    border-radius: 4px;
+    margin: 10px 0;
+    border-left: 4px solid #dc3545;
+}
+
+/* Manhattan Plot Controls */
+.manhattan-controls {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.manhattan-controls .btn {
+    margin-right: 10px;
+}
+
+/* Progress Section */
+.progress {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#manhattanProgressSection {
+    display: none;
+}
+
+#manhattanProgressFill {
+    height: 100%;
+    background: linear-gradient(90deg, #4CAF50, #45a049);
+    transition: width 0.3s ease;
+    width: 0%;
+}
+
+#manhattanProgressText {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    color: #333;
+    font-size: 12px;
+}
+
+/* Statistics Display */
+#manhattanStats {
+    text-align: center;
+    margin: 10px 0;
+    color: #666;
+}
+
+/* Plot Container */
+#manhattanPlotDiv {
+    width: 100%;
+    height: 600px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f8f9fa;
+    color: #666;
+}

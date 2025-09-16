@@ -1,0 +1,84 @@
+<div class="container-fluid">
+    <div class="file-upload-section">
+        <h3>Upload Files</h3>
+        <div class="file-group">
+            <label for="fileInput">Select Files:</label>
+            <input type="file" id="fileInput" multiple>
+            <div id="fileStatus" class="file-status"></div>
+        </div>
+    </div>
+
+    <div class="controls">
+        <input type="text" class="command-input" id="commandInput"
+               placeholder="Enter PLINK2 command (e.g.,--bfile plink --glm allow-no-covars)"
+               value="--bfile plink --glm allow-no-covars">
+        <label style="display: flex; align-items: center; gap: 5px;">
+            <input type="checkbox" id="renameFamCheckbox" checked>
+            Rename .fam
+        </label>
+        <button class="btn btn-primary" id="runButton" onclick="runPlink()">Run PLINK2</button>
+        <button class="btn btn-primary" id="clearButton" onclick="clearOutput()">Clear Output</button>
+    </div>
+
+    <div class="loading" id="loading">
+        <div class="spinner"></div>
+        <p>Processing with PLINK2...</p>
+    </div>
+
+    <div class="output-section">
+        <div class="output-tabs">
+            <div class="tab active" onclick="switchTab('console')">Console Output</div>
+            <div class="tab" onclick="switchTab('files')">Output Files</div>
+            <div class="tab" onclick="switchTab('gwas')">GWAS Data Clean</div>
+            <div class="tab" onclick="switchTab('manhattan')">Manhattan Plot</div>
+            <div class="tab" onclick="switchTab('log')">Log</div>
+        </div>
+        
+        <div class="output-content" id="outputContent">
+            <div id="consoleOutput">Ready to process PLINK2 files...</div>
+            <div id="filesOutput" style="display: none;"></div>
+            <div id="gwasOutput" style="display: none;">
+                <div style="margin-bottom: 15px;">
+                    <button class="btn btn-primary" id="runGwasButton" onclick="runGwasAnalysis()" style="margin-right: 10px;">Run GWAS Data Clean</button>
+                    <span id="gwasStatus"></span>
+                </div>
+                <div id="gwasResults"></div>
+            </div>
+            <div id="manhattanOutput" style="display: none;">
+                <div class="manhattan-controls" style="margin-bottom: 15px; text-align: center;">
+                    <button class="btn btn-primary" id="plotFromCleanedButton" onclick="plotFromCleanedData()" style="margin-right: 10px; background-color: #4CAF50;">Plot from Cleaned Data</button>
+                    <button class="btn btn-primary" onclick="toggleSignificanceLinePlot()" style="margin-right: 10px;">Toggle Significance Line</button>
+                    <button class="btn btn-primary" onclick="exportPlotImage()" style="margin-right: 10px; background-color: #2196F3;">Export PNG</button>
+                    <button class="btn btn-primary" onclick="clearManhattanPlot()">Clear</button>
+                </div>
+                <div class="progress" id="manhattanProgressSection" style="display: none; text-align: center; margin-bottom: 15px;">
+                    <div id="manhattanProgressMessage">Processing data...</div>
+                    <div style="width: 100%; height: 20px; background: #f0f0f0; border-radius: 10px; overflow: hidden; margin: 10px 0; position: relative;">
+                        <div id="manhattanProgressFill" style="height: 100%; background: linear-gradient(90deg, #4CAF50, #45a049); transition: width 0.3s ease; width: 0%;"></div>
+                        <div id="manhattanProgressText" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-weight: bold; color: #333; font-size: 12px;">0%</div>
+                    </div>
+                </div>
+                <div id="manhattanStats" style="text-align: center; margin: 10px 0; color: #666;">
+                    Ready to plot Manhattan plot from cleaned GWAS data
+                </div>
+                <div id="manhattanPlotDiv" style="width: 100%; height: 600px; border: 1px solid #ddd; border-radius: 4px; display: flex; align-items: center; justify-content: center; background-color: #f8f9fa; color: #666;"></div>
+            </div>
+            <div id="logOutput" style="display: none;"></div>
+        </div>
+    </div>
+
+    <div class="file-info">
+        <h4>How to use:</h4>
+        <p>1. Upload your files (any format)</p>
+        <p>2. Enter PLINK2 command parameters (without the 'plink2' prefix)</p>
+        <p>3. Click "Run PLINK2" to execute</p>
+        <p>4. View results in the output tabs below</p>
+        <p><strong>Example commands:</strong></p>
+        <ul>
+            <li><code>--freq --out frequency_results</code> - Calculate allele frequencies</li>
+            <li><code>--hardy --out hwe_results</code> - Hardy-Weinberg equilibrium test</li>
+            <li><code>--missing --out missing_results</code> - Missing data report</li>
+            <li><code>--pca --out pca_results</code> - Principal component analysis</li>
+        </ul>
+    </div>
+</div>

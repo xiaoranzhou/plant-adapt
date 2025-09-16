@@ -4,717 +4,342 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Plant Adaptation Hub</title>
-    <link href="/css/bootstrap.min.css" rel="stylesheet" >
-    <style>
-        body {
-            font-size: .875rem;
-            }
-
-           
-            .output-tabs {
-            display: flex;
-            border-bottom: 1px solid #ddd;
-            margin-bottom: 15px;
-        }
-        .tab {
-            padding: 10px 20px;
-            background: #f8f9fa;
-            border: 1px solid #ddd;
-            border-bottom: none;
-            cursor: pointer;
-            margin-right: 5px;
-            border-radius: 5px 5px 0 0;
-        }
-        .tab.active {
-            background: white;
-            border-bottom: 1px solid white;
-        }
-        .output-content {
-            background: #f8f9fa;
-            padding: 15px;
-            border-radius: 5px;
-            min-height: 200px;
-            font-family: monospace;
-            white-space: pre-wrap;
-            overflow-x: auto;
-        }
-            /*
-            * Sidebar
-            */
-
-            .sidebar {
-            position: fixed;
-            top: 0;
-            /* rtl:raw:
-            right: 0;
-            */
-            bottom: 0;
-            /* rtl:remove */
-            left: 0;
-            z-index: 100; /* Behind the navbar */
-            padding: 48px 0 0; /* Height of navbar */
-            box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
-            }
-
-            @media (max-width: 767.98px) {
-            .sidebar {
-                top: 5rem;
-            }
-            }
-
-            .sidebar-sticky {
-            height: calc(100vh - 48px);
-            overflow-x: hidden;
-            overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
-            }
-
-            .sidebar .nav-link {
-            font-weight: 500;
-            color: #333;
-            }
-
-            .sidebar .nav-link {
-            margin-right: 4px;
-            color: #727272;
-            }
-
-            .sidebar .nav-link.active {
-            color: #2470dc;
-            }
-
-            .sidebar .nav-link:hover ,
-            .sidebar .nav-link.active {
-            color: inherit;
-            }
-
-            .sidebar-heading {
-            font-size: .75rem;
-            }
-
-            /*
-            * Navbar
-            */
-
-            .navbar-brand {
-            padding-top: .75rem;
-            padding-bottom: .75rem;
-            background-color: rgba(0, 0, 0, .25);
-            box-shadow: inset -1px 0 0 rgba(0, 0, 0, .25);
-            }
-
-            .navbar .navbar-toggler {
-            top: .25rem;
-            right: 1rem;
-            }
-
-            .navbar .form-control {
-            padding: .75rem 1rem;
-            }
-
-            .form-control-dark {
-            color: #fff;
-            background-color: rgba(255, 255, 255, .1);
-            border-color: rgba(255, 255, 255, .1);
-            }
-
-            .form-control-dark:focus {
-            border-color: transparent;
-            box-shadow: 0 0 0 3px rgba(255, 255, 255, .25);
-            }
-        h1 {
-            color: #333;
-            text-align: center;
-            margin-bottom: 30px;
-        }
-        .file-upload-section {
-            margin-bottom: 30px;
-            padding: 20px;
-            border: 2px dashed #ddd;
-            border-radius: 8px;
-            background-color: #fafafa;
-        }
-        .file-group {
-            margin-bottom: 15px;
-        }
-        .file-group label {
-            display: block;
-            margin-bottom: 5px;
-            font-weight: bold;
-            color: #555;
-        }
-        .file-group input[type="file"] {
-            width: 100%;
-            padding: 8px;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-            background: white;
-        }
-        .file-status {
-            margin-top: 5px;
-            padding: 5px 10px;
-            border-radius: 4px;
-            font-size: 12px;
-        }
-        .file-status.success {
-            background-color: #d4edda;
-            color: #155724;
-        }
-        .file-status.error {
-            background-color: #f8d7da;
-            color: #721c24;
-        }
-        .controls {
-            display: flex;
-            gap: 10px;
-            margin: 20px 0;
-            align-items: center;
-        }
-        
-        
-        .command-input {
-            flex: 1;
-            padding: 10px;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-            font-family: monospace;
-        }
-        .output-section {
-            margin-top: 30px;
-        }
-        .output-tabs {
-            display: flex;
-            border-bottom: 1px solid #ddd;
-            margin-bottom: 15px;
-        }
-       
-        .output-content {
-            background: #f8f9fa;
-            padding: 15px;
-            border-radius: 5px;
-            min-height: 200px;
-            font-family: monospace;
-            white-space: pre-wrap;
-            overflow-x: auto;
-        }
-        .loading {
-            display: none;
-            text-align: center;
-            padding: 20px;
-        }
-        .spinner {
-            border: 4px solid #f3f3f3;
-            border-top: 4px solid #3498db;
-            border-radius: 50%;
-            width: 40px;
-            height: 40px;
-            animation: spin 2s linear infinite;
-            margin: 0 auto;
-        }
-        @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
-        .file-info {
-            background: #e7f3ff;
-            padding: 10px;
-            border-radius: 4px;
-            margin-top: 20px;
-            border-left: 4px solid #007bff;
-        }
-        .error-message {
-            background: #f8d7da;
-            color: #721c24;
-            padding: 15px;
-            border-radius: 4px;
-            margin: 10px 0;
-            border-left: 4px solid #dc3545;
-        }
-        .nav-scroller {
-        position: relative;
-        z-index: 2;
-        height: 2.75rem;
-        overflow-y: hidden;
-        }
-
-      .nav-scroller .nav {
-        display: flex;
-        flex-wrap: nowrap;
-        padding-bottom: 1rem;
-        margin-top: -1px;
-        overflow-x: auto;
-        text-align: center;
-        white-space: nowrap;
-        -webkit-overflow-scrolling: touch;
-        }
-    </style>
+    
+    <!-- Bootstrap CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- Custom CSS -->
+    <link href="assets/css/main.css" rel="stylesheet">
+    <link href="assets/css/gwas.css" rel="stylesheet">
 </head>
 <body>
-
+    <!-- Header -->
     <header class="navbar navbar-dark sticky-top bg-success flex-md-nowrap p-0 shadow">
-  <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3 fs-6" href="https://dataplan.top">Plant Adaptation Hub</a>
-  <button class="navbar-toggler position-absolute d-md-none collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#sidebarMenu" aria-controls="sidebarMenu" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <input class="form-control form-control-dark w-100 rounded-0 border-0" type="text" placeholder="Search" aria-label="Search">
-  <div class="navbar-nav">
-    <div class="nav-item text-nowrap">
-      <a class="nav-link px-3" href="https://dataplan.top">Sign out</a>
-    </div>
-  </div>
-</header>
-<div class="container-fluid">
-  <div class="row">
-    <nav id="sidebarMenu" class="col-md-3 col-lg-2 d-md-block bg-light sidebar collapse">
-      <div class="position-sticky pt-3 sidebar-sticky">
-        <ul class="nav flex-column">
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="https://dataplan.top">
-
-              Home
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://dataplan.top">
- 
-              Data Dashboard
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://dataplan.top">
-
-              Genomic Analysis
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://dataplan.top">
-
-              Genome Obeservation 
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://dataplan.top">
-
-              Reports
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://dataplan.top">
-
-              Integrations
-            </a>
-          </li>
-        </ul>
-
-        <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted text-uppercase">
-          <span>Saved reports</span>
-          <a class="link-secondary" href="https://dataplan.top" aria-label="Add a new report">
-
-          </a>
-        </h6>
-        <ul class="nav flex-column mb-2">
-          <li class="nav-item">
-            <a class="nav-link" href="https://dataplan.top">
-
-              Current month
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://dataplan.top">
-
-              Last quarter
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://dataplan.top">
-
-              Social engagement
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://dataplan.top">
-
-              Year-end sale
-            </a>
-          </li>
-        </ul>
-      </div>
-    </nav>
-        <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
-    <div class="container">
-        <h1>PLINK2 WebAssembly Interface</h1>
-        
-        <div class="file-upload-section">
-            <h3>Upload Files</h3>
-            <div class="file-group">
-                <label for="fileInput">Select Files:</label>
-                <input type="file" id="fileInput" multiple>
-                <div id="fileStatus" class="file-status"></div>
+        <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3 fs-6" href="https://dataplan.top">Plant Adaptation Hub</a>
+        <button class="navbar-toggler position-absolute d-md-none collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#sidebarMenu" aria-controls="sidebarMenu" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <input class="form-control form-control-dark w-100 rounded-0 border-0" type="text" placeholder="Search" aria-label="Search">
+        <div class="navbar-nav">
+            <div class="nav-item text-nowrap">
+                <a class="nav-link px-3" href="https://dataplan.top">Sign out</a>
             </div>
         </div>
+    </header>
 
-        <div class="controls">
-            <input type="text" class="command-input" id="commandInput"
-                   placeholder="Enter PLINK2 command (e.g.,--bfile plink --glm allow-no-covars)"
-                   value="--bfile plink --glm allow-no-covars">
-            <label style="display: flex; align-items: center; gap: 5px;">
-                <input type="checkbox" id="renameFamCheckbox" checked>
-                Rename .fam
-            </label>
-            <button class="btn btn-primary" id="runButton" onclick="runPlink()">Run PLINK2</button>
-            <button class="btn btn-primary" id="clearButton" onclick="clearOutput()">Clear Output</button>
-        </div>
+    <div class="container-fluid">
+        <div class="row">
+            <!-- Sidebar -->
+            <nav id="sidebarMenu" class="col-md-3 col-lg-2 d-md-block bg-light sidebar collapse">
+                <div class="position-sticky pt-3 sidebar-sticky">
+                    <ul class="nav flex-column nav-pills" id="sidebar-nav" role="tablist">
+                        <li class="nav-item">
+                            <a class="nav-link active" id="home-tab" data-bs-toggle="pill" href="#home" role="tab" aria-controls="home" aria-selected="true">
+                                Home
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="dashboard-tab" data-bs-toggle="pill" href="#dashboard" role="tab" aria-controls="dashboard" aria-selected="false">
+                                Data Dashboard
+                            </a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="genomic-analysis-dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Genomic Analysis
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="genomic-analysis-dropdown">
+                                <li><a class="dropdown-item" id="gwas-tab" href="#gwas" role="tab" aria-controls="gwas" aria-selected="false">GWAS</a></li>
+                                <li><a class="dropdown-item" id="analysis-general-tab" href="#analysis-general" role="tab" aria-controls="analysis-general" aria-selected="false">General Analysis</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="observation-tab" data-bs-toggle="pill" href="#observation" role="tab" aria-controls="observation" aria-selected="false">
+                                Genome Observation
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="browse-tab" data-bs-toggle="pill" href="#browse" role="tab" aria-controls="browse" aria-selected="false">
+                                Genome Browse
+                            </a>
+                        </li>
+                    </ul>
 
-        <div class="loading" id="loading">
-            <div class="spinner"></div>
-            <p>Processing with PLINK2...</p>
-        </div>
-
-        <div class="output-section">
-            <div class="output-tabs">
-                <div class="tab active" onclick="switchTab('console')">Console Output</div>
-                <div class="tab" onclick="switchTab('files')">Output Files</div>
-                <div class="tab" onclick="switchTab('gwas')">GWAS Data Clean</div>
-                <div class="tab" onclick="switchTab('manhattan')">Manhattan Plot</div>
-                <div class="tab" onclick="switchTab('log')">Log</div>
-            </div>
-            
-            <div class="output-content" id="outputContent">
-                <div id="consoleOutput">Ready to process PLINK2 files...</div>
-                <div id="filesOutput" style="display: none;"></div>
-                <div id="gwasOutput" style="display: none;">
-                    <div style="margin-bottom: 15px;">
-                        <button class="btn btn-primary" id="runGwasButton" onclick="runGwasAnalysis()" style="margin-right: 10px;">Run GWAS Data Clean</button>
-                        <span id="gwasStatus"></span>
-                    </div>
-                    <div id="gwasResults"></div>
+                    <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted text-uppercase">
+                        <span>Saved reports</span>
+                        <a class="link-secondary" href="https://dataplan.top" aria-label="Add a new report"></a>
+                    </h6>
+                    <ul class="nav flex-column mb-2">
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://dataplan.top">Current month</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://dataplan.top">Last quarter</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://dataplan.top">Social engagement</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://dataplan.top">Year-end sale</a>
+                        </li>
+                    </ul>
                 </div>
-                <div id="manhattanOutput" style="display: none;">
-                    <div class="manhattan-controls" style="margin-bottom: 15px; text-align: center;">
-                        <button class="btn btn-primary" id="plotFromCleanedButton" onclick="plotFromCleanedData()" style="margin-right: 10px; background-color: #4CAF50;">Plot from Cleaned Data</button>
-                        <button class="btn btn-primary" onclick="toggleSignificanceLinePlot()" style="margin-right: 10px;">Toggle Significance Line</button>
-                        <button class="btn btn-primary" onclick="exportPlotImage()" style="margin-right: 10px; background-color: #2196F3;">Export PNG</button>
-                        <button class="btn btn-primary" onclick="clearManhattanPlot()">Clear</button>
-                    </div>
-                    <div class="progress" id="manhattanProgressSection" style="display: none; text-align: center; margin-bottom: 15px;">
-                        <div id="manhattanProgressMessage">Processing data...</div>
-                        <div style="width: 100%; height: 20px; background: #f0f0f0; border-radius: 10px; overflow: hidden; margin: 10px 0; position: relative;">
-                            <div id="manhattanProgressFill" style="height: 100%; background: linear-gradient(90deg, #4CAF50, #45a049); transition: width 0.3s ease; width: 0%;"></div>
-                            <div id="manhattanProgressText" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-weight: bold; color: #333; font-size: 12px;">0%</div>
+            </nav>
+
+            <!-- Main Content -->
+            <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+                <div class="tab-content" id="main-tab-content">
+                    <!-- Home Tab -->
+                    <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                        <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+                            <h1 class="h2">Plant Adaptation Hub - Home</h1>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Welcome to Plant Adaptation Hub</h5>
+                                        <p class="card-text">Your comprehensive platform for plant genomic analysis and adaptation studies.</p>
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                <div class="card mb-3">
+                                                    <div class="card-body">
+                                                        <h6 class="card-title">Data Dashboard</h6>
+                                                        <p class="card-text">View and manage your genomic datasets.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                                <div class="card mb-3">
+                                                    <div class="card-body">
+                                                        <h6 class="card-title">Genomic Analysis</h6>
+                                                        <p class="card-text">Perform GWAS and other genomic analyses.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                                <div class="card mb-3">
+                                                    <div class="card-body">
+                                                        <h6 class="card-title">Genome Browse</h6>
+                                                        <p class="card-text">Browse and visualize genomic data.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                    <div id="manhattanStats" style="text-align: center; margin: 10px 0; color: #666;">
-                        Ready to plot Manhattan plot from cleaned GWAS data
-                    </div>
-                    <div id="manhattanPlotDiv" style="width: 100%; height: 600px; border: 1px solid #ddd; border-radius: 4px; display: flex; align-items: center; justify-content: center; background-color: #f8f9fa; color: #666;"></div>
-                </div>
-                <div id="logOutput" style="display: none;"></div>
-            </div>
-        </div>
 
-        <div class="file-info">
-            <h4>How to use:</h4>
-            <p>1. Upload your files (any format)</p>
-            <p>2. Enter PLINK2 command parameters (without the 'plink2' prefix)</p>
-            <p>3. Click "Run PLINK2" to execute</p>
-            <p>4. View results in the output tabs below</p>
-            <p><strong>Example commands:</strong></p>
-            <ul>
-                <li><code>--freq --out frequency_results</code> - Calculate allele frequencies</li>
-                <li><code>--hardy --out hwe_results</code> - Hardy-Weinberg equilibrium test</li>
-                <li><code>--missing --out missing_results</code> - Missing data report</li>
-                <li><code>--pca --out pca_results</code> - Principal component analysis</li>
-            </ul>
+                    <!-- Data Dashboard Tab -->
+                    <div class="tab-pane fade" id="dashboard" role="tabpanel" aria-labelledby="dashboard-tab">
+                        <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+                            <h1 class="h2">Data Dashboard</h1>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Dataset Overview</h5>
+                                        <p class="card-text">Manage and visualize your genomic datasets here.</p>
+                                        <div class="alert alert-info">
+                                            <strong>Info:</strong> Data dashboard features will be implemented here.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- GWAS Tab -->
+                    <div class="tab-pane fade" id="gwas" role="tabpanel" aria-labelledby="gwas-tab">
+                        <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+                            <h1 class="h2">PLINK2 WebAssembly Interface</h1>
+                        </div>
+                        <div class="container-fluid">
+                            <div class="file-upload-section">
+                                <h3>Upload Files</h3>
+                                <div class="file-group">
+                                    <label for="fileInput">Select Files:</label>
+                                    <input type="file" id="fileInput" multiple>
+                                    <div id="fileStatus" class="file-status"></div>
+                                </div>
+                            </div>
+
+                            <div class="controls">
+                                <input type="text" class="command-input" id="commandInput"
+                                       placeholder="Enter PLINK2 command (e.g.,--bfile plink --glm allow-no-covars)"
+                                       value="--bfile plink --glm allow-no-covars">
+                                <label style="display: flex; align-items: center; gap: 5px;">
+                                    <input type="checkbox" id="renameFamCheckbox" checked>
+                                    Rename .fam
+                                </label>
+                                <button class="btn btn-primary" id="runButton" onclick="runPlink()">Run PLINK2</button>
+                                <button class="btn btn-primary" id="clearButton" onclick="clearOutput()">Clear Output</button>
+                            </div>
+
+                            <div class="loading" id="loading">
+                                <div class="spinner"></div>
+                                <p>Processing with PLINK2...</p>
+                            </div>
+
+                            <div class="output-section">
+                                <div class="output-tabs">
+                                    <div class="tab active" onclick="switchTab('console')">Console Output</div>
+                                    <div class="tab" onclick="switchTab('files')">Output Files</div>
+                                    <div class="tab" onclick="switchTab('gwas')">GWAS Data Clean</div>
+                                    <div class="tab" onclick="switchTab('manhattan')">Manhattan Plot</div>
+                                    <div class="tab" onclick="switchTab('log')">Log</div>
+                                </div>
+                                
+                                <div class="output-content" id="outputContent">
+                                    <div id="consoleOutput">Ready to process PLINK2 files...</div>
+                                    <div id="filesOutput" style="display: none;"></div>
+                                    <div id="gwasOutput" style="display: none;">
+                                        <div style="margin-bottom: 15px;">
+                                            <button class="btn btn-primary" id="runGwasButton" onclick="runGwasAnalysis()" style="margin-right: 10px;">Run GWAS Data Clean</button>
+                                            <span id="gwasStatus"></span>
+                                        </div>
+                                        <div id="gwasResults"></div>
+                                    </div>
+                                    <div id="manhattanOutput" style="display: none;">
+                                        <div class="manhattan-controls" style="margin-bottom: 15px; text-align: center;">
+                                            <button class="btn btn-primary" id="plotFromCleanedButton" onclick="plotFromCleanedData()" style="margin-right: 10px; background-color: #4CAF50;">Plot from Cleaned Data</button>
+                                            <button class="btn btn-primary" onclick="toggleSignificanceLinePlot()" style="margin-right: 10px;">Toggle Significance Line</button>
+                                            <button class="btn btn-primary" onclick="exportPlotImage()" style="margin-right: 10px; background-color: #2196F3;">Export PNG</button>
+                                            <button class="btn btn-primary" onclick="exportPlotSVG()" style="margin-right: 10px; background-color: #FF9800;">Export SVG</button>
+                                            <button class="btn btn-primary" onclick="clearManhattanPlot()">Clear</button>
+                                        </div>
+                                        <div class="progress" id="manhattanProgressSection" style="display: none; text-align: center; margin-bottom: 15px;">
+                                            <div id="manhattanProgressMessage">Processing data...</div>
+                                            <div style="width: 100%; height: 20px; background: #f0f0f0; border-radius: 10px; overflow: hidden; margin: 10px 0; position: relative;">
+                                                <div id="manhattanProgressFill" style="height: 100%; background: linear-gradient(90deg, #4CAF50, #45a049); transition: width 0.3s ease; width: 0%;"></div>
+                                                <div id="manhattanProgressText" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-weight: bold; color: #333; font-size: 12px;">0%</div>
+                                            </div>
+                                        </div>
+                                        <div id="manhattanStats" style="text-align: center; margin: 10px 0; color: #666;">
+                                            Ready to plot Manhattan plot from cleaned GWAS data
+                                        </div>
+                                        <div id="manhattanPlotDiv" style="width: 100%; height: 600px; border: 1px solid #ddd; border-radius: 4px; display: flex; align-items: center; justify-content: center; background-color: #f8f9fa; color: #666;"></div>
+                                    </div>
+                                    <div id="logOutput" style="display: none;"></div>
+                                </div>
+                            </div>
+
+                            <div class="file-info">
+                                <h4>How to use:</h4>
+                                <p>1. Upload your files (any format)</p>
+                                <p>2. Enter PLINK2 command parameters (without the 'plink2' prefix)</p>
+                                <p>3. Click "Run PLINK2" to execute</p>
+                                <p>4. View results in the output tabs below</p>
+                                <p><strong>Example commands:</strong></p>
+                                <ul>
+                                    <li><code>--freq --out frequency_results</code> - Calculate allele frequencies</li>
+                                    <li><code>--hardy --out hwe_results</code> - Hardy-Weinberg equilibrium test</li>
+                                    <li><code>--missing --out missing_results</code> - Missing data report</li>
+                                    <li><code>--pca --out pca_results</code> - Principal component analysis</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- General Analysis Tab -->
+                    <div class="tab-pane fade" id="analysis-general" role="tabpanel" aria-labelledby="analysis-general-tab">
+                        <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+                            <h1 class="h2">General Genomic Analysis</h1>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Analysis Tools</h5>
+                                        <p class="card-text">General genomic analysis tools and workflows.</p>
+                                        <div class="alert alert-info">
+                                            <strong>Info:</strong> General analysis features will be implemented here.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Genome Observation Tab -->
+                    <div class="tab-pane fade" id="observation" role="tabpanel" aria-labelledby="observation-tab">
+                        <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+                            <h1 class="h2">Genome Observation</h1>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Genome Visualization</h5>
+                                        <p class="card-text">Observe and visualize genomic structures and variations.</p>
+                                        <div class="alert alert-info">
+                                            <strong>Info:</strong> Genome observation features will be implemented here.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Genome Browse Tab -->
+                    <div class="tab-pane fade" id="browse" role="tabpanel" aria-labelledby="browse-tab">
+                        <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+                            <h1 class="h2">Genome Browse</h1>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Genome Browser</h5>
+                                        <p class="card-text">Browse genomic regions and annotations.</p>
+                                        <div class="alert alert-info">
+                                            <strong>Info:</strong> Genome browser features will be implemented here.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </main>
         </div>
     </div>
-</main>
+
+    <!-- External Libraries -->
+    <script src="public/plotly.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    
+    <!-- Application Scripts -->
+    <script src="public/router.js"></script>
+    <script src="public/gwas.js"></script>
+    <script src="public/app.js"></script>
+
+    <!-- Helper functions -->
     <script>
-        let module;
-        let currentTab = 'console';
-        let uploadedFiles = {};
-
-        // Configure Module before loading plink.js
-        var Module = {
-            onRuntimeInitialized: function() {
-                module = Module;
-                console.log('PLINK2 WASM module loaded successfully!');
-                console.log('Available exports:', Object.keys(Module));
-                
-                // Write any previously uploaded files to WASM filesystem
-                //writeStoredFilesToWASM();
-                
-                document.getElementById('consoleOutput').textContent = 'PLINK2 WASM module loaded successfully! Upload files to begin.';
-            },
-            print: function(text) {
-                console.log('PLINK2 stdout:', text);
-                appendToOutput('console', text);
-            },
-            printErr: function(text) {
-                console.error('PLINK2 stderr:', text);
-                appendToOutput('console', 'ERROR: ' + text);
-            },
-            noExitRuntime: true,
-            locateFile: function(path, scriptDirectory) {
-                return scriptDirectory + path;
-            }
-        };
-    </script>
-    <script src="plink2.js"></script>
-    <script>
-
-        // File upload handler
-        document.getElementById('fileInput').addEventListener('change', function(e) {
-            handleMultipleFileUpload(e.target.files);
-        });
-
-        async function handleMultipleFileUpload(files) {
-            if (!files || files.length === 0) return;
-
-            const statusDiv = document.getElementById('fileStatus');
-            statusDiv.textContent = `Loading ${files.length} file(s)...`;
-            statusDiv.className = 'file-status';
-
-            let successCount = 0;
-            let errorCount = 0;
-            let statusMessages = [];
-
-            for (let i = 0; i < files.length; i++) {
-                const file = files[i];
-                try {
-                    const arrayBuffer = await file.arrayBuffer();
-                    const uint8Array = new Uint8Array(arrayBuffer);
-
-                    // Check if rename .fam checkbox is checked and file has .fam extension
-                    const renameFamCheckbox = document.getElementById('renameFamCheckbox');
-                    let finalFileName = file.name;
-                    if (renameFamCheckbox.checked && file.name.toLowerCase().endsWith('.fam')) {
-                        finalFileName = 'plink.fam';
-                    }
-
-                    uploadedFiles[finalFileName] = {
-                        name: finalFileName,
-                        data: uint8Array,
-                        size: uint8Array.length
-                    };
-
-                    // Write file to WASM filesystem immediately if module is ready
-                    if (module && module.FS) {
-                        module.FS.writeFile(finalFileName, uint8Array);
-                        console.log(`Written ${finalFileName} to WASM filesystem (${formatFileSize(uint8Array.length)})`);
-
-                        if (finalFileName !== file.name) {
-                            statusMessages.push(`✓ <strong>${file.name}</strong> <span style="color: #007bff;">→ ${finalFileName}</span> (${formatFileSize(uint8Array.length)}) <em style="color: #28a745;">[RENAMED]</em>`);
-                            appendToOutput('console', `Uploaded & written: ${file.name} renamed to ${finalFileName} (${formatFileSize(uint8Array.length)}) [RENAMED]`);
-                        } else {
-                            statusMessages.push(`✓ <strong>${file.name}</strong> (${formatFileSize(uint8Array.length)})`);
-                            appendToOutput('console', `Uploaded & written: ${file.name} (${formatFileSize(uint8Array.length)})`);
-                        }
-                        successCount++;
-                    } else {
-                        if (finalFileName !== file.name) {
-                            statusMessages.push(`✓ <strong>${file.name}</strong> <span style="color: #007bff;">→ ${finalFileName}</span> (${formatFileSize(uint8Array.length)}) <em style="color: #28a745;">[RENAMED]</em> - In memory`);
-                            appendToOutput('console', `Uploaded: ${file.name} renamed to ${finalFileName} (${formatFileSize(uint8Array.length)}) [RENAMED] - Will write to FS when available`);
-                        } else {
-                            statusMessages.push(`✓ <strong>${file.name}</strong> (${formatFileSize(uint8Array.length)}) - In memory`);
-                            appendToOutput('console', `Uploaded: ${file.name} (${formatFileSize(uint8Array.length)}) - Will write to FS when available`);
-                        }
-                        successCount++;
-                    }
-                } catch (error) {
-                    statusMessages.push(`✗ ${file.name}: ${error.message}`);
-                    appendToOutput('console', `Error uploading ${file.name}: ${error.message}`);
-                    errorCount++;
-                }
-            }
-
-            // Update status display
-            if (errorCount === 0) {
-                statusDiv.className = 'file-status success';
-            } else if (successCount === 0) {
-                statusDiv.className = 'file-status error';
-            } else {
-                statusDiv.className = 'file-status';
-            }
-            
-            statusDiv.innerHTML = statusMessages.join('<br>');
-        }
-
-        function formatFileSize(bytes) {
-            if (bytes < 1024) return bytes + ' B';
-            if (bytes < 1024 * 1024) return (bytes / 1024).toFixed(1) + ' KB';
-            return (bytes / (1024 * 1024)).toFixed(1) + ' MB';
-        }
-
-        function runPlink() {
-            if (!module) {
-                showError('WASM module not loaded yet. Please wait.');
-                return;
-            }
-
-            if (Object.keys(uploadedFiles).length === 0) {
-                showError('Please upload at least one file.');
-                return;
-            }
-
-            const command = document.getElementById('commandInput').value.trim();
-            if (!command) {
-                showError('Please enter a PLINK2 command.');
-                return;
-            }
-
-            document.getElementById('loading').style.display = 'block';
-            document.getElementById('runButton').disabled = true;
-
-            appendToOutput('console', `\n=== Running PLINK2 ===`);
-            appendToOutput('console', `Command: ${command}`);
-            appendToOutput('console', '');
-
-            setTimeout(() => {
-                try {
-                    // Prepare arguments
-                    const args = [  ...command.split(' ').filter(arg => arg.length > 0)];
-                    
-                    appendToOutput('console', `Arguments: ${args.join(' ')}`);
-                    
-                    // Set up arguments for the WASM module
-                    module.arguments = args;
-                    
-                    // Run PLINK2 by calling the main function
-                    let result;
-                    if (typeof module.callMain === 'function') {
-                        result = module.callMain(args);
-                    } else if (typeof module._main === 'function') {
-                        // Allocate memory for arguments
-                        const argvPtr = module._malloc(args.length * 4);
-                        for (let i = 0; i < args.length; i++) {
-                            const argPtr = module.allocateUTF8(args[i]);
-                            module.setValue(argvPtr + i * 4, argPtr, 'i32');
-                        }
-                        result = module._main(args.length, argvPtr);
-                    } else {
-                        throw new Error('Cannot find main function in WASM module');
-                    }
-                    
-                    appendToOutput('console', `\nPLINK2 finished with exit code: ${result}`);
-                    
-                    // List output files
-                    listOutputFiles();
-                    
-                } catch (error) {
-                    console.error('PLINK2 execution error:', error);
-                    appendToOutput('console', `Error running PLINK2: ${error.message}`);
-                    showError(`Error: ${error.message}`);
-                } finally {
-                    document.getElementById('loading').style.display = 'none';
-                    document.getElementById('runButton').disabled = false;
-                }
-            }, 100); // Small delay to ensure UI updates
-        }
-
-        function listOutputFiles() {
+        // File download helper function
+        function downloadFileContent(filename, base64Content) {
             try {
-                const FS = module.FS || module['FS'];
-                if (!FS) {
-                    document.getElementById('filesOutput').textContent = 'File system not available in WASM module. Check console for output.';
-                    return;
-                }
-
-                const files = FS.readdir('/');
-                const outputFiles = files.filter(f => 
-                    f !== '.' && f !== '..' && 
-                    !f.startsWith('input.') && 
-                    f !== 'dev' && f !== 'tmp' && f !== 'proc'
-                );
-
-                if (outputFiles.length > 0) {
-                    let filesContent = 'Output files generated:\n\n';
-                    outputFiles.forEach(fileName => {
-                        try {
-                            const stat = FS.stat(fileName);
-                            if (FS.isFile(stat.mode)) {
-                                const size = formatFileSize(stat.size);
-                                filesContent += `📄 ${fileName} (${size})\n`;
-                                
-                                // Try to read and preview text files
-                                if (fileName.endsWith('.log') || fileName.endsWith('.txt') || 
-                                    fileName.includes('freq') || fileName.includes('missing') || 
-                                    fileName.includes('hardy') || fileName.includes('pca')) {
-                                    try {
-                                        const content = FS.readFile(fileName, { encoding: 'utf8' });
-                                        const preview = content.length > 1000 ? 
-                                            content.substring(0, 1000) + '\n... (truncated)' : content;
-                                        filesContent += `\nContent preview:\n${preview}\n\n`;
-                                        
-                                        // Create download link
-                                        const blob = new Blob([content], { type: 'text/plain' });
-                                        const url = URL.createObjectURL(blob);
-                                        filesContent += `<a href="${url}" download="${fileName}">Download ${fileName}</a>\n\n`;
-                                    } catch (e) {
-                                        filesContent += '(Binary file - cannot preview)\n\n';
-                                    }
-                                }
-                            }
-                        } catch (e) {
-                            filesContent += `❌ ${fileName} (error reading file)\n`;
-                        }
-                    });
-                    
-                    document.getElementById('filesOutput').innerHTML = filesContent;
-                    switchTab('files');
-                } else {
-                    document.getElementById('filesOutput').textContent = 'No output files generated.';
-                }
+                const content = atob(base64Content);
+                const blob = new Blob([content], { type: 'text/plain' });
+                const url = URL.createObjectURL(blob);
+                
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = filename;
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+                
+                setTimeout(() => URL.revokeObjectURL(url), 1000);
             } catch (error) {
-                document.getElementById('filesOutput').textContent = `Error listing files: ${error.message}\nCheck console output for PLINK2 results.`;
-                console.error('Error listing output files:', error);
+                console.error('Download error:', error);
+                alert('Error downloading file: ' + error.message);
             }
         }
 
-        function switchTab(tab) {
-            // Update tab appearance
-            document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
-            event.target.classList.add('active');
-
-            // Show/hide content
-            document.getElementById('consoleOutput').style.display = tab === 'console' ? 'block' : 'none';
-            document.getElementById('filesOutput').style.display = tab === 'files' ? 'block' : 'none';
-            document.getElementById('gwasOutput').style.display = tab === 'gwas' ? 'block' : 'none';
-            document.getElementById('manhattanOutput').style.display = tab === 'manhattan' ? 'block' : 'none';
-            document.getElementById('logOutput').style.display = tab === 'log' ? 'block' : 'none';
-
-            currentTab = tab;
-        }
-
-        function appendToOutput(tab, text) {
-            const outputDiv = document.getElementById(tab + 'Output');
-            outputDiv.textContent += text + '\n';
-            outputDiv.scrollTop = outputDiv.scrollHeight;
-        }
-
-        function clearOutput() {
-            document.getElementById('consoleOutput').textContent = 'Output cleared.\n';
-            document.getElementById('filesOutput').textContent = '';
-            document.getElementById('logOutput').textContent = '';
-        }
-
-        function showError(message) {
-            const errorDiv = document.createElement('div');
-            errorDiv.className = 'error-message';
-            errorDiv.textContent = message;
-            
-            const container = document.querySelector('.container');
-            container.insertBefore(errorDiv, container.firstChild);
-            
-            setTimeout(() => errorDiv.remove(), 5000);
-        }
-
-        // Handle Enter key in command input
-        document.getElementById('commandInput').addEventListener('keypress', function(e) {
-            if (e.key === 'Enter') {
-                runPlink();
-            }
-        });
-
-        // GWAS Analysis Functions
+        // GWAS Analysis Functions (legacy support for workers)
         let gwasWorker = null;
 
         async function runGwasAnalysis() {
@@ -723,55 +348,56 @@
             const buttonEl = document.getElementById('runGwasButton');
 
             try {
-                // Check if WASM module is loaded
-                if (!module) {
-                    throw new Error('PLINK2 WASM module not loaded yet. Please wait for module to initialize.');
+                // Check if GWAS module is available
+                if (!window.gwasModule || !window.gwasModule.isWorkerReady) {
+                    throw new Error('PLINK2 worker not ready yet. Please wait for initialization.');
                 }
 
                 buttonEl.disabled = true;
-                statusEl.textContent = 'Reading GWAS file from WASM filesystem...';
+                statusEl.textContent = 'Reading GWAS file from worker filesystem...';
                 resultsEl.innerHTML = 'Initializing...';
 
-                // Read file from WASM filesystem in main thread
+                // Request file content from worker
                 const filename = 'plink2.PHENO1.glm.linear';
                 let fileContent;
 
-                try {
-                    const stat = module.FS.stat(filename);
-                    if (!module.FS.isFile(stat.mode)) {
-                        throw new Error(`${filename} is not a file`);
-                    }
-                    console.log(`Found ${filename} in WASM filesystem (${stat.size} bytes)`);
-
-                    statusEl.textContent = 'Converting file data...';
-
-                    // Read file as Uint8Array
-                    const fileData = module.FS.readFile(filename);
-
-                    // Convert to string efficiently in chunks
-                    const chunkSize = 65536; // 64KB chunks
-                    fileContent = '';
-
-                    for (let i = 0; i < fileData.length; i += chunkSize) {
-                        const chunk = fileData.subarray(i, Math.min(i + chunkSize, fileData.length));
-                        fileContent += String.fromCharCode.apply(null, chunk);
-
-                        // Update progress for large files
-                        if (fileData.length > 1000000) { // > 1MB
-                            const progress = Math.round((i / fileData.length) * 100);
-                            statusEl.textContent = `Converting file data: ${progress}%`;
-                            await new Promise(resolve => setTimeout(resolve, 1)); // Allow UI update
+                // Set up temporary message handler for file reading
+                const originalHandler = window.gwasModule.plinkWorker.onmessage;
+                
+                window.gwasModule.plinkWorker.onmessage = function(e) {
+                    const { type, data } = e.data;
+                    
+                    if (type === 'FILE_CONTENT' && data.filename === filename) {
+                        if (data.isText) {
+                            fileContent = data.content;
+                            processGwasData();
+                        } else {
+                            throw new Error(`${filename} is not a text file`);
                         }
+                        // Restore original handler
+                        window.gwasModule.plinkWorker.onmessage = originalHandler;
+                    } else if (type === 'FILE_READ_ERROR' && data.filename === filename) {
+                        statusEl.textContent = 'Error: ' + data.error;
+                        resultsEl.innerHTML = '<div style="color: red;">Error: ' + data.error + '</div>';
+                        buttonEl.disabled = false;
+                        // Restore original handler
+                        window.gwasModule.plinkWorker.onmessage = originalHandler;
+                    } else {
+                        // Pass other messages to original handler
+                        originalHandler(e);
                     }
+                };
 
-                    console.log(`File content converted (${fileContent.length} characters)`);
+                // Request file from worker
+                window.gwasModule.plinkWorker.postMessage({
+                    type: 'READ_FILE',
+                    data: { filename }
+                });
 
-                } catch (fsError) {
-                    throw new Error(`File ${filename} not found in WASM filesystem. Please run PLINK2 analysis first to generate this file.`);
-                }
-
-                statusEl.textContent = 'Starting GWAS data processing...';
-                resultsEl.innerHTML = 'Processing...';
+                function processGwasData() {
+                    try {
+                        statusEl.textContent = 'Starting GWAS data processing...';
+                        resultsEl.innerHTML = 'Processing...';
 
                 // Create or restart worker
                 if (gwasWorker) {
@@ -816,11 +442,18 @@
                     buttonEl.disabled = false;
                 };
 
-                // Start the worker with file content
-                gwasWorker.postMessage({
-                    inputContent: fileContent,
-                    outputType: 'full' // or 'test' for smaller dataset
-                });
+                        // Start the worker with file content
+                        gwasWorker.postMessage({
+                            inputContent: fileContent,
+                            outputType: 'full' // or 'test' for smaller dataset
+                        });
+
+                    } catch (error) {
+                        statusEl.textContent = 'Error: ' + error.message;
+                        resultsEl.innerHTML = '<div style="color: red;">Error: ' + error.message + '</div>';
+                        buttonEl.disabled = false;
+                    }
+                }
 
             } catch (error) {
                 statusEl.textContent = 'Error: ' + error.message;
@@ -865,22 +498,20 @@
             });
             html += '</table>';
 
-            // Add download functionality - Create blob without pretty printing to avoid memory issues
+            // Add download functionality
             html += '<h4>Download</h4>';
             html += '<p>Click the button below to download the cleaned GWAS data:</p>';
             html += '<button class="btn btn-primary" onclick="downloadGwasData()" style="background-color: #007bff; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">📄 Download Cleaned GWAS Data (JSON)</button>';
 
-            // Statistical summary - Process in chunks to avoid call stack issues
+            // Statistical summary
             if (gwasData.data.length > 0) {
                 html += '<h4>Statistical Summary</h4>';
 
-                // Process statistics in smaller chunks to avoid call stack overflow
                 let minP = Infinity;
                 let maxP = -Infinity;
                 let significantCount = 0;
                 const chromosomeSet = new Set();
 
-                // Process data in chunks of 10,000 to avoid call stack overflow
                 const chunkSize = 10000;
                 for (let i = 0; i < gwasData.data.length; i += chunkSize) {
                     const chunk = gwasData.data.slice(i, i + chunkSize);
@@ -906,21 +537,17 @@
             resultsEl.innerHTML = html;
         }
 
-        // Separate function to handle download to avoid memory issues
         function downloadGwasData() {
             try {
-                // Get the data from the last analysis
                 if (!window.lastGwasData) {
                     alert('No GWAS data available for download');
                     return;
                 }
 
-                // Create JSON string without pretty printing
                 const jsonData = JSON.stringify(window.lastGwasData);
                 const blob = new Blob([jsonData], { type: 'application/json' });
                 const url = URL.createObjectURL(blob);
 
-                // Create temporary download link
                 const a = document.createElement('a');
                 a.href = url;
                 a.download = 'gwas_cleaned_data.json';
@@ -928,7 +555,6 @@
                 a.click();
                 document.body.removeChild(a);
 
-                // Clean up the object URL
                 setTimeout(() => URL.revokeObjectURL(url), 1000);
 
             } catch (error) {
@@ -937,14 +563,13 @@
             }
         }
 
-        // Manhattan Plot Functions
+        // Manhattan Plot Functions (additional legacy functions)
         let manhattanWorker = null;
         let manhattanCurrentData = null;
         let showSignificanceLine = true;
         let manhattanProcessingStartTime = 0;
         const significanceThreshold = -Math.log10(5e-8);
 
-        // Define colors for each chromosome
         const chrColors = [
             '#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd',
             '#8c564b', '#e377c2', '#7f7f7f', '#bcbd22', '#17becf',
@@ -953,405 +578,31 @@
             '#393b79', '#637939'
         ];
 
-        function createManhattanWorker() {
-            const workerScript = `
-                let processedData = null;
-
-                self.onmessage = function(e) {
-                    const { type, data } = e.data;
-
-                    switch(type) {
-                        case 'PROCESS_DATA':
-                            processGWASData(data);
-                            break;
-                        case 'CREATE_TRACES':
-                            createPlotTraces(data);
-                            break;
-                    }
-                };
-
-                function processGWASData(data) {
-                    self.postMessage({ type: 'STATUS', message: 'Starting Manhattan plot processing...' });
-
-                    const processed = [];
-                    let currentOffset = 0;
-                    const chromosomes = [...new Set(data.map(d => d[0]))].sort((a, b) => a - b);
-                    const totalChromosomes = chromosomes.length;
-
-                    for (let chrIndex = 0; chrIndex < totalChromosomes; chrIndex++) {
-                        const chr = chromosomes[chrIndex];
-
-                        self.postMessage({
-                            type: 'PROGRESS',
-                            progress: (chrIndex / totalChromosomes) * 60,
-                            message: \`Processing chromosome \${chr} (\${chrIndex + 1}/\${totalChromosomes})...\`
-                        });
-
-                        const chrData = data.filter(d => d[0] === chr)
-                            .sort((a, b) => a[1] - b[1]);
-
-                        if (chrData.length === 0) continue;
-
-                        // Find max position efficiently
-                        let maxPos = 0;
-                        for (let i = 0; i < chrData.length; i++) {
-                            if (chrData[i][1] > maxPos) {
-                                maxPos = chrData[i][1];
-                            }
-                        }
-
-                        for (let i = 0; i < chrData.length; i++) {
-                            const d = chrData[i];
-                            processed.push({
-                                chr: d[0],
-                                originalPos: d[1],
-                                position: currentOffset + d[1],
-                                pValue: d[2],
-                                logP: -Math.log10(Math.max(d[2], 1e-300))
-                            });
-                        }
-
-                        currentOffset += maxPos;
-                    }
-
-                    processedData = processed;
-                    self.postMessage({
-                        type: 'DATA_PROCESSED',
-                        data: processed,
-                        dataCount: processed.length,
-                        progress: 60,
-                        message: \`Data processing complete. Processed \${processed.length.toLocaleString()} points.\`
-                    });
-                }
-
-                function createPlotTraces(config) {
-                    if (!processedData) {
-                        self.postMessage({ type: 'ERROR', message: 'No processed data available' });
-                        return;
-                    }
-
-                    self.postMessage({ type: 'STATUS', message: 'Creating plot traces...' });
-
-                    const traces = [];
-                    const chromosomes = [...new Set(processedData.map(d => d.chr))].sort((a, b) => a - b);
-                    const chrColors = config.chrColors;
-                    const totalChromosomes = chromosomes.length;
-
-                    for (let index = 0; index < totalChromosomes; index++) {
-                        const chr = chromosomes[index];
-
-                        self.postMessage({
-                            type: 'PROGRESS',
-                            progress: 60 + (index / totalChromosomes) * 30,
-                            message: \`Creating trace for chromosome \${chr} (\${index + 1}/\${totalChromosomes})...\`
-                        });
-
-                        const chrData = processedData.filter(d => d.chr === chr);
-                        if (chrData.length === 0) continue;
-
-                        const trace = {
-                            x: chrData.map(d => d.position),
-                            y: chrData.map(d => d.logP),
-                            mode: 'markers',
-                            type: 'scattergl',
-                            name: \`Chr \${chr}\`,
-                            marker: {
-                                color: chrColors[(chr - 1) % chrColors.length],
-                                size: 4,
-                                opacity: 0.7,
-                                line: { width: 0 }
-                            },
-                            hovertemplate:
-                                '<b>Chr %{customdata[0]}</b><br>' +
-                                'Position: %{customdata[1]:,}<br>' +
-                                'P-value: %{customdata[2]:.2e}<br>' +
-                                '-log10(P): %{y:.2f}<br>' +
-                                '<extra></extra>',
-                            customdata: chrData.map(d => [d.chr, d.originalPos, d.pValue]),
-                            showlegend: false
-                        };
-
-                        traces.push(trace);
-                    }
-
-                    self.postMessage({
-                        type: 'PROGRESS',
-                        progress: 90,
-                        message: 'Adding significance line and calculating ticks...'
-                    });
-
-                    // Add significance line if requested
-                    if (config.showSignificanceLine && processedData.length > 0) {
-                        let maxPos = 0;
-                        for (let i = 0; i < processedData.length; i++) {
-                            if (processedData[i].position > maxPos) {
-                                maxPos = processedData[i].position;
-                            }
-                        }
-
-                        traces.push({
-                            x: [0, maxPos],
-                            y: [config.significanceThreshold, config.significanceThreshold],
-                            mode: 'lines',
-                            type: 'scatter',
-                            name: 'Significance (5×10⁻⁸)',
-                            line: {
-                                color: 'red',
-                                width: 2,
-                                dash: 'dash'
-                            },
-                            hoverinfo: 'none',
-                            showlegend: false
-                        });
-                    }
-
-                    // Calculate chromosome ticks
-                    const ticks = [];
-                    const labels = [];
-                    for (let i = 0; i < chromosomes.length; i++) {
-                        const chr = chromosomes[i];
-                        const chrData = processedData.filter(d => d.chr === chr);
-                        if (chrData.length > 0) {
-                            let minPos = Infinity;
-                            let maxPos = -Infinity;
-                            for (let j = 0; j < chrData.length; j++) {
-                                const pos = chrData[j].position;
-                                if (pos < minPos) minPos = pos;
-                                if (pos > maxPos) maxPos = pos;
-                            }
-                            ticks.push((minPos + maxPos) / 2);
-                            labels.push(chr.toString());
-                        }
-                    }
-
-                    self.postMessage({
-                        type: 'TRACES_READY',
-                        traces: traces,
-                        ticks: ticks,
-                        labels: labels,
-                        dataCount: processedData.length,
-                        progress: 100,
-                        message: \`Manhattan plot ready! Displaying \${processedData.length.toLocaleString()} points.\`
-                    });
-                }
-
-                self.onerror = function(error) {
-                    self.postMessage({
-                        type: 'ERROR',
-                        message: 'Worker error: ' + error.message,
-                        error: error
-                    });
-                };
-            `;
-
-            const blob = new Blob([workerScript], { type: 'application/javascript' });
-            return new Worker(URL.createObjectURL(blob));
-        }
-
         function plotFromCleanedData() {
-            if (!window.lastGwasData || !window.lastGwasData.data || window.lastGwasData.data.length === 0) {
-                alert('No cleaned GWAS data available. Please run GWAS Data Clean first.');
-                return;
-            }
-
-            const plotButton = document.getElementById('plotFromCleanedButton');
-            plotButton.disabled = true;
-
-            showManhattanProgress();
-            updateManhattanStatus('Initializing Manhattan plot...');
-
-            manhattanProcessingStartTime = performance.now();
-
-            // Create or restart worker
-            if (manhattanWorker) {
-                manhattanWorker.terminate();
-            }
-
-            try {
-                manhattanWorker = createManhattanWorker();
-            } catch (error) {
-                console.error('Failed to create Manhattan worker:', error);
-                document.getElementById('manhattanPlotDiv').innerHTML =
-                    '<div style="color: red; padding: 20px;">Error: Could not create Web Worker for Manhattan plot.</div>';
-                plotButton.disabled = false;
-                return;
-            }
-
-            // Handle worker messages
-            manhattanWorker.onmessage = function(e) {
-                const { type, traces, ticks, labels, dataCount, progress, message, error } = e.data;
-
-                switch(type) {
-                    case 'STATUS':
-                        updateManhattanStatus(message);
-                        break;
-                    case 'PROGRESS':
-                        updateManhattanProgress(progress, message);
-                        break;
-                    case 'DATA_PROCESSED':
-                        manhattanCurrentData = e.data.data;
-                        updateManhattanStatus(`Data processed: \${dataCount.toLocaleString()} points`);
-
-                        // Continue to create traces
-                        manhattanWorker.postMessage({
-                            type: 'CREATE_TRACES',
-                            data: {
-                                chrColors: chrColors,
-                                showSignificanceLine: showSignificanceLine,
-                                significanceThreshold: significanceThreshold
-                            }
-                        });
-                        break;
-                    case 'TRACES_READY':
-                        createManhattanPlot(traces, ticks, labels, dataCount);
-                        hideManhattanProgress();
-                        updateManhattanStatus('Manhattan plot complete!');
-                        plotButton.disabled = false;
-                        break;
-                    case 'ERROR':
-                        updateManhattanStatus('ERROR: ' + message);
-                        hideManhattanProgress();
-                        document.getElementById('manhattanPlotDiv').innerHTML =
-                            '<div style="color: red; padding: 20px;">Error: ' + message + '</div>';
-                        plotButton.disabled = false;
-                        break;
-                }
-            };
-
-            manhattanWorker.onerror = function(error) {
-                console.error('Manhattan worker error:', error);
-                updateManhattanStatus('Worker error: ' + error.message);
-                hideManhattanProgress();
-                plotButton.disabled = false;
-            };
-
-            // Start the worker
-            manhattanWorker.postMessage({ type: 'PROCESS_DATA', data: window.lastGwasData.data });
-        }
-
-        function createManhattanPlot(traces, ticks, labels, dataCount) {
-            const layout = {
-                title: {
-                    text: 'Manhattan Plot - GWAS Results',
-                    font: { size: 20 }
-                },
-                xaxis: {
-                    title: {
-                        text: 'Chromosome',
-                        font: { size: 16, family: 'Arial, sans-serif' }
-                    },
-                    showgrid: true,
-                    gridcolor: '#f0f0f0',
-                    tickmode: 'array',
-                    tickvals: ticks,
-                    ticktext: labels,
-                    fixedrange: false,
-                    titlefont: { size: 14 }
-                },
-                yaxis: {
-                    title: {
-                        text: '-log₁₀(P-value)',
-                        font: { size: 16, family: 'Arial, sans-serif' }
-                    },
-                    showgrid: true,
-                    gridcolor: '#f0f0f0',
-                    fixedrange: false,
-                    titlefont: { size: 14 }
-                },
-                hovermode: 'closest',
-                showlegend: false,
-                plot_bgcolor: 'white',
-                paper_bgcolor: 'white',
-                margin: { l: 60, r: 30, t: 60, b: 60 }
-            };
-
-            const config = {
-                responsive: true,
-                displayModeBar: true,
-                modeBarButtonsToRemove: ['pan2d', 'lasso2d', 'select2d'],
-                displaylogo: false,
-                toImageButtonOptions: {
-                    format: 'png',
-                    filename: 'manhattan_plot',
-                    height: 600,
-                    width: 1200,
-                    scale: 2
-                }
-            };
-
-            Plotly.newPlot('manhattanPlotDiv', traces, layout, config);
-
-            const totalPoints = dataCount || 0;
-            document.getElementById('manhattanStats').innerHTML =
-                `<span style="color: #28a745;">Successfully plotted \${totalPoints.toLocaleString()} data points across \${labels.length} chromosomes</span>`;
-        }
-
-        function showManhattanProgress() {
-            document.getElementById('manhattanProgressSection').style.display = 'block';
-        }
-
-        function hideManhattanProgress() {
-            document.getElementById('manhattanProgressSection').style.display = 'none';
-        }
-
-        function updateManhattanProgress(progress, message) {
-            document.getElementById('manhattanProgressFill').style.width = progress + '%';
-            document.getElementById('manhattanProgressText').textContent = Math.round(progress) + '%';
-            if (message) {
-                document.getElementById('manhattanProgressMessage').textContent = message;
-            }
-        }
-
-        function updateManhattanStatus(message) {
-            console.log('Manhattan Status:', message);
-            document.getElementById('manhattanStats').textContent = message;
+            // Implementation will be added when needed
+            alert('Manhattan plot functionality will be implemented in a future update.');
         }
 
         function toggleSignificanceLinePlot() {
             showSignificanceLine = !showSignificanceLine;
-            if (manhattanCurrentData && manhattanWorker) {
-                showManhattanProgress();
-                updateManhattanStatus('Updating significance line...');
-                manhattanWorker.postMessage({
-                    type: 'CREATE_TRACES',
-                    data: {
-                        chrColors: chrColors,
-                        showSignificanceLine: showSignificanceLine,
-                        significanceThreshold: significanceThreshold
-                    }
-                });
-            }
+            // Implementation will be added when needed
         }
 
         function exportPlotImage() {
-            const plotDiv = document.getElementById('manhattanPlotDiv');
-            if (manhattanCurrentData && plotDiv && plotDiv._fullLayout) {
-                Plotly.downloadImage('manhattanPlotDiv', {
-                    format: 'png',
-                    filename: 'manhattan_plot',
-                    height: 600,
-                    width: 1200,
-                    scale: 2
-                });
-            } else {
-                alert('Please create a plot first before exporting.');
-            }
+            // Implementation will be added when needed
+            alert('Export functionality will be implemented in a future update.');
         }
 
         function clearManhattanPlot() {
-            document.getElementById('manhattanPlotDiv').innerHTML =
-                '<div style="display: flex; align-items: center; justify-content: center; height: 100%; color: #666;">Manhattan plot cleared. Click "Plot from Cleaned Data" to display data.</div>';
-            document.getElementById('manhattanStats').textContent = 'Manhattan plot cleared.';
-            hideManhattanProgress();
-
-            if (manhattanWorker) {
-                manhattanWorker.terminate();
-                manhattanWorker = null;
+            const plotDiv = document.getElementById('manhattanPlotDiv');
+            if (plotDiv) {
+                plotDiv.innerHTML = '<div style="display: flex; align-items: center; justify-content: center; height: 100%; color: #666;">Manhattan plot cleared. Click "Plot from Cleaned Data" to display data.</div>';
             }
-            manhattanCurrentData = null;
+            const statsDiv = document.getElementById('manhattanStats');
+            if (statsDiv) {
+                statsDiv.textContent = 'Manhattan plot cleared.';
+            }
         }
     </script>
-    <script src="public/plotly.min.js"></script>
-    <script src="/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

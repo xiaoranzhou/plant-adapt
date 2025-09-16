@@ -62,7 +62,7 @@ function processGWASData(data) {
             });
         }
         
-        currentOffset += maxPos + 10000000; // Add spacing between chromosomes
+        currentOffset += maxPos; // No gap between chromosomes
     }
     
     processedData = processed;
