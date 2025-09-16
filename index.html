@@ -3,21 +3,124 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PLINK2 WASM Interface</title>
+    <title>Plant Adaptation Hub</title>
+    <link href="/css/bootstrap.min.css" rel="stylesheet" >
     <style>
         body {
-            font-family: Arial, sans-serif;
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #f5f5f5;
+            font-size: .875rem;
+            }
+
+           
+            .output-tabs {
+            display: flex;
+            border-bottom: 1px solid #ddd;
+            margin-bottom: 15px;
         }
-        .container {
+        .tab {
+            padding: 10px 20px;
+            background: #f8f9fa;
+            border: 1px solid #ddd;
+            border-bottom: none;
+            cursor: pointer;
+            margin-right: 5px;
+            border-radius: 5px 5px 0 0;
+        }
+        .tab.active {
             background: white;
-            padding: 30px;
-            border-radius: 10px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            border-bottom: 1px solid white;
         }
+        .output-content {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            min-height: 200px;
+            font-family: monospace;
+            white-space: pre-wrap;
+            overflow-x: auto;
+        }
+            /*
+            * Sidebar
+            */
+
+            .sidebar {
+            position: fixed;
+            top: 0;
+            /* rtl:raw:
+            right: 0;
+            */
+            bottom: 0;
+            /* rtl:remove */
+            left: 0;
+            z-index: 100; /* Behind the navbar */
+            padding: 48px 0 0; /* Height of navbar */
+            box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
+            }
+
+            @media (max-width: 767.98px) {
+            .sidebar {
+                top: 5rem;
+            }
+            }
+
+            .sidebar-sticky {
+            height: calc(100vh - 48px);
+            overflow-x: hidden;
+            overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
+            }
+
+            .sidebar .nav-link {
+            font-weight: 500;
+            color: #333;
+            }
+
+            .sidebar .nav-link {
+            margin-right: 4px;
+            color: #727272;
+            }
+
+            .sidebar .nav-link.active {
+            color: #2470dc;
+            }
+
+            .sidebar .nav-link:hover ,
+            .sidebar .nav-link.active {
+            color: inherit;
+            }
+
+            .sidebar-heading {
+            font-size: .75rem;
+            }
+
+            /*
+            * Navbar
+            */
+
+            .navbar-brand {
+            padding-top: .75rem;
+            padding-bottom: .75rem;
+            background-color: rgba(0, 0, 0, .25);
+            box-shadow: inset -1px 0 0 rgba(0, 0, 0, .25);
+            }
+
+            .navbar .navbar-toggler {
+            top: .25rem;
+            right: 1rem;
+            }
+
+            .navbar .form-control {
+            padding: .75rem 1rem;
+            }
+
+            .form-control-dark {
+            color: #fff;
+            background-color: rgba(255, 255, 255, .1);
+            border-color: rgba(255, 255, 255, .1);
+            }
+
+            .form-control-dark:focus {
+            border-color: transparent;
+            box-shadow: 0 0 0 3px rgba(255, 255, 255, .25);
+            }
         h1 {
             color: #333;
             text-align: center;
@@ -66,22 +169,8 @@
             margin: 20px 0;
             align-items: center;
         }
-        button {
-            background-color: #007bff;
-            color: white;
-            border: none;
-            padding: 10px 20px;
-            border-radius: 5px;
-            cursor: pointer;
-            font-size: 14px;
-        }
-        button:hover:not(:disabled) {
-            background-color: #0056b3;
-        }
-        button:disabled {
-            background-color: #6c757d;
-            cursor: not-allowed;
-        }
+        
+        
         .command-input {
             flex: 1;
             padding: 10px;
@@ -97,19 +186,7 @@
             border-bottom: 1px solid #ddd;
             margin-bottom: 15px;
         }
-        .tab {
-            padding: 10px 20px;
-            background: #f8f9fa;
-            border: 1px solid #ddd;
-            border-bottom: none;
-            cursor: pointer;
-            margin-right: 5px;
-            border-radius: 5px 5px 0 0;
-        }
-        .tab.active {
-            background: white;
-            border-bottom: 1px solid white;
-        }
+       
         .output-content {
             background: #f8f9fa;
             padding: 15px;
@@ -152,9 +229,117 @@
             margin: 10px 0;
             border-left: 4px solid #dc3545;
         }
+        .nav-scroller {
+        position: relative;
+        z-index: 2;
+        height: 2.75rem;
+        overflow-y: hidden;
+        }
+
+      .nav-scroller .nav {
+        display: flex;
+        flex-wrap: nowrap;
+        padding-bottom: 1rem;
+        margin-top: -1px;
+        overflow-x: auto;
+        text-align: center;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+        }
     </style>
 </head>
 <body>
+
+    <header class="navbar navbar-dark sticky-top bg-success flex-md-nowrap p-0 shadow">
+  <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3 fs-6" href="https://dataplan.top">Plant Adaptation Hub</a>
+  <button class="navbar-toggler position-absolute d-md-none collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#sidebarMenu" aria-controls="sidebarMenu" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <input class="form-control form-control-dark w-100 rounded-0 border-0" type="text" placeholder="Search" aria-label="Search">
+  <div class="navbar-nav">
+    <div class="nav-item text-nowrap">
+      <a class="nav-link px-3" href="https://dataplan.top">Sign out</a>
+    </div>
+  </div>
+</header>
+<div class="container-fluid">
+  <div class="row">
+    <nav id="sidebarMenu" class="col-md-3 col-lg-2 d-md-block bg-light sidebar collapse">
+      <div class="position-sticky pt-3 sidebar-sticky">
+        <ul class="nav flex-column">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="https://dataplan.top">
+
+              Home
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://dataplan.top">
+ 
+              Data Dashboard
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://dataplan.top">
+
+              Genomic Analysis
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://dataplan.top">
+
+              Genome Obeservation 
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://dataplan.top">
+
+              Reports
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://dataplan.top">
+
+              Integrations
+            </a>
+          </li>
+        </ul>
+
+        <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted text-uppercase">
+          <span>Saved reports</span>
+          <a class="link-secondary" href="https://dataplan.top" aria-label="Add a new report">
+
+          </a>
+        </h6>
+        <ul class="nav flex-column mb-2">
+          <li class="nav-item">
+            <a class="nav-link" href="https://dataplan.top">
+
+              Current month
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://dataplan.top">
+
+              Last quarter
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://dataplan.top">
+
+              Social engagement
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://dataplan.top">
+
+              Year-end sale
+            </a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+        <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
     <div class="container">
         <h1>PLINK2 WebAssembly Interface</h1>
         
@@ -175,8 +360,8 @@
                 <input type="checkbox" id="renameFamCheckbox" checked>
                 Rename .fam
             </label>
-            <button id="runButton" onclick="runPlink()">Run PLINK2</button>
-            <button id="clearButton" onclick="clearOutput()">Clear Output</button>
+            <button class="btn btn-primary" id="runButton" onclick="runPlink()">Run PLINK2</button>
+            <button class="btn btn-primary" id="clearButton" onclick="clearOutput()">Clear Output</button>
         </div>
 
         <div class="loading" id="loading">
@@ -198,17 +383,17 @@
                 <div id="filesOutput" style="display: none;"></div>
                 <div id="gwasOutput" style="display: none;">
                     <div style="margin-bottom: 15px;">
-                        <button id="runGwasButton" onclick="runGwasAnalysis()" style="margin-right: 10px;">Run GWAS Data Clean</button>
+                        <button class="btn btn-primary" id="runGwasButton" onclick="runGwasAnalysis()" style="margin-right: 10px;">Run GWAS Data Clean</button>
                         <span id="gwasStatus"></span>
                     </div>
                     <div id="gwasResults"></div>
                 </div>
                 <div id="manhattanOutput" style="display: none;">
                     <div class="manhattan-controls" style="margin-bottom: 15px; text-align: center;">
-                        <button id="plotFromCleanedButton" onclick="plotFromCleanedData()" style="margin-right: 10px; background-color: #4CAF50;">Plot from Cleaned Data</button>
-                        <button onclick="toggleSignificanceLinePlot()" style="margin-right: 10px;">Toggle Significance Line</button>
-                        <button onclick="exportPlotImage()" style="margin-right: 10px; background-color: #2196F3;">Export PNG</button>
-                        <button onclick="clearManhattanPlot()">Clear</button>
+                        <button class="btn btn-primary" id="plotFromCleanedButton" onclick="plotFromCleanedData()" style="margin-right: 10px; background-color: #4CAF50;">Plot from Cleaned Data</button>
+                        <button class="btn btn-primary" onclick="toggleSignificanceLinePlot()" style="margin-right: 10px;">Toggle Significance Line</button>
+                        <button class="btn btn-primary" onclick="exportPlotImage()" style="margin-right: 10px; background-color: #2196F3;">Export PNG</button>
+                        <button class="btn btn-primary" onclick="clearManhattanPlot()">Clear</button>
                     </div>
                     <div class="progress" id="manhattanProgressSection" style="display: none; text-align: center; margin-bottom: 15px;">
                         <div id="manhattanProgressMessage">Processing data...</div>
@@ -241,7 +426,7 @@
             </ul>
         </div>
     </div>
-
+</main>
     <script>
         let module;
         let currentTab = 'console';
@@ -683,7 +868,7 @@
             // Add download functionality - Create blob without pretty printing to avoid memory issues
             html += '<h4>Download</h4>';
             html += '<p>Click the button below to download the cleaned GWAS data:</p>';
-            html += '<button onclick="downloadGwasData()" style="background-color: #007bff; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">📄 Download Cleaned GWAS Data (JSON)</button>';
+            html += '<button class="btn btn-primary" onclick="downloadGwasData()" style="background-color: #007bff; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">📄 Download Cleaned GWAS Data (JSON)</button>';
 
             // Statistical summary - Process in chunks to avoid call stack issues
             if (gwasData.data.length > 0) {
@@ -1167,5 +1352,6 @@
         }
     </script>
     <script src="public/plotly.min.js"></script>
+    <script src="/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
