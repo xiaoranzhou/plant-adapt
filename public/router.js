@@ -11,7 +11,10 @@ class Router {
             'gwas': 'Plant Adaptation Hub - GWAS Analysis',
             'analysis-general': 'Plant Adaptation Hub - General Analysis',
             'observation': 'Plant Adaptation Hub - Genome Observation',
-            'browse': 'Plant Adaptation Hub - Genome Browse'
+            'browse': 'Plant Adaptation Hub - Genome Browse',
+            'plink2pane': 'Plant Adaptation Hub - PLINK2',
+            'plotly': 'Plant Adaptation Hub - Manhattan Plot',
+            'jb365': 'Plant Adaptation Hub - JBrowse'
         };
         
         this.init();
@@ -34,8 +37,8 @@ class Router {
     }
 
     setupNavigationListeners() {
-        // Add click listeners to all nav-links
-        document.querySelectorAll('#sidebar-nav .nav-link').forEach(link => {
+        // Add click listeners to all nav-links (including tools section)
+        document.querySelectorAll('#sidebarMenu .nav-link').forEach(link => {
             link.addEventListener('click', (e) => {
                 // Only prevent default for dropdown items, not dropdown toggles
                 if (!link.classList.contains('dropdown-toggle')) {
@@ -44,10 +47,10 @@ class Router {
                     if (href && href.startsWith('#')) {
                         // Update URL hash
                         window.location.hash = href;
-                        
+
                         // Update navigation state
                         this.updateNavigation(href.substring(1));
-                        
+
                         // Show corresponding tab
                         this.showTab(href.substring(1));
                     }
@@ -111,12 +114,12 @@ class Router {
 
     updateNavigation(activeTab) {
         // Remove active class from all nav-links and dropdown-items
-        document.querySelectorAll('#sidebar-nav .nav-link').forEach(link => {
+        document.querySelectorAll('#sidebarMenu .nav-link').forEach(link => {
             link.classList.remove('active');
             link.setAttribute('aria-selected', 'false');
         });
-        
-        document.querySelectorAll('#sidebar-nav .dropdown-item').forEach(item => {
+
+        document.querySelectorAll('#sidebarMenu .dropdown-item').forEach(item => {
             item.classList.remove('active');
             item.setAttribute('aria-selected', 'false');
         });

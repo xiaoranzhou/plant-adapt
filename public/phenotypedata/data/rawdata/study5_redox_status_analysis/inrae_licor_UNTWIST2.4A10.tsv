@@ -1,0 +1,385 @@
+subject	variable	value	sample_plant_anatomical_entity	sample_collection_date	sample_institute	sample_city	sample_country	sample_associated_interval	sample_associated_factor
+UNT4	plant_anatomical_entity	Silique	Silique		INRAE		France		Stressed
+UNT4	plant_anatomical_entity	Silique	Silique		INRAE		France		Stressed
+UNT4	plant_anatomical_entity	Silique	Silique		INRAE		France		Stressed
+UNT4	plant_anatomical_entity	Silique	Silique		INRAE		France		Stressed
+UNT18	plant_anatomical_entity	Silique	Silique		INRAE		France		Stressed
+UNT18	plant_anatomical_entity	Silique	Silique		INRAE		France		Stressed
+UNT18	plant_anatomical_entity	Silique	Silique		INRAE		France		Stressed
+UNT18	plant_anatomical_entity	Silique	Silique		INRAE		France		Stressed
+UNT21	plant_anatomical_entity	Silique	Silique		INRAE		France		Stressed
+UNT21	plant_anatomical_entity	Silique	Silique		INRAE		France		Stressed
+UNT21	plant_anatomical_entity	Silique	Silique		INRAE		France		Stressed
+UNT21	plant_anatomical_entity	Silique	Silique		INRAE		France		Stressed
+UNT46	plant_anatomical_entity	Silique	Silique		INRAE		France		Stressed
+UNT46	plant_anatomical_entity	Silique	Silique		INRAE		France		Stressed
+UNT46	plant_anatomical_entity	Silique	Silique		INRAE		France		Stressed
+UNT46	plant_anatomical_entity	Silique	Silique		INRAE		France		Stressed
+UNT4	e (mol m⁻² s⁻¹)	0.0005448235590497	Silique		INRAE		France		Stressed
+UNT4	e (mol m⁻² s⁻¹)	0.0004707694735636	Silique		INRAE		France		Stressed
+UNT4	e (mol m⁻² s⁻¹)	0.0003671499810768	Silique		INRAE		France		Stressed
+UNT4	e (mol m⁻² s⁻¹)	0.0004651078306031	Silique		INRAE		France		Stressed
+UNT18	e (mol m⁻² s⁻¹)	0.0004078032952768	Silique		INRAE		France		Stressed
+UNT18	e (mol m⁻² s⁻¹)	0.0004313752718582	Silique		INRAE		France		Stressed
+UNT18	e (mol m⁻² s⁻¹)	0.0004829658047867	Silique		INRAE		France		Stressed
+UNT18	e (mol m⁻² s⁻¹)	0.0004606118656642	Silique		INRAE		France		Stressed
+UNT21	e (mol m⁻² s⁻¹)	0.0003821731307151	Silique		INRAE		France		Stressed
+UNT21	e (mol m⁻² s⁻¹)	0.0003329699696251	Silique		INRAE		France		Stressed
+UNT21	e (mol m⁻² s⁻¹)	0.0005129043124473	Silique		INRAE		France		Stressed
+UNT21	e (mol m⁻² s⁻¹)	0.0002499847586622	Silique		INRAE		France		Stressed
+UNT46	e (mol m⁻² s⁻¹)	0.000409459811865	Silique		INRAE		France		Stressed
+UNT46	e (mol m⁻² s⁻¹)	0.0002455314437287	Silique		INRAE		France		Stressed
+UNT46	e (mol m⁻² s⁻¹)	0.0004210573633817	Silique		INRAE		France		Stressed
+UNT46	e (mol m⁻² s⁻¹)	0.0004499230086839	Silique		INRAE		France		Stressed
+UNT4	a (µmol m⁻² s⁻¹)	0.867411192348642	Silique		INRAE		France		Stressed
+UNT4	a (µmol m⁻² s⁻¹)	0.992135142480306	Silique		INRAE		France		Stressed
+UNT4	a (µmol m⁻² s⁻¹)	1.39719262744329	Silique		INRAE		France		Stressed
+UNT4	a (µmol m⁻² s⁻¹)	1.04552345673142	Silique		INRAE		France		Stressed
+UNT18	a (µmol m⁻² s⁻¹)	0.728603684911934	Silique		INRAE		France		Stressed
+UNT18	a (µmol m⁻² s⁻¹)	0.943647049730321	Silique		INRAE		France		Stressed
+UNT18	a (µmol m⁻² s⁻¹)	1.40455769197477	Silique		INRAE		France		Stressed
+UNT18	a (µmol m⁻² s⁻¹)	1.00014074511233	Silique		INRAE		France		Stressed
+UNT21	a (µmol m⁻² s⁻¹)	0.765893925910857	Silique		INRAE		France		Stressed
+UNT21	a (µmol m⁻² s⁻¹)	1.01563390013036	Silique		INRAE		France		Stressed
+UNT21	a (µmol m⁻² s⁻¹)	1.67497359433884	Silique		INRAE		France		Stressed
+UNT21	a (µmol m⁻² s⁻¹)	0.923067184441767	Silique		INRAE		France		Stressed
+UNT46	a (µmol m⁻² s⁻¹)	0.973505713885623	Silique		INRAE		France		Stressed
+UNT46	a (µmol m⁻² s⁻¹)	1.04180548436757	Silique		INRAE		France		Stressed
+UNT46	a (µmol m⁻² s⁻¹)	0.971602734212195	Silique		INRAE		France		Stressed
+UNT46	a (µmol m⁻² s⁻¹)	0.88423660590469	Silique		INRAE		France		Stressed
+UNT4	gsw (mol m⁻² s⁻¹)	0.0397280353053717	Silique		INRAE		France		Stressed
+UNT4	gsw (mol m⁻² s⁻¹)	0.0341088967162227	Silique		INRAE		France		Stressed
+UNT4	gsw (mol m⁻² s⁻¹)	0.0264014223290816	Silique		INRAE		France		Stressed
+UNT4	gsw (mol m⁻² s⁻¹)	0.0337485944170257	Silique		INRAE		France		Stressed
+UNT18	gsw (mol m⁻² s⁻¹)	0.0292531050454954	Silique		INRAE		France		Stressed
+UNT18	gsw (mol m⁻² s⁻¹)	0.0308987530600396	Silique		INRAE		France		Stressed
+UNT18	gsw (mol m⁻² s⁻¹)	0.0350128393115676	Silique		INRAE		France		Stressed
+UNT18	gsw (mol m⁻² s⁻¹)	0.0330666076503326	Silique		INRAE		France		Stressed
+UNT21	gsw (mol m⁻² s⁻¹)	0.0272755004347048	Silique		INRAE		France		Stressed
+UNT21	gsw (mol m⁻² s⁻¹)	0.0235671987398566	Silique		INRAE		France		Stressed
+UNT21	gsw (mol m⁻² s⁻¹)	0.0377903583894791	Silique		INRAE		France		Stressed
+UNT21	gsw (mol m⁻² s⁻¹)	0.0175614397268026	Silique		INRAE		France		Stressed
+UNT46	gsw (mol m⁻² s⁻¹)	0.0293648602473491	Silique		INRAE		France		Stressed
+UNT46	gsw (mol m⁻² s⁻¹)	0.0171968574866141	Silique		INRAE		France		Stressed
+UNT46	gsw (mol m⁻² s⁻¹)	0.0305433004180603	Silique		INRAE		France		Stressed
+UNT46	gsw (mol m⁻² s⁻¹)	0.032537394321864	Silique		INRAE		France		Stressed
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT4	e (mol m⁻² s⁻¹)	0.0037469549160952	Leaf		INRAE		France		Stressed
+UNT4	e (mol m⁻² s⁻¹)	0.0044123320831687	Leaf		INRAE		France		Stressed
+UNT4	e (mol m⁻² s⁻¹)	0.0033138455787133	Leaf		INRAE		France		Stressed
+UNT4	e (mol m⁻² s⁻¹)	0.004194322967575	Leaf		INRAE		France		Stressed
+UNT18	e (mol m⁻² s⁻¹)	0.0027010212385389	Leaf		INRAE		France		Stressed
+UNT18	e (mol m⁻² s⁻¹)	0.0031079996891355	Leaf		INRAE		France		Stressed
+UNT18	e (mol m⁻² s⁻¹)	0.0045077681851202	Leaf		INRAE		France		Stressed
+UNT18	e (mol m⁻² s⁻¹)	0.0038705867352996	Leaf		INRAE		France		Stressed
+UNT21	e (mol m⁻² s⁻¹)	0.0035491871891246	Leaf		INRAE		France		Stressed
+UNT21	e (mol m⁻² s⁻¹)	0.0035097682278241	Leaf		INRAE		France		Stressed
+UNT21	e (mol m⁻² s⁻¹)	0.0035958720936871	Leaf		INRAE		France		Stressed
+UNT21	e (mol m⁻² s⁻¹)	0.0038138037290087	Leaf		INRAE		France		Stressed
+UNT46	e (mol m⁻² s⁻¹)	0.0027290464181574	Leaf		INRAE		France		Stressed
+UNT46	e (mol m⁻² s⁻¹)	0.0035536661975235	Leaf		INRAE		France		Stressed
+UNT46	e (mol m⁻² s⁻¹)	0.0051560563709667	Leaf		INRAE		France		Stressed
+UNT46	e (mol m⁻² s⁻¹)	0.0033708136977505	Leaf		INRAE		France		Stressed
+UNT4	a (µmol m⁻² s⁻¹)	16.3729558191858	Leaf		INRAE		France		Stressed
+UNT4	a (µmol m⁻² s⁻¹)	14.0136787084699	Leaf		INRAE		France		Stressed
+UNT4	a (µmol m⁻² s⁻¹)	14.0960364510745	Leaf		INRAE		France		Stressed
+UNT4	a (µmol m⁻² s⁻¹)	12.8111548859909	Leaf		INRAE		France		Stressed
+UNT18	a (µmol m⁻² s⁻¹)	19.4182906900619	Leaf		INRAE		France		Stressed
+UNT18	a (µmol m⁻² s⁻¹)	16.8106873377862	Leaf		INRAE		France		Stressed
+UNT18	a (µmol m⁻² s⁻¹)	16.1285579223865	Leaf		INRAE		France		Stressed
+UNT18	a (µmol m⁻² s⁻¹)	17.2491069378699	Leaf		INRAE		France		Stressed
+UNT21	a (µmol m⁻² s⁻¹)	19.1282874699036	Leaf		INRAE		France		Stressed
+UNT21	a (µmol m⁻² s⁻¹)	18.2155246507878	Leaf		INRAE		France		Stressed
+UNT21	a (µmol m⁻² s⁻¹)	16.5239565836551	Leaf		INRAE		France		Stressed
+UNT21	a (µmol m⁻² s⁻¹)	18.5246835094267	Leaf		INRAE		France		Stressed
+UNT46	a (µmol m⁻² s⁻¹)	16.2299817217558	Leaf		INRAE		France		Stressed
+UNT46	a (µmol m⁻² s⁻¹)	16.7765523599396	Leaf		INRAE		France		Stressed
+UNT46	a (µmol m⁻² s⁻¹)	19.6315187088203	Leaf		INRAE		France		Stressed
+UNT46	a (µmol m⁻² s⁻¹)	21.9443148732796	Leaf		INRAE		France		Stressed
+UNT4	gsw (mol m⁻² s⁻¹)	0.451329164506481	Leaf		INRAE		France		Stressed
+UNT4	gsw (mol m⁻² s⁻¹)	0.562691517623528	Leaf		INRAE		France		Stressed
+UNT4	gsw (mol m⁻² s⁻¹)	0.388335624143624	Leaf		INRAE		France		Stressed
+UNT4	gsw (mol m⁻² s⁻¹)	0.515963409860976	Leaf		INRAE		France		Stressed
+UNT18	gsw (mol m⁻² s⁻¹)	0.306345904585058	Leaf		INRAE		France		Stressed
+UNT18	gsw (mol m⁻² s⁻¹)	0.357838504199819	Leaf		INRAE		France		Stressed
+UNT18	gsw (mol m⁻² s⁻¹)	0.595311720592942	Leaf		INRAE		France		Stressed
+UNT18	gsw (mol m⁻² s⁻¹)	0.494683896413399	Leaf		INRAE		France		Stressed
+UNT21	gsw (mol m⁻² s⁻¹)	0.44020578843715	Leaf		INRAE		France		Stressed
+UNT21	gsw (mol m⁻² s⁻¹)	0.411865969188341	Leaf		INRAE		France		Stressed
+UNT21	gsw (mol m⁻² s⁻¹)	0.442619450678376	Leaf		INRAE		France		Stressed
+UNT21	gsw (mol m⁻² s⁻¹)	0.457523129275969	Leaf		INRAE		France		Stressed
+UNT46	gsw (mol m⁻² s⁻¹)	0.321282798261324	Leaf		INRAE		France		Stressed
+UNT46	gsw (mol m⁻² s⁻¹)	0.439525267893201	Leaf		INRAE		France		Stressed
+UNT46	gsw (mol m⁻² s⁻¹)	0.706138371749505	Leaf		INRAE		France		Stressed
+UNT46	gsw (mol m⁻² s⁻¹)	0.405437037592846	Leaf		INRAE		France		Stressed
+UNT4	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT4	e (mol m⁻² s⁻¹)	0.0000185592002413	Silique		INRAE		France		Optimal
+UNT4	e (mol m⁻² s⁻¹)	0.0000270466139219	Silique		INRAE		France		Optimal
+UNT4	e (mol m⁻² s⁻¹)	0.0000377438656578	Silique		INRAE		France		Optimal
+UNT4	e (mol m⁻² s⁻¹)	0.000051850194893	Silique		INRAE		France		Optimal
+UNT18	e (mol m⁻² s⁻¹)	0.0000348014649306	Silique		INRAE		France		Optimal
+UNT18	e (mol m⁻² s⁻¹)	0.0000295530380481	Silique		INRAE		France		Optimal
+UNT18	e (mol m⁻² s⁻¹)	0.0000334532710557	Silique		INRAE		France		Optimal
+UNT18	e (mol m⁻² s⁻¹)	0.0000302878505436	Silique		INRAE		France		Optimal
+UNT21	e (mol m⁻² s⁻¹)	0.0000307308620661	Silique		INRAE		France		Optimal
+UNT21	e (mol m⁻² s⁻¹)	0.0000277840538611	Silique		INRAE		France		Optimal
+UNT21	e (mol m⁻² s⁻¹)	0.0000142581867589	Silique		INRAE		France		Optimal
+UNT21	e (mol m⁻² s⁻¹)	0.0000212584578981	Silique		INRAE		France		Optimal
+UNT46	e (mol m⁻² s⁻¹)	0.0000241342487783	Silique		INRAE		France		Optimal
+UNT46	e (mol m⁻² s⁻¹)	0.000042025798767	Silique		INRAE		France		Optimal
+UNT46	e (mol m⁻² s⁻¹)	0.0000375823948236	Silique		INRAE		France		Optimal
+UNT46	e (mol m⁻² s⁻¹)	0.0000339411704099	Silique		INRAE		France		Optimal
+UNT4	a (µmol m⁻² s⁻¹)	0.0568464137262476	Silique		INRAE		France		Optimal
+UNT4	a (µmol m⁻² s⁻¹)	0.0556791604297187	Silique		INRAE		France		Optimal
+UNT4	a (µmol m⁻² s⁻¹)	0.0961525755677627	Silique		INRAE		France		Optimal
+UNT4	a (µmol m⁻² s⁻¹)	0.155555185149214	Silique		INRAE		France		Optimal
+UNT18	a (µmol m⁻² s⁻¹)	0.0611470901455416	Silique		INRAE		France		Optimal
+UNT18	a (µmol m⁻² s⁻¹)	0.0874456978003788	Silique		INRAE		France		Optimal
+UNT18	a (µmol m⁻² s⁻¹)	0.0765241412537799	Silique		INRAE		France		Optimal
+UNT18	a (µmol m⁻² s⁻¹)	0.0582836316268586	Silique		INRAE		France		Optimal
+UNT21	a (µmol m⁻² s⁻¹)	0.0870153565219871	Silique		INRAE		France		Optimal
+UNT21	a (µmol m⁻² s⁻¹)	0.0778842293136951	Silique		INRAE		France		Optimal
+UNT21	a (µmol m⁻² s⁻¹)	0.0662306346564216	Silique		INRAE		France		Optimal
+UNT21	a (µmol m⁻² s⁻¹)	0.0660352454677832	Silique		INRAE		France		Optimal
+UNT46	a (µmol m⁻² s⁻¹)	0.0478293695259304	Silique		INRAE		France		Optimal
+UNT46	a (µmol m⁻² s⁻¹)	0.107635850117309	Silique		INRAE		France		Optimal
+UNT46	a (µmol m⁻² s⁻¹)	0.0714702177111099	Silique		INRAE		France		Optimal
+UNT46	a (µmol m⁻² s⁻¹)	0.0818833428004837	Silique		INRAE		France		Optimal
+UNT4	gsw (mol m⁻² s⁻¹)	0.0012967566033518	Silique		INRAE		France		Optimal
+UNT4	gsw (mol m⁻² s⁻¹)	0.0019394819684498	Silique		INRAE		France		Optimal
+UNT4	gsw (mol m⁻² s⁻¹)	0.0027605481405723	Silique		INRAE		France		Optimal
+UNT4	gsw (mol m⁻² s⁻¹)	0.0039770838062811	Silique		INRAE		France		Optimal
+UNT18	gsw (mol m⁻² s⁻¹)	0.0025930729149132	Silique		INRAE		France		Optimal
+UNT18	gsw (mol m⁻² s⁻¹)	0.0020812021593967	Silique		INRAE		France		Optimal
+UNT18	gsw (mol m⁻² s⁻¹)	0.0024609730944825	Silique		INRAE		France		Optimal
+UNT18	gsw (mol m⁻² s⁻¹)	0.0021631532300751	Silique		INRAE		France		Optimal
+UNT21	gsw (mol m⁻² s⁻¹)	0.0022315643641603	Silique		INRAE		France		Optimal
+UNT21	gsw (mol m⁻² s⁻¹)	0.0020168529090795	Silique		INRAE		France		Optimal
+UNT21	gsw (mol m⁻² s⁻¹)	0.0010079070628316	Silique		INRAE		France		Optimal
+UNT21	gsw (mol m⁻² s⁻¹)	0.0015161924820499	Silique		INRAE		France		Optimal
+UNT46	gsw (mol m⁻² s⁻¹)	0.0017085870016659	Silique		INRAE		France		Optimal
+UNT46	gsw (mol m⁻² s⁻¹)	0.0030650734236205	Silique		INRAE		France		Optimal
+UNT46	gsw (mol m⁻² s⁻¹)	0.0027170334407169	Silique		INRAE		France		Optimal
+UNT46	gsw (mol m⁻² s⁻¹)	0.0024815282915026	Silique		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT4	e (mol m⁻² s⁻¹)	0.0037332740739573	Leaf		INRAE		France		Optimal
+UNT4	e (mol m⁻² s⁻¹)	0.0038910562715222	Leaf		INRAE		France		Optimal
+UNT4	e (mol m⁻² s⁻¹)	0.0042906710163514	Leaf		INRAE		France		Optimal
+UNT4	e (mol m⁻² s⁻¹)	0.0091336478499495	Leaf		INRAE		France		Optimal
+UNT18	e (mol m⁻² s⁻¹)	0.0042042271647915	Leaf		INRAE		France		Optimal
+UNT18	e (mol m⁻² s⁻¹)	0.0034911712158627	Leaf		INRAE		France		Optimal
+UNT18	e (mol m⁻² s⁻¹)	0.0035961129716597	Leaf		INRAE		France		Optimal
+UNT18	e (mol m⁻² s⁻¹)	0.0045956149970547	Leaf		INRAE		France		Optimal
+UNT21	e (mol m⁻² s⁻¹)	0.002833977711512	Leaf		INRAE		France		Optimal
+UNT21	e (mol m⁻² s⁻¹)	0.0049585628471374	Leaf		INRAE		France		Optimal
+UNT21	e (mol m⁻² s⁻¹)	0.0030204162162836	Leaf		INRAE		France		Optimal
+UNT21	e (mol m⁻² s⁻¹)	0.0066435583958104	Leaf		INRAE		France		Optimal
+UNT46	e (mol m⁻² s⁻¹)	0.0048086636312399	Leaf		INRAE		France		Optimal
+UNT46	e (mol m⁻² s⁻¹)	0.0039235719425056	Leaf		INRAE		France		Optimal
+UNT46	e (mol m⁻² s⁻¹)	0.0024123566918997	Leaf		INRAE		France		Optimal
+UNT46	e (mol m⁻² s⁻¹)	0.0048197017052887	Leaf		INRAE		France		Optimal
+UNT4	a (µmol m⁻² s⁻¹)	14.910410706772	Leaf		INRAE		France		Optimal
+UNT4	a (µmol m⁻² s⁻¹)	11.6689302815812	Leaf		INRAE		France		Optimal
+UNT4	a (µmol m⁻² s⁻¹)	11.9727789758508	Leaf		INRAE		France		Optimal
+UNT4	a (µmol m⁻² s⁻¹)	14.5852376683467	Leaf		INRAE		France		Optimal
+UNT18	a (µmol m⁻² s⁻¹)	16.2848652574555	Leaf		INRAE		France		Optimal
+UNT18	a (µmol m⁻² s⁻¹)	14.5021136428377	Leaf		INRAE		France		Optimal
+UNT18	a (µmol m⁻² s⁻¹)	11.8610659361237	Leaf		INRAE		France		Optimal
+UNT18	a (µmol m⁻² s⁻¹)	11.7863882256508	Leaf		INRAE		France		Optimal
+UNT21	a (µmol m⁻² s⁻¹)	14.1704260398106	Leaf		INRAE		France		Optimal
+UNT21	a (µmol m⁻² s⁻¹)	16.5094917592736	Leaf		INRAE		France		Optimal
+UNT21	a (µmol m⁻² s⁻¹)	11.3427305574749	Leaf		INRAE		France		Optimal
+UNT21	a (µmol m⁻² s⁻¹)	12.872222271137	Leaf		INRAE		France		Optimal
+UNT46	a (µmol m⁻² s⁻¹)	10.6933720939382	Leaf		INRAE		France		Optimal
+UNT46	a (µmol m⁻² s⁻¹)	15.1704927477963	Leaf		INRAE		France		Optimal
+UNT46	a (µmol m⁻² s⁻¹)	10.6643371290347	Leaf		INRAE		France		Optimal
+UNT46	a (µmol m⁻² s⁻¹)	14.0455797390901	Leaf		INRAE		France		Optimal
+UNT4	gsw (mol m⁻² s⁻¹)	0.3137291153645	Leaf		INRAE		France		Optimal
+UNT4	gsw (mol m⁻² s⁻¹)	0.237271030882753	Leaf		INRAE		France		Optimal
+UNT4	gsw (mol m⁻² s⁻¹)	0.404655359116756	Leaf		INRAE		France		Optimal
+UNT4	gsw (mol m⁻² s⁻¹)	0.674676394377952	Leaf		INRAE		France		Optimal
+UNT18	gsw (mol m⁻² s⁻¹)	0.371678234653233	Leaf		INRAE		France		Optimal
+UNT18	gsw (mol m⁻² s⁻¹)	0.210113175841976	Leaf		INRAE		France		Optimal
+UNT18	gsw (mol m⁻² s⁻¹)	0.324477942917644	Leaf		INRAE		France		Optimal
+UNT18	gsw (mol m⁻² s⁻¹)	0.299052675043425	Leaf		INRAE		France		Optimal
+UNT21	gsw (mol m⁻² s⁻¹)	0.234949591835453	Leaf		INRAE		France		Optimal
+UNT21	gsw (mol m⁻² s⁻¹)	0.321763126513224	Leaf		INRAE		France		Optimal
+UNT21	gsw (mol m⁻² s⁻¹)	0.250388212267684	Leaf		INRAE		France		Optimal
+UNT21	gsw (mol m⁻² s⁻¹)	0.457670040059682	Leaf		INRAE		France		Optimal
+UNT46	gsw (mol m⁻² s⁻¹)	0.303719588308959	Leaf		INRAE		France		Optimal
+UNT46	gsw (mol m⁻² s⁻¹)	0.362492490029096	Leaf		INRAE		France		Optimal
+UNT46	gsw (mol m⁻² s⁻¹)	0.143945204338587	Leaf		INRAE		France		Optimal
+UNT46	gsw (mol m⁻² s⁻¹)	0.439915407185328	Leaf		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Silique	Silique		INRAE		France		Optimal
+UNT4	e (mol m⁻² s⁻¹)	0.0000373176684012	Silique		INRAE		France		Optimal
+UNT4	e (mol m⁻² s⁻¹)	0.0000238287638478	Silique		INRAE		France		Optimal
+UNT4	e (mol m⁻² s⁻¹)	0.0000317540606706	Silique		INRAE		France		Optimal
+UNT4	e (mol m⁻² s⁻¹)	0.0000322965613364	Silique		INRAE		France		Optimal
+UNT18	e (mol m⁻² s⁻¹)	0.0000221163081713	Silique		INRAE		France		Optimal
+UNT18	e (mol m⁻² s⁻¹)	0.0000255453222279	Silique		INRAE		France		Optimal
+UNT18	e (mol m⁻² s⁻¹)	0.0000240616070985	Silique		INRAE		France		Optimal
+UNT18	e (mol m⁻² s⁻¹)	0.0000227609889886	Silique		INRAE		France		Optimal
+UNT21	e (mol m⁻² s⁻¹)	0.0000185622695196	Silique		INRAE		France		Optimal
+UNT21	e (mol m⁻² s⁻¹)	0.0000334849162585	Silique		INRAE		France		Optimal
+UNT21	e (mol m⁻² s⁻¹)	0.0000291715021541	Silique		INRAE		France		Optimal
+UNT21	e (mol m⁻² s⁻¹)	0.0000284485652153	Silique		INRAE		France		Optimal
+UNT46	e (mol m⁻² s⁻¹)	0.0000162023746935	Silique		INRAE		France		Optimal
+UNT46	e (mol m⁻² s⁻¹)	0.0000340082422785	Silique		INRAE		France		Optimal
+UNT46	e (mol m⁻² s⁻¹)	0.0000538362526065	Silique		INRAE		France		Optimal
+UNT46	e (mol m⁻² s⁻¹)	0.0000198995183673	Silique		INRAE		France		Optimal
+UNT4	a (µmol m⁻² s⁻¹)	0.0431715538366751	Silique		INRAE		France		Optimal
+UNT4	a (µmol m⁻² s⁻¹)	0.0428768805444884	Silique		INRAE		France		Optimal
+UNT4	a (µmol m⁻² s⁻¹)	0.0472113212987861	Silique		INRAE		France		Optimal
+UNT4	a (µmol m⁻² s⁻¹)	0.0335900732441288	Silique		INRAE		France		Optimal
+UNT18	a (µmol m⁻² s⁻¹)	0.0349856518141078	Silique		INRAE		France		Optimal
+UNT18	a (µmol m⁻² s⁻¹)	0.0331285337167915	Silique		INRAE		France		Optimal
+UNT18	a (µmol m⁻² s⁻¹)	0.0286208543383865	Silique		INRAE		France		Optimal
+UNT18	a (µmol m⁻² s⁻¹)	0.0408558175234894	Silique		INRAE		France		Optimal
+UNT21	a (µmol m⁻² s⁻¹)	0.0324409232388548	Silique		INRAE		France		Optimal
+UNT21	a (µmol m⁻² s⁻¹)	0.054777758200374	Silique		INRAE		France		Optimal
+UNT21	a (µmol m⁻² s⁻¹)	0.0381309530487536	Silique		INRAE		France		Optimal
+UNT21	a (µmol m⁻² s⁻¹)	0.0436567038862381	Silique		INRAE		France		Optimal
+UNT46	a (µmol m⁻² s⁻¹)	0.0184616913280176	Silique		INRAE		France		Optimal
+UNT46	a (µmol m⁻² s⁻¹)	0.0533628898337198	Silique		INRAE		France		Optimal
+UNT46	a (µmol m⁻² s⁻¹)	0.0503407450483332	Silique		INRAE		France		Optimal
+UNT46	a (µmol m⁻² s⁻¹)	0.0248856064856473	Silique		INRAE		France		Optimal
+UNT4	gsw (mol m⁻² s⁻¹)	0.0013650267349014	Silique		INRAE		France		Optimal
+UNT4	gsw (mol m⁻² s⁻¹)	0.0008701609934792	Silique		INRAE		France		Optimal
+UNT4	gsw (mol m⁻² s⁻¹)	0.0011482645138369	Silique		INRAE		France		Optimal
+UNT4	gsw (mol m⁻² s⁻¹)	0.0012457003011708	Silique		INRAE		France		Optimal
+UNT18	gsw (mol m⁻² s⁻¹)	0.0008465073364028	Silique		INRAE		France		Optimal
+UNT18	gsw (mol m⁻² s⁻¹)	0.0009329012213079	Silique		INRAE		France		Optimal
+UNT18	gsw (mol m⁻² s⁻¹)	0.000892373598329	Silique		INRAE		France		Optimal
+UNT18	gsw (mol m⁻² s⁻¹)	0.0008456924501222	Silique		INRAE		France		Optimal
+UNT21	gsw (mol m⁻² s⁻¹)	0.0006890328865083	Silique		INRAE		France		Optimal
+UNT21	gsw (mol m⁻² s⁻¹)	0.0012845041830813	Silique		INRAE		France		Optimal
+UNT21	gsw (mol m⁻² s⁻¹)	0.0010885100223303	Silique		INRAE		France		Optimal
+UNT21	gsw (mol m⁻² s⁻¹)	0.0011172243747354	Silique		INRAE		France		Optimal
+UNT46	gsw (mol m⁻² s⁻¹)	0.0005910990939591	Silique		INRAE		France		Optimal
+UNT46	gsw (mol m⁻² s⁻¹)	0.0012621699712702	Silique		INRAE		France		Optimal
+UNT46	gsw (mol m⁻² s⁻¹)	0.0021044338433286	Silique		INRAE		France		Optimal
+UNT46	gsw (mol m⁻² s⁻¹)	0.0007299223535225	Silique		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT4	e (mol m⁻² s⁻¹)	0.0050810204287583	Leaf		INRAE		France		Optimal
+UNT4	e (mol m⁻² s⁻¹)	0.003901406485967	Leaf		INRAE		France		Optimal
+UNT4	e (mol m⁻² s⁻¹)	0.0042272643467858	Leaf		INRAE		France		Optimal
+UNT4	e (mol m⁻² s⁻¹)	0.0072198350142074	Leaf		INRAE		France		Optimal
+UNT18	e (mol m⁻² s⁻¹)	0.004080570112738	Leaf		INRAE		France		Optimal
+UNT18	e (mol m⁻² s⁻¹)	0.004653998581	Leaf		INRAE		France		Optimal
+UNT18	e (mol m⁻² s⁻¹)	0.0040069579616675	Leaf		INRAE		France		Optimal
+UNT18	e (mol m⁻² s⁻¹)	0.0029001675820293	Leaf		INRAE		France		Optimal
+UNT21	e (mol m⁻² s⁻¹)	0.0033392080061863	Leaf		INRAE		France		Optimal
+UNT21	e (mol m⁻² s⁻¹)	0.0046454093757399	Leaf		INRAE		France		Optimal
+UNT21	e (mol m⁻² s⁻¹)	0.0033780282654805	Leaf		INRAE		France		Optimal
+UNT21	e (mol m⁻² s⁻¹)	0.0025615950137739	Leaf		INRAE		France		Optimal
+UNT46	e (mol m⁻² s⁻¹)	0.0032365046136825	Leaf		INRAE		France		Optimal
+UNT46	e (mol m⁻² s⁻¹)	0.0031468928232078	Leaf		INRAE		France		Optimal
+UNT46	e (mol m⁻² s⁻¹)	0.0042399443430971	Leaf		INRAE		France		Optimal
+UNT46	e (mol m⁻² s⁻¹)	0.0032063956094514	Leaf		INRAE		France		Optimal
+UNT4	a (µmol m⁻² s⁻¹)	11.1952883970246	Leaf		INRAE		France		Optimal
+UNT4	a (µmol m⁻² s⁻¹)	8.71898052262368	Leaf		INRAE		France		Optimal
+UNT4	a (µmol m⁻² s⁻¹)	9.72038600088765	Leaf		INRAE		France		Optimal
+UNT4	a (µmol m⁻² s⁻¹)	12.7197031228879	Leaf		INRAE		France		Optimal
+UNT18	a (µmol m⁻² s⁻¹)	9.86026548220432	Leaf		INRAE		France		Optimal
+UNT18	a (µmol m⁻² s⁻¹)	7.90565128259585	Leaf		INRAE		France		Optimal
+UNT18	a (µmol m⁻² s⁻¹)	8.51068555614281	Leaf		INRAE		France		Optimal
+UNT18	a (µmol m⁻² s⁻¹)	5.91633782329898	Leaf		INRAE		France		Optimal
+UNT21	a (µmol m⁻² s⁻¹)	6.22995038790757	Leaf		INRAE		France		Optimal
+UNT21	a (µmol m⁻² s⁻¹)	8.92527734765676	Leaf		INRAE		France		Optimal
+UNT21	a (µmol m⁻² s⁻¹)	7.76124170016874	Leaf		INRAE		France		Optimal
+UNT21	a (µmol m⁻² s⁻¹)	6.01348173562604	Leaf		INRAE		France		Optimal
+UNT46	a (µmol m⁻² s⁻¹)	8.16822219377817	Leaf		INRAE		France		Optimal
+UNT46	a (µmol m⁻² s⁻¹)	4.68851095978007	Leaf		INRAE		France		Optimal
+UNT46	a (µmol m⁻² s⁻¹)	9.60024424872481	Leaf		INRAE		France		Optimal
+UNT46	a (µmol m⁻² s⁻¹)	7.68392665716769	Leaf		INRAE		France		Optimal
+UNT4	gsw (mol m⁻² s⁻¹)	0.26509354113844	Leaf		INRAE		France		Optimal
+UNT4	gsw (mol m⁻² s⁻¹)	0.180145552756053	Leaf		INRAE		France		Optimal
+UNT4	gsw (mol m⁻² s⁻¹)	0.20939197233232	Leaf		INRAE		France		Optimal
+UNT4	gsw (mol m⁻² s⁻¹)	0.411971847968844	Leaf		INRAE		France		Optimal
+UNT18	gsw (mol m⁻² s⁻¹)	0.211029461259031	Leaf		INRAE		France		Optimal
+UNT18	gsw (mol m⁻² s⁻¹)	0.243963603796542	Leaf		INRAE		France		Optimal
+UNT18	gsw (mol m⁻² s⁻¹)	0.19523005867537	Leaf		INRAE		France		Optimal
+UNT18	gsw (mol m⁻² s⁻¹)	0.136216936406527	Leaf		INRAE		France		Optimal
+UNT21	gsw (mol m⁻² s⁻¹)	0.166431674173742	Leaf		INRAE		France		Optimal
+UNT21	gsw (mol m⁻² s⁻¹)	0.237119702378077	Leaf		INRAE		France		Optimal
+UNT21	gsw (mol m⁻² s⁻¹)	0.172688127689321	Leaf		INRAE		France		Optimal
+UNT21	gsw (mol m⁻² s⁻¹)	0.114657856224307	Leaf		INRAE		France		Optimal
+UNT46	gsw (mol m⁻² s⁻¹)	0.147607268152679	Leaf		INRAE		France		Optimal
+UNT46	gsw (mol m⁻² s⁻¹)	0.141606081730025	Leaf		INRAE		France		Optimal
+UNT46	gsw (mol m⁻² s⁻¹)	0.243046500432437	Leaf		INRAE		France		Optimal
+UNT46	gsw (mol m⁻² s⁻¹)	0.148362153316278	Leaf		INRAE		France		Optimal

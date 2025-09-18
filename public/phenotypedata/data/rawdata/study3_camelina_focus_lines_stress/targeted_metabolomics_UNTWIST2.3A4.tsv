@@ -1,0 +1,865 @@
+subject	variable	value	sample_plant_anatomical_entity	sample_collection_date	sample_institute	sample_city	sample_country	sample_associated_interval	sample_associated_factor
+UNT18	plant_anatomical_entity	seeds	seeds		UNIBO		Italy		Control
+UNT21	plant_anatomical_entity	seeds	seeds		UNIBO		Italy		Control
+UNT4	plant_anatomical_entity	seeds	seeds		UNIBO		Italy		Control
+UNT46	plant_anatomical_entity	seeds	seeds		UNIBO		Italy		Control
+UNT18	average - chlorophyll_a	0.106666666666667	seeds		UNIBO		Italy		Control
+UNT21	average - chlorophyll_a	0.110588235294118	seeds		UNIBO		Italy		Control
+UNT4	average - chlorophyll_a	0.08	seeds		UNIBO		Italy		Control
+UNT46	average - chlorophyll_a	0.101764705882353	seeds		UNIBO		Italy		Control
+UNT18	average - chlorophyll_b	0.066111111111111	seeds		UNIBO		Italy		Control
+UNT21	average - chlorophyll_b	0.061764705882353	seeds		UNIBO		Italy		Control
+UNT4	average - chlorophyll_b	0.045294117647059	seeds		UNIBO		Italy		Control
+UNT46	average - chlorophyll_b	0.056470588235294	seeds		UNIBO		Italy		Control
+UNT18	average - m13_amino acids	11.5083333333333	seeds		UNIBO		Italy		Control
+UNT21	average - m13_amino acids	11.4894117647059	seeds		UNIBO		Italy		Control
+UNT4	average - m13_amino acids	9.66294117647059	seeds		UNIBO		Italy		Control
+UNT46	average - m13_amino acids	10.1047058823529	seeds		UNIBO		Italy		Control
+UNT18	average - m09_citrate	2.66944444444444	seeds		UNIBO		Italy		Control
+UNT21	average - m09_citrate	3.12823529411765	seeds		UNIBO		Italy		Control
+UNT4	average - m09_citrate	2.56705882352941	seeds		UNIBO		Italy		Control
+UNT46	average - m09_citrate	2.28058823529412	seeds		UNIBO		Italy		Control
+UNT18	average - m04_fructose	4.00176470588235	seeds		UNIBO		Italy		Control
+UNT21	average - m04_fructose	7.65533333333333	seeds		UNIBO		Italy		Control
+UNT4	average - m04_fructose	6.095	seeds		UNIBO		Italy		Control
+UNT46	average - m04_fructose	4.76625	seeds		UNIBO		Italy		Control
+UNT18	average - m03_glucose	2.53944444444444	seeds		UNIBO		Italy		Control
+UNT21	average - m03_glucose	4.60941176470588	seeds		UNIBO		Italy		Control
+UNT4	average - m03_glucose	2.10666666666667	seeds		UNIBO		Italy		Control
+UNT46	average - m03_glucose	3.82352941176471	seeds		UNIBO		Italy		Control
+UNT18	average - m10_malate	3.285	seeds		UNIBO		Italy		Control
+UNT21	average - m10_malate	2.79470588235294	seeds		UNIBO		Italy		Control
+UNT4	average - m10_malate	2.88411764705882	seeds		UNIBO		Italy		Control
+UNT46	average - m10_malate	2.37588235294118	seeds		UNIBO		Italy		Control
+UNT18	average - m23_polyphenols	3.69333333333333	seeds		UNIBO		Italy		Control
+UNT21	average - m23_polyphenols	4.15588235294118	seeds		UNIBO		Italy		Control
+UNT4	average - m23_polyphenols	4.36588235294118	seeds		UNIBO		Italy		Control
+UNT46	average - m23_polyphenols	4.00411764705882	seeds		UNIBO		Italy		Control
+UNT18	average - m01_protein	44.3211111111111	seeds		UNIBO		Italy		Control
+UNT21	average - m01_protein	40.8	seeds		UNIBO		Italy		Control
+UNT4	average - m01_protein	61.56	seeds		UNIBO		Italy		Control
+UNT46	average - m01_protein	45.79	seeds		UNIBO		Italy		Control
+UNT18	average - m02_starch	111.435	seeds		UNIBO		Italy		Control
+UNT21	average - m02_starch	130.191176470588	seeds		UNIBO		Italy		Control
+UNT4	average - m02_starch	85.6470588235294	seeds		UNIBO		Italy		Control
+UNT46	average - m02_starch	128.462941176471	seeds		UNIBO		Italy		Control
+UNT18	average - m05_sucrose	39.81	seeds		UNIBO		Italy		Control
+UNT21	average - m05_sucrose	68.2035294117647	seeds		UNIBO		Italy		Control
+UNT4	average - m05_sucrose	59.0923529411765	seeds		UNIBO		Italy		Control
+UNT46	average - m05_sucrose	44.2923529411765	seeds		UNIBO		Italy		Control
+UNT18	plant_anatomical_entity	walls	walls		UNIBO		Italy		Control
+UNT21	plant_anatomical_entity	walls	walls		UNIBO		Italy		Control
+UNT4	plant_anatomical_entity	walls	walls		UNIBO		Italy		Control
+UNT46	plant_anatomical_entity	walls	walls		UNIBO		Italy		Control
+UNT18	average - chlorophyll_a	0.122071794624042	walls		UNIBO		Italy		Control
+UNT21	average - chlorophyll_a	0.092377143782745	walls		UNIBO		Italy		Control
+UNT4	average - chlorophyll_a	0.095365981079664	walls		UNIBO		Italy		Control
+UNT46	average - chlorophyll_a	0.09881750177065	walls		UNIBO		Italy		Control
+UNT18	average - chlorophyll_b	0.036485323107917	walls		UNIBO		Italy		Control
+UNT21	average - chlorophyll_b	0.032149250380441	walls		UNIBO		Italy		Control
+UNT4	average - chlorophyll_b	0.039298721571661	walls		UNIBO		Italy		Control
+UNT46	average - chlorophyll_b	0.032767204793583	walls		UNIBO		Italy		Control
+UNT18	average - m13_amino acids	8.75155555555556	walls		UNIBO		Italy		Control
+UNT21	average - m13_amino acids	7.28794117647059	walls		UNIBO		Italy		Control
+UNT4	average - m13_amino acids	3.07547058823529	walls		UNIBO		Italy		Control
+UNT46	average - m13_amino acids	9.0255	walls		UNIBO		Italy		Control
+UNT18	average - m09_citrate	2.28833333333333	walls		UNIBO		Italy		Control
+UNT21	average - m09_citrate	3.58305882352941	walls		UNIBO		Italy		Control
+UNT4	average - m09_citrate	3.04011111111111	walls		UNIBO		Italy		Control
+UNT46	average - m09_citrate	2.46255555555556	walls		UNIBO		Italy		Control
+UNT18	average - m04_fructose	2.17427272727273	walls		UNIBO		Italy		Control
+UNT21	average - m04_fructose	6.05358333333333	walls		UNIBO		Italy		Control
+UNT4	average - m04_fructose	3.55085714285714	walls		UNIBO		Italy		Control
+UNT46	average - m04_fructose	4.1470625	walls		UNIBO		Italy		Control
+UNT18	average - m03_glucose	7.636	walls		UNIBO		Italy		Control
+UNT21	average - m03_glucose	6.04117647058824	walls		UNIBO		Italy		Control
+UNT4	average - m03_glucose	6.49077777777778	walls		UNIBO		Italy		Control
+UNT46	average - m03_glucose	11.5186666666667	walls		UNIBO		Italy		Control
+UNT18	average - m10_malate	3.80633333333333	walls		UNIBO		Italy		Control
+UNT21	average - m10_malate	3.49523529411765	walls		UNIBO		Italy		Control
+UNT4	average - m10_malate	3.37044444444445	walls		UNIBO		Italy		Control
+UNT46	average - m10_malate	3.35261111111111	walls		UNIBO		Italy		Control
+UNT18	average - m23_polyphenols	3.23311111111111	walls		UNIBO		Italy		Control
+UNT21	average - m23_polyphenols	3.14547058823529	walls		UNIBO		Italy		Control
+UNT4	average - m23_polyphenols	3.2955	walls		UNIBO		Italy		Control
+UNT46	average - m23_polyphenols	2.92716666666667	walls		UNIBO		Italy		Control
+UNT18	average - m01_protein	10.7945555555556	walls		UNIBO		Italy		Control
+UNT21	average - m01_protein	10.0547058823529	walls		UNIBO		Italy		Control
+UNT4	average - m01_protein	9.24123529411765	walls		UNIBO		Italy		Control
+UNT46	average - m01_protein	9.65294444444444	walls		UNIBO		Italy		Control
+UNT18	average - m02_starch	3.78405555555555	walls		UNIBO		Italy		Control
+UNT21	average - m02_starch	8.78023529411765	walls		UNIBO		Italy		Control
+UNT4	average - m02_starch	3.16377777777778	walls		UNIBO		Italy		Control
+UNT46	average - m02_starch	2.983	walls		UNIBO		Italy		Control
+UNT18	average - m05_sucrose	17.3818235294118	walls		UNIBO		Italy		Control
+UNT21	average - m05_sucrose	24.7214117647059	walls		UNIBO		Italy		Control
+UNT4	average - m05_sucrose	18.1392352941176	walls		UNIBO		Italy		Control
+UNT46	average - m05_sucrose	19.5796111111111	walls		UNIBO		Italy		Control
+UNT18	plant_anatomical_entity	Leaf	Leaf		UNIBO		Italy		Control
+UNT21	plant_anatomical_entity	Leaf	Leaf		UNIBO		Italy		Control
+UNT4	plant_anatomical_entity	Leaf	Leaf		UNIBO		Italy		Control
+UNT46	plant_anatomical_entity	Leaf	Leaf		UNIBO		Italy		Control
+UNT18	average - chlorophyll_a	0.965911289461495	Leaf		UNIBO		Italy		Control
+UNT21	average - chlorophyll_a	0.683418793571254	Leaf		UNIBO		Italy		Control
+UNT4	average - chlorophyll_a	0.973101527833052	Leaf		UNIBO		Italy		Control
+UNT46	average - chlorophyll_a	0.712679881852622	Leaf		UNIBO		Italy		Control
+UNT18	average - chlorophyll_b	0.27180796204446	Leaf		UNIBO		Italy		Control
+UNT21	average - chlorophyll_b	0.18439154021299	Leaf		UNIBO		Italy		Control
+UNT4	average - chlorophyll_b	0.255707285994137	Leaf		UNIBO		Italy		Control
+UNT46	average - chlorophyll_b	0.198369598100214	Leaf		UNIBO		Italy		Control
+UNT18	average - m13_amino acids	10.3960833333333	Leaf		UNIBO		Italy		Control
+UNT21	average - m13_amino acids	8.93927272727273	Leaf		UNIBO		Italy		Control
+UNT4	average - m13_amino acids	7.78563636363636	Leaf		UNIBO		Italy		Control
+UNT46	average - m13_amino acids	11.8770833333333	Leaf		UNIBO		Italy		Control
+UNT18	average - m09_citrate	6.26711111111111	Leaf		UNIBO		Italy		Control
+UNT21	average - m09_citrate	6.2592	Leaf		UNIBO		Italy		Control
+UNT4	average - m09_citrate	4.9855	Leaf		UNIBO		Italy		Control
+UNT46	average - m09_citrate	4.40675	Leaf		UNIBO		Italy		Control
+UNT18	average - m04_fructose	3.7763	Leaf		UNIBO		Italy		Control
+UNT21	average - m04_fructose	0.74375	Leaf		UNIBO		Italy		Control
+UNT4	average - m04_fructose	1.37883333333333	Leaf		UNIBO		Italy		Control
+UNT46	average - m04_fructose	1.5014	Leaf		UNIBO		Italy		Control
+UNT18	average - m03_glucose	9.10075	Leaf		UNIBO		Italy		Control
+UNT21	average - m03_glucose	11.2107272727273	Leaf		UNIBO		Italy		Control
+UNT4	average - m03_glucose	8.52718181818182	Leaf		UNIBO		Italy		Control
+UNT46	average - m03_glucose	15.4054166666667	Leaf		UNIBO		Italy		Control
+UNT18	average - m10_malate	21.5756666666667	Leaf		UNIBO		Italy		Control
+UNT21	average - m10_malate	18.0589090909091	Leaf		UNIBO		Italy		Control
+UNT4	average - m10_malate	23.7977272727273	Leaf		UNIBO		Italy		Control
+UNT46	average - m10_malate	22.4058333333333	Leaf		UNIBO		Italy		Control
+UNT18	average - m23_polyphenols	17.81725	Leaf		UNIBO		Italy		Control
+UNT21	average - m23_polyphenols	14.5607272727273	Leaf		UNIBO		Italy		Control
+UNT4	average - m23_polyphenols	17.0731818181818	Leaf		UNIBO		Italy		Control
+UNT46	average - m23_polyphenols	15.37225	Leaf		UNIBO		Italy		Control
+UNT18	average - m01_protein	19.2699166666667	Leaf		UNIBO		Italy		Control
+UNT21	average - m01_protein	17.3328181818182	Leaf		UNIBO		Italy		Control
+UNT4	average - m01_protein	17.5417272727273	Leaf		UNIBO		Italy		Control
+UNT46	average - m01_protein	18.6929166666667	Leaf		UNIBO		Italy		Control
+UNT18	average - m02_starch	21.3665833333333	Leaf		UNIBO		Italy		Control
+UNT21	average - m02_starch	19.7781818181818	Leaf		UNIBO		Italy		Control
+UNT4	average - m02_starch	25.2140909090909	Leaf		UNIBO		Italy		Control
+UNT46	average - m02_starch	20.9484166666667	Leaf		UNIBO		Italy		Control
+UNT18	average - m05_sucrose	26.5254166666667	Leaf		UNIBO		Italy		Control
+UNT21	average - m05_sucrose	14.5047272727273	Leaf		UNIBO		Italy		Control
+UNT4	average - m05_sucrose	27.7785454545455	Leaf		UNIBO		Italy		Control
+UNT46	average - m05_sucrose	24.18525	Leaf		UNIBO		Italy		Control
+UNT18	plant_anatomical_entity	seeds	seeds		UNIBO		Italy		Drought
+UNT21	plant_anatomical_entity	seeds	seeds		UNIBO		Italy		Drought
+UNT4	plant_anatomical_entity	seeds	seeds		UNIBO		Italy		Drought
+UNT46	plant_anatomical_entity	seeds	seeds		UNIBO		Italy		Drought
+UNT18	average - chlorophyll_a	0.097777777777778	seeds		UNIBO		Italy		Drought
+UNT21	average - chlorophyll_a	0.08125	seeds		UNIBO		Italy		Drought
+UNT4	average - chlorophyll_a	0.070588235294118	seeds		UNIBO		Italy		Drought
+UNT46	average - chlorophyll_a	0.097222222222222	seeds		UNIBO		Italy		Drought
+UNT18	average - chlorophyll_b	0.061666666666667	seeds		UNIBO		Italy		Drought
+UNT21	average - chlorophyll_b	0.0475	seeds		UNIBO		Italy		Drought
+UNT4	average - chlorophyll_b	0.045294117647059	seeds		UNIBO		Italy		Drought
+UNT46	average - chlorophyll_b	0.047777777777778	seeds		UNIBO		Italy		Drought
+UNT18	average - m13_amino acids	9.70777777777778	seeds		UNIBO		Italy		Drought
+UNT21	average - m13_amino acids	10.68375	seeds		UNIBO		Italy		Drought
+UNT4	average - m13_amino acids	7.33588235294118	seeds		UNIBO		Italy		Drought
+UNT46	average - m13_amino acids	10.6944444444444	seeds		UNIBO		Italy		Drought
+UNT18	average - m09_citrate	2.08	seeds		UNIBO		Italy		Drought
+UNT21	average - m09_citrate	1.841875	seeds		UNIBO		Italy		Drought
+UNT4	average - m09_citrate	2.364375	seeds		UNIBO		Italy		Drought
+UNT46	average - m09_citrate	2.15666666666667	seeds		UNIBO		Italy		Drought
+UNT18	average - m04_fructose	2.78636363636364	seeds		UNIBO		Italy		Drought
+UNT21	average - m04_fructose	3.37214285714286	seeds		UNIBO		Italy		Drought
+UNT4	average - m04_fructose	3.501875	seeds		UNIBO		Italy		Drought
+UNT46	average - m04_fructose	4.37882352941177	seeds		UNIBO		Italy		Drought
+UNT18	average - m03_glucose	1.805	seeds		UNIBO		Italy		Drought
+UNT21	average - m03_glucose	2.75	seeds		UNIBO		Italy		Drought
+UNT4	average - m03_glucose	1.26529411764706	seeds		UNIBO		Italy		Drought
+UNT46	average - m03_glucose	3.65	seeds		UNIBO		Italy		Drought
+UNT18	average - m10_malate	3.24722222222222	seeds		UNIBO		Italy		Drought
+UNT21	average - m10_malate	2.69375	seeds		UNIBO		Italy		Drought
+UNT4	average - m10_malate	4.20823529411765	seeds		UNIBO		Italy		Drought
+UNT46	average - m10_malate	2.64888888888889	seeds		UNIBO		Italy		Drought
+UNT18	average - m23_polyphenols	3.65777777777778	seeds		UNIBO		Italy		Drought
+UNT21	average - m23_polyphenols	3.94875	seeds		UNIBO		Italy		Drought
+UNT4	average - m23_polyphenols	4.22352941176471	seeds		UNIBO		Italy		Drought
+UNT46	average - m23_polyphenols	4.02222222222222	seeds		UNIBO		Italy		Drought
+UNT18	average - m01_protein	60.3005555555556	seeds		UNIBO		Italy		Drought
+UNT21	average - m01_protein	51.870625	seeds		UNIBO		Italy		Drought
+UNT4	average - m01_protein	65.0717647058824	seeds		UNIBO		Italy		Drought
+UNT46	average - m01_protein	56.3555555555556	seeds		UNIBO		Italy		Drought
+UNT18	average - m02_starch	51.2383333333333	seeds		UNIBO		Italy		Drought
+UNT21	average - m02_starch	65.626875	seeds		UNIBO		Italy		Drought
+UNT4	average - m02_starch	51.5017647058824	seeds		UNIBO		Italy		Drought
+UNT46	average - m02_starch	75.5427777777778	seeds		UNIBO		Italy		Drought
+UNT18	average - m05_sucrose	61.06	seeds		UNIBO		Italy		Drought
+UNT21	average - m05_sucrose	80.593125	seeds		UNIBO		Italy		Drought
+UNT4	average - m05_sucrose	72.9264705882353	seeds		UNIBO		Italy		Drought
+UNT46	average - m05_sucrose	61.4983333333333	seeds		UNIBO		Italy		Drought
+UNT18	plant_anatomical_entity	walls	walls		UNIBO		Italy		Drought
+UNT21	plant_anatomical_entity	walls	walls		UNIBO		Italy		Drought
+UNT4	plant_anatomical_entity	walls	walls		UNIBO		Italy		Drought
+UNT46	plant_anatomical_entity	walls	walls		UNIBO		Italy		Drought
+UNT18	average - chlorophyll_a	0.055941144403143	walls		UNIBO		Italy		Drought
+UNT21	average - chlorophyll_a	0.060566745078699	walls		UNIBO		Italy		Drought
+UNT4	average - chlorophyll_a	0.052351630923014	walls		UNIBO		Italy		Drought
+UNT46	average - chlorophyll_a	0.071749915761834	walls		UNIBO		Italy		Drought
+UNT18	average - chlorophyll_b	0.019968167404428	walls		UNIBO		Italy		Drought
+UNT21	average - chlorophyll_b	0.030080001215474	walls		UNIBO		Italy		Drought
+UNT4	average - chlorophyll_b	0.026187765208949	walls		UNIBO		Italy		Drought
+UNT46	average - chlorophyll_b	0.025837036389594	walls		UNIBO		Italy		Drought
+UNT18	average - m13_amino acids	8.82017647058824	walls		UNIBO		Italy		Drought
+UNT21	average - m13_amino acids	17.9808	walls		UNIBO		Italy		Drought
+UNT4	average - m13_amino acids	4.58266666666667	walls		UNIBO		Italy		Drought
+UNT46	average - m13_amino acids	12.0896111111111	walls		UNIBO		Italy		Drought
+UNT18	average - m09_citrate	2.12222222222222	walls		UNIBO		Italy		Drought
+UNT21	average - m09_citrate	1.92473333333333	walls		UNIBO		Italy		Drought
+UNT4	average - m09_citrate	3.01177777777778	walls		UNIBO		Italy		Drought
+UNT46	average - m09_citrate	2.56955555555556	walls		UNIBO		Italy		Drought
+UNT18	average - m04_fructose	4.45446153846154	walls		UNIBO		Italy		Drought
+UNT21	average - m04_fructose	5.15330769230769	walls		UNIBO		Italy		Drought
+UNT4	average - m04_fructose	3.32071428571429	walls		UNIBO		Italy		Drought
+UNT46	average - m04_fructose	3.35533333333333	walls		UNIBO		Italy		Drought
+UNT18	average - m03_glucose	8.9855	walls		UNIBO		Italy		Drought
+UNT21	average - m03_glucose	7.58286666666667	walls		UNIBO		Italy		Drought
+UNT4	average - m03_glucose	5.19072222222222	walls		UNIBO		Italy		Drought
+UNT46	average - m03_glucose	15.5069444444444	walls		UNIBO		Italy		Drought
+UNT18	average - m10_malate	5.16755555555556	walls		UNIBO		Italy		Drought
+UNT21	average - m10_malate	3.8382	walls		UNIBO		Italy		Drought
+UNT4	average - m10_malate	3.535	walls		UNIBO		Italy		Drought
+UNT46	average - m10_malate	4.93388888888889	walls		UNIBO		Italy		Drought
+UNT18	average - m23_polyphenols	2.4975	walls		UNIBO		Italy		Drought
+UNT21	average - m23_polyphenols	3.20373333333333	walls		UNIBO		Italy		Drought
+UNT4	average - m23_polyphenols	2.69338888888889	walls		UNIBO		Italy		Drought
+UNT46	average - m23_polyphenols	3.0425	walls		UNIBO		Italy		Drought
+UNT18	average - m01_protein	7.77888888888889	walls		UNIBO		Italy		Drought
+UNT21	average - m01_protein	11.2630666666667	walls		UNIBO		Italy		Drought
+UNT4	average - m01_protein	8.12044444444444	walls		UNIBO		Italy		Drought
+UNT46	average - m01_protein	10.5997777777778	walls		UNIBO		Italy		Drought
+UNT18	average - m02_starch	1.8155	walls		UNIBO		Italy		Drought
+UNT21	average - m02_starch	5.10307142857143	walls		UNIBO		Italy		Drought
+UNT4	average - m02_starch	1.91158823529412	walls		UNIBO		Italy		Drought
+UNT46	average - m02_starch	1.89906666666667	walls		UNIBO		Italy		Drought
+UNT18	average - m05_sucrose	16.7473529411765	walls		UNIBO		Italy		Drought
+UNT21	average - m05_sucrose	25.6178	walls		UNIBO		Italy		Drought
+UNT4	average - m05_sucrose	16.654	walls		UNIBO		Italy		Drought
+UNT46	average - m05_sucrose	19.8884705882353	walls		UNIBO		Italy		Drought
+UNT18	plant_anatomical_entity	Leaf	Leaf		UNIBO		Italy		Drought
+UNT21	plant_anatomical_entity	Leaf	Leaf		UNIBO		Italy		Drought
+UNT4	plant_anatomical_entity	Leaf	Leaf		UNIBO		Italy		Drought
+UNT46	plant_anatomical_entity	Leaf	Leaf		UNIBO		Italy		Drought
+UNT18	average - chlorophyll_a	1.07533663354922	Leaf		UNIBO		Italy		Drought
+UNT21	average - chlorophyll_a	1.1545397654436	Leaf		UNIBO		Italy		Drought
+UNT4	average - chlorophyll_a	0.906046773221271	Leaf		UNIBO		Italy		Drought
+UNT46	average - chlorophyll_a	0.988869216820464	Leaf		UNIBO		Italy		Drought
+UNT18	average - chlorophyll_b	0.304678253632843	Leaf		UNIBO		Italy		Drought
+UNT21	average - chlorophyll_b	0.304040984841205	Leaf		UNIBO		Italy		Drought
+UNT4	average - chlorophyll_b	0.239823723525987	Leaf		UNIBO		Italy		Drought
+UNT46	average - chlorophyll_b	0.262095840846926	Leaf		UNIBO		Italy		Drought
+UNT18	average - m13_amino acids	16.498	Leaf		UNIBO		Italy		Drought
+UNT21	average - m13_amino acids	22.9672727272727	Leaf		UNIBO		Italy		Drought
+UNT4	average - m13_amino acids	13.2719166666667	Leaf		UNIBO		Italy		Drought
+UNT46	average - m13_amino acids	20.8568181818182	Leaf		UNIBO		Italy		Drought
+UNT18	average - m09_citrate	5.06572727272727	Leaf		UNIBO		Italy		Drought
+UNT21	average - m09_citrate	5.17836363636364	Leaf		UNIBO		Italy		Drought
+UNT4	average - m09_citrate	5.38627272727273	Leaf		UNIBO		Italy		Drought
+UNT46	average - m09_citrate	4.854	Leaf		UNIBO		Italy		Drought
+UNT18	average - m04_fructose	2.25775	Leaf		UNIBO		Italy		Drought
+UNT21	average - m04_fructose	2.315375	Leaf		UNIBO		Italy		Drought
+UNT4	average - m04_fructose	2.57466666666667	Leaf		UNIBO		Italy		Drought
+UNT46	average - m04_fructose	2.78366666666667	Leaf		UNIBO		Italy		Drought
+UNT18	average - m03_glucose	19.04375	Leaf		UNIBO		Italy		Drought
+UNT21	average - m03_glucose	16.3981818181818	Leaf		UNIBO		Italy		Drought
+UNT4	average - m03_glucose	16.4663333333333	Leaf		UNIBO		Italy		Drought
+UNT46	average - m03_glucose	20.2678181818182	Leaf		UNIBO		Italy		Drought
+UNT18	average - m10_malate	37.34375	Leaf		UNIBO		Italy		Drought
+UNT21	average - m10_malate	25.834	Leaf		UNIBO		Italy		Drought
+UNT4	average - m10_malate	32.7161666666667	Leaf		UNIBO		Italy		Drought
+UNT46	average - m10_malate	26.958	Leaf		UNIBO		Italy		Drought
+UNT18	average - m23_polyphenols	20.5341666666667	Leaf		UNIBO		Italy		Drought
+UNT21	average - m23_polyphenols	20.8884545454545	Leaf		UNIBO		Italy		Drought
+UNT4	average - m23_polyphenols	18.8185	Leaf		UNIBO		Italy		Drought
+UNT46	average - m23_polyphenols	21.26	Leaf		UNIBO		Italy		Drought
+UNT18	average - m01_protein	24.6359166666667	Leaf		UNIBO		Italy		Drought
+UNT21	average - m01_protein	25.0369090909091	Leaf		UNIBO		Italy		Drought
+UNT4	average - m01_protein	20.6156666666667	Leaf		UNIBO		Italy		Drought
+UNT46	average - m01_protein	27.0152727272727	Leaf		UNIBO		Italy		Drought
+UNT18	average - m02_starch	8.0175	Leaf		UNIBO		Italy		Drought
+UNT21	average - m02_starch	24.0857272727273	Leaf		UNIBO		Italy		Drought
+UNT4	average - m02_starch	5.30391666666667	Leaf		UNIBO		Italy		Drought
+UNT46	average - m02_starch	13.6031818181818	Leaf		UNIBO		Italy		Drought
+UNT18	average - m05_sucrose	47.1226666666667	Leaf		UNIBO		Italy		Drought
+UNT21	average - m05_sucrose	34.0810909090909	Leaf		UNIBO		Italy		Drought
+UNT4	average - m05_sucrose	40.7040833333333	Leaf		UNIBO		Italy		Drought
+UNT46	average - m05_sucrose	33.9270909090909	Leaf		UNIBO		Italy		Drought
+UNT18	plant_anatomical_entity	seeds	seeds		RRES		United Kingdom		Control
+UNT21	plant_anatomical_entity	seeds	seeds		RRES		United Kingdom		Control
+UNT4	plant_anatomical_entity	seeds	seeds		RRES		United Kingdom		Control
+UNT46	plant_anatomical_entity	seeds	seeds		RRES		United Kingdom		Control
+UNT18	average - chlorophyll_a	0.095384615384615	seeds		RRES		United Kingdom		Control
+UNT21	average - chlorophyll_a	0.092666666666667	seeds		RRES		United Kingdom		Control
+UNT4	average - chlorophyll_a	0.104666666666667	seeds		RRES		United Kingdom		Control
+UNT46	average - chlorophyll_a	0.104285714285714	seeds		RRES		United Kingdom		Control
+UNT18	average - chlorophyll_b	0.053076923076923	seeds		RRES		United Kingdom		Control
+UNT21	average - chlorophyll_b	0.046666666666667	seeds		RRES		United Kingdom		Control
+UNT4	average - chlorophyll_b	0.062	seeds		RRES		United Kingdom		Control
+UNT46	average - chlorophyll_b	0.049285714285714	seeds		RRES		United Kingdom		Control
+UNT18	average - m13_amino acids	15.6330769230769	seeds		RRES		United Kingdom		Control
+UNT21	average - m13_amino acids	15.6686666666667	seeds		RRES		United Kingdom		Control
+UNT4	average - m13_amino acids	16.472	seeds		RRES		United Kingdom		Control
+UNT46	average - m13_amino acids	15.0507142857143	seeds		RRES		United Kingdom		Control
+UNT18	average - m09_citrate	4.72384615384615	seeds		RRES		United Kingdom		Control
+UNT21	average - m09_citrate	4.45466666666667	seeds		RRES		United Kingdom		Control
+UNT4	average - m09_citrate	5.54733333333333	seeds		RRES		United Kingdom		Control
+UNT46	average - m09_citrate	5.17071428571429	seeds		RRES		United Kingdom		Control
+UNT18	average - m04_fructose	25.6592307692308	seeds		RRES		United Kingdom		Control
+UNT21	average - m04_fructose	24.5257142857143	seeds		RRES		United Kingdom		Control
+UNT4	average - m04_fructose	18.2673333333333	seeds		RRES		United Kingdom		Control
+UNT46	average - m04_fructose	20.1535714285714	seeds		RRES		United Kingdom		Control
+UNT18	average - m03_glucose	24.3269230769231	seeds		RRES		United Kingdom		Control
+UNT21	average - m03_glucose	20.622	seeds		RRES		United Kingdom		Control
+UNT4	average - m03_glucose	16.4406666666667	seeds		RRES		United Kingdom		Control
+UNT46	average - m03_glucose	19.6464285714286	seeds		RRES		United Kingdom		Control
+UNT18	average - m10_malate	4.16076923076923	seeds		RRES		United Kingdom		Control
+UNT21	average - m10_malate	3.374	seeds		RRES		United Kingdom		Control
+UNT4	average - m10_malate	4.33733333333333	seeds		RRES		United Kingdom		Control
+UNT46	average - m10_malate	3.61071428571428	seeds		RRES		United Kingdom		Control
+UNT18	average - m23_polyphenols	3.28846153846154	seeds		RRES		United Kingdom		Control
+UNT21	average - m23_polyphenols	3.33133333333333	seeds		RRES		United Kingdom		Control
+UNT4	average - m23_polyphenols	3.36866666666667	seeds		RRES		United Kingdom		Control
+UNT46	average - m23_polyphenols	3.635	seeds		RRES		United Kingdom		Control
+UNT18	average - m01_protein	28.2125	seeds		RRES		United Kingdom		Control
+UNT21	average - m01_protein	27.39	seeds		RRES		United Kingdom		Control
+UNT4	average - m01_protein	32.932	seeds		RRES		United Kingdom		Control
+UNT46	average - m01_protein	33.4757142857143	seeds		RRES		United Kingdom		Control
+UNT18	average - m02_starch	135.361538461538	seeds		RRES		United Kingdom		Control
+UNT21	average - m02_starch	121.914	seeds		RRES		United Kingdom		Control
+UNT4	average - m02_starch	117.298666666667	seeds		RRES		United Kingdom		Control
+UNT46	average - m02_starch	147.720714285714	seeds		RRES		United Kingdom		Control
+UNT18	average - m05_sucrose	74.7023076923077	seeds		RRES		United Kingdom		Control
+UNT21	average - m05_sucrose	47.1853333333333	seeds		RRES		United Kingdom		Control
+UNT4	average - m05_sucrose	55.752	seeds		RRES		United Kingdom		Control
+UNT46	average - m05_sucrose	62.4642857142857	seeds		RRES		United Kingdom		Control
+UNT18	plant_anatomical_entity	walls	walls		RRES		United Kingdom		Control
+UNT21	plant_anatomical_entity	walls	walls		RRES		United Kingdom		Control
+UNT4	plant_anatomical_entity	walls	walls		RRES		United Kingdom		Control
+UNT46	plant_anatomical_entity	walls	walls		RRES		United Kingdom		Control
+UNT18	average - chlorophyll_a	0.209939562691817	walls		RRES		United Kingdom		Control
+UNT21	average - chlorophyll_a	0.19699285676576	walls		RRES		United Kingdom		Control
+UNT4	average - chlorophyll_a	0.183087716294636	walls		RRES		United Kingdom		Control
+UNT46	average - chlorophyll_a	0.213145492474681	walls		RRES		United Kingdom		Control
+UNT18	average - chlorophyll_b	0.077766878661493	walls		RRES		United Kingdom		Control
+UNT21	average - chlorophyll_b	0.067497027254595	walls		RRES		United Kingdom		Control
+UNT4	average - chlorophyll_b	0.059233755375511	walls		RRES		United Kingdom		Control
+UNT46	average - chlorophyll_b	0.06792148675214	walls		RRES		United Kingdom		Control
+UNT18	average - m13_amino acids	19.3299230769231	walls		RRES		United Kingdom		Control
+UNT21	average - m13_amino acids	14.487	walls		RRES		United Kingdom		Control
+UNT4	average - m13_amino acids	15.1433571428571	walls		RRES		United Kingdom		Control
+UNT46	average - m13_amino acids	17.9358333333333	walls		RRES		United Kingdom		Control
+UNT18	average - m09_citrate	3.29523076923077	walls		RRES		United Kingdom		Control
+UNT21	average - m09_citrate	4.44876923076923	walls		RRES		United Kingdom		Control
+UNT4	average - m09_citrate	3.89121428571429	walls		RRES		United Kingdom		Control
+UNT46	average - m09_citrate	2.81891666666667	walls		RRES		United Kingdom		Control
+UNT18	average - m04_fructose	4.24436363636364	walls		RRES		United Kingdom		Control
+UNT21	average - m04_fructose	3.88945454545455	walls		RRES		United Kingdom		Control
+UNT4	average - m04_fructose	3.9463	walls		RRES		United Kingdom		Control
+UNT46	average - m04_fructose	5.357	walls		RRES		United Kingdom		Control
+UNT18	average - m03_glucose	14.938	walls		RRES		United Kingdom		Control
+UNT21	average - m03_glucose	6.22738461538462	walls		RRES		United Kingdom		Control
+UNT4	average - m03_glucose	6.06361538461538	walls		RRES		United Kingdom		Control
+UNT46	average - m03_glucose	21.76625	walls		RRES		United Kingdom		Control
+UNT18	average - m10_malate	4.93284615384616	walls		RRES		United Kingdom		Control
+UNT21	average - m10_malate	4.71715384615385	walls		RRES		United Kingdom		Control
+UNT4	average - m10_malate	4.71957142857143	walls		RRES		United Kingdom		Control
+UNT46	average - m10_malate	5.71908333333333	walls		RRES		United Kingdom		Control
+UNT18	average - m23_polyphenols	2.83153846153846	walls		RRES		United Kingdom		Control
+UNT21	average - m23_polyphenols	2.44946153846154	walls		RRES		United Kingdom		Control
+UNT4	average - m23_polyphenols	2.36378571428571	walls		RRES		United Kingdom		Control
+UNT46	average - m23_polyphenols	2.1975	walls		RRES		United Kingdom		Control
+UNT18	average - m01_protein	16.3017692307692	walls		RRES		United Kingdom		Control
+UNT21	average - m01_protein	16.5510769230769	walls		RRES		United Kingdom		Control
+UNT4	average - m01_protein	13.4097142857143	walls		RRES		United Kingdom		Control
+UNT46	average - m01_protein	17.3661666666667	walls		RRES		United Kingdom		Control
+UNT18	average - m02_starch	6.27969230769231	walls		RRES		United Kingdom		Control
+UNT21	average - m02_starch	6.96746153846154	walls		RRES		United Kingdom		Control
+UNT4	average - m02_starch	6.24991666666667	walls		RRES		United Kingdom		Control
+UNT46	average - m02_starch	3.9965	walls		RRES		United Kingdom		Control
+UNT18	average - m05_sucrose	27.7613076923077	walls		RRES		United Kingdom		Control
+UNT21	average - m05_sucrose	25.4213076923077	walls		RRES		United Kingdom		Control
+UNT4	average - m05_sucrose	22.2891428571429	walls		RRES		United Kingdom		Control
+UNT46	average - m05_sucrose	27.0575	walls		RRES		United Kingdom		Control
+UNT18	plant_anatomical_entity	Leaf	Leaf		RRES		United Kingdom		Control
+UNT21	plant_anatomical_entity	Leaf	Leaf		RRES		United Kingdom		Control
+UNT4	plant_anatomical_entity	Leaf	Leaf		RRES		United Kingdom		Control
+UNT46	plant_anatomical_entity	Leaf	Leaf		RRES		United Kingdom		Control
+UNT18	average - chlorophyll_a	0.771157027183343	Leaf		RRES		United Kingdom		Control
+UNT21	average - chlorophyll_a	0.619458847727893	Leaf		RRES		United Kingdom		Control
+UNT4	average - chlorophyll_a	0.853141200202786	Leaf		RRES		United Kingdom		Control
+UNT46	average - chlorophyll_a	1.01763389675186	Leaf		RRES		United Kingdom		Control
+UNT18	average - chlorophyll_b	0.255038943512628	Leaf		RRES		United Kingdom		Control
+UNT21	average - chlorophyll_b	0.142858576594646	Leaf		RRES		United Kingdom		Control
+UNT4	average - chlorophyll_b	0.237206031685525	Leaf		RRES		United Kingdom		Control
+UNT46	average - chlorophyll_b	0.269459881885755	Leaf		RRES		United Kingdom		Control
+UNT18	average - m13_amino acids	13.702	Leaf		RRES		United Kingdom		Control
+UNT21	average - m13_amino acids	12.452	Leaf		RRES		United Kingdom		Control
+UNT4	average - m13_amino acids	12.139	Leaf		RRES		United Kingdom		Control
+UNT46	average - m13_amino acids	12.5465	Leaf		RRES		United Kingdom		Control
+UNT18	average - m09_citrate	1.673	Leaf		RRES		United Kingdom		Control
+UNT21	average - m09_citrate	15.2648333333333	Leaf		RRES		United Kingdom		Control
+UNT4	average - m09_citrate	4.28675	Leaf		RRES		United Kingdom		Control
+UNT46	average - m09_citrate	3.063	Leaf		RRES		United Kingdom		Control
+UNT18	average - m04_fructose	1.9075	Leaf		RRES		United Kingdom		Control
+UNT21	average - m04_fructose	0.5088	Leaf		RRES		United Kingdom		Control
+UNT4	average - m04_fructose	1.459	Leaf		RRES		United Kingdom		Control
+UNT46	average - m04_fructose	0.347	Leaf		RRES		United Kingdom		Control
+UNT18	average - m03_glucose	5.38	Leaf		RRES		United Kingdom		Control
+UNT21	average - m03_glucose	0.808333333333333	Leaf		RRES		United Kingdom		Control
+UNT4	average - m03_glucose	3.23633333333333	Leaf		RRES		United Kingdom		Control
+UNT46	average - m03_glucose	6.7565	Leaf		RRES		United Kingdom		Control
+UNT18	average - m10_malate	42.721	Leaf		RRES		United Kingdom		Control
+UNT21	average - m10_malate	39.9173333333333	Leaf		RRES		United Kingdom		Control
+UNT4	average - m10_malate	32.74275	Leaf		RRES		United Kingdom		Control
+UNT46	average - m10_malate	46.2515	Leaf		RRES		United Kingdom		Control
+UNT18	average - m23_polyphenols	8.465	Leaf		RRES		United Kingdom		Control
+UNT21	average - m23_polyphenols	4.85783333333333	Leaf		RRES		United Kingdom		Control
+UNT4	average - m23_polyphenols	6.9325	Leaf		RRES		United Kingdom		Control
+UNT46	average - m23_polyphenols	11.643	Leaf		RRES		United Kingdom		Control
+UNT18	average - m01_protein	14.95	Leaf		RRES		United Kingdom		Control
+UNT21	average - m01_protein	11.5453333333333	Leaf		RRES		United Kingdom		Control
+UNT4	average - m01_protein	15.875	Leaf		RRES		United Kingdom		Control
+UNT46	average - m01_protein	21.8825	Leaf		RRES		United Kingdom		Control
+UNT18	average - m02_starch	10.733	Leaf		RRES		United Kingdom		Control
+UNT21	average - m02_starch	9.27183333333333	Leaf		RRES		United Kingdom		Control
+UNT4	average - m02_starch	9.20725	Leaf		RRES		United Kingdom		Control
+UNT46	average - m02_starch	18.7855	Leaf		RRES		United Kingdom		Control
+UNT18	average - m05_sucrose	21.8755	Leaf		RRES		United Kingdom		Control
+UNT21	average - m05_sucrose	6.88916666666667	Leaf		RRES		United Kingdom		Control
+UNT4	average - m05_sucrose	11.6445	Leaf		RRES		United Kingdom		Control
+UNT46	average - m05_sucrose	38.863	Leaf		RRES		United Kingdom		Control
+UNT18	plant_anatomical_entity	seeds	seeds		RRES		United Kingdom		Heat
+UNT21	plant_anatomical_entity	seeds	seeds		RRES		United Kingdom		Heat
+UNT4	plant_anatomical_entity	seeds	seeds		RRES		United Kingdom		Heat
+UNT46	plant_anatomical_entity	seeds	seeds		RRES		United Kingdom		Heat
+UNT18	average - chlorophyll_a	0.065	seeds		RRES		United Kingdom		Heat
+UNT21	average - chlorophyll_a	0.059166666666667	seeds		RRES		United Kingdom		Heat
+UNT4	average - chlorophyll_a	0.075333333333333	seeds		RRES		United Kingdom		Heat
+UNT46	average - chlorophyll_a	0.071333333333333	seeds		RRES		United Kingdom		Heat
+UNT18	average - chlorophyll_b	0.036428571428572	seeds		RRES		United Kingdom		Heat
+UNT21	average - chlorophyll_b	0.03	seeds		RRES		United Kingdom		Heat
+UNT4	average - chlorophyll_b	0.05	seeds		RRES		United Kingdom		Heat
+UNT46	average - chlorophyll_b	0.050666666666667	seeds		RRES		United Kingdom		Heat
+UNT18	average - m13_amino acids	32.1692857142857	seeds		RRES		United Kingdom		Heat
+UNT21	average - m13_amino acids	22.7016666666667	seeds		RRES		United Kingdom		Heat
+UNT4	average - m13_amino acids	31.182	seeds		RRES		United Kingdom		Heat
+UNT46	average - m13_amino acids	23.9453333333333	seeds		RRES		United Kingdom		Heat
+UNT18	average - m09_citrate	3.70285714285714	seeds		RRES		United Kingdom		Heat
+UNT21	average - m09_citrate	2.67166666666667	seeds		RRES		United Kingdom		Heat
+UNT4	average - m09_citrate	4.22533333333333	seeds		RRES		United Kingdom		Heat
+UNT46	average - m09_citrate	3.11533333333333	seeds		RRES		United Kingdom		Heat
+UNT18	average - m04_fructose	9.71583333333333	seeds		RRES		United Kingdom		Heat
+UNT21	average - m04_fructose	4.90857142857143	seeds		RRES		United Kingdom		Heat
+UNT4	average - m04_fructose	7.71928571428571	seeds		RRES		United Kingdom		Heat
+UNT46	average - m04_fructose	5.94090909090909	seeds		RRES		United Kingdom		Heat
+UNT18	average - m03_glucose	10.2735714285714	seeds		RRES		United Kingdom		Heat
+UNT21	average - m03_glucose	2.61333333333333	seeds		RRES		United Kingdom		Heat
+UNT4	average - m03_glucose	8.60666666666667	seeds		RRES		United Kingdom		Heat
+UNT46	average - m03_glucose	2.55533333333333	seeds		RRES		United Kingdom		Heat
+UNT18	average - m10_malate	3.74642857142857	seeds		RRES		United Kingdom		Heat
+UNT21	average - m10_malate	3.2475	seeds		RRES		United Kingdom		Heat
+UNT4	average - m10_malate	4.01	seeds		RRES		United Kingdom		Heat
+UNT46	average - m10_malate	3.51533333333333	seeds		RRES		United Kingdom		Heat
+UNT18	average - m23_polyphenols	2.42357142857143	seeds		RRES		United Kingdom		Heat
+UNT21	average - m23_polyphenols	3.04833333333333	seeds		RRES		United Kingdom		Heat
+UNT4	average - m23_polyphenols	2.54266666666667	seeds		RRES		United Kingdom		Heat
+UNT46	average - m23_polyphenols	2.85066666666667	seeds		RRES		United Kingdom		Heat
+UNT18	average - m01_protein	61.0664285714286	seeds		RRES		United Kingdom		Heat
+UNT21	average - m01_protein	62.7491666666667	seeds		RRES		United Kingdom		Heat
+UNT4	average - m01_protein	64.6186666666667	seeds		RRES		United Kingdom		Heat
+UNT46	average - m01_protein	68.6513333333333	seeds		RRES		United Kingdom		Heat
+UNT18	average - m02_starch	47.9592857142857	seeds		RRES		United Kingdom		Heat
+UNT21	average - m02_starch	39.6208333333333	seeds		RRES		United Kingdom		Heat
+UNT4	average - m02_starch	46.3393333333333	seeds		RRES		United Kingdom		Heat
+UNT46	average - m02_starch	29.824	seeds		RRES		United Kingdom		Heat
+UNT18	average - m05_sucrose	114.655	seeds		RRES		United Kingdom		Heat
+UNT21	average - m05_sucrose	108.824166666667	seeds		RRES		United Kingdom		Heat
+UNT4	average - m05_sucrose	124.578666666667	seeds		RRES		United Kingdom		Heat
+UNT46	average - m05_sucrose	116.542666666667	seeds		RRES		United Kingdom		Heat
+UNT18	plant_anatomical_entity	walls	walls		RRES		United Kingdom		Heat
+UNT21	plant_anatomical_entity	walls	walls		RRES		United Kingdom		Heat
+UNT4	plant_anatomical_entity	walls	walls		RRES		United Kingdom		Heat
+UNT46	plant_anatomical_entity	walls	walls		RRES		United Kingdom		Heat
+UNT18	average - chlorophyll_a	0.070090802114907	walls		RRES		United Kingdom		Heat
+UNT21	average - chlorophyll_a	0.088442855504561	walls		RRES		United Kingdom		Heat
+UNT4	average - chlorophyll_a	0.067016503795753	walls		RRES		United Kingdom		Heat
+UNT46	average - chlorophyll_a	0.080210507423645	walls		RRES		United Kingdom		Heat
+UNT18	average - chlorophyll_b	0.03155147454219	walls		RRES		United Kingdom		Heat
+UNT21	average - chlorophyll_b	0.032734045845519	walls		RRES		United Kingdom		Heat
+UNT4	average - chlorophyll_b	0.023841923328733	walls		RRES		United Kingdom		Heat
+UNT46	average - chlorophyll_b	0.028383064175206	walls		RRES		United Kingdom		Heat
+UNT18	average - m13_amino acids	33.58125	walls		RRES		United Kingdom		Heat
+UNT21	average - m13_amino acids	38.4021333333333	walls		RRES		United Kingdom		Heat
+UNT4	average - m13_amino acids	43.6587333333333	walls		RRES		United Kingdom		Heat
+UNT46	average - m13_amino acids	41.4462307692308	walls		RRES		United Kingdom		Heat
+UNT18	average - m09_citrate	3.26066666666667	walls		RRES		United Kingdom		Heat
+UNT21	average - m09_citrate	4.41133333333333	walls		RRES		United Kingdom		Heat
+UNT4	average - m09_citrate	3.035	walls		RRES		United Kingdom		Heat
+UNT46	average - m09_citrate	4.32476923076923	walls		RRES		United Kingdom		Heat
+UNT18	average - m04_fructose	3.65033333333333	walls		RRES		United Kingdom		Heat
+UNT21	average - m04_fructose	3.7984	walls		RRES		United Kingdom		Heat
+UNT4	average - m04_fructose	3.39811111111111	walls		RRES		United Kingdom		Heat
+UNT46	average - m04_fructose	2.429	walls		RRES		United Kingdom		Heat
+UNT18	average - m03_glucose	2.27736363636364	walls		RRES		United Kingdom		Heat
+UNT21	average - m03_glucose	1.42991666666667	walls		RRES		United Kingdom		Heat
+UNT4	average - m03_glucose	1.69792307692308	walls		RRES		United Kingdom		Heat
+UNT46	average - m03_glucose	1.41291666666667	walls		RRES		United Kingdom		Heat
+UNT18	average - m10_malate	5.95216666666667	walls		RRES		United Kingdom		Heat
+UNT21	average - m10_malate	4.93793333333333	walls		RRES		United Kingdom		Heat
+UNT4	average - m10_malate	6.50086666666667	walls		RRES		United Kingdom		Heat
+UNT46	average - m10_malate	7.07715384615385	walls		RRES		United Kingdom		Heat
+UNT18	average - m23_polyphenols	1.87291666666667	walls		RRES		United Kingdom		Heat
+UNT21	average - m23_polyphenols	1.6828	walls		RRES		United Kingdom		Heat
+UNT4	average - m23_polyphenols	1.61446666666667	walls		RRES		United Kingdom		Heat
+UNT46	average - m23_polyphenols	1.52561538461538	walls		RRES		United Kingdom		Heat
+UNT18	average - m01_protein	9.08433333333334	walls		RRES		United Kingdom		Heat
+UNT21	average - m01_protein	9.69726666666667	walls		RRES		United Kingdom		Heat
+UNT4	average - m01_protein	7.9732	walls		RRES		United Kingdom		Heat
+UNT46	average - m01_protein	10.6616923076923	walls		RRES		United Kingdom		Heat
+UNT18	average - m02_starch	1.51936363636364	walls		RRES		United Kingdom		Heat
+UNT21	average - m02_starch	1.5835	walls		RRES		United Kingdom		Heat
+UNT4	average - m02_starch	1.1858	walls		RRES		United Kingdom		Heat
+UNT46	average - m02_starch	0.763454545454545	walls		RRES		United Kingdom		Heat
+UNT18	average - m05_sucrose	11.9610833333333	walls		RRES		United Kingdom		Heat
+UNT21	average - m05_sucrose	10.9642142857143	walls		RRES		United Kingdom		Heat
+UNT4	average - m05_sucrose	11.0507142857143	walls		RRES		United Kingdom		Heat
+UNT46	average - m05_sucrose	12.0442307692308	walls		RRES		United Kingdom		Heat
+UNT18	plant_anatomical_entity	Leaf	Leaf		RRES		United Kingdom		Heat
+UNT21	plant_anatomical_entity	Leaf	Leaf		RRES		United Kingdom		Heat
+UNT4	plant_anatomical_entity	Leaf	Leaf		RRES		United Kingdom		Heat
+UNT46	plant_anatomical_entity	Leaf	Leaf		RRES		United Kingdom		Heat
+UNT18	average - chlorophyll_a	0.759410475699671	Leaf		RRES		United Kingdom		Heat
+UNT21	average - chlorophyll_a	0.803591836734694	Leaf		RRES		United Kingdom		Heat
+UNT4	average - chlorophyll_a	0.644975143106023	Leaf		RRES		United Kingdom		Heat
+UNT46	average - chlorophyll_a	0.983295420801748	Leaf		RRES		United Kingdom		Heat
+UNT18	average - chlorophyll_b	0.224046489505866	Leaf		RRES		United Kingdom		Heat
+UNT21	average - chlorophyll_b	0.269197278911565	Leaf		RRES		United Kingdom		Heat
+UNT4	average - chlorophyll_b	0.212347763190642	Leaf		RRES		United Kingdom		Heat
+UNT46	average - chlorophyll_b	0.300350042978823	Leaf		RRES		United Kingdom		Heat
+UNT18	average - m13_amino acids	9.77525	Leaf		RRES		United Kingdom		Heat
+UNT21	average - m13_amino acids	8.295	Leaf		RRES		United Kingdom		Heat
+UNT4	average - m13_amino acids	11.9465	Leaf		RRES		United Kingdom		Heat
+UNT46	average - m13_amino acids	11.841	Leaf		RRES		United Kingdom		Heat
+UNT18	average - m09_citrate	2.25057142857143	Leaf		RRES		United Kingdom		Heat
+UNT21	average - m09_citrate	0.335	Leaf		RRES		United Kingdom		Heat
+UNT4	average - m09_citrate	2.775	Leaf		RRES		United Kingdom		Heat
+UNT46	average - m09_citrate	1.7375	Leaf		RRES		United Kingdom		Heat
+UNT18	average - m04_fructose	2.44083333333333	Leaf		RRES		United Kingdom		Heat
+UNT21	average - m04_fructose	1.584	Leaf		RRES		United Kingdom		Heat
+UNT4	average - m04_fructose	1.99966666666667	Leaf		RRES		United Kingdom		Heat
+UNT46	average - m04_fructose	4.558	Leaf		RRES		United Kingdom		Heat
+UNT18	average - m03_glucose	5.341625	Leaf		RRES		United Kingdom		Heat
+UNT21	average - m03_glucose	5.92	Leaf		RRES		United Kingdom		Heat
+UNT4	average - m03_glucose	6.48566666666667	Leaf		RRES		United Kingdom		Heat
+UNT46	average - m03_glucose	10.929	Leaf		RRES		United Kingdom		Heat
+UNT18	average - m10_malate	30.64325	Leaf		RRES		United Kingdom		Heat
+UNT21	average - m10_malate	24.12	Leaf		RRES		United Kingdom		Heat
+UNT4	average - m10_malate	23.53075	Leaf		RRES		United Kingdom		Heat
+UNT46	average - m10_malate	26.5365	Leaf		RRES		United Kingdom		Heat
+UNT18	average - m23_polyphenols	8.572	Leaf		RRES		United Kingdom		Heat
+UNT21	average - m23_polyphenols	4.528	Leaf		RRES		United Kingdom		Heat
+UNT4	average - m23_polyphenols	7.71075	Leaf		RRES		United Kingdom		Heat
+UNT46	average - m23_polyphenols	8.0775	Leaf		RRES		United Kingdom		Heat
+UNT18	average - m01_protein	12.27675	Leaf		RRES		United Kingdom		Heat
+UNT21	average - m01_protein	11.355	Leaf		RRES		United Kingdom		Heat
+UNT4	average - m01_protein	10.47025	Leaf		RRES		United Kingdom		Heat
+UNT46	average - m01_protein	18.87	Leaf		RRES		United Kingdom		Heat
+UNT18	average - m02_starch	6.57175	Leaf		RRES		United Kingdom		Heat
+UNT21	average - m02_starch	11.966	Leaf		RRES		United Kingdom		Heat
+UNT4	average - m02_starch	2.18475	Leaf		RRES		United Kingdom		Heat
+UNT46	average - m02_starch	4.936	Leaf		RRES		United Kingdom		Heat
+UNT18	average - m05_sucrose	19.0845	Leaf		RRES		United Kingdom		Heat
+UNT21	average - m05_sucrose	18.155	Leaf		RRES		United Kingdom		Heat
+UNT4	average - m05_sucrose	31.98525	Leaf		RRES		United Kingdom		Heat
+UNT46	average - m05_sucrose	28.202	Leaf		RRES		United Kingdom		Heat
+UNT18	plant_anatomical_entity	seeds	seeds		AIT		Austria		Control
+UNT21	plant_anatomical_entity	seeds	seeds		AIT		Austria		Control
+UNT4	plant_anatomical_entity	seeds	seeds		AIT		Austria		Control
+UNT46	plant_anatomical_entity	seeds	seeds		AIT		Austria		Control
+UNT18	average - chlorophyll_a	0.046666666666667	seeds		AIT		Austria		Control
+UNT21	average - chlorophyll_a	0.056	seeds		AIT		Austria		Control
+UNT4	average - chlorophyll_a	0.064285714285714	seeds		AIT		Austria		Control
+UNT46	average - chlorophyll_a	0.068	seeds		AIT		Austria		Control
+UNT18	average - chlorophyll_b	0.009333333333333	seeds		AIT		Austria		Control
+UNT21	average - chlorophyll_b	0.016	seeds		AIT		Austria		Control
+UNT4	average - chlorophyll_b	0.022857142857143	seeds		AIT		Austria		Control
+UNT46	average - chlorophyll_b	0.024	seeds		AIT		Austria		Control
+UNT18	average - m13_amino acids	17.932	seeds		AIT		Austria		Control
+UNT21	average - m13_amino acids	17.616	seeds		AIT		Austria		Control
+UNT4	average - m13_amino acids	15.2392857142857	seeds		AIT		Austria		Control
+UNT46	average - m13_amino acids	16.5726666666667	seeds		AIT		Austria		Control
+UNT18	average - m09_citrate	4.944	seeds		AIT		Austria		Control
+UNT21	average - m09_citrate	4.56533333333333	seeds		AIT		Austria		Control
+UNT4	average - m09_citrate	4.75	seeds		AIT		Austria		Control
+UNT46	average - m09_citrate	5.08866666666667	seeds		AIT		Austria		Control
+UNT18	average - m04_fructose	49.6153333333333	seeds		AIT		Austria		Control
+UNT21	average - m04_fructose	44.2946666666667	seeds		AIT		Austria		Control
+UNT4	average - m04_fructose	32.5114285714286	seeds		AIT		Austria		Control
+UNT46	average - m04_fructose	41.6306666666667	seeds		AIT		Austria		Control
+UNT18	average - m03_glucose	51.0553333333333	seeds		AIT		Austria		Control
+UNT21	average - m03_glucose	42.4526666666667	seeds		AIT		Austria		Control
+UNT4	average - m03_glucose	31.2971428571429	seeds		AIT		Austria		Control
+UNT46	average - m03_glucose	38.666	seeds		AIT		Austria		Control
+UNT18	average - m10_malate	6.05533333333333	seeds		AIT		Austria		Control
+UNT21	average - m10_malate	5.68933333333333	seeds		AIT		Austria		Control
+UNT4	average - m10_malate	4.57214285714286	seeds		AIT		Austria		Control
+UNT46	average - m10_malate	4.9	seeds		AIT		Austria		Control
+UNT18	average - m23_polyphenols	3.404	seeds		AIT		Austria		Control
+UNT21	average - m23_polyphenols	3.02133333333333	seeds		AIT		Austria		Control
+UNT4	average - m23_polyphenols	2.96142857142857	seeds		AIT		Austria		Control
+UNT46	average - m23_polyphenols	3.358	seeds		AIT		Austria		Control
+UNT18	average - m01_protein	18.622	seeds		AIT		Austria		Control
+UNT21	average - m01_protein	19.1	seeds		AIT		Austria		Control
+UNT4	average - m01_protein	21.6321428571429	seeds		AIT		Austria		Control
+UNT46	average - m01_protein	20.6233333333333	seeds		AIT		Austria		Control
+UNT18	average - m02_starch	119.613333333333	seeds		AIT		Austria		Control
+UNT21	average - m02_starch	126.880666666667	seeds		AIT		Austria		Control
+UNT4	average - m02_starch	121.777142857143	seeds		AIT		Austria		Control
+UNT46	average - m02_starch	140.876	seeds		AIT		Austria		Control
+UNT18	average - m05_sucrose	52.4766666666667	seeds		AIT		Austria		Control
+UNT21	average - m05_sucrose	36.942	seeds		AIT		Austria		Control
+UNT4	average - m05_sucrose	47.1878571428571	seeds		AIT		Austria		Control
+UNT46	average - m05_sucrose	51.262	seeds		AIT		Austria		Control
+UNT18	plant_anatomical_entity	walls	walls		AIT		Austria		Control
+UNT21	plant_anatomical_entity	walls	walls		AIT		Austria		Control
+UNT4	plant_anatomical_entity	walls	walls		AIT		Austria		Control
+UNT46	plant_anatomical_entity	walls	walls		AIT		Austria		Control
+UNT18	average - chlorophyll_a	0.238698634137658	walls		AIT		Austria		Control
+UNT21	average - chlorophyll_a	0.232433972614156	walls		AIT		Austria		Control
+UNT4	average - chlorophyll_a	0.221592975013118	walls		AIT		Austria		Control
+UNT46	average - chlorophyll_a	0.223236590657715	walls		AIT		Austria		Control
+UNT18	average - chlorophyll_b	0.084202664002354	walls		AIT		Austria		Control
+UNT21	average - chlorophyll_b	0.083536748033188	walls		AIT		Austria		Control
+UNT4	average - chlorophyll_b	0.06425141233764	walls		AIT		Austria		Control
+UNT46	average - chlorophyll_b	0.075608258598793	walls		AIT		Austria		Control
+UNT18	average - m13_amino acids	21.3593333333333	walls		AIT		Austria		Control
+UNT21	average - m13_amino acids	22.0657333333333	walls		AIT		Austria		Control
+UNT4	average - m13_amino acids	23.8590714285714	walls		AIT		Austria		Control
+UNT46	average - m13_amino acids	20.3516	walls		AIT		Austria		Control
+UNT18	average - m09_citrate	2.7438	walls		AIT		Austria		Control
+UNT21	average - m09_citrate	3.9356	walls		AIT		Austria		Control
+UNT4	average - m09_citrate	3.06807142857143	walls		AIT		Austria		Control
+UNT46	average - m09_citrate	2.31353333333333	walls		AIT		Austria		Control
+UNT18	average - m04_fructose	4.42430769230769	walls		AIT		Austria		Control
+UNT21	average - m04_fructose	3.434	walls		AIT		Austria		Control
+UNT4	average - m04_fructose	7.92458333333333	walls		AIT		Austria		Control
+UNT46	average - m04_fructose	4.43836363636364	walls		AIT		Austria		Control
+UNT18	average - m03_glucose	27.5918666666667	walls		AIT		Austria		Control
+UNT21	average - m03_glucose	27.3354666666667	walls		AIT		Austria		Control
+UNT4	average - m03_glucose	21.6191428571429	walls		AIT		Austria		Control
+UNT46	average - m03_glucose	32.0228666666667	walls		AIT		Austria		Control
+UNT18	average - m10_malate	5.32146666666667	walls		AIT		Austria		Control
+UNT21	average - m10_malate	4.84613333333333	walls		AIT		Austria		Control
+UNT4	average - m10_malate	4.27107142857143	walls		AIT		Austria		Control
+UNT46	average - m10_malate	4.796	walls		AIT		Austria		Control
+UNT18	average - m23_polyphenols	2.63013333333333	walls		AIT		Austria		Control
+UNT21	average - m23_polyphenols	2.35933333333333	walls		AIT		Austria		Control
+UNT4	average - m23_polyphenols	2.33314285714286	walls		AIT		Austria		Control
+UNT46	average - m23_polyphenols	2.33513333333333	walls		AIT		Austria		Control
+UNT18	average - m01_protein	17.9515333333333	walls		AIT		Austria		Control
+UNT21	average - m01_protein	18.519	walls		AIT		Austria		Control
+UNT4	average - m01_protein	17.0273571428572	walls		AIT		Austria		Control
+UNT46	average - m01_protein	16.1976666666667	walls		AIT		Austria		Control
+UNT18	average - m02_starch	19.9269285714286	walls		AIT		Austria		Control
+UNT21	average - m02_starch	15.8654666666667	walls		AIT		Austria		Control
+UNT4	average - m02_starch	11.2616428571429	walls		AIT		Austria		Control
+UNT46	average - m02_starch	13.4507333333333	walls		AIT		Austria		Control
+UNT18	average - m05_sucrose	30.8066666666667	walls		AIT		Austria		Control
+UNT21	average - m05_sucrose	24.1097333333333	walls		AIT		Austria		Control
+UNT4	average - m05_sucrose	29.3380769230769	walls		AIT		Austria		Control
+UNT46	average - m05_sucrose	28.14	walls		AIT		Austria		Control
+UNT18	plant_anatomical_entity	Leaf	Leaf		AIT		Austria		Control
+UNT21	plant_anatomical_entity	Leaf	Leaf		AIT		Austria		Control
+UNT4	plant_anatomical_entity	Leaf	Leaf		AIT		Austria		Control
+UNT46	plant_anatomical_entity	Leaf	Leaf		AIT		Austria		Control
+UNT18	average - chlorophyll_a	0.359318377536696	Leaf		AIT		Austria		Control
+UNT21	average - chlorophyll_a	0.484651906185622	Leaf		AIT		Austria		Control
+UNT4	average - chlorophyll_a	0.41713899053337	Leaf		AIT		Austria		Control
+UNT46	average - chlorophyll_a	0.449629787467075	Leaf		AIT		Austria		Control
+UNT18	average - chlorophyll_b	0.089432246968721	Leaf		AIT		Austria		Control
+UNT21	average - chlorophyll_b	0.13039821933927	Leaf		AIT		Austria		Control
+UNT4	average - chlorophyll_b	0.108553190829647	Leaf		AIT		Austria		Control
+UNT46	average - chlorophyll_b	0.126509843220734	Leaf		AIT		Austria		Control
+UNT18	average - m13_amino acids	4.702	Leaf		AIT		Austria		Control
+UNT21	average - m13_amino acids	5.67906666666667	Leaf		AIT		Austria		Control
+UNT4	average - m13_amino acids	4.96807142857143	Leaf		AIT		Austria		Control
+UNT46	average - m13_amino acids	5.19669230769231	Leaf		AIT		Austria		Control
+UNT18	average - m09_citrate	3.6702	Leaf		AIT		Austria		Control
+UNT21	average - m09_citrate	3.44073333333333	Leaf		AIT		Austria		Control
+UNT4	average - m09_citrate	5.21621428571429	Leaf		AIT		Austria		Control
+UNT46	average - m09_citrate	2.53592307692308	Leaf		AIT		Austria		Control
+UNT18	average - m04_fructose	0.3833	Leaf		AIT		Austria		Control
+UNT21	average - m04_fructose	0.630142857142857	Leaf		AIT		Austria		Control
+UNT4	average - m04_fructose	0.395625	Leaf		AIT		Austria		Control
+UNT46	average - m04_fructose	0.635	Leaf		AIT		Austria		Control
+UNT18	average - m03_glucose	0.144214285714286	Leaf		AIT		Austria		Control
+UNT21	average - m03_glucose	0.513285714285714	Leaf		AIT		Austria		Control
+UNT4	average - m03_glucose	0.277181818181818	Leaf		AIT		Austria		Control
+UNT46	average - m03_glucose	0.629846153846154	Leaf		AIT		Austria		Control
+UNT18	average - m10_malate	26.7079333333333	Leaf		AIT		Austria		Control
+UNT21	average - m10_malate	33.8441333333333	Leaf		AIT		Austria		Control
+UNT4	average - m10_malate	27.1033571428571	Leaf		AIT		Austria		Control
+UNT46	average - m10_malate	30.5493076923077	Leaf		AIT		Austria		Control
+UNT18	average - m23_polyphenols	2.91153333333333	Leaf		AIT		Austria		Control
+UNT21	average - m23_polyphenols	3.5152	Leaf		AIT		Austria		Control
+UNT4	average - m23_polyphenols	3.18376923076923	Leaf		AIT		Austria		Control
+UNT46	average - m23_polyphenols	3.24454545454545	Leaf		AIT		Austria		Control
+UNT18	average - m01_protein	6.31526666666667	Leaf		AIT		Austria		Control
+UNT21	average - m01_protein	7.93293333333333	Leaf		AIT		Austria		Control
+UNT4	average - m01_protein	6.54992857142857	Leaf		AIT		Austria		Control
+UNT46	average - m01_protein	5.979	Leaf		AIT		Austria		Control
+UNT18	average - m02_starch	3.244	Leaf		AIT		Austria		Control
+UNT21	average - m02_starch	7.52446666666667	Leaf		AIT		Austria		Control
+UNT4	average - m02_starch	5.38321428571429	Leaf		AIT		Austria		Control
+UNT46	average - m02_starch	3.92561538461538	Leaf		AIT		Austria		Control
+UNT18	average - m05_sucrose	2.99926666666667	Leaf		AIT		Austria		Control
+UNT21	average - m05_sucrose	4.5382	Leaf		AIT		Austria		Control
+UNT4	average - m05_sucrose	2.83121428571429	Leaf		AIT		Austria		Control
+UNT46	average - m05_sucrose	4.29584615384615	Leaf		AIT		Austria		Control
+UNT18	plant_anatomical_entity	seeds	seeds		AIT		Austria		Drought
+UNT21	plant_anatomical_entity	seeds	seeds		AIT		Austria		Drought
+UNT4	plant_anatomical_entity	seeds	seeds		AIT		Austria		Drought
+UNT46	plant_anatomical_entity	seeds	seeds		AIT		Austria		Drought
+UNT18	average - chlorophyll_a	0.053333333333333	seeds		AIT		Austria		Drought
+UNT21	average - chlorophyll_a	0.054666666666667	seeds		AIT		Austria		Drought
+UNT4	average - chlorophyll_a	0.077333333333333	seeds		AIT		Austria		Drought
+UNT46	average - chlorophyll_a	0.072	seeds		AIT		Austria		Drought
+UNT18	average - chlorophyll_b	0.012666666666667	seeds		AIT		Austria		Drought
+UNT21	average - chlorophyll_b	0.013333333333333	seeds		AIT		Austria		Drought
+UNT4	average - chlorophyll_b	0.026	seeds		AIT		Austria		Drought
+UNT46	average - chlorophyll_b	0.016	seeds		AIT		Austria		Drought
+UNT18	average - m13_amino acids	19.914	seeds		AIT		Austria		Drought
+UNT21	average - m13_amino acids	22.1013333333333	seeds		AIT		Austria		Drought
+UNT4	average - m13_amino acids	15.9486666666667	seeds		AIT		Austria		Drought
+UNT46	average - m13_amino acids	18.1933333333333	seeds		AIT		Austria		Drought
+UNT18	average - m09_citrate	4.82333333333333	seeds		AIT		Austria		Drought
+UNT21	average - m09_citrate	4.66	seeds		AIT		Austria		Drought
+UNT4	average - m09_citrate	5.02	seeds		AIT		Austria		Drought
+UNT46	average - m09_citrate	4.10733333333333	seeds		AIT		Austria		Drought
+UNT18	average - m04_fructose	50.1406666666667	seeds		AIT		Austria		Drought
+UNT21	average - m04_fructose	40.5273333333333	seeds		AIT		Austria		Drought
+UNT4	average - m04_fructose	39.366	seeds		AIT		Austria		Drought
+UNT46	average - m04_fructose	32.878	seeds		AIT		Austria		Drought
+UNT18	average - m03_glucose	51.4386666666667	seeds		AIT		Austria		Drought
+UNT21	average - m03_glucose	38.1266666666667	seeds		AIT		Austria		Drought
+UNT4	average - m03_glucose	37.6173333333333	seeds		AIT		Austria		Drought
+UNT46	average - m03_glucose	31.9106666666667	seeds		AIT		Austria		Drought
+UNT18	average - m10_malate	6.29666666666667	seeds		AIT		Austria		Drought
+UNT21	average - m10_malate	6.26933333333333	seeds		AIT		Austria		Drought
+UNT4	average - m10_malate	4.40933333333333	seeds		AIT		Austria		Drought
+UNT46	average - m10_malate	4.24333333333333	seeds		AIT		Austria		Drought
+UNT18	average - m23_polyphenols	2.43666666666667	seeds		AIT		Austria		Drought
+UNT21	average - m23_polyphenols	3.07133333333333	seeds		AIT		Austria		Drought
+UNT4	average - m23_polyphenols	3.01466666666667	seeds		AIT		Austria		Drought
+UNT46	average - m23_polyphenols	2.89333333333333	seeds		AIT		Austria		Drought
+UNT18	average - m01_protein	18.7973333333333	seeds		AIT		Austria		Drought
+UNT21	average - m01_protein	22.9386666666667	seeds		AIT		Austria		Drought
+UNT4	average - m01_protein	20.9993333333333	seeds		AIT		Austria		Drought
+UNT46	average - m01_protein	24.742	seeds		AIT		Austria		Drought
+UNT18	average - m02_starch	130.743333333333	seeds		AIT		Austria		Drought
+UNT21	average - m02_starch	122.162	seeds		AIT		Austria		Drought
+UNT4	average - m02_starch	131.194	seeds		AIT		Austria		Drought
+UNT46	average - m02_starch	142.008	seeds		AIT		Austria		Drought
+UNT18	average - m05_sucrose	54.7566666666667	seeds		AIT		Austria		Drought
+UNT21	average - m05_sucrose	41.8453333333333	seeds		AIT		Austria		Drought
+UNT4	average - m05_sucrose	55.2533333333333	seeds		AIT		Austria		Drought
+UNT46	average - m05_sucrose	47.0753333333333	seeds		AIT		Austria		Drought
+UNT18	plant_anatomical_entity	walls	walls		AIT		Austria		Drought
+UNT21	plant_anatomical_entity	walls	walls		AIT		Austria		Drought
+UNT4	plant_anatomical_entity	walls	walls		AIT		Austria		Drought
+UNT46	plant_anatomical_entity	walls	walls		AIT		Austria		Drought
+UNT18	average - chlorophyll_a	0.254692595600199	walls		AIT		Austria		Drought
+UNT21	average - chlorophyll_a	0.211957483475756	walls		AIT		Austria		Drought
+UNT4	average - chlorophyll_a	0.222408101411039	walls		AIT		Austria		Drought
+UNT46	average - chlorophyll_a	0.190511288254366	walls		AIT		Austria		Drought
+UNT18	average - chlorophyll_b	0.076402968645206	walls		AIT		Austria		Drought
+UNT21	average - chlorophyll_b	0.062601990100779	walls		AIT		Austria		Drought
+UNT4	average - chlorophyll_b	0.064707784437606	walls		AIT		Austria		Drought
+UNT46	average - chlorophyll_b	0.05247044431628	walls		AIT		Austria		Drought
+UNT18	average - m13_amino acids	37.3512857142857	walls		AIT		Austria		Drought
+UNT21	average - m13_amino acids	39.2584285714286	walls		AIT		Austria		Drought
+UNT4	average - m13_amino acids	25.1994666666667	walls		AIT		Austria		Drought
+UNT46	average - m13_amino acids	32.2694	walls		AIT		Austria		Drought
+UNT18	average - m09_citrate	2.90778571428571	walls		AIT		Austria		Drought
+UNT21	average - m09_citrate	3.80964285714286	walls		AIT		Austria		Drought
+UNT4	average - m09_citrate	2.7128	walls		AIT		Austria		Drought
+UNT46	average - m09_citrate	2.7296	walls		AIT		Austria		Drought
+UNT18	average - m04_fructose	5.80777777777778	walls		AIT		Austria		Drought
+UNT21	average - m04_fructose	5.63355555555556	walls		AIT		Austria		Drought
+UNT4	average - m04_fructose	10.5955	walls		AIT		Austria		Drought
+UNT46	average - m04_fructose	4.47	walls		AIT		Austria		Drought
+UNT18	average - m03_glucose	42.271	walls		AIT		Austria		Drought
+UNT21	average - m03_glucose	25.6501428571429	walls		AIT		Austria		Drought
+UNT4	average - m03_glucose	32.9944666666667	walls		AIT		Austria		Drought
+UNT46	average - m03_glucose	34.1568666666667	walls		AIT		Austria		Drought
+UNT18	average - m10_malate	4.235	walls		AIT		Austria		Drought
+UNT21	average - m10_malate	3.23957142857143	walls		AIT		Austria		Drought
+UNT4	average - m10_malate	4.29113333333333	walls		AIT		Austria		Drought
+UNT46	average - m10_malate	4.9548	walls		AIT		Austria		Drought
+UNT18	average - m23_polyphenols	2.19928571428571	walls		AIT		Austria		Drought
+UNT21	average - m23_polyphenols	2.17742857142857	walls		AIT		Austria		Drought
+UNT4	average - m23_polyphenols	2.71473333333333	walls		AIT		Austria		Drought
+UNT46	average - m23_polyphenols	2.4872	walls		AIT		Austria		Drought
+UNT18	average - m01_protein	17.2513571428571	walls		AIT		Austria		Drought
+UNT21	average - m01_protein	19.3462142857143	walls		AIT		Austria		Drought
+UNT4	average - m01_protein	16.925	walls		AIT		Austria		Drought
+UNT46	average - m01_protein	17.4711333333333	walls		AIT		Austria		Drought
+UNT18	average - m02_starch	21.2867142857143	walls		AIT		Austria		Drought
+UNT21	average - m02_starch	16.7688571428571	walls		AIT		Austria		Drought
+UNT4	average - m02_starch	10.8828	walls		AIT		Austria		Drought
+UNT46	average - m02_starch	10.1145333333333	walls		AIT		Austria		Drought
+UNT18	average - m05_sucrose	25.8800714285714	walls		AIT		Austria		Drought
+UNT21	average - m05_sucrose	17.9745	walls		AIT		Austria		Drought
+UNT4	average - m05_sucrose	36.8832	walls		AIT		Austria		Drought
+UNT46	average - m05_sucrose	25.5660666666667	walls		AIT		Austria		Drought
+UNT18	plant_anatomical_entity	Leaf	Leaf		AIT		Austria		Drought
+UNT21	plant_anatomical_entity	Leaf	Leaf		AIT		Austria		Drought
+UNT4	plant_anatomical_entity	Leaf	Leaf		AIT		Austria		Drought
+UNT46	plant_anatomical_entity	Leaf	Leaf		AIT		Austria		Drought
+UNT18	average - chlorophyll_a	0.398975063572075	Leaf		AIT		Austria		Drought
+UNT21	average - chlorophyll_a	0.327814961279354	Leaf		AIT		Austria		Drought
+UNT4	average - chlorophyll_a	0.392093666278725	Leaf		AIT		Austria		Drought
+UNT46	average - chlorophyll_a	0.367346605381274	Leaf		AIT		Austria		Drought
+UNT18	average - chlorophyll_b	0.102336704565629	Leaf		AIT		Austria		Drought
+UNT21	average - chlorophyll_b	0.090126696148336	Leaf		AIT		Austria		Drought
+UNT4	average - chlorophyll_b	0.098200135817127	Leaf		AIT		Austria		Drought
+UNT46	average - chlorophyll_b	0.104466081076159	Leaf		AIT		Austria		Drought
+UNT18	average - m13_amino acids	7.37106666666667	Leaf		AIT		Austria		Drought
+UNT21	average - m13_amino acids	6.48707142857143	Leaf		AIT		Austria		Drought
+UNT4	average - m13_amino acids	5.68313333333333	Leaf		AIT		Austria		Drought
+UNT46	average - m13_amino acids	6.5665	Leaf		AIT		Austria		Drought
+UNT18	average - m09_citrate	1.76283333333333	Leaf		AIT		Austria		Drought
+UNT21	average - m09_citrate	2.35038461538462	Leaf		AIT		Austria		Drought
+UNT4	average - m09_citrate	2.96713333333333	Leaf		AIT		Austria		Drought
+UNT46	average - m09_citrate	1.89592857142857	Leaf		AIT		Austria		Drought
+UNT18	average - m04_fructose	3.0152	Leaf		AIT		Austria		Drought
+UNT21	average - m04_fructose	2.64528571428571	Leaf		AIT		Austria		Drought
+UNT4	average - m04_fructose	2.4782	Leaf		AIT		Austria		Drought
+UNT46	average - m04_fructose	4.58957142857143	Leaf		AIT		Austria		Drought
+UNT18	average - m03_glucose	5.3648	Leaf		AIT		Austria		Drought
+UNT21	average - m03_glucose	5.28342857142857	Leaf		AIT		Austria		Drought
+UNT4	average - m03_glucose	3.67453333333333	Leaf		AIT		Austria		Drought
+UNT46	average - m03_glucose	9.02507142857143	Leaf		AIT		Austria		Drought
+UNT18	average - m10_malate	31.6646	Leaf		AIT		Austria		Drought
+UNT21	average - m10_malate	27.0097857142857	Leaf		AIT		Austria		Drought
+UNT4	average - m10_malate	30.5271333333333	Leaf		AIT		Austria		Drought
+UNT46	average - m10_malate	32.6396428571429	Leaf		AIT		Austria		Drought
+UNT18	average - m23_polyphenols	4.02713333333333	Leaf		AIT		Austria		Drought
+UNT21	average - m23_polyphenols	3.37869230769231	Leaf		AIT		Austria		Drought
+UNT4	average - m23_polyphenols	3.26126666666667	Leaf		AIT		Austria		Drought
+UNT46	average - m23_polyphenols	3.95057142857143	Leaf		AIT		Austria		Drought
+UNT18	average - m01_protein	8.3536	Leaf		AIT		Austria		Drought
+UNT21	average - m01_protein	5.93678571428571	Leaf		AIT		Austria		Drought
+UNT4	average - m01_protein	6.1638	Leaf		AIT		Austria		Drought
+UNT46	average - m01_protein	6.45264285714286	Leaf		AIT		Austria		Drought
+UNT18	average - m02_starch	1.9716	Leaf		AIT		Austria		Drought
+UNT21	average - m02_starch	2.02214285714286	Leaf		AIT		Austria		Drought
+UNT4	average - m02_starch	2.4154	Leaf		AIT		Austria		Drought
+UNT46	average - m02_starch	1.46421428571429	Leaf		AIT		Austria		Drought
+UNT18	average - m05_sucrose	9.3724	Leaf		AIT		Austria		Drought
+UNT21	average - m05_sucrose	6.795	Leaf		AIT		Austria		Drought
+UNT4	average - m05_sucrose	6.55473333333333	Leaf		AIT		Austria		Drought
+UNT46	average - m05_sucrose	7.30992857142857	Leaf		AIT		Austria		Drought

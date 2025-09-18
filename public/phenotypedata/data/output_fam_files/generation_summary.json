@@ -1,0 +1,2831 @@
+{
+  "generationTimestamp": "2025-09-18T14:58:35.439Z",
+  "totalDatasets": 278,
+  "sourceDirectories": [
+    "rawdata/study1_camelina_core_collection_controlled",
+    "rawdata/study2_camelina_core_collection_field"
+  ],
+  "baseFilenames": [
+    "fatty_acid_methyl_esters_",
+    "flour_pen_",
+    "isotope_analysis_",
+    "plant_water_content_",
+    "stem_biometrics_",
+    "total_antioxidant_capacity_",
+    "agronomic_traits_multiple_locations__",
+    "agronomic_traits_single_location__",
+    "nuclear_magnetic_resonance_spectroscopy_",
+    "pigments_"
+  ],
+  "variables": [
+    "fresh weight (g)",
+    "fresh weight (mg)",
+    "peak area c16:0",
+    "peak area c16:1",
+    "peak area c17:0",
+    "peak area c16:3",
+    "peak area c18:0",
+    "peak area c18:1d9",
+    "peak area c18:1d11",
+    "peak area c18:2",
+    "peak area c18:3",
+    "peak area c20:0",
+    "peak area c22:0",
+    "peak area c22:1",
+    "peak area c24:0",
+    "peak area c24:1",
+    "c16:0 (\u00b5g/mg)",
+    "c16:1 (\u00b5g/mg)",
+    "c16:3 (\u00b5g/mg)",
+    "c18:0 (\u00b5g/mg)",
+    "c18:1d9 (\u00b5g/mg)",
+    "c18:1d11 (\u00b5g/mg)",
+    "c18:2 (\u00b5g/mg)",
+    "c18:3 (\u00b5g/mg)",
+    "c20:0 (\u00b5g/mg)",
+    "c22:0 (\u00b5g/mg)",
+    "c22:1 (\u00b5g/mg)",
+    "c24:0 (\u00b5g/mg)",
+    "c24:1 (\u00b5g/mg)",
+    "total fa (\u00b5g/mg) ",
+    "relative pufa",
+    "c16:0 (%)",
+    "c16:1 (%)",
+    "c16:3 (%)",
+    "c18:0 (%)",
+    "c18:1d9 (%)",
+    "c18:1d11 (%)",
+    "c18:2 (%)",
+    "c18:3 (%)",
+    "c20:0 (%)",
+    "c22:0 (%)",
+    "c22:1 (%)",
+    "c24:0 (%)",
+    "c24:1 (%)",
+    "20  seed  weight (mg)",
+    "ms  peak  area  c17:0",
+    "ms  peak  area  c16:0",
+    "ms  peak  area  c16:1",
+    "ms  peak  area  c18:0",
+    "ms  peak  area  c18:1d9",
+    "ms  peak  area  c18:1d11",
+    "ms  peak  area  c18:1",
+    "ms  peak  area  c18:2",
+    "ms  peak  area  c18:3",
+    "ms  peak  area  c20:0",
+    "ms  peak  area  c20:1d11",
+    "ms  peak  area  c20:1d13",
+    "ms  peak  area  c20:1",
+    "ms  peak  area  c20:2",
+    "ms  peak  area  c20:3",
+    "ms  peak  area  c22:0",
+    "ms  peak  area  c22:1",
+    "ms  peak  area  c22:2",
+    "ms  peak  area  c22:3",
+    "ms  peak  area  c24:0",
+    "ms  peak  area  c24:1",
+    "lipid  c16:0 (\u00b5g/mg)",
+    "lipid  c16:1 (\u00b5g/mg)",
+    "lipid  c18:0 (\u00b5g/mg)",
+    "lipid  c18:1 (\u00b5g/mg)",
+    "lipid  c18:2 (\u00b5g/mg)",
+    "lipid  c18:3 (\u00b5g/mg)",
+    "lipid  c20:0 (\u00b5g/mg)",
+    "lipid  c20:1 (\u00b5g/mg)",
+    "lipid  c20:2 (\u00b5g/mg)",
+    "lipid  c20:3 (\u00b5g/mg)",
+    "lipid  c22:0 (\u00b5g/mg)",
+    "lipid  c22:1 (\u00b5g/mg)",
+    "lipid  c22:2 (\u00b5g/mg)",
+    "lipid  c22:3 (\u00b5g/mg)",
+    "lipid  c24:0 (\u00b5g/mg)",
+    "lipid  c24:1 (\u00b5g/mg)",
+    "lipid  c16:0 (%)",
+    "lipid  c16:1 (%)",
+    "lipid  c18:0 (%)",
+    "lipid  c18:1 (%)",
+    "lipid  c18:2 (%)",
+    "lipid  c18:3 (%)",
+    "lipid  c20:0 (%)",
+    "lipid  c20:1 (%)",
+    "lipid  c20:2 (%)",
+    "lipid  c20:3 (%)",
+    "lipid  c22:0 (%)",
+    "lipid  c22:1 (%)",
+    "lipid  c22:2 (%)",
+    "lipid  c22:3 (%)",
+    "lipid  c24:0 (%)",
+    "lipid  c24:1 (%)",
+    "qy",
+    "dry weight (g)",
+    "fw/dw",
+    "n (%)",
+    "c (%)",
+    "d 13c\u2030",
+    "d 15n\u2030",
+    "average - n (%)",
+    "average - c (%)",
+    "average - d 13c \u2030",
+    "average - d 15n \u2030",
+    "fw (g)",
+    "dw (g)",
+    "plant water content (g)",
+    "dw/fw",
+    "meas. thick (mm)",
+    "u/mg fw - average",
+    "u/mg protein - average",
+    "tkw (g)",
+    "plant height",
+    "average - straw_fw(g)_rres",
+    "average - straw_dw(g)_rres",
+    "average - straw_watercontent (%)_rres",
+    "average - dw/fw_rres",
+    "average - samplefw (g)_rres",
+    "average - sampledw (g)_rres",
+    "average - sample_dry matter (%)_rres",
+    "average - grain weight (kg)_rres",
+    "average - grain weight (g)_rres",
+    "average - ha_yield(mg dm/ha)_rres",
+    "average - plants per m2_end_rres",
+    "average - plants in polt x2.4_end_rres",
+    "average - yield-plant(g dm/plant)_rres",
+    "average - \u00f8width_rres",
+    "average - plant heights (cm) (09/06-10/06)(gdd=368)_rres",
+    "average - plant height (cm) (16/06)(gdd=463)_rres",
+    "average - plant height (cm) (23/06)(gdd=529)_rres",
+    "average - plant height (cm) (30/06)(gdd=607)_rres",
+    "average - plant height (cm) (08/07) (gdd=707)_rres",
+    "average - spad_10/06/2021 (375.9 gdd)_rres",
+    "average - spad_15/06/2021 (448.5 gdd)_rres",
+    "average - spad_22/06/2021 (521.1 gdd)_rres",
+    "average - spad_01/07/2021 (618.7 gdd)_rres",
+    "interval_rres",
+    "average \u2013 plantcount(das=29,gdd=148.2)_rres",
+    "average - plants per 100 cm(das=29,gdd=148.2)_rres",
+    "average - plants per m2(das=29,gdd=148.2)_rres",
+    "average - emergence rate / m2(das=29,gdd=148.2)_rres",
+    "average - plants in plot x2.4(das=29,gdd=148.2)_rres",
+    "average \u2013 plantcount (das=31,gdd=161.2)_rres",
+    "average - plants per 100 cm (das=31,gdd=161.2)_rres",
+    "average - plants per m2 (das=31,gdd=161.2)_rres",
+    "average - emergence rate / m2 (das=31,gdd=161.2)_rres",
+    "treatment_unibo",
+    "average - plants in plot x2.4 (das=31,gdd=161.2)_rres",
+    "average \u2013 plantcount  (das=43,gdd=257.5)_rres",
+    "average - plants per 100 cm  (das=43,gdd=257.5)_rres",
+    "average - plants per m2  (das=43,gdd=257.5)_rres",
+    "average - emergence rate / m2  (das=43,gdd=257.5)_rres",
+    "average - plants in plot x2.4  (das=43,gdd=257.5)_rres",
+    "average - plantcount  (das=44,gdd=271.6)_rres",
+    "average - plants per 100 cm  (das=44,gdd=271.6)_rres",
+    "average - plants per m2  (das=44,gdd=271.6)_rres",
+    "average - emergence rate / m2  (das=44,gdd=271.6)_rres",
+    "average - plants in plot x2.4  (das=44,gdd=271.6)_rres",
+    "average - plantcount  (das=45,gdd=286.4)_rres",
+    "average - plants per 100 cm  (das=45,gdd=286.4)_rres",
+    "average - plants per m2  (das=45,gdd=286.4)_rres",
+    "average - emergence rate / m2  (das=45,gdd=286.4)_rres",
+    "average - plants in plot x2.4  (das=45,gdd=286.4)_rres",
+    "average - plantcount (das=57,gdd=448.5)_rres",
+    "average - plants per 100 cm (das=57,gdd=448.5)_rres",
+    "average - plants per m2 (das=57,gdd=448.5)_rres",
+    "average - emergence rate / m2 (das=57,gdd=448.5)_rres",
+    "average - plants in plot x2.4 (das=57,gdd=448.5)_rres",
+    "average \u2013 plantcount  (das=58,gdd=463.9)_rres",
+    "average - plants per 100 cm  (das=58,gdd=463.9)_rres",
+    "average - plants per m2  (das=58,gdd=463.9)_rres",
+    "average - emergence rate / m2  (das=58,gdd=463.9)_rres",
+    "average - plants in plot x2.4  (das=58,gdd=463.9)_rres",
+    "average \u2013 plantcount (das=115,gdd=1182.3)_rres",
+    "average - plants per 100 cm (das=115,gdd=1182.3)_rres",
+    "average - plants per m2 (das=115,gdd=1182.3)_rres",
+    "average - emergence rate / m2 (das=115,gdd=1182.3)_rres",
+    "average - plants in plot x2.4 (das=115,gdd=1182.3)_rres",
+    "average - \u00f8length_rres",
+    "average - \u00f8area_rres",
+    "average - no. seeds_rres",
+    "average - weight (g)_rres",
+    "average - tgw(g)_rres",
+    "treatment_rres",
+    "plant_anatomical_entity_rres",
+    "straw biomass_unibo",
+    "seed yield (g dm/plant)_unibo",
+    " tkw (g)_unibo",
+    "plant density @ harvest_unibo",
+    "plant density at emergence (plants/m2)_unibo",
+    "50% flowering gdd_unibo",
+    "plant height at 50% flowering (m)_unibo",
+    "spad values 1st april (gdd = 1051.5)_unibo",
+    "spad values 8th april (gdd = 1119.6)_unibo",
+    "spad values 19th april (gdd = 1221.5)_unibo",
+    "average - n (%)_unibo",
+    "average - c (%)_unibo",
+    "average - d 13c \u2030_unibo",
+    "average - d 15n \u2030_unibo",
+    "plant_anatomical_entity_unibo",
+    "interval_unibo",
+    "days to true leaves_cce",
+    "days to flowering_cce",
+    "days to maturity_cce",
+    "days to harvest_cce",
+    "mildiu_cce",
+    "lodging_cce",
+    "nascencia c grades (tb4)_cce",
+    "true leaves c grades (tb4)_cce",
+    "floration c grades (tb4)_cce",
+    "maturation c grades (tb4)_cce",
+    "harvest c grades (tb=4)_cce",
+    "plant density (pl/m2)_cce",
+    "biomass weight (g)_cce",
+    "treatment_cce",
+    "plant_anatomical_entity_cce",
+    "mean emergence (%) _inrae",
+    "antocyanin value n\u00b01_inrae",
+    "antocyanin value n\u00b02_inrae",
+    "antocyanin value n\u00b03_inrae",
+    "antocyanin value n\u00b04_inrae",
+    "antocyanin value n\u00b05_inrae",
+    "antocyanin value n\u00b01.1_inrae",
+    "antocyanin value n\u00b02.1_inrae",
+    "antocyanin value n\u00b03.1_inrae",
+    "antocyanin value n\u00b04.1_inrae",
+    "antocyanin value n\u00b05.1_inrae",
+    "antocyanin value n\u00b01.2_inrae",
+    "antocyanin value n\u00b02.2_inrae",
+    "antocyanin value n\u00b03.2_inrae",
+    "antocyanin value n\u00b04.2_inrae",
+    "antocyanin value n\u00b05.2_inrae",
+    "antocyanin value n\u00b01.3_inrae",
+    "antocyanin value n\u00b02.3_inrae",
+    "antocyanin value n\u00b03.3_inrae",
+    "antocyanin value n\u00b04.3_inrae",
+    "antocyanin value n\u00b05.3_inrae",
+    "meanflowering@62das_inrae",
+    "meanflowering@62das7_inrae",
+    "plant_height_inrae",
+    "average plants density (plants/m\u00b2)_inrae",
+    "average seed weight (g)_inrae",
+    "average seed yield (g/m\u00b2)_inrae",
+    "average seed yield (g/plantes)_inrae",
+    "average-plants density (plants/m\u00b2)_inrae",
+    "average-straw weight (g)_inrae",
+    "average-straw yield (g/m\u00b2)_inrae",
+    "average-straw yield (g/plants)_inrae",
+    "average-1000 kernal weight_inrae",
+    "mean  result oil",
+    "mean  result moisture",
+    "antocyanin value n\u00b01",
+    "antocyanin value n\u00b02",
+    "antocyanin value n\u00b03",
+    "antocyanin value n\u00b04",
+    "antocyanin value n\u00b05",
+    "antocyanin value n\u00b01.1",
+    "antocyanin value n\u00b02.1",
+    "antocyanin value n\u00b03.1",
+    "antocyanin value n\u00b04.1",
+    "antocyanin value n\u00b05.1",
+    "antocyanin value n\u00b01.2",
+    "antocyanin value n\u00b02.2",
+    "antocyanin value n\u00b03.2",
+    "antocyanin value n\u00b04.2",
+    "antocyanin value n\u00b05.2",
+    "antocyanin value n\u00b01.3",
+    "antocyanin value n\u00b02.3",
+    "antocyanin value n\u00b03.3",
+    "antocyanin value n\u00b04.3",
+    "antocyanin value n\u00b05.3"
+  ],
+  "studyIds": [
+    "2.1A6",
+    "2.1A3",
+    "2.1A2",
+    "2.1A4",
+    "2.1A1",
+    "2.1A5",
+    "2.2A3",
+    "2.2A1",
+    "2.2A6",
+    "2.2A4"
+  ],
+  "datasets": [
+    {
+      "key": "fatty_acid_methyl_esters_-fresh weight (g)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "fresh weight (g)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-fresh weight (mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "fresh weight (mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-peak area c16:0",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "peak area c16:0",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-peak area c16:1",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "peak area c16:1",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-peak area c17:0",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "peak area c17:0",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-peak area c16:3",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "peak area c16:3",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-peak area c18:0",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "peak area c18:0",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-peak area c18:1d9",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "peak area c18:1d9",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-peak area c18:1d11",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "peak area c18:1d11",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-peak area c18:2",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "peak area c18:2",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-peak area c18:3",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "peak area c18:3",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-peak area c20:0",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "peak area c20:0",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-peak area c22:0",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "peak area c22:0",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-peak area c22:1",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "peak area c22:1",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-peak area c24:0",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "peak area c24:0",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-peak area c24:1",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "peak area c24:1",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-c16:0 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "c16:0 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-c16:1 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "c16:1 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-c16:3 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "c16:3 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-c18:0 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "c18:0 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-c18:1d9 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "c18:1d9 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-c18:1d11 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "c18:1d11 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-c18:2 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "c18:2 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-c18:3 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "c18:3 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-c20:0 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "c20:0 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-c22:0 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "c22:0 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-c22:1 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "c22:1 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-c24:0 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "c24:0 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-c24:1 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "c24:1 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-total fa (\u00b5g/mg) ",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "total fa (\u00b5g/mg) ",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-relative pufa",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "relative pufa",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-c16:0 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "c16:0 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-c16:1 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "c16:1 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-c16:3 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "c16:3 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-c18:0 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "c18:0 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-c18:1d9 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "c18:1d9 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-c18:1d11 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "c18:1d11 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-c18:2 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "c18:2 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-c18:3 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "c18:3 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-c20:0 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "c20:0 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-c22:0 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "c22:0 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-c22:1 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "c22:1 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-c24:0 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "c24:0 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-c24:1 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "c24:1 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 2292
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-20  seed  weight (mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "20  seed  weight (mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-ms  peak  area  c17:0",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "ms  peak  area  c17:0",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-ms  peak  area  c16:0",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "ms  peak  area  c16:0",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-ms  peak  area  c16:1",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "ms  peak  area  c16:1",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-ms  peak  area  c18:0",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "ms  peak  area  c18:0",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-ms  peak  area  c18:1d9",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "ms  peak  area  c18:1d9",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-ms  peak  area  c18:1d11",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "ms  peak  area  c18:1d11",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-ms  peak  area  c18:1",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "ms  peak  area  c18:1",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-ms  peak  area  c18:2",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "ms  peak  area  c18:2",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-ms  peak  area  c18:3",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "ms  peak  area  c18:3",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-ms  peak  area  c20:0",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "ms  peak  area  c20:0",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-ms  peak  area  c20:1d11",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "ms  peak  area  c20:1d11",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-ms  peak  area  c20:1d13",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "ms  peak  area  c20:1d13",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-ms  peak  area  c20:1",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "ms  peak  area  c20:1",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-ms  peak  area  c20:2",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "ms  peak  area  c20:2",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-ms  peak  area  c20:3",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "ms  peak  area  c20:3",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-ms  peak  area  c22:0",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "ms  peak  area  c22:0",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-ms  peak  area  c22:1",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "ms  peak  area  c22:1",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-ms  peak  area  c22:2",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "ms  peak  area  c22:2",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-ms  peak  area  c22:3",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "ms  peak  area  c22:3",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-ms  peak  area  c24:0",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "ms  peak  area  c24:0",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-ms  peak  area  c24:1",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "ms  peak  area  c24:1",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c16:0 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c16:0 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c16:1 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c16:1 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c18:0 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c18:0 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c18:1 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c18:1 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c18:2 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c18:2 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c18:3 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c18:3 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c20:0 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c20:0 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c20:1 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c20:1 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c20:2 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c20:2 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c20:3 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c20:3 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c22:0 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c22:0 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c22:1 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c22:1 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c22:2 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c22:2 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c22:3 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c22:3 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c24:0 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c24:0 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c24:1 (\u00b5g/mg)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c24:1 (\u00b5g/mg)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c16:0 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c16:0 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c16:1 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c16:1 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c18:0 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c18:0 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c18:1 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c18:1 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c18:2 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c18:2 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c18:3 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c18:3 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c20:0 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c20:0 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c20:1 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c20:1 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c20:2 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c20:2 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c20:3 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c20:3 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c22:0 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c22:0 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c22:1 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c22:1 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c22:2 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c22:2 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c22:3 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c22:3 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c24:0 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c24:0 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "fatty_acid_methyl_esters_-lipid  c24:1 (%)",
+      "baseFilename": "fatty_acid_methyl_esters_",
+      "variable": "lipid  c24:1 (%)",
+      "sourceFile": "fatty_acid_methyl_esters_UNTWIST2.1A6.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A6",
+      "dataPoints": 321
+    },
+    {
+      "key": "flour_pen_-qy",
+      "baseFilename": "flour_pen_",
+      "variable": "qy",
+      "sourceFile": "flour_pen_UNTWIST2.1A3.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A3",
+      "dataPoints": 540
+    },
+    {
+      "key": "isotope_analysis_-fresh weight (g)",
+      "baseFilename": "isotope_analysis_",
+      "variable": "fresh weight (g)",
+      "sourceFile": "isotope_analysis_UNTWIST2.1A2.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A2",
+      "dataPoints": 2355
+    },
+    {
+      "key": "isotope_analysis_-dry weight (g)",
+      "baseFilename": "isotope_analysis_",
+      "variable": "dry weight (g)",
+      "sourceFile": "isotope_analysis_UNTWIST2.1A2.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A2",
+      "dataPoints": 2355
+    },
+    {
+      "key": "isotope_analysis_-fw/dw",
+      "baseFilename": "isotope_analysis_",
+      "variable": "fw/dw",
+      "sourceFile": "isotope_analysis_UNTWIST2.1A2.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A2",
+      "dataPoints": 2355
+    },
+    {
+      "key": "isotope_analysis_-n (%)",
+      "baseFilename": "isotope_analysis_",
+      "variable": "n (%)",
+      "sourceFile": "isotope_analysis_UNTWIST2.1A2.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A2",
+      "dataPoints": 2355
+    },
+    {
+      "key": "isotope_analysis_-c (%)",
+      "baseFilename": "isotope_analysis_",
+      "variable": "c (%)",
+      "sourceFile": "isotope_analysis_UNTWIST2.1A2.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A2",
+      "dataPoints": 2355
+    },
+    {
+      "key": "isotope_analysis_-d 13c\u2030",
+      "baseFilename": "isotope_analysis_",
+      "variable": "d 13c\u2030",
+      "sourceFile": "isotope_analysis_UNTWIST2.1A2.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A2",
+      "dataPoints": 2355
+    },
+    {
+      "key": "isotope_analysis_-d 15n\u2030",
+      "baseFilename": "isotope_analysis_",
+      "variable": "d 15n\u2030",
+      "sourceFile": "isotope_analysis_UNTWIST2.1A2.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A2",
+      "dataPoints": 2355
+    },
+    {
+      "key": "isotope_analysis_-average - n (%)",
+      "baseFilename": "isotope_analysis_",
+      "variable": "average - n (%)",
+      "sourceFile": "isotope_analysis_UNTWIST2.1A2.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A2",
+      "dataPoints": 162
+    },
+    {
+      "key": "isotope_analysis_-average - c (%)",
+      "baseFilename": "isotope_analysis_",
+      "variable": "average - c (%)",
+      "sourceFile": "isotope_analysis_UNTWIST2.1A2.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A2",
+      "dataPoints": 162
+    },
+    {
+      "key": "isotope_analysis_-average - d 13c \u2030",
+      "baseFilename": "isotope_analysis_",
+      "variable": "average - d 13c \u2030",
+      "sourceFile": "isotope_analysis_UNTWIST2.1A2.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A2",
+      "dataPoints": 162
+    },
+    {
+      "key": "isotope_analysis_-average - d 15n \u2030",
+      "baseFilename": "isotope_analysis_",
+      "variable": "average - d 15n \u2030",
+      "sourceFile": "isotope_analysis_UNTWIST2.1A2.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A2",
+      "dataPoints": 162
+    },
+    {
+      "key": "plant_water_content_-fw (g)",
+      "baseFilename": "plant_water_content_",
+      "variable": "fw (g)",
+      "sourceFile": "plant_water_content_UNTWIST2.1A4.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A4",
+      "dataPoints": 1608
+    },
+    {
+      "key": "plant_water_content_-dw (g)",
+      "baseFilename": "plant_water_content_",
+      "variable": "dw (g)",
+      "sourceFile": "plant_water_content_UNTWIST2.1A4.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A4",
+      "dataPoints": 1608
+    },
+    {
+      "key": "plant_water_content_-plant water content (g)",
+      "baseFilename": "plant_water_content_",
+      "variable": "plant water content (g)",
+      "sourceFile": "plant_water_content_UNTWIST2.1A4.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A4",
+      "dataPoints": 1608
+    },
+    {
+      "key": "plant_water_content_-dw/fw",
+      "baseFilename": "plant_water_content_",
+      "variable": "dw/fw",
+      "sourceFile": "plant_water_content_UNTWIST2.1A4.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A4",
+      "dataPoints": 1608
+    },
+    {
+      "key": "stem_biometrics_-meas. thick (mm)",
+      "baseFilename": "stem_biometrics_",
+      "variable": "meas. thick (mm)",
+      "sourceFile": "stem_biometrics_UNTWIST2.1A1.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A1",
+      "dataPoints": 1620
+    },
+    {
+      "key": "stem_biometrics_-fw (g)",
+      "baseFilename": "stem_biometrics_",
+      "variable": "fw (g)",
+      "sourceFile": "stem_biometrics_UNTWIST2.1A1.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A1",
+      "dataPoints": 1620
+    },
+    {
+      "key": "total_antioxidant_capacity_-u/mg fw - average",
+      "baseFilename": "total_antioxidant_capacity_",
+      "variable": "u/mg fw - average",
+      "sourceFile": "total_antioxidant_capacity_UNTWIST2.1A5.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A5",
+      "dataPoints": 894
+    },
+    {
+      "key": "total_antioxidant_capacity_-u/mg protein - average",
+      "baseFilename": "total_antioxidant_capacity_",
+      "variable": "u/mg protein - average",
+      "sourceFile": "total_antioxidant_capacity_UNTWIST2.1A5.tsv",
+      "sourceDir": "rawdata/study1_camelina_core_collection_controlled",
+      "studyId": "2.1A5",
+      "dataPoints": 894
+    },
+    {
+      "key": "agronomic_traits_multiple_locations__-tkw (g)",
+      "baseFilename": "agronomic_traits_multiple_locations__",
+      "variable": "tkw (g)",
+      "sourceFile": "agronomic_traits_multiple_locations__UNTWIST2.2A3.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A3",
+      "dataPoints": 162
+    },
+    {
+      "key": "agronomic_traits_multiple_locations__-plant height",
+      "baseFilename": "agronomic_traits_multiple_locations__",
+      "variable": "plant height",
+      "sourceFile": "agronomic_traits_multiple_locations__UNTWIST2.2A3.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A3",
+      "dataPoints": 162
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - straw_fw(g)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - straw_fw(g)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - straw_dw(g)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - straw_dw(g)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - straw_watercontent (%)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - straw_watercontent (%)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - dw/fw_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - dw/fw_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - samplefw (g)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - samplefw (g)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - sampledw (g)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - sampledw (g)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - sample_dry matter (%)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - sample_dry matter (%)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - grain weight (kg)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - grain weight (kg)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - grain weight (g)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - grain weight (g)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - ha_yield(mg dm/ha)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - ha_yield(mg dm/ha)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plants per m2_end_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plants per m2_end_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plants in polt x2.4_end_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plants in polt x2.4_end_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - yield-plant(g dm/plant)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - yield-plant(g dm/plant)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - \u00f8width_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - \u00f8width_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plant heights (cm) (09/06-10/06)(gdd=368)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plant heights (cm) (09/06-10/06)(gdd=368)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plant height (cm) (16/06)(gdd=463)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plant height (cm) (16/06)(gdd=463)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plant height (cm) (23/06)(gdd=529)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plant height (cm) (23/06)(gdd=529)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plant height (cm) (30/06)(gdd=607)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plant height (cm) (30/06)(gdd=607)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plant height (cm) (08/07) (gdd=707)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plant height (cm) (08/07) (gdd=707)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - spad_10/06/2021 (375.9 gdd)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - spad_10/06/2021 (375.9 gdd)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - spad_15/06/2021 (448.5 gdd)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - spad_15/06/2021 (448.5 gdd)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - spad_22/06/2021 (521.1 gdd)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - spad_22/06/2021 (521.1 gdd)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - spad_01/07/2021 (618.7 gdd)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - spad_01/07/2021 (618.7 gdd)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-interval_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "interval_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average \u2013 plantcount(das=29,gdd=148.2)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average \u2013 plantcount(das=29,gdd=148.2)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plants per 100 cm(das=29,gdd=148.2)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plants per 100 cm(das=29,gdd=148.2)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plants per m2(das=29,gdd=148.2)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plants per m2(das=29,gdd=148.2)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - emergence rate / m2(das=29,gdd=148.2)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - emergence rate / m2(das=29,gdd=148.2)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plants in plot x2.4(das=29,gdd=148.2)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plants in plot x2.4(das=29,gdd=148.2)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average \u2013 plantcount (das=31,gdd=161.2)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average \u2013 plantcount (das=31,gdd=161.2)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plants per 100 cm (das=31,gdd=161.2)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plants per 100 cm (das=31,gdd=161.2)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plants per m2 (das=31,gdd=161.2)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plants per m2 (das=31,gdd=161.2)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - emergence rate / m2 (das=31,gdd=161.2)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - emergence rate / m2 (das=31,gdd=161.2)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-treatment_unibo",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "treatment_unibo",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plants in plot x2.4 (das=31,gdd=161.2)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plants in plot x2.4 (das=31,gdd=161.2)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average \u2013 plantcount  (das=43,gdd=257.5)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average \u2013 plantcount  (das=43,gdd=257.5)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plants per 100 cm  (das=43,gdd=257.5)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plants per 100 cm  (das=43,gdd=257.5)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plants per m2  (das=43,gdd=257.5)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plants per m2  (das=43,gdd=257.5)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - emergence rate / m2  (das=43,gdd=257.5)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - emergence rate / m2  (das=43,gdd=257.5)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plants in plot x2.4  (das=43,gdd=257.5)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plants in plot x2.4  (das=43,gdd=257.5)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plantcount  (das=44,gdd=271.6)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plantcount  (das=44,gdd=271.6)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plants per 100 cm  (das=44,gdd=271.6)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plants per 100 cm  (das=44,gdd=271.6)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plants per m2  (das=44,gdd=271.6)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plants per m2  (das=44,gdd=271.6)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - emergence rate / m2  (das=44,gdd=271.6)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - emergence rate / m2  (das=44,gdd=271.6)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plants in plot x2.4  (das=44,gdd=271.6)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plants in plot x2.4  (das=44,gdd=271.6)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plantcount  (das=45,gdd=286.4)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plantcount  (das=45,gdd=286.4)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plants per 100 cm  (das=45,gdd=286.4)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plants per 100 cm  (das=45,gdd=286.4)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plants per m2  (das=45,gdd=286.4)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plants per m2  (das=45,gdd=286.4)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - emergence rate / m2  (das=45,gdd=286.4)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - emergence rate / m2  (das=45,gdd=286.4)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plants in plot x2.4  (das=45,gdd=286.4)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plants in plot x2.4  (das=45,gdd=286.4)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plantcount (das=57,gdd=448.5)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plantcount (das=57,gdd=448.5)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plants per 100 cm (das=57,gdd=448.5)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plants per 100 cm (das=57,gdd=448.5)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plants per m2 (das=57,gdd=448.5)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plants per m2 (das=57,gdd=448.5)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - emergence rate / m2 (das=57,gdd=448.5)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - emergence rate / m2 (das=57,gdd=448.5)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plants in plot x2.4 (das=57,gdd=448.5)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plants in plot x2.4 (das=57,gdd=448.5)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average \u2013 plantcount  (das=58,gdd=463.9)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average \u2013 plantcount  (das=58,gdd=463.9)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plants per 100 cm  (das=58,gdd=463.9)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plants per 100 cm  (das=58,gdd=463.9)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plants per m2  (das=58,gdd=463.9)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plants per m2  (das=58,gdd=463.9)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - emergence rate / m2  (das=58,gdd=463.9)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - emergence rate / m2  (das=58,gdd=463.9)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plants in plot x2.4  (das=58,gdd=463.9)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plants in plot x2.4  (das=58,gdd=463.9)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average \u2013 plantcount (das=115,gdd=1182.3)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average \u2013 plantcount (das=115,gdd=1182.3)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plants per 100 cm (das=115,gdd=1182.3)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plants per 100 cm (das=115,gdd=1182.3)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plants per m2 (das=115,gdd=1182.3)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plants per m2 (das=115,gdd=1182.3)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - emergence rate / m2 (das=115,gdd=1182.3)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - emergence rate / m2 (das=115,gdd=1182.3)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - plants in plot x2.4 (das=115,gdd=1182.3)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - plants in plot x2.4 (das=115,gdd=1182.3)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - \u00f8length_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - \u00f8length_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - \u00f8area_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - \u00f8area_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - no. seeds_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - no. seeds_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - weight (g)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - weight (g)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - tgw(g)_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - tgw(g)_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-treatment_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "treatment_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-plant_anatomical_entity_rres",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "plant_anatomical_entity_rres",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-straw biomass_unibo",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "straw biomass_unibo",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-seed yield (g dm/plant)_unibo",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "seed yield (g dm/plant)_unibo",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__- tkw (g)_unibo",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": " tkw (g)_unibo",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-plant density @ harvest_unibo",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "plant density @ harvest_unibo",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-plant density at emergence (plants/m2)_unibo",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "plant density at emergence (plants/m2)_unibo",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-50% flowering gdd_unibo",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "50% flowering gdd_unibo",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-plant height at 50% flowering (m)_unibo",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "plant height at 50% flowering (m)_unibo",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-spad values 1st april (gdd = 1051.5)_unibo",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "spad values 1st april (gdd = 1051.5)_unibo",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-spad values 8th april (gdd = 1119.6)_unibo",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "spad values 8th april (gdd = 1119.6)_unibo",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-spad values 19th april (gdd = 1221.5)_unibo",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "spad values 19th april (gdd = 1221.5)_unibo",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - n (%)_unibo",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - n (%)_unibo",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - c (%)_unibo",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - c (%)_unibo",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - d 13c \u2030_unibo",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - d 13c \u2030_unibo",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average - d 15n \u2030_unibo",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average - d 15n \u2030_unibo",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-plant_anatomical_entity_unibo",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "plant_anatomical_entity_unibo",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-interval_unibo",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "interval_unibo",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-days to true leaves_cce",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "days to true leaves_cce",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-days to flowering_cce",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "days to flowering_cce",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-days to maturity_cce",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "days to maturity_cce",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-days to harvest_cce",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "days to harvest_cce",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-mildiu_cce",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "mildiu_cce",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-lodging_cce",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "lodging_cce",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-nascencia c grades (tb4)_cce",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "nascencia c grades (tb4)_cce",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-true leaves c grades (tb4)_cce",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "true leaves c grades (tb4)_cce",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-floration c grades (tb4)_cce",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "floration c grades (tb4)_cce",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-maturation c grades (tb4)_cce",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "maturation c grades (tb4)_cce",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-harvest c grades (tb=4)_cce",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "harvest c grades (tb=4)_cce",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-plant density (pl/m2)_cce",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "plant density (pl/m2)_cce",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-biomass weight (g)_cce",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "biomass weight (g)_cce",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-treatment_cce",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "treatment_cce",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-plant_anatomical_entity_cce",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "plant_anatomical_entity_cce",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-mean emergence (%) _inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "mean emergence (%) _inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-antocyanin value n\u00b01_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "antocyanin value n\u00b01_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-antocyanin value n\u00b02_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "antocyanin value n\u00b02_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-antocyanin value n\u00b03_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "antocyanin value n\u00b03_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-antocyanin value n\u00b04_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "antocyanin value n\u00b04_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-antocyanin value n\u00b05_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "antocyanin value n\u00b05_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-antocyanin value n\u00b01.1_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "antocyanin value n\u00b01.1_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-antocyanin value n\u00b02.1_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "antocyanin value n\u00b02.1_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-antocyanin value n\u00b03.1_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "antocyanin value n\u00b03.1_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-antocyanin value n\u00b04.1_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "antocyanin value n\u00b04.1_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-antocyanin value n\u00b05.1_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "antocyanin value n\u00b05.1_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-antocyanin value n\u00b01.2_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "antocyanin value n\u00b01.2_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-antocyanin value n\u00b02.2_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "antocyanin value n\u00b02.2_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-antocyanin value n\u00b03.2_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "antocyanin value n\u00b03.2_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-antocyanin value n\u00b04.2_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "antocyanin value n\u00b04.2_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-antocyanin value n\u00b05.2_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "antocyanin value n\u00b05.2_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-antocyanin value n\u00b01.3_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "antocyanin value n\u00b01.3_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-antocyanin value n\u00b02.3_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "antocyanin value n\u00b02.3_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-antocyanin value n\u00b03.3_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "antocyanin value n\u00b03.3_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-antocyanin value n\u00b04.3_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "antocyanin value n\u00b04.3_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-antocyanin value n\u00b05.3_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "antocyanin value n\u00b05.3_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-meanflowering@62das_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "meanflowering@62das_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-meanflowering@62das7_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "meanflowering@62das7_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-plant_height_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "plant_height_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average plants density (plants/m\u00b2)_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average plants density (plants/m\u00b2)_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average seed weight (g)_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average seed weight (g)_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average seed yield (g/m\u00b2)_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average seed yield (g/m\u00b2)_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average seed yield (g/plantes)_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average seed yield (g/plantes)_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average-plants density (plants/m\u00b2)_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average-plants density (plants/m\u00b2)_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average-straw weight (g)_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average-straw weight (g)_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average-straw yield (g/m\u00b2)_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average-straw yield (g/m\u00b2)_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average-straw yield (g/plants)_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average-straw yield (g/plants)_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "agronomic_traits_single_location__-average-1000 kernal weight_inrae",
+      "baseFilename": "agronomic_traits_single_location__",
+      "variable": "average-1000 kernal weight_inrae",
+      "sourceFile": "agronomic_traits_single_location__UNTWIST2.2A1.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A1",
+      "dataPoints": 54
+    },
+    {
+      "key": "nuclear_magnetic_resonance_spectroscopy_-mean  result oil",
+      "baseFilename": "nuclear_magnetic_resonance_spectroscopy_",
+      "variable": "mean  result oil",
+      "sourceFile": "nuclear_magnetic_resonance_spectroscopy_UNTWIST2.2A6.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A6",
+      "dataPoints": 203
+    },
+    {
+      "key": "nuclear_magnetic_resonance_spectroscopy_-mean  result moisture",
+      "baseFilename": "nuclear_magnetic_resonance_spectroscopy_",
+      "variable": "mean  result moisture",
+      "sourceFile": "nuclear_magnetic_resonance_spectroscopy_UNTWIST2.2A6.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A6",
+      "dataPoints": 203
+    },
+    {
+      "key": "pigments_-antocyanin value n\u00b01",
+      "baseFilename": "pigments_",
+      "variable": "antocyanin value n\u00b01",
+      "sourceFile": "pigments_UNTWIST2.2A4.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A4",
+      "dataPoints": 54
+    },
+    {
+      "key": "pigments_-antocyanin value n\u00b02",
+      "baseFilename": "pigments_",
+      "variable": "antocyanin value n\u00b02",
+      "sourceFile": "pigments_UNTWIST2.2A4.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A4",
+      "dataPoints": 54
+    },
+    {
+      "key": "pigments_-antocyanin value n\u00b03",
+      "baseFilename": "pigments_",
+      "variable": "antocyanin value n\u00b03",
+      "sourceFile": "pigments_UNTWIST2.2A4.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A4",
+      "dataPoints": 54
+    },
+    {
+      "key": "pigments_-antocyanin value n\u00b04",
+      "baseFilename": "pigments_",
+      "variable": "antocyanin value n\u00b04",
+      "sourceFile": "pigments_UNTWIST2.2A4.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A4",
+      "dataPoints": 54
+    },
+    {
+      "key": "pigments_-antocyanin value n\u00b05",
+      "baseFilename": "pigments_",
+      "variable": "antocyanin value n\u00b05",
+      "sourceFile": "pigments_UNTWIST2.2A4.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A4",
+      "dataPoints": 54
+    },
+    {
+      "key": "pigments_-antocyanin value n\u00b01.1",
+      "baseFilename": "pigments_",
+      "variable": "antocyanin value n\u00b01.1",
+      "sourceFile": "pigments_UNTWIST2.2A4.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A4",
+      "dataPoints": 54
+    },
+    {
+      "key": "pigments_-antocyanin value n\u00b02.1",
+      "baseFilename": "pigments_",
+      "variable": "antocyanin value n\u00b02.1",
+      "sourceFile": "pigments_UNTWIST2.2A4.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A4",
+      "dataPoints": 54
+    },
+    {
+      "key": "pigments_-antocyanin value n\u00b03.1",
+      "baseFilename": "pigments_",
+      "variable": "antocyanin value n\u00b03.1",
+      "sourceFile": "pigments_UNTWIST2.2A4.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A4",
+      "dataPoints": 54
+    },
+    {
+      "key": "pigments_-antocyanin value n\u00b04.1",
+      "baseFilename": "pigments_",
+      "variable": "antocyanin value n\u00b04.1",
+      "sourceFile": "pigments_UNTWIST2.2A4.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A4",
+      "dataPoints": 54
+    },
+    {
+      "key": "pigments_-antocyanin value n\u00b05.1",
+      "baseFilename": "pigments_",
+      "variable": "antocyanin value n\u00b05.1",
+      "sourceFile": "pigments_UNTWIST2.2A4.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A4",
+      "dataPoints": 54
+    },
+    {
+      "key": "pigments_-antocyanin value n\u00b01.2",
+      "baseFilename": "pigments_",
+      "variable": "antocyanin value n\u00b01.2",
+      "sourceFile": "pigments_UNTWIST2.2A4.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A4",
+      "dataPoints": 54
+    },
+    {
+      "key": "pigments_-antocyanin value n\u00b02.2",
+      "baseFilename": "pigments_",
+      "variable": "antocyanin value n\u00b02.2",
+      "sourceFile": "pigments_UNTWIST2.2A4.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A4",
+      "dataPoints": 54
+    },
+    {
+      "key": "pigments_-antocyanin value n\u00b03.2",
+      "baseFilename": "pigments_",
+      "variable": "antocyanin value n\u00b03.2",
+      "sourceFile": "pigments_UNTWIST2.2A4.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A4",
+      "dataPoints": 54
+    },
+    {
+      "key": "pigments_-antocyanin value n\u00b04.2",
+      "baseFilename": "pigments_",
+      "variable": "antocyanin value n\u00b04.2",
+      "sourceFile": "pigments_UNTWIST2.2A4.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A4",
+      "dataPoints": 54
+    },
+    {
+      "key": "pigments_-antocyanin value n\u00b05.2",
+      "baseFilename": "pigments_",
+      "variable": "antocyanin value n\u00b05.2",
+      "sourceFile": "pigments_UNTWIST2.2A4.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A4",
+      "dataPoints": 54
+    },
+    {
+      "key": "pigments_-antocyanin value n\u00b01.3",
+      "baseFilename": "pigments_",
+      "variable": "antocyanin value n\u00b01.3",
+      "sourceFile": "pigments_UNTWIST2.2A4.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A4",
+      "dataPoints": 54
+    },
+    {
+      "key": "pigments_-antocyanin value n\u00b02.3",
+      "baseFilename": "pigments_",
+      "variable": "antocyanin value n\u00b02.3",
+      "sourceFile": "pigments_UNTWIST2.2A4.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A4",
+      "dataPoints": 54
+    },
+    {
+      "key": "pigments_-antocyanin value n\u00b03.3",
+      "baseFilename": "pigments_",
+      "variable": "antocyanin value n\u00b03.3",
+      "sourceFile": "pigments_UNTWIST2.2A4.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A4",
+      "dataPoints": 54
+    },
+    {
+      "key": "pigments_-antocyanin value n\u00b04.3",
+      "baseFilename": "pigments_",
+      "variable": "antocyanin value n\u00b04.3",
+      "sourceFile": "pigments_UNTWIST2.2A4.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A4",
+      "dataPoints": 54
+    },
+    {
+      "key": "pigments_-antocyanin value n\u00b05.3",
+      "baseFilename": "pigments_",
+      "variable": "antocyanin value n\u00b05.3",
+      "sourceFile": "pigments_UNTWIST2.2A4.tsv",
+      "sourceDir": "rawdata/study2_camelina_core_collection_field",
+      "studyId": "2.2A4",
+      "dataPoints": 54
+    }
+  ],
+  "folderRenamingInfo": {
+    "renameTimestamp": "2025-09-18T17:45:00.000Z",
+    "renamedFolders": {
+      "rawdata/data": "rawdata/study1_camelina_core_collection_controlled",
+      "rawdata/data (2)": "rawdata/study2_camelina_core_collection_field",
+      "rawdata/data (3)": "rawdata/study3_camelina_focus_lines_stress",
+      "rawdata/data (4)": "rawdata/study4_environmental_suitability",
+      "rawdata/data (5)": "rawdata/study5_redox_status_analysis",
+      "rawdata/data (6)": "rawdata/study6_enzyme_activity_profiling",
+      "rawdata/data (7)": "rawdata/study7_public_usda_phenotypic_examination",
+      "rawdata/data (8)": "rawdata/study8_public_western_canada_evaluation",
+      "rawdata/data (9)": "rawdata/study9_public_northern_italy_low_input",
+      "rawdata/data (10)": "rawdata/study10_public_lithuanian_fatty_acids",
+      "rawdata/data (11)": "rawdata/study11_public_phenolic_compounds"
+    },
+    "description": "Folders renamed based on metadata.json study descriptions"
+  }
+}

@@ -1,0 +1,463 @@
+subject	variable	value	sample_plant_anatomical_entity	sample_collection_date	sample_institute	sample_city	sample_country	sample_associated_interval	sample_associated_factor
+PI 258366	Bolting (days)	21.0			Bayer Crop Science		green house in California Bay area		
+PI 258367	Bolting (days)	20.3			Bayer Crop Science		green house in California Bay area		
+PI 304269	Bolting (days)	23.0			Bayer Crop Science		green house in California Bay area		
+PI 304270	Bolting (days)	23.0			Bayer Crop Science		green house in California Bay area		
+PI 304271	Bolting (days)	21.0			Bayer Crop Science		green house in California Bay area		
+PI 311735	Bolting (days)	18.1			Bayer Crop Science		green house in California Bay area		
+PI 311736*	Bolting (days)	24.0			Bayer Crop Science		green house in California Bay area		
+PI 597833A	Bolting (days)	21.0			Bayer Crop Science		green house in California Bay area		
+PI 597833B	Bolting (days)	20.0			Bayer Crop Science		green house in California Bay area		
+PI 633192	Bolting (days)	23.0			Bayer Crop Science		green house in California Bay area		
+PI 633193*	Bolting (days)	19.2			Bayer Crop Science		green house in California Bay area		
+PI 633194	Bolting (days)	19.9			Bayer Crop Science		green house in California Bay area		
+PI 650140	Bolting (days)	20.6			Bayer Crop Science		green house in California Bay area		
+PI 650141	Bolting (days)	21.0			Bayer Crop Science		green house in California Bay area		
+PI 650142A	Bolting (days)	21.8			Bayer Crop Science		green house in California Bay area		
+PI 650142B	Bolting (days)	22.0			Bayer Crop Science		green house in California Bay area		
+PI 650143*	Bolting (days)	35.0			Bayer Crop Science		green house in California Bay area		
+PI 650144	Bolting (days)	24.3			Bayer Crop Science		green house in California Bay area		
+PI 650145	Bolting (days)	23.0			Bayer Crop Science		green house in California Bay area		
+PI 650146	Bolting (days)	23.0			Bayer Crop Science		green house in California Bay area		
+PI 650147	Bolting (days)	23.0			Bayer Crop Science		green house in California Bay area		
+PI 650148	Bolting (days)	23.0			Bayer Crop Science		green house in California Bay area		
+PI 650149	Bolting (days)	27.0			Bayer Crop Science		green house in California Bay area		
+PI 650150	Bolting (days)	23.0			Bayer Crop Science		green house in California Bay area		
+PI 650151	Bolting (days)	23.0			Bayer Crop Science		green house in California Bay area		
+PI 650152*	Bolting (days)	30.0			Bayer Crop Science		green house in California Bay area		
+PI 650153	Bolting (days)	20.0			Bayer Crop Science		green house in California Bay area		
+PI 650154	Bolting (days)	20.0			Bayer Crop Science		green house in California Bay area		
+PI 650155*	Bolting (days)	21.0			Bayer Crop Science		green house in California Bay area		
+PI 650156	Bolting (days)	20.6			Bayer Crop Science		green house in California Bay area		
+PI 650157A*	Bolting (days)	21.6			Bayer Crop Science		green house in California Bay area		
+PI 650157B	Bolting (days)	24.0			Bayer Crop Science		green house in California Bay area		
+PI 650158A*	Bolting (days)	21.0			Bayer Crop Science		green house in California Bay area		
+PI 650158B	Bolting (days)	22.2			Bayer Crop Science		green house in California Bay area		
+PI 650159	Bolting (days)	20.0			Bayer Crop Science		green house in California Bay area		
+PI 650163	Bolting (days)	22.4			Bayer Crop Science		green house in California Bay area		
+PI 650164	Bolting (days)	21.0			Bayer Crop Science		green house in California Bay area		
+PI 650165	Bolting (days)	21.0			Bayer Crop Science		green house in California Bay area		
+PI 650166	Bolting (days)	21.0			Bayer Crop Science		green house in California Bay area		
+PI 650167*	Bolting (days)	33.8			Bayer Crop Science		green house in California Bay area		
+PI 650168*	Bolting (days)	23.0			Bayer Crop Science		green house in California Bay area		
+Suneson	Bolting (days)	22.1			Bayer Crop Science		green house in California Bay area		
+PI 258366	Flowering (days)	29.8			Bayer Crop Science		green house in California Bay area		
+PI 258367	Flowering (days)	34.3			Bayer Crop Science		green house in California Bay area		
+PI 304269	Flowering (days)	37.4			Bayer Crop Science		green house in California Bay area		
+PI 304270	Flowering (days)	37.4			Bayer Crop Science		green house in California Bay area		
+PI 304271	Flowering (days)	29.0			Bayer Crop Science		green house in California Bay area		
+PI 311735	Flowering (days)	32.6			Bayer Crop Science		green house in California Bay area		
+PI 311736*	Flowering (days)	30.6			Bayer Crop Science		green house in California Bay area		
+PI 597833A	Flowering (days)	32.3			Bayer Crop Science		green house in California Bay area		
+PI 597833B	Flowering (days)	33.0			Bayer Crop Science		green house in California Bay area		
+PI 633192	Flowering (days)	31.3			Bayer Crop Science		green house in California Bay area		
+PI 633193*	Flowering (days)	33.2			Bayer Crop Science		green house in California Bay area		
+PI 633194	Flowering (days)	33.9			Bayer Crop Science		green house in California Bay area		
+PI 650140	Flowering (days)	32.4			Bayer Crop Science		green house in California Bay area		
+PI 650141	Flowering (days)	29.0			Bayer Crop Science		green house in California Bay area		
+PI 650142A	Flowering (days)	31.3			Bayer Crop Science		green house in California Bay area		
+PI 650142B	Flowering (days)	33.3			Bayer Crop Science		green house in California Bay area		
+PI 650143*	Flowering (days)	38.0			Bayer Crop Science		green house in California Bay area		
+PI 650144	Flowering (days)	38.0			Bayer Crop Science		green house in California Bay area		
+PI 650145	Flowering (days)	35.6			Bayer Crop Science		green house in California Bay area		
+PI 650146	Flowering (days)	38.6			Bayer Crop Science		green house in California Bay area		
+PI 650147	Flowering (days)	38.6			Bayer Crop Science		green house in California Bay area		
+PI 650148	Flowering (days)	41.2			Bayer Crop Science		green house in California Bay area		
+PI 650149	Flowering (days)	42.8			Bayer Crop Science		green house in California Bay area		
+PI 650150	Flowering (days)	36.2			Bayer Crop Science		green house in California Bay area		
+PI 650151	Flowering (days)	36.8			Bayer Crop Science		green house in California Bay area		
+PI 650152*	Flowering (days)	37.4			Bayer Crop Science		green house in California Bay area		
+PI 650153	Flowering (days)	33.6			Bayer Crop Science		green house in California Bay area		
+PI 650154	Flowering (days)	36.0			Bayer Crop Science		green house in California Bay area		
+PI 650155*	Flowering (days)	29.2			Bayer Crop Science		green house in California Bay area		
+PI 650156	Flowering (days)	35.4			Bayer Crop Science		green house in California Bay area		
+PI 650157A*	Flowering (days)	28.6			Bayer Crop Science		green house in California Bay area		
+PI 650157B	Flowering (days)	33.5			Bayer Crop Science		green house in California Bay area		
+PI 650158A*	Flowering (days)	31.0			Bayer Crop Science		green house in California Bay area		
+PI 650158B	Flowering (days)	31.2			Bayer Crop Science		green house in California Bay area		
+PI 650159	Flowering (days)	37.0			Bayer Crop Science		green house in California Bay area		
+PI 650163	Flowering (days)	29.8			Bayer Crop Science		green house in California Bay area		
+PI 650164	Flowering (days)	29.0			Bayer Crop Science		green house in California Bay area		
+PI 650165	Flowering (days)	29.0			Bayer Crop Science		green house in California Bay area		
+PI 650166	Flowering (days)	33.2			Bayer Crop Science		green house in California Bay area		
+PI 650167*	Flowering (days)	39.0			Bayer Crop Science		green house in California Bay area		
+PI 650168*	Flowering (days)	29.0			Bayer Crop Science		green house in California Bay area		
+Suneson	Flowering (days)	36.8			Bayer Crop Science		green house in California Bay area		
+PI 258366	Leaves @Flowering (#)	30.8			Bayer Crop Science		green house in California Bay area		
+PI 258367	Leaves @Flowering (#)	31.3			Bayer Crop Science		green house in California Bay area		
+PI 304269	Leaves @Flowering (#)	38.0			Bayer Crop Science		green house in California Bay area		
+PI 304270	Leaves @Flowering (#)	36.8			Bayer Crop Science		green house in California Bay area		
+PI 304271	Leaves @Flowering (#)	28.2			Bayer Crop Science		green house in California Bay area		
+PI 311735	Leaves @Flowering (#)	28.3			Bayer Crop Science		green house in California Bay area		
+PI 311736*	Leaves @Flowering (#)	20.8			Bayer Crop Science		green house in California Bay area		
+PI 597833A	Leaves @Flowering (#)	28.0			Bayer Crop Science		green house in California Bay area		
+PI 597833B	Leaves @Flowering (#)	28.9			Bayer Crop Science		green house in California Bay area		
+PI 633192	Leaves @Flowering (#)	31.5			Bayer Crop Science		green house in California Bay area		
+PI 633193*	Leaves @Flowering (#)	27.4			Bayer Crop Science		green house in California Bay area		
+PI 633194	Leaves @Flowering (#)	28.6			Bayer Crop Science		green house in California Bay area		
+PI 650140	Leaves @Flowering (#)	27.3			Bayer Crop Science		green house in California Bay area		
+PI 650141	Leaves @Flowering (#)	29.4			Bayer Crop Science		green house in California Bay area		
+PI 650142A	Leaves @Flowering (#)	19.9			Bayer Crop Science		green house in California Bay area		
+PI 650142B	Leaves @Flowering (#)	38.1			Bayer Crop Science		green house in California Bay area		
+PI 650143*	Leaves @Flowering (#)	24.0			Bayer Crop Science		green house in California Bay area		
+PI 650144	Leaves @Flowering (#)	39.9			Bayer Crop Science		green house in California Bay area		
+PI 650145	Leaves @Flowering (#)	34.2			Bayer Crop Science		green house in California Bay area		
+PI 650146	Leaves @Flowering (#)	30.6			Bayer Crop Science		green house in California Bay area		
+PI 650147	Leaves @Flowering (#)	32.8			Bayer Crop Science		green house in California Bay area		
+PI 650148	Leaves @Flowering (#)	31.4			Bayer Crop Science		green house in California Bay area		
+PI 650149	Leaves @Flowering (#)	40.6			Bayer Crop Science		green house in California Bay area		
+PI 650150	Leaves @Flowering (#)	32.2			Bayer Crop Science		green house in California Bay area		
+PI 650151	Leaves @Flowering (#)	35.6			Bayer Crop Science		green house in California Bay area		
+PI 650152*	Leaves @Flowering (#)	28.0			Bayer Crop Science		green house in California Bay area		
+PI 650153	Leaves @Flowering (#)	28.2			Bayer Crop Science		green house in California Bay area		
+PI 650154	Leaves @Flowering (#)	33.6			Bayer Crop Science		green house in California Bay area		
+PI 650155*	Leaves @Flowering (#)	23.0			Bayer Crop Science		green house in California Bay area		
+PI 650156	Leaves @Flowering (#)	32.5			Bayer Crop Science		green house in California Bay area		
+PI 650157A*	Leaves @Flowering (#)	19.8			Bayer Crop Science		green house in California Bay area		
+PI 650157B	Leaves @Flowering (#)	21.3			Bayer Crop Science		green house in California Bay area		
+PI 650158A*	Leaves @Flowering (#)	28.6			Bayer Crop Science		green house in California Bay area		
+PI 650158B	Leaves @Flowering (#)	35.4			Bayer Crop Science		green house in California Bay area		
+PI 650159	Leaves @Flowering (#)	32.8			Bayer Crop Science		green house in California Bay area		
+PI 650163	Leaves @Flowering (#)	30.6			Bayer Crop Science		green house in California Bay area		
+PI 650164	Leaves @Flowering (#)	31.6			Bayer Crop Science		green house in California Bay area		
+PI 650165	Leaves @Flowering (#)	30.6			Bayer Crop Science		green house in California Bay area		
+PI 650166	Leaves @Flowering (#)	30.1			Bayer Crop Science		green house in California Bay area		
+PI 650167*	Leaves @Flowering (#)	32.8			Bayer Crop Science		green house in California Bay area		
+PI 650168*	Leaves @Flowering (#)	18.3			Bayer Crop Science		green house in California Bay area		
+Suneson	Leaves @Flowering (#)	32.0			Bayer Crop Science		green house in California Bay area		
+PI 258366	Height @Flowering (cm)	48.3			Bayer Crop Science		green house in California Bay area		
+PI 258367	Height @Flowering (cm)	49.4			Bayer Crop Science		green house in California Bay area		
+PI 304269	Height @Flowering (cm)	50.9			Bayer Crop Science		green house in California Bay area		
+PI 304270	Height @Flowering (cm)	50.9			Bayer Crop Science		green house in California Bay area		
+PI 304271	Height @Flowering (cm)	49.6			Bayer Crop Science		green house in California Bay area		
+PI 311735	Height @Flowering (cm)	50.7			Bayer Crop Science		green house in California Bay area		
+PI 311736*	Height @Flowering (cm)	30.8			Bayer Crop Science		green house in California Bay area		
+PI 597833A	Height @Flowering (cm)	38.8			Bayer Crop Science		green house in California Bay area		
+PI 597833B	Height @Flowering (cm)	46.8			Bayer Crop Science		green house in California Bay area		
+PI 633192	Height @Flowering (cm)	36.4			Bayer Crop Science		green house in California Bay area		
+PI 633193*	Height @Flowering (cm)	43.5			Bayer Crop Science		green house in California Bay area		
+PI 633194	Height @Flowering (cm)	50.0			Bayer Crop Science		green house in California Bay area		
+PI 650140	Height @Flowering (cm)	49.5			Bayer Crop Science		green house in California Bay area		
+PI 650141	Height @Flowering (cm)	41.0			Bayer Crop Science		green house in California Bay area		
+PI 650142A	Height @Flowering (cm)	38.5			Bayer Crop Science		green house in California Bay area		
+PI 650142B	Height @Flowering (cm)	45.6			Bayer Crop Science		green house in California Bay area		
+PI 650143*	Height @Flowering (cm)	32.5			Bayer Crop Science		green house in California Bay area		
+PI 650144	Height @Flowering (cm)	47.4			Bayer Crop Science		green house in California Bay area		
+PI 650145	Height @Flowering (cm)	44.2			Bayer Crop Science		green house in California Bay area		
+PI 650146	Height @Flowering (cm)	49.0			Bayer Crop Science		green house in California Bay area		
+PI 650147	Height @Flowering (cm)	48.6			Bayer Crop Science		green house in California Bay area		
+PI 650148	Height @Flowering (cm)	47.0			Bayer Crop Science		green house in California Bay area		
+PI 650149	Height @Flowering (cm)	50.3			Bayer Crop Science		green house in California Bay area		
+PI 650150	Height @Flowering (cm)	40.2			Bayer Crop Science		green house in California Bay area		
+PI 650151	Height @Flowering (cm)	56.5			Bayer Crop Science		green house in California Bay area		
+PI 650152*	Height @Flowering (cm)	46.8			Bayer Crop Science		green house in California Bay area		
+PI 650153	Height @Flowering (cm)	51.6			Bayer Crop Science		green house in California Bay area		
+PI 650154	Height @Flowering (cm)	60.6			Bayer Crop Science		green house in California Bay area		
+PI 650155*	Height @Flowering (cm)	39.2			Bayer Crop Science		green house in California Bay area		
+PI 650156	Height @Flowering (cm)	54.4			Bayer Crop Science		green house in California Bay area		
+PI 650157A*	Height @Flowering (cm)	28.6			Bayer Crop Science		green house in California Bay area		
+PI 650157B	Height @Flowering (cm)	40.7			Bayer Crop Science		green house in California Bay area		
+PI 650158A*	Height @Flowering (cm)	36.6			Bayer Crop Science		green house in California Bay area		
+PI 650158B	Height @Flowering (cm)	47.2			Bayer Crop Science		green house in California Bay area		
+PI 650159	Height @Flowering (cm)	62.1			Bayer Crop Science		green house in California Bay area		
+PI 650163	Height @Flowering (cm)	44.3			Bayer Crop Science		green house in California Bay area		
+PI 650164	Height @Flowering (cm)	39.7			Bayer Crop Science		green house in California Bay area		
+PI 650165	Height @Flowering (cm)	58.4			Bayer Crop Science		green house in California Bay area		
+PI 650166	Height @Flowering (cm)	43.1			Bayer Crop Science		green house in California Bay area		
+PI 650167*	Height @Flowering (cm)	23.0			Bayer Crop Science		green house in California Bay area		
+PI 650168*	Height @Flowering (cm)	29.7			Bayer Crop Science		green house in California Bay area		
+Suneson	Height @Flowering (cm)	50.5			Bayer Crop Science		green house in California Bay area		
+PI 258366	Width @Flowering (cm)	22.6			Bayer Crop Science		green house in California Bay area		
+PI 258367	Width @Flowering (cm)	18.9			Bayer Crop Science		green house in California Bay area		
+PI 304269	Width @Flowering (cm)	21.6			Bayer Crop Science		green house in California Bay area		
+PI 304270	Width @Flowering (cm)	22.6			Bayer Crop Science		green house in California Bay area		
+PI 304271	Width @Flowering (cm)	23.0			Bayer Crop Science		green house in California Bay area		
+PI 311735	Width @Flowering (cm)	18.1			Bayer Crop Science		green house in California Bay area		
+PI 311736*	Width @Flowering (cm)	25.1			Bayer Crop Science		green house in California Bay area		
+PI 597833A	Width @Flowering (cm)	20.6			Bayer Crop Science		green house in California Bay area		
+PI 597833B	Width @Flowering (cm)	18.2			Bayer Crop Science		green house in California Bay area		
+PI 633192	Width @Flowering (cm)	24.3			Bayer Crop Science		green house in California Bay area		
+PI 633193*	Width @Flowering (cm)	17.4			Bayer Crop Science		green house in California Bay area		
+PI 633194	Width @Flowering (cm)	17.8			Bayer Crop Science		green house in California Bay area		
+PI 650140	Width @Flowering (cm)	20.9			Bayer Crop Science		green house in California Bay area		
+PI 650141	Width @Flowering (cm)	18.8			Bayer Crop Science		green house in California Bay area		
+PI 650142A	Width @Flowering (cm)	22.8			Bayer Crop Science		green house in California Bay area		
+PI 650142B	Width @Flowering (cm)	21.6			Bayer Crop Science		green house in California Bay area		
+PI 650143*	Width @Flowering (cm)	20.0			Bayer Crop Science		green house in California Bay area		
+PI 650144	Width @Flowering (cm)	20.8			Bayer Crop Science		green house in California Bay area		
+PI 650145	Width @Flowering (cm)	20.8			Bayer Crop Science		green house in California Bay area		
+PI 650146	Width @Flowering (cm)	23.0			Bayer Crop Science		green house in California Bay area		
+PI 650147	Width @Flowering (cm)	24.4			Bayer Crop Science		green house in California Bay area		
+PI 650148	Width @Flowering (cm)	18.8			Bayer Crop Science		green house in California Bay area		
+PI 650149	Width @Flowering (cm)	23.0			Bayer Crop Science		green house in California Bay area		
+PI 650150	Width @Flowering (cm)	22.6			Bayer Crop Science		green house in California Bay area		
+PI 650151	Width @Flowering (cm)	25.6			Bayer Crop Science		green house in California Bay area		
+PI 650152*	Width @Flowering (cm)	25.0			Bayer Crop Science		green house in California Bay area		
+PI 650153	Width @Flowering (cm)	22.8			Bayer Crop Science		green house in California Bay area		
+PI 650154	Width @Flowering (cm)	19.8			Bayer Crop Science		green house in California Bay area		
+PI 650155*	Width @Flowering (cm)	26.6			Bayer Crop Science		green house in California Bay area		
+PI 650156	Width @Flowering (cm)	18.4			Bayer Crop Science		green house in California Bay area		
+PI 650157A*	Width @Flowering (cm)	21.6			Bayer Crop Science		green house in California Bay area		
+PI 650157B	Width @Flowering (cm)	15.8			Bayer Crop Science		green house in California Bay area		
+PI 650158A*	Width @Flowering (cm)	25.2			Bayer Crop Science		green house in California Bay area		
+PI 650158B	Width @Flowering (cm)	22.8			Bayer Crop Science		green house in California Bay area		
+PI 650159	Width @Flowering (cm)	23.8			Bayer Crop Science		green house in California Bay area		
+PI 650163	Width @Flowering (cm)	24.0			Bayer Crop Science		green house in California Bay area		
+PI 650164	Width @Flowering (cm)	22.2			Bayer Crop Science		green house in California Bay area		
+PI 650165	Width @Flowering (cm)	20.8			Bayer Crop Science		green house in California Bay area		
+PI 650166	Width @Flowering (cm)	17.7			Bayer Crop Science		green house in California Bay area		
+PI 650167*	Width @Flowering (cm)	22.3			Bayer Crop Science		green house in California Bay area		
+PI 650168*	Width @Flowering (cm)	24.3			Bayer Crop Science		green house in California Bay area		
+Suneson	Width @Flowering (cm)	20.8			Bayer Crop Science		green house in California Bay area		
+PI 258366	1º Floral Meristem (#)	18.4			Bayer Crop Science		green house in California Bay area		
+PI 258367	1º Floral Meristem (#)	12.9			Bayer Crop Science		green house in California Bay area		
+PI 304269	1º Floral Meristem (#)	13.2			Bayer Crop Science		green house in California Bay area		
+PI 304270	1º Floral Meristem (#)	13.2			Bayer Crop Science		green house in California Bay area		
+PI 304271	1º Floral Meristem (#)	13.4			Bayer Crop Science		green house in California Bay area		
+PI 311735	1º Floral Meristem (#)	10.1			Bayer Crop Science		green house in California Bay area		
+PI 311736*	1º Floral Meristem (#)	11.0			Bayer Crop Science		green house in California Bay area		
+PI 597833A	1º Floral Meristem (#)	10.3			Bayer Crop Science		green house in California Bay area		
+PI 597833B	1º Floral Meristem (#)	9.6			Bayer Crop Science		green house in California Bay area		
+PI 633192	1º Floral Meristem (#)	13.3			Bayer Crop Science		green house in California Bay area		
+PI 633193*	1º Floral Meristem (#)	14.4			Bayer Crop Science		green house in California Bay area		
+PI 633194	1º Floral Meristem (#)	10.1			Bayer Crop Science		green house in California Bay area		
+PI 650140	1º Floral Meristem (#)	11.9			Bayer Crop Science		green house in California Bay area		
+PI 650141	1º Floral Meristem (#)	11.0			Bayer Crop Science		green house in California Bay area		
+PI 650142A	1º Floral Meristem (#)	12.0			Bayer Crop Science		green house in California Bay area		
+PI 650142B	1º Floral Meristem (#)	12.4			Bayer Crop Science		green house in California Bay area		
+PI 650143*	1º Floral Meristem (#)	9.0			Bayer Crop Science		green house in California Bay area		
+PI 650144	1º Floral Meristem (#)	10.8			Bayer Crop Science		green house in California Bay area		
+PI 650145	1º Floral Meristem (#)	10.6			Bayer Crop Science		green house in California Bay area		
+PI 650146	1º Floral Meristem (#)	10.2			Bayer Crop Science		green house in California Bay area		
+PI 650147	1º Floral Meristem (#)	12.4			Bayer Crop Science		green house in California Bay area		
+PI 650148	1º Floral Meristem (#)	12.2			Bayer Crop Science		green house in California Bay area		
+PI 650149	1º Floral Meristem (#)	14.8			Bayer Crop Science		green house in California Bay area		
+PI 650150	1º Floral Meristem (#)	9.2			Bayer Crop Science		green house in California Bay area		
+PI 650151	1º Floral Meristem (#)	11.0			Bayer Crop Science		green house in California Bay area		
+PI 650152*	1º Floral Meristem (#)	12.6			Bayer Crop Science		green house in California Bay area		
+PI 650153	1º Floral Meristem (#)	13.2			Bayer Crop Science		green house in California Bay area		
+PI 650154	1º Floral Meristem (#)	14.2			Bayer Crop Science		green house in California Bay area		
+PI 650155*	1º Floral Meristem (#)	10.4			Bayer Crop Science		green house in California Bay area		
+PI 650156	1º Floral Meristem (#)	10.3			Bayer Crop Science		green house in California Bay area		
+PI 650157A*	1º Floral Meristem (#)	11.0			Bayer Crop Science		green house in California Bay area		
+PI 650157B	1º Floral Meristem (#)	10.0			Bayer Crop Science		green house in California Bay area		
+PI 650158A*	1º Floral Meristem (#)	10.6			Bayer Crop Science		green house in California Bay area		
+PI 650158B	1º Floral Meristem (#)	9.4			Bayer Crop Science		green house in California Bay area		
+PI 650159	1º Floral Meristem (#)	11.2			Bayer Crop Science		green house in California Bay area		
+PI 650163	1º Floral Meristem (#)	11.6			Bayer Crop Science		green house in California Bay area		
+PI 650164	1º Floral Meristem (#)	11.4			Bayer Crop Science		green house in California Bay area		
+PI 650165	1º Floral Meristem (#)	16.0			Bayer Crop Science		green house in California Bay area		
+PI 650166	1º Floral Meristem (#)	12.4			Bayer Crop Science		green house in California Bay area		
+PI 650167*	1º Floral Meristem (#)	9.8			Bayer Crop Science		green house in California Bay area		
+PI 650168*	1º Floral Meristem (#)	11.7			Bayer Crop Science		green house in California Bay area		
+Suneson	1º Floral Meristem (#)	12.0			Bayer Crop Science		green house in California Bay area		
+PI 258366	2º Floral Meristem (#)	6.6			Bayer Crop Science		green house in California Bay area		
+PI 258367	2º Floral Meristem (#)	6.1			Bayer Crop Science		green house in California Bay area		
+PI 304269	2º Floral Meristem (#)	0.0			Bayer Crop Science		green house in California Bay area		
+PI 304270	2º Floral Meristem (#)	0.0			Bayer Crop Science		green house in California Bay area		
+PI 304271	2º Floral Meristem (#)	14.4			Bayer Crop Science		green house in California Bay area		
+PI 311735	2º Floral Meristem (#)	7.1			Bayer Crop Science		green house in California Bay area		
+PI 311736*	2º Floral Meristem (#)	7.6			Bayer Crop Science		green house in California Bay area		
+PI 597833A	2º Floral Meristem (#)	3.8			Bayer Crop Science		green house in California Bay area		
+PI 597833B	2º Floral Meristem (#)	6.5			Bayer Crop Science		green house in California Bay area		
+PI 633192	2º Floral Meristem (#)	9.5			Bayer Crop Science		green house in California Bay area		
+PI 633193*	2º Floral Meristem (#)	7.0			Bayer Crop Science		green house in California Bay area		
+PI 633194	2º Floral Meristem (#)	2.1			Bayer Crop Science		green house in California Bay area		
+PI 650140	2º Floral Meristem (#)	4.6			Bayer Crop Science		green house in California Bay area		
+PI 650141	2º Floral Meristem (#)	5.8			Bayer Crop Science		green house in California Bay area		
+PI 650142A	2º Floral Meristem (#)	7.8			Bayer Crop Science		green house in California Bay area		
+PI 650142B	2º Floral Meristem (#)	6.7			Bayer Crop Science		green house in California Bay area		
+PI 650143*	2º Floral Meristem (#)	4.5			Bayer Crop Science		green house in California Bay area		
+PI 650144	2º Floral Meristem (#)	1.6			Bayer Crop Science		green house in California Bay area		
+PI 650145	2º Floral Meristem (#)	0.0			Bayer Crop Science		green house in California Bay area		
+PI 650146	2º Floral Meristem (#)	0.8			Bayer Crop Science		green house in California Bay area		
+PI 650147	2º Floral Meristem (#)	3.2			Bayer Crop Science		green house in California Bay area		
+PI 650148	2º Floral Meristem (#)	1.0			Bayer Crop Science		green house in California Bay area		
+PI 650149	2º Floral Meristem (#)	1.0			Bayer Crop Science		green house in California Bay area		
+PI 650150	2º Floral Meristem (#)	1.5			Bayer Crop Science		green house in California Bay area		
+PI 650151	2º Floral Meristem (#)	0.0			Bayer Crop Science		green house in California Bay area		
+PI 650152*	2º Floral Meristem (#)	9.6			Bayer Crop Science		green house in California Bay area		
+PI 650153	2º Floral Meristem (#)	0.0			Bayer Crop Science		green house in California Bay area		
+PI 650154	2º Floral Meristem (#)	0.0			Bayer Crop Science		green house in California Bay area		
+PI 650155*	2º Floral Meristem (#)	7.2			Bayer Crop Science		green house in California Bay area		
+PI 650156	2º Floral Meristem (#)	2.1			Bayer Crop Science		green house in California Bay area		
+PI 650157A*	2º Floral Meristem (#)	8.6			Bayer Crop Science		green house in California Bay area		
+PI 650157B	2º Floral Meristem (#)	4.7			Bayer Crop Science		green house in California Bay area		
+PI 650158A*	2º Floral Meristem (#)	2.8			Bayer Crop Science		green house in California Bay area		
+PI 650158B	2º Floral Meristem (#)	1.5			Bayer Crop Science		green house in California Bay area		
+PI 650159	2º Floral Meristem (#)	0.2			Bayer Crop Science		green house in California Bay area		
+PI 650163	2º Floral Meristem (#)	8.4			Bayer Crop Science		green house in California Bay area		
+PI 650164	2º Floral Meristem (#)	9.0			Bayer Crop Science		green house in California Bay area		
+PI 650165	2º Floral Meristem (#)	4.0			Bayer Crop Science		green house in California Bay area		
+PI 650166	2º Floral Meristem (#)	2.8			Bayer Crop Science		green house in California Bay area		
+PI 650167*	2º Floral Meristem (#)	5.8			Bayer Crop Science		green house in California Bay area		
+PI 650168*	2º Floral Meristem (#)	11.0			Bayer Crop Science		green house in California Bay area		
+Suneson	2º Floral Meristem (#)	3.8			Bayer Crop Science		green house in California Bay area		
+PI 258366	Maturity (days)	43.2			Bayer Crop Science		green house in California Bay area		
+PI 258367	Maturity (days)	48.3			Bayer Crop Science		green house in California Bay area		
+PI 304269	Maturity (days)	49.8			Bayer Crop Science		green house in California Bay area		
+PI 304270	Maturity (days)	50.4			Bayer Crop Science		green house in California Bay area		
+PI 304271	Maturity (days)	42.0			Bayer Crop Science		green house in California Bay area		
+PI 311735	Maturity (days)	48.3			Bayer Crop Science		green house in California Bay area		
+PI 311736*	Maturity (days)	52.0			Bayer Crop Science		green house in California Bay area		
+PI 597833A	Maturity (days)	50.3			Bayer Crop Science		green house in California Bay area		
+PI 597833B	Maturity (days)	48.3			Bayer Crop Science		green house in California Bay area		
+PI 633192	Maturity (days)	44.5			Bayer Crop Science		green house in California Bay area		
+PI 633193*	Maturity (days)	52.0			Bayer Crop Science		green house in California Bay area		
+PI 633194	Maturity (days)	48.3			Bayer Crop Science		green house in California Bay area		
+PI 650140	Maturity (days)	47.7			Bayer Crop Science		green house in California Bay area		
+PI 650141	Maturity (days)	42.0			Bayer Crop Science		green house in California Bay area		
+PI 650142A	Maturity (days)	44.3			Bayer Crop Science		green house in California Bay area		
+PI 650142B	Maturity (days)	45.0			Bayer Crop Science		green house in California Bay area		
+PI 650143*	Maturity (days)	63.0			Bayer Crop Science		green house in California Bay area		
+PI 650144	Maturity (days)	54.0			Bayer Crop Science		green house in California Bay area		
+PI 650145	Maturity (days)	49.8			Bayer Crop Science		green house in California Bay area		
+PI 650146	Maturity (days)	54.2			Bayer Crop Science		green house in California Bay area		
+PI 650147	Maturity (days)	52.6			Bayer Crop Science		green house in California Bay area		
+PI 650148	Maturity (days)	56.8			Bayer Crop Science		green house in California Bay area		
+PI 650149	Maturity (days)	58.0			Bayer Crop Science		green house in California Bay area		
+PI 650150	Maturity (days)	49.8			Bayer Crop Science		green house in California Bay area		
+PI 650151	Maturity (days)	49.2			Bayer Crop Science		green house in California Bay area		
+PI 650152*	Maturity (days)	57.4			Bayer Crop Science		green house in California Bay area		
+PI 650153	Maturity (days)	44.0			Bayer Crop Science		green house in California Bay area		
+PI 650154	Maturity (days)	48.6			Bayer Crop Science		green house in California Bay area		
+PI 650155*	Maturity (days)	51.4			Bayer Crop Science		green house in California Bay area		
+PI 650156	Maturity (days)	50.5			Bayer Crop Science		green house in California Bay area		
+PI 650157A*	Maturity (days)	52.0			Bayer Crop Science		green house in California Bay area		
+PI 650157B	Maturity (days)	49.8			Bayer Crop Science		green house in California Bay area		
+PI 650158A*	Maturity (days)	52.0			Bayer Crop Science		green house in California Bay area		
+PI 650158B	Maturity (days)	43.8			Bayer Crop Science		green house in California Bay area		
+PI 650159	Maturity (days)	49.4			Bayer Crop Science		green house in California Bay area		
+PI 650163	Maturity (days)	45.4			Bayer Crop Science		green house in California Bay area		
+PI 650164	Maturity (days)	42.0			Bayer Crop Science		green house in California Bay area		
+PI 650165	Maturity (days)	42.0			Bayer Crop Science		green house in California Bay area		
+PI 650166	Maturity (days)	47.9			Bayer Crop Science		green house in California Bay area		
+PI 650167*	Maturity (days)	62.0			Bayer Crop Science		green house in California Bay area		
+PI 650168*	Maturity (days)	52.0			Bayer Crop Science		green house in California Bay area		
+Suneson	Maturity (days)	50.9			Bayer Crop Science		green house in California Bay area		
+PI 258366	Height @Maturity (cm)	80.4			Bayer Crop Science		green house in California Bay area		
+PI 258367	Height @Maturity (cm)	79.1			Bayer Crop Science		green house in California Bay area		
+PI 304269	Height @Maturity (cm)	82.5			Bayer Crop Science		green house in California Bay area		
+PI 304270	Height @Maturity (cm)	83.4			Bayer Crop Science		green house in California Bay area		
+PI 304271	Height @Maturity (cm)	76.6			Bayer Crop Science		green house in California Bay area		
+PI 311735	Height @Maturity (cm)	74.3			Bayer Crop Science		green house in California Bay area		
+PI 311736*	Height @Maturity (cm)	71.4			Bayer Crop Science		green house in California Bay area		
+PI 597833A	Height @Maturity (cm)	67.2			Bayer Crop Science		green house in California Bay area		
+PI 597833B	Height @Maturity (cm)	80.4			Bayer Crop Science		green house in California Bay area		
+PI 633192	Height @Maturity (cm)	72.5			Bayer Crop Science		green house in California Bay area		
+PI 633193*	Height @Maturity (cm)	73.0			Bayer Crop Science		green house in California Bay area		
+PI 633194	Height @Maturity (cm)	71.8			Bayer Crop Science		green house in California Bay area		
+PI 650140	Height @Maturity (cm)	77.0			Bayer Crop Science		green house in California Bay area		
+PI 650141	Height @Maturity (cm)	74.6			Bayer Crop Science		green house in California Bay area		
+PI 650142A	Height @Maturity (cm)	64.9			Bayer Crop Science		green house in California Bay area		
+PI 650142B	Height @Maturity (cm)	80.6			Bayer Crop Science		green house in California Bay area		
+PI 650143*	Height @Maturity (cm)	81.5			Bayer Crop Science		green house in California Bay area		
+PI 650144	Height @Maturity (cm)	78.1			Bayer Crop Science		green house in California Bay area		
+PI 650145	Height @Maturity (cm)	82.1			Bayer Crop Science		green house in California Bay area		
+PI 650146	Height @Maturity (cm)	82.6			Bayer Crop Science		green house in California Bay area		
+PI 650147	Height @Maturity (cm)	82.3			Bayer Crop Science		green house in California Bay area		
+PI 650148	Height @Maturity (cm)	78.8			Bayer Crop Science		green house in California Bay area		
+PI 650149	Height @Maturity (cm)	79.3			Bayer Crop Science		green house in California Bay area		
+PI 650150	Height @Maturity (cm)	78.6			Bayer Crop Science		green house in California Bay area		
+PI 650151	Height @Maturity (cm)	88.3			Bayer Crop Science		green house in California Bay area		
+PI 650152*	Height @Maturity (cm)	81.6			Bayer Crop Science		green house in California Bay area		
+PI 650153	Height @Maturity (cm)	75.6			Bayer Crop Science		green house in California Bay area		
+PI 650154	Height @Maturity (cm)	84.6			Bayer Crop Science		green house in California Bay area		
+PI 650155*	Height @Maturity (cm)	73.4			Bayer Crop Science		green house in California Bay area		
+PI 650156	Height @Maturity (cm)	76.5			Bayer Crop Science		green house in California Bay area		
+PI 650157A*	Height @Maturity (cm)	67.2			Bayer Crop Science		green house in California Bay area		
+PI 650157B	Height @Maturity (cm)	75.5			Bayer Crop Science		green house in California Bay area		
+PI 650158A*	Height @Maturity (cm)	66.2			Bayer Crop Science		green house in California Bay area		
+PI 650158B	Height @Maturity (cm)	82.6			Bayer Crop Science		green house in California Bay area		
+PI 650159	Height @Maturity (cm)	85.2			Bayer Crop Science		green house in California Bay area		
+PI 650163	Height @Maturity (cm)	78.6			Bayer Crop Science		green house in California Bay area		
+PI 650164	Height @Maturity (cm)	72.0			Bayer Crop Science		green house in California Bay area		
+PI 650165	Height @Maturity (cm)	85.4			Bayer Crop Science		green house in California Bay area		
+PI 650166	Height @Maturity (cm)	72.4			Bayer Crop Science		green house in California Bay area		
+PI 650167*	Height @Maturity (cm)	69.5			Bayer Crop Science		green house in California Bay area		
+PI 650168*	Height @Maturity (cm)	69.7			Bayer Crop Science		green house in California Bay area		
+Suneson	Height @Maturity (cm)	81.5			Bayer Crop Science		green house in California Bay area		
+PI 258366	Width @Maturity (cm)	39.8			Bayer Crop Science		green house in California Bay area		
+PI 258367	Width @Maturity (cm)	41.8			Bayer Crop Science		green house in California Bay area		
+PI 304269	Width @Maturity (cm)	32.8			Bayer Crop Science		green house in California Bay area		
+PI 304270	Width @Maturity (cm)	38.6			Bayer Crop Science		green house in California Bay area		
+PI 304271	Width @Maturity (cm)	38.4			Bayer Crop Science		green house in California Bay area		
+PI 311735	Width @Maturity (cm)	33.1			Bayer Crop Science		green house in California Bay area		
+PI 311736*	Width @Maturity (cm)	49.8			Bayer Crop Science		green house in California Bay area		
+PI 597833A	Width @Maturity (cm)	44.2			Bayer Crop Science		green house in California Bay area		
+PI 597833B	Width @Maturity (cm)	39.0			Bayer Crop Science		green house in California Bay area		
+PI 633192	Width @Maturity (cm)	31.8			Bayer Crop Science		green house in California Bay area		
+PI 633193*	Width @Maturity (cm)	57.4			Bayer Crop Science		green house in California Bay area		
+PI 633194	Width @Maturity (cm)	35.9			Bayer Crop Science		green house in California Bay area		
+PI 650140	Width @Maturity (cm)	48.6			Bayer Crop Science		green house in California Bay area		
+PI 650141	Width @Maturity (cm)	36.2			Bayer Crop Science		green house in California Bay area		
+PI 650142A	Width @Maturity (cm)	25.0			Bayer Crop Science		green house in California Bay area		
+PI 650142B	Width @Maturity (cm)	39.9			Bayer Crop Science		green house in California Bay area		
+PI 650143*	Width @Maturity (cm)	51.5			Bayer Crop Science		green house in California Bay area		
+PI 650144	Width @Maturity (cm)	40.1			Bayer Crop Science		green house in California Bay area		
+PI 650145	Width @Maturity (cm)	37.4			Bayer Crop Science		green house in California Bay area		
+PI 650146	Width @Maturity (cm)	45.8			Bayer Crop Science		green house in California Bay area		
+PI 650147	Width @Maturity (cm)	37.8			Bayer Crop Science		green house in California Bay area		
+PI 650148	Width @Maturity (cm)	34.8			Bayer Crop Science		green house in California Bay area		
+PI 650149	Width @Maturity (cm)	32.2			Bayer Crop Science		green house in California Bay area		
+PI 650150	Width @Maturity (cm)	33.6			Bayer Crop Science		green house in California Bay area		
+PI 650151	Width @Maturity (cm)	32.8			Bayer Crop Science		green house in California Bay area		
+PI 650152*	Width @Maturity (cm)	38.2			Bayer Crop Science		green house in California Bay area		
+PI 650153	Width @Maturity (cm)	11.4			Bayer Crop Science		green house in California Bay area		
+PI 650154	Width @Maturity (cm)	29.4			Bayer Crop Science		green house in California Bay area		
+PI 650155*	Width @Maturity (cm)	47.6			Bayer Crop Science		green house in California Bay area		
+PI 650156	Width @Maturity (cm)	32.5			Bayer Crop Science		green house in California Bay area		
+PI 650157A*	Width @Maturity (cm)	59.2			Bayer Crop Science		green house in California Bay area		
+PI 650157B	Width @Maturity (cm)	30.7			Bayer Crop Science		green house in California Bay area		
+PI 650158A*	Width @Maturity (cm)	33.4			Bayer Crop Science		green house in California Bay area		
+PI 650158B	Width @Maturity (cm)	27.4			Bayer Crop Science		green house in California Bay area		
+PI 650159	Width @Maturity (cm)	25.4			Bayer Crop Science		green house in California Bay area		
+PI 650163	Width @Maturity (cm)	35.8			Bayer Crop Science		green house in California Bay area		
+PI 650164	Width @Maturity (cm)	30.0			Bayer Crop Science		green house in California Bay area		
+PI 650165	Width @Maturity (cm)	36.6			Bayer Crop Science		green house in California Bay area		
+PI 650166	Width @Maturity (cm)	36.6			Bayer Crop Science		green house in California Bay area		
+PI 650167*	Width @Maturity (cm)	37.3			Bayer Crop Science		green house in California Bay area		
+PI 650168*	Width @Maturity (cm)	61.0			Bayer Crop Science		green house in California Bay area		
+Suneson	Width @Maturity (cm)	31.9			Bayer Crop Science		green house in California Bay area		
+PI 258366	Dry (days)	53.6			Bayer Crop Science		green house in California Bay area		
+PI 258367	Dry (days)	54.7			Bayer Crop Science		green house in California Bay area		
+PI 304269	Dry (days)	62.0			Bayer Crop Science		green house in California Bay area		
+PI 304270	Dry (days)	62.0			Bayer Crop Science		green house in California Bay area		
+PI 304271	Dry (days)	52.0			Bayer Crop Science		green house in California Bay area		
+PI 311735	Dry (days)	60.8			Bayer Crop Science		green house in California Bay area		
+PI 311736*	Dry (days)	66.0			Bayer Crop Science		green house in California Bay area		
+PI 597833A	Dry (days)	63.7			Bayer Crop Science		green house in California Bay area		
+PI 597833B	Dry (days)	60.8			Bayer Crop Science		green house in California Bay area		
+PI 633192	Dry (days)	53.8			Bayer Crop Science		green house in California Bay area		
+PI 633193*	Dry (days)	66.0			Bayer Crop Science		green house in California Bay area		
+PI 633194	Dry (days)	64.4			Bayer Crop Science		green house in California Bay area		
+PI 650140	Dry (days)	60.0			Bayer Crop Science		green house in California Bay area		
+PI 650141	Dry (days)	52.0			Bayer Crop Science		green house in California Bay area		
+PI 650142A	Dry (days)	58.4			Bayer Crop Science		green house in California Bay area		
+PI 650142B	Dry (days)	54.9			Bayer Crop Science		green house in California Bay area		
+PI 650143*	Dry (days)	66.0			Bayer Crop Science		green house in California Bay area		
+PI 650144	Dry (days)	69.9			Bayer Crop Science		green house in California Bay area		
+PI 650145	Dry (days)	72.0			Bayer Crop Science		green house in California Bay area		
+PI 650146	Dry (days)	72.0			Bayer Crop Science		green house in California Bay area		
+PI 650147	Dry (days)	71.4			Bayer Crop Science		green house in California Bay area		
+PI 650148	Dry (days)	71.4			Bayer Crop Science		green house in California Bay area		
+PI 650149	Dry (days)	72.0			Bayer Crop Science		green house in California Bay area		
+PI 650150	Dry (days)	72.0			Bayer Crop Science		green house in California Bay area		
+PI 650151	Dry (days)	62.0			Bayer Crop Science		green house in California Bay area		
+PI 650152*	Dry (days)	66.0			Bayer Crop Science		green house in California Bay area		
+PI 650153	Dry (days)	72.0			Bayer Crop Science		green house in California Bay area		
+PI 650154	Dry (days)	72.0			Bayer Crop Science		green house in California Bay area		
+PI 650155*	Dry (days)	66.0			Bayer Crop Science		green house in California Bay area		
+PI 650156	Dry (days)	68.1			Bayer Crop Science		green house in California Bay area		
+PI 650157A*	Dry (days)	66.0			Bayer Crop Science		green house in California Bay area		
+PI 650157B	Dry (days)	61.5			Bayer Crop Science		green house in California Bay area		
+PI 650158A*	Dry (days)	66.0			Bayer Crop Science		green house in California Bay area		
+PI 650158B	Dry (days)	56.0			Bayer Crop Science		green house in California Bay area		
+PI 650159	Dry (days)	69.2			Bayer Crop Science		green house in California Bay area		
+PI 650163	Dry (days)	56.0			Bayer Crop Science		green house in California Bay area		
+PI 650164	Dry (days)	52.0			Bayer Crop Science		green house in California Bay area		
+PI 650165	Dry (days)	52.0			Bayer Crop Science		green house in California Bay area		
+PI 650166	Dry (days)	62.0			Bayer Crop Science		green house in California Bay area		
+PI 650167*	Dry (days)	70.0			Bayer Crop Science		green house in California Bay area		
+PI 650168*	Dry (days)	66.0			Bayer Crop Science		green house in California Bay area		
+Suneson	Dry (days)	65.8			Bayer Crop Science		green house in California Bay area		

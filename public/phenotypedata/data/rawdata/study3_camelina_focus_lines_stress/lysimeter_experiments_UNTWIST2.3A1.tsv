@@ -1,0 +1,513 @@
+subject	variable	value	sample_plant_anatomical_entity	sample_collection_date	sample_institute	sample_city	sample_country	sample_associated_interval	sample_associated_factor
+UNT4	plant_anatomical_entity	NaN							Drought
+UNT18	plant_anatomical_entity	NaN							Drought
+UNT21	plant_anatomical_entity	NaN							Drought
+UNT46	plant_anatomical_entity	NaN							Drought
+UNT4	lipid c16:0 (ug/mg)	6.4542347633694							Drought
+UNT18	lipid c16:0 (ug/mg)	6.71034510262006							Drought
+UNT21	lipid c16:0 (ug/mg)	6.56916607031563							Drought
+UNT46	lipid c16:0 (ug/mg)	6.17240418943231							Drought
+UNT4	lipid c18:0 (ug/mg)	2.38948419678609							Drought
+UNT18	lipid c18:0 (ug/mg)	2.57869155703294							Drought
+UNT21	lipid c18:0 (ug/mg)	2.21289099231202							Drought
+UNT46	lipid c18:0 (ug/mg)	2.25252695481467							Drought
+UNT4	lipid c18:1d9 (ug/mg)	14.2082820584534							Drought
+UNT18	lipid c18:1d9 (ug/mg)	13.0138985150645							Drought
+UNT21	lipid c18:1d9 (ug/mg)	14.7711072640462							Drought
+UNT46	lipid c18:1d9 (ug/mg)	15.2455346627803							Drought
+UNT4	lipid c18:1d11 (ug/mg)	1.05863510599592							Drought
+UNT18	lipid c18:1d11 (ug/mg)	1.01986469521536							Drought
+UNT21	lipid c18:1d11 (ug/mg)	1.15234529515192							Drought
+UNT46	lipid c18:1d11 (ug/mg)	0.975848387363968							Drought
+UNT4	lipid c18:2 (ug/mg)	21.9167589331135							Drought
+UNT18	lipid c18:2 (ug/mg)	23.1565239375564							Drought
+UNT21	lipid c18:2 (ug/mg)	19.3335074099129							Drought
+UNT46	lipid c18:2 (ug/mg)	19.9526159223662							Drought
+UNT4	lipid c18:3 (ug/mg)	29.7868491200278							Drought
+UNT18	lipid c18:3 (ug/mg)	28.7757090638438							Drought
+UNT21	lipid c18:3 (ug/mg)	32.9582427366394							Drought
+UNT46	lipid c18:3 (ug/mg)	32.0965279297321							Drought
+UNT4	lipid c20:0 (ug/mg)	1.83946657362489							Drought
+UNT18	lipid c20:0 (ug/mg)	2.03440549404975							Drought
+UNT21	lipid c20:0 (ug/mg)	1.452316880255							Drought
+UNT46	lipid c20:0 (ug/mg)	1.53207289875058							Drought
+UNT4	lipid c20:1d11 (ug/mg)	13.1338289690449							Drought
+UNT18	lipid c20:1d11 (ug/mg)	13.260862068567							Drought
+UNT21	lipid c20:1d11 (ug/mg)	13.213891113325							Drought
+UNT46	lipid c20:1d11 (ug/mg)	13.1859404948035							Drought
+UNT4	lipid c20:1d13 (ug/mg)	0.808757311643216							Drought
+UNT18	lipid c20:1d13 (ug/mg)	0.803929389436581							Drought
+UNT21	lipid c20:1d13 (ug/mg)	0.626353199666021							Drought
+UNT46	lipid c20:1d13 (ug/mg)	0.6061970895115							Drought
+UNT4	lipid c20:2 (ug/mg)	1.96533377797569							Drought
+UNT18	lipid c20:2 (ug/mg)	2.1893738932584							Drought
+UNT21	lipid c20:2 (ug/mg)	1.65727242519692							Drought
+UNT46	lipid c20:2 (ug/mg)	1.70757481482028							Drought
+UNT4	lipid c20:3 (ug/mg)	0.732549540894792							Drought
+UNT18	lipid c20:3 (ug/mg)	0.738977073279335							Drought
+UNT21	lipid c20:3 (ug/mg)	0.79655768422205							Drought
+UNT46	lipid c20:3 (ug/mg)	1.01281693057703							Drought
+UNT4	lipid c22:0 (ug/mg)	0.434948256199177							Drought
+UNT18	lipid c22:0 (ug/mg)	0.45488578353802							Drought
+UNT21	lipid c22:0 (ug/mg)	0.3504641044952							Drought
+UNT46	lipid c22:0 (ug/mg)	0.377697555958133							Drought
+UNT4	lipid c22:1 (ug/mg)	3.44649175914556							Drought
+UNT18	lipid c22:1 (ug/mg)	3.46621057274967							Drought
+UNT21	lipid c22:1 (ug/mg)	3.18183670148405							Drought
+UNT46	lipid c22:1 (ug/mg)	3.21804145002322							Drought
+UNT4	lipid c22:2 (ug/mg)	0.251598957582692							Drought
+UNT18	lipid c22:2 (ug/mg)	0.271376033392071							Drought
+UNT21	lipid c22:2 (ug/mg)	0.176269234861622							Drought
+UNT46	lipid c22:2 (ug/mg)	0.198427993121483							Drought
+UNT4	lipid c22:3 (ug/mg)	0.513305149283315							Drought
+UNT18	lipid c22:3 (ug/mg)	0.508387759606906							Drought
+UNT21	lipid c22:3 (ug/mg)	0.478852877720861							Drought
+UNT46	lipid c22:3 (ug/mg)	0.470640202166591							Drought
+UNT4	lipid c24:0 (ug/mg)	0.213488023221742							Drought
+UNT18	lipid c24:0 (ug/mg)	0.208585323211213							Drought
+UNT21	lipid c24:0 (ug/mg)	0.221290162865797							Drought
+UNT46	lipid c24:0 (ug/mg)	0.257737755753282							Drought
+UNT4	lipid c24:1 (ug/mg)	0.845987503638017							Drought
+UNT18	lipid c24:1 (ug/mg)	0.807973737577959							Drought
+UNT21	lipid c24:1 (ug/mg)	0.847635847529442							Drought
+UNT46	lipid c24:1 (ug/mg)	0.737394768024821							Drought
+UNT4	total fa (ug/mg)	171.833858749161							Drought
+UNT18	total fa (ug/mg)	176.267326466242							Drought
+UNT21	total fa (ug/mg)	169.98592822833							Drought
+UNT46	total fa (ug/mg)	170.767735273149							Drought
+UNT4	relative pufa (ug/mg)	1.24141865882051							Drought
+UNT18	relative pufa (ug/mg)	1.2458015110099							Drought
+UNT21	relative pufa (ug/mg)	1.2078262296064							Drought
+UNT46	relative pufa (ug/mg)	1.24193546493023							Drought
+UNT4	lipid c18:0 (%)	6.55012135973606							Drought
+UNT18	lipid c18:0 (%)	6.1346703144289							Drought
+UNT21	lipid c18:0 (%)	6.71034510262006							Drought
+UNT46	lipid c18:0 (%)	6.17240418943231							Drought
+UNT4	lipid c18:1d9 (%)	2.60786859147454							Drought
+UNT18	lipid c18:1d9 (%)	2.31031434111305							Drought
+UNT21	lipid c18:1d9 (%)	2.57869155703294							Drought
+UNT46	lipid c18:1d9 (%)	2.25252695481467							Drought
+UNT4	lipid c18:1d11 (%)	13.6965957978674							Drought
+UNT18	lipid c18:1d11 (%)	15.1768771723149							Drought
+UNT21	lipid c18:1d11 (%)	13.0138985150645							Drought
+UNT46	lipid c18:1d11 (%)	15.2455346627803							Drought
+UNT4	lipid c18:2 (%)	0.958110725150226							Drought
+UNT18	lipid c18:2 (%)	0.932788193655523							Drought
+UNT21	lipid c18:2 (%)	1.01986469521536							Drought
+UNT46	lipid c18:2 (%)	0.975848387363969							Drought
+UNT4	lipid c18:3 (%)	23.0577203299515							Drought
+UNT18	lipid c18:3 (%)	20.2679042974085							Drought
+UNT21	lipid c18:3 (%)	23.1565239375564							Drought
+UNT46	lipid c18:3 (%)	19.9526159223662							Drought
+UNT4	lipid c20:0 (%)	28.6856470214063							Drought
+UNT18	lipid c20:0 (%)	31.6471292727357							Drought
+UNT21	lipid c20:0 (%)	28.7757090638438							Drought
+UNT46	lipid c20:0 (%)	32.0965279297321							Drought
+UNT4	lipid c20:1d11 (%)	1.83435030134125							Drought
+UNT18	lipid c20:1d11 (%)	1.53317475994497							Drought
+UNT21	lipid c20:1d11 (%)	2.03440549404975							Drought
+UNT46	lipid c20:1d11 (%)	1.53207289875058							Drought
+UNT4	lipid c20:1d13 (%)	13.6172442930244							Drought
+UNT18	lipid c20:1d13 (%)	13.3850491093501							Drought
+UNT21	lipid c20:1d13 (%)	13.260862068567							Drought
+UNT46	lipid c20:1d13 (%)	13.1859404948035							Drought
+UNT4	lipid c20:2 (%)	0.698529431931702							Drought
+UNT18	lipid c20:2 (%)	0.564191240439338							Drought
+UNT21	lipid c20:2 (%)	0.803929389436581							Drought
+UNT46	lipid c20:2 (%)	0.6061970895115							Drought
+UNT4	lipid c20:3 (%)	2.21216513638328							Drought
+UNT18	lipid c20:3 (%)	1.77438422224834							Drought
+UNT21	lipid c20:3 (%)	2.1893738932584							Drought
+UNT46	lipid c20:3 (%)	1.70757481482028							Drought
+UNT4	lipid c22:0 (%)	0.884832199274018							Drought
+UNT18	lipid c22:0 (%)	1.14535679712551							Drought
+UNT21	lipid c22:0 (%)	0.738977073279335							Drought
+UNT46	lipid c22:0 (%)	1.01281693057703							Drought
+UNT4	lipid c22:1 (%)	0.404046635773263							Drought
+UNT18	lipid c22:1 (%)	0.378236607388193							Drought
+UNT21	lipid c22:1 (%)	0.45488578353802							Drought
+UNT46	lipid c22:1 (%)	0.377697555958133							Drought
+UNT4	lipid c22:2 (%)	3.18992037893105							Drought
+UNT18	lipid c22:2 (%)	3.17580769373026							Drought
+UNT21	lipid c22:2 (%)	3.46621057274967							Drought
+UNT46	lipid c22:2 (%)	3.21804145002322							Drought
+UNT4	lipid c22:3 (%)	0.233673350450983							Drought
+UNT18	lipid c22:3 (%)	0.18883224138199							Drought
+UNT21	lipid c22:3 (%)	0.271376033392071							Drought
+UNT46	lipid c22:3 (%)	0.198427993121483							Drought
+UNT4	lipid c24:0 (%)	0.426288599553471							Drought
+UNT18	lipid c24:0 (%)	0.422516387781348							Drought
+UNT21	lipid c24:0 (%)	0.508387759606906							Drought
+UNT46	lipid c24:0 (%)	0.470640202166591							Drought
+UNT4	lipid c24:1 (%)	0.184902525764608							Drought
+UNT18	lipid c24:1 (%)	0.249443475765796							Drought
+UNT21	lipid c24:1 (%)	0.208585323211213							Drought
+UNT46	lipid c24:1 (%)	0.257737755753282							Drought
+UNT4	lipid average - tgw (g) (%)	0.757983321985969							Drought
+UNT18	lipid average - tgw (g) (%)	0.713323873187598							Drought
+UNT21	lipid average - tgw (g) (%)	0.807973737577959							Drought
+UNT46	lipid average - tgw (g) (%)	0.737394768024821							Drought
+UNT4	average - tgw (g)	0.952760816815267							Drought
+UNT18	average - tgw (g)	1.00827893534864							Drought
+UNT21	average - tgw (g)	0.684553040514614							Drought
+UNT46	average - tgw (g)	0.886657713290412							Drought
+UNT4	average - resultmoisture	5.18							Drought
+UNT18	average - resultmoisture	5.19							Drought
+UNT21	average - resultmoisture	5.12							Drought
+UNT46	average - resultmoisture	5.15							Drought
+UNT4	average - resultoil	38.49							Drought
+UNT18	average - resultoil	37.57							Drought
+UNT21	average - resultoil	35.3							Drought
+UNT46	average - resultoil	35.85							Drought
+UNT4	average - plant height (cm)	110.566666666667							Drought
+UNT18	average - plant height (cm)	111.866666666667							Drought
+UNT21	average - plant height (cm)	105.45							Drought
+UNT46	average - plant height (cm)	100.041666666667							Drought
+UNT4	average - no. of branches	4.33333333333333							Drought
+UNT18	average - no. of branches	5.0							Drought
+UNT21	average - no. of branches	5.08333333333333							Drought
+UNT46	average - no. of branches	4.41666666666667							Drought
+UNT4	average - total biomass fresh weight (g)	4.79416666666667							Drought
+UNT18	average - total biomass fresh weight (g)	5.48083333333333							Drought
+UNT21	average - total biomass fresh weight (g)	4.585							Drought
+UNT46	average - total biomass fresh weight (g)	5.21833333333333							Drought
+UNT4	average - no. of siliques	93.4166666666667							Drought
+UNT18	average - no. of siliques	108.083333333333							Drought
+UNT21	average - no. of siliques	98.5833333333333							Drought
+UNT46	average - no. of siliques	112.75							Drought
+UNT4	average - stem dry weight (g dm)	1.28290405775411							Drought
+UNT18	average - stem dry weight (g dm)	1.52606708444945							Drought
+UNT21	average - stem dry weight (g dm)	1.60001590839217							Drought
+UNT46	average - stem dry weight (g dm)	1.27858486226529							Drought
+UNT4	average - seed dry weight (g dm)	0.371351828327975							Drought
+UNT18	average - seed dry weight (g dm)	0.24829649306922							Drought
+UNT21	average - seed dry weight (g dm)	0.226761521986785							Drought
+UNT46	average - seed dry weight (g dm)	0.260641457821458							Drought
+UNT4	average - spad values 7 dad	42.4888888888889							Drought
+UNT18	average - spad values 7 dad	39.0111111111111							Drought
+UNT21	average - spad values 7 dad	43.6444444444444							Drought
+UNT46	average - spad values 7 dad	38.2444444444444							Drought
+UNT4	average - spad values 14 dad	39.8							Drought
+UNT18	average - spad values 14 dad	39.0222222222222							Drought
+UNT21	average - spad values 14 dad	40.6222222222222							Drought
+UNT46	average - spad values 14 dad	35.6666666666667							Drought
+UNT4	average - fv/fm 7 dad	0.823111111111111							Drought
+UNT18	average - fv/fm 7 dad	0.818888888888889							Drought
+UNT21	average - fv/fm 7 dad	0.813111111111111							Drought
+UNT46	average - fv/fm 7 dad	0.794555555555556							Drought
+UNT4	average - fv/fm 14 dad	0.805888888888889							Drought
+UNT18	average - fv/fm 14 dad	0.753111111111111							Drought
+UNT21	average - fv/fm 14 dad	0.784444444444445							Drought
+UNT46	average - fv/fm 14 dad	0.792222222222222							Drought
+UNT4	average - leaf relative water content (rwc) 7 dad	62.99845283094							Drought
+UNT18	average - leaf relative water content (rwc) 7 dad	71.8354324029492							Drought
+UNT21	average - leaf relative water content (rwc) 7 dad	73.3335565078532							Drought
+UNT46	average - leaf relative water content (rwc) 7 dad	77.3392701292892							Drought
+UNT4	average - leaves stomatal conductance (gs) 14 dad	36.2433148275258							Drought
+UNT18	average - leaves stomatal conductance (gs) 14 dad	178.595832585458							Drought
+UNT21	average - leaves stomatal conductance (gs) 14 dad	91.4429288016056							Drought
+UNT46	average - leaves stomatal conductance (gs) 14 dad	180.163411475573							Drought
+UNT4	average - leaves photosynthesis (a) 14 dad	3.1629194252866							Drought
+UNT18	average - leaves photosynthesis (a) 14 dad	8.00904513618041							Drought
+UNT21	average - leaves photosynthesis (a) 14 dad	7.27707128930858							Drought
+UNT46	average - leaves photosynthesis (a) 14 dad	11.373841501904							Drought
+UNT4	average - leaf relative water content (rwc) dad	53.816766725269							Drought
+UNT18	average - leaf relative water content (rwc) dad	77.442675731807							Drought
+UNT21	average - leaf relative water content (rwc) dad	72.4531915457477							Drought
+UNT46	average - leaf relative water content (rwc) dad	73.3238639423622							Drought
+UNT4	average - leaves transpiration (e) 14 dad	0.97801206875973							Drought
+UNT18	average - leaves transpiration (e) 14 dad	3.62595766968382							Drought
+UNT21	average - leaves transpiration (e) 14 dad	2.29659437160037							Drought
+UNT46	average - leaves transpiration (e) 14 dad	3.35247433590763							Drought
+UNT4	average - leaves transpiration (e) 7 dad	0.981889732599262							Drought
+UNT18	average - leaves transpiration (e) 7 dad	3.46923309643188							Drought
+UNT21	average - leaves transpiration (e) 7 dad	2.5080216497845							Drought
+UNT46	average - leaves transpiration (e) 7 dad	2.33489237557381							Drought
+UNT4	average - leaves stomatal conductance (gs) 7 dad	45.566950831456							Drought
+UNT18	average - leaves stomatal conductance (gs) 7 dad	266.454617673877							Drought
+UNT21	average - leaves stomatal conductance (gs) 7 dad	121.287625345285							Drought
+UNT46	average - leaves stomatal conductance (gs) 7 dad	112.776519790259							Drought
+UNT4	average - siliques transpiration (e)	1.63277710364738							Drought
+UNT18	average - siliques transpiration (e)	3.24731859596613							Drought
+UNT21	average - siliques transpiration (e)	5.00672371079646							Drought
+UNT46	average - siliques transpiration (e)	4.81175094640485							Drought
+UNT4	average - siliques stomatal conductance (gs)	208.218491907496							Drought
+UNT18	average - siliques stomatal conductance (gs)	2037.39506918999							Drought
+UNT21	average - siliques stomatal conductance (gs)	5710.63625864479							Drought
+UNT46	average - siliques stomatal conductance (gs)	2826.96158399579							Drought
+UNT4	average - leaves internal co2 concentration (ci) 7 dad	88.7815762549811							Drought
+UNT18	average - leaves internal co2 concentration (ci) 7 dad	269.739115226295							Drought
+UNT21	average - leaves internal co2 concentration (ci) 7 dad	149.917357761128							Drought
+UNT46	average - leaves internal co2 concentration (ci) 7 dad	67.5661489875293							Drought
+UNT4	average - leaves internal co2 concentration (ci) 14dad	226.041275414962							Drought
+UNT18	average - leaves internal co2 concentration (ci) 14dad	297.099407062739							Drought
+UNT21	average - leaves internal co2 concentration (ci) 14dad	236.651408571049							Drought
+UNT46	average - leaves internal co2 concentration (ci) 14dad	244.919184196079							Drought
+UNT4	average - siliques photosynthesis (a)	5.8514914339972							Drought
+UNT18	average - siliques photosynthesis (a)	21.3933366209197							Drought
+UNT21	average - siliques photosynthesis (a)	14.6012577932229							Drought
+UNT46	average - siliques photosynthesis (a)	27.8063848995955							Drought
+UNT4	average - siliques internal co2 concentration (ci)	314.537716072484							Drought
+UNT18	average - siliques internal co2 concentration (ci)	273.955794993156							Drought
+UNT21	average - siliques internal co2 concentration (ci)	325.355323173733							Drought
+UNT46	average - siliques internal co2 concentration (ci)	268.379013866227							Drought
+UNT4	average - leaves photosynthesis (a) 7 dad	7.06304473765575							Drought
+UNT18	average - leaves photosynthesis (a) 7 dad	14.8457304273376							Drought
+UNT21	average - leaves photosynthesis (a) 7 dad	14.1846595447885							Drought
+UNT46	average - leaves photosynthesis (a) 7 dad	11.8518150474749							Drought
+UNT4	plant_anatomical_entity	NaN							Well watered
+UNT18	plant_anatomical_entity	NaN							Well watered
+UNT21	plant_anatomical_entity	NaN							Well watered
+UNT46	plant_anatomical_entity	NaN							Well watered
+UNT4	lipid c16:0 (ug/mg)	6.31684748909572							Well watered
+UNT18	lipid c16:0 (ug/mg)	6.55012135973606							Well watered
+UNT21	lipid c16:0 (ug/mg)	6.66442485132815							Well watered
+UNT46	lipid c16:0 (ug/mg)	6.1346703144289							Well watered
+UNT4	lipid c18:0 (ug/mg)	2.4484298186614							Well watered
+UNT18	lipid c18:0 (ug/mg)	2.60786859147454							Well watered
+UNT21	lipid c18:0 (ug/mg)	2.40103784748952							Well watered
+UNT46	lipid c18:0 (ug/mg)	2.31031434111305							Well watered
+UNT4	lipid c18:1d9 (ug/mg)	14.7872203018062							Well watered
+UNT18	lipid c18:1d9 (ug/mg)	13.6965957978674							Well watered
+UNT21	lipid c18:1d9 (ug/mg)	15.9526399879525							Well watered
+UNT46	lipid c18:1d9 (ug/mg)	15.1768771723149							Well watered
+UNT4	lipid c18:1d11 (ug/mg)	0.978166856742722							Well watered
+UNT18	lipid c18:1d11 (ug/mg)	0.958110725150226							Well watered
+UNT21	lipid c18:1d11 (ug/mg)	1.06418544395722							Well watered
+UNT46	lipid c18:1d11 (ug/mg)	0.932788193655524							Well watered
+UNT4	lipid c18:2 (ug/mg)	21.9493026388083							Well watered
+UNT18	lipid c18:2 (ug/mg)	23.0577203299515							Well watered
+UNT21	lipid c18:2 (ug/mg)	20.1217547463517							Well watered
+UNT46	lipid c18:2 (ug/mg)	20.2679042974085							Well watered
+UNT4	lipid c18:3 (ug/mg)	29.3527967331083							Well watered
+UNT18	lipid c18:3 (ug/mg)	28.6856470214063							Well watered
+UNT21	lipid c18:3 (ug/mg)	30.955051181024							Well watered
+UNT46	lipid c18:3 (ug/mg)	31.6471292727357							Well watered
+UNT4	lipid c20:0 (ug/mg)	1.66235189372049							Well watered
+UNT18	lipid c20:0 (ug/mg)	1.83435030134125							Well watered
+UNT21	lipid c20:0 (ug/mg)	1.40506994840299							Well watered
+UNT46	lipid c20:0 (ug/mg)	1.53317475994497							Well watered
+UNT4	lipid c20:1d11 (ug/mg)	13.5636007070355							Well watered
+UNT18	lipid c20:1d11 (ug/mg)	13.6172442930244							Well watered
+UNT21	lipid c20:1d11 (ug/mg)	13.4736280515792							Well watered
+UNT46	lipid c20:1d11 (ug/mg)	13.3850491093501							Well watered
+UNT4	lipid c20:1d13 (ug/mg)	0.72327787355091							Well watered
+UNT18	lipid c20:1d13 (ug/mg)	0.698529431931702							Well watered
+UNT21	lipid c20:1d13 (ug/mg)	0.54908408482396							Well watered
+UNT46	lipid c20:1d13 (ug/mg)	0.564191240439338							Well watered
+UNT4	lipid c20:2 (ug/mg)	2.04405257455514							Well watered
+UNT18	lipid c20:2 (ug/mg)	2.21216513638328							Well watered
+UNT21	lipid c20:2 (ug/mg)	1.748207455896							Well watered
+UNT46	lipid c20:2 (ug/mg)	1.77438422224834							Well watered
+UNT4	lipid c20:3 (ug/mg)	0.883810193313689							Well watered
+UNT18	lipid c20:3 (ug/mg)	0.884832199274018							Well watered
+UNT21	lipid c20:3 (ug/mg)	0.89170285260493							Well watered
+UNT46	lipid c20:3 (ug/mg)	1.14535679712551							Well watered
+UNT4	lipid c22:0 (ug/mg)	0.389910791687197							Well watered
+UNT18	lipid c22:0 (ug/mg)	0.404046635773263							Well watered
+UNT21	lipid c22:0 (ug/mg)	0.32442839580545							Well watered
+UNT46	lipid c22:0 (ug/mg)	0.378236607388193							Well watered
+UNT4	lipid c22:1 (ug/mg)	3.26591370502551							Well watered
+UNT18	lipid c22:1 (ug/mg)	3.18992037893105							Well watered
+UNT21	lipid c22:1 (ug/mg)	2.92212035146887							Well watered
+UNT46	lipid c22:1 (ug/mg)	3.17580769373026							Well watered
+UNT4	lipid c22:2 (ug/mg)	0.226414455959055							Well watered
+UNT18	lipid c22:2 (ug/mg)	0.233673350450983							Well watered
+UNT21	lipid c22:2 (ug/mg)	0.160414366485579							Well watered
+UNT46	lipid c22:2 (ug/mg)	0.18883224138199							Well watered
+UNT4	lipid c22:3 (ug/mg)	0.447341794631025							Well watered
+UNT18	lipid c22:3 (ug/mg)	0.426288599553471							Well watered
+UNT21	lipid c22:3 (ug/mg)	0.390410619608181							Well watered
+UNT46	lipid c22:3 (ug/mg)	0.422516387781348							Well watered
+UNT4	lipid c24:0 (ug/mg)	0.182010818583767							Well watered
+UNT18	lipid c24:0 (ug/mg)	0.184902525764608							Well watered
+UNT21	lipid c24:0 (ug/mg)	0.206772512729558							Well watered
+UNT46	lipid c24:0 (ug/mg)	0.249443475765796							Well watered
+UNT4	lipid c24:1 (ug/mg)	0.778551353715099							Well watered
+UNT18	lipid c24:1 (ug/mg)	0.757983321985969							Well watered
+UNT21	lipid c24:1 (ug/mg)	0.769067302492231							Well watered
+UNT46	lipid c24:1 (ug/mg)	0.713323873187598							Well watered
+UNT4	total fa (ug/mg)	182.81550052527							Well watered
+UNT18	total fa (ug/mg)	172.552961795208							Well watered
+UNT21	total fa (ug/mg)	165.963215462713							Well watered
+UNT46	total fa (ug/mg)	168.090271030436							Well watered
+UNT4	relative pufa (ug/mg)	1.20760889215355							Well watered
+UNT18	relative pufa (ug/mg)	1.25626836925251							Well watered
+UNT21	relative pufa (ug/mg)	1.22132538934784							Well watered
+UNT46	relative pufa (ug/mg)	1.24697423639366							Well watered
+UNT4	lipid c18:0 (%)	6.31684748909572							Well watered
+UNT18	lipid c18:0 (%)	6.66442485132815							Well watered
+UNT21	lipid c18:0 (%)	6.4542347633694							Well watered
+UNT46	lipid c18:0 (%)	6.56916607031563							Well watered
+UNT4	lipid c18:1d9 (%)	2.4484298186614							Well watered
+UNT18	lipid c18:1d9 (%)	2.40103784748952							Well watered
+UNT21	lipid c18:1d9 (%)	2.38948419678609							Well watered
+UNT46	lipid c18:1d9 (%)	2.21289099231202							Well watered
+UNT4	lipid c18:1d11 (%)	14.7872203018062							Well watered
+UNT18	lipid c18:1d11 (%)	15.9526399879525							Well watered
+UNT21	lipid c18:1d11 (%)	14.2082820584533							Well watered
+UNT46	lipid c18:1d11 (%)	14.7711072640462							Well watered
+UNT4	lipid c18:2 (%)	0.978166856742722							Well watered
+UNT18	lipid c18:2 (%)	1.06418544395722							Well watered
+UNT21	lipid c18:2 (%)	1.05863510599592							Well watered
+UNT46	lipid c18:2 (%)	1.15234529515192							Well watered
+UNT4	lipid c18:3 (%)	21.9493026388083							Well watered
+UNT18	lipid c18:3 (%)	20.1217547463517							Well watered
+UNT21	lipid c18:3 (%)	21.9167589331135							Well watered
+UNT46	lipid c18:3 (%)	19.3335074099129							Well watered
+UNT4	lipid c20:0 (%)	29.3527967331083							Well watered
+UNT18	lipid c20:0 (%)	30.955051181024							Well watered
+UNT21	lipid c20:0 (%)	29.7868491200278							Well watered
+UNT46	lipid c20:0 (%)	32.9582427366394							Well watered
+UNT4	lipid c20:1d11 (%)	1.66235189372049							Well watered
+UNT18	lipid c20:1d11 (%)	1.40506994840299							Well watered
+UNT21	lipid c20:1d11 (%)	1.83946657362489							Well watered
+UNT46	lipid c20:1d11 (%)	1.452316880255							Well watered
+UNT4	lipid c20:1d13 (%)	13.5636007070355							Well watered
+UNT18	lipid c20:1d13 (%)	13.4736280515792							Well watered
+UNT21	lipid c20:1d13 (%)	13.1338289690449							Well watered
+UNT46	lipid c20:1d13 (%)	13.213891113325							Well watered
+UNT4	lipid c20:2 (%)	0.723277873550909							Well watered
+UNT18	lipid c20:2 (%)	0.54908408482396							Well watered
+UNT21	lipid c20:2 (%)	0.808757311643216							Well watered
+UNT46	lipid c20:2 (%)	0.626353199666021							Well watered
+UNT4	lipid c20:3 (%)	2.04405257455514							Well watered
+UNT18	lipid c20:3 (%)	1.748207455896							Well watered
+UNT21	lipid c20:3 (%)	1.96533377797569							Well watered
+UNT46	lipid c20:3 (%)	1.65727242519692							Well watered
+UNT4	lipid c22:0 (%)	0.883810193313689							Well watered
+UNT18	lipid c22:0 (%)	0.89170285260493							Well watered
+UNT21	lipid c22:0 (%)	0.732549540894792							Well watered
+UNT46	lipid c22:0 (%)	0.79655768422205							Well watered
+UNT4	lipid c22:1 (%)	0.389910791687197							Well watered
+UNT18	lipid c22:1 (%)	0.32442839580545							Well watered
+UNT21	lipid c22:1 (%)	0.434948256199177							Well watered
+UNT46	lipid c22:1 (%)	0.3504641044952							Well watered
+UNT4	lipid c22:2 (%)	3.26591370502551							Well watered
+UNT18	lipid c22:2 (%)	2.92212035146887							Well watered
+UNT21	lipid c22:2 (%)	3.44649175914556							Well watered
+UNT46	lipid c22:2 (%)	3.18183670148405							Well watered
+UNT4	lipid c22:3 (%)	0.226414455959055							Well watered
+UNT18	lipid c22:3 (%)	0.160414366485579							Well watered
+UNT21	lipid c22:3 (%)	0.251598957582692							Well watered
+UNT46	lipid c22:3 (%)	0.176269234861622							Well watered
+UNT4	lipid c24:0 (%)	0.447341794631025							Well watered
+UNT18	lipid c24:0 (%)	0.390410619608181							Well watered
+UNT21	lipid c24:0 (%)	0.513305149283315							Well watered
+UNT46	lipid c24:0 (%)	0.478852877720861							Well watered
+UNT4	lipid c24:1 (%)	0.182010818583767							Well watered
+UNT18	lipid c24:1 (%)	0.206772512729558							Well watered
+UNT21	lipid c24:1 (%)	0.213488023221742							Well watered
+UNT46	lipid c24:1 (%)	0.221290162865797							Well watered
+UNT4	lipid average - tgw (g) (%)	0.778551353715099							Well watered
+UNT18	lipid average - tgw (g) (%)	0.769067302492231							Well watered
+UNT21	lipid average - tgw (g) (%)	0.845987503638017							Well watered
+UNT46	lipid average - tgw (g) (%)	0.847635847529442							Well watered
+UNT4	average - tgw (g)	0.968341952215727							Well watered
+UNT18	average - tgw (g)	1.05770747971901							Well watered
+UNT21	average - tgw (g)	0.759157455431294							Well watered
+UNT46	average - tgw (g)	0.904179015252975							Well watered
+UNT4	average - resultmoisture	5.06							Well watered
+UNT18	average - resultmoisture	5.08							Well watered
+UNT21	average - resultmoisture	4.85							Well watered
+UNT46	average - resultmoisture	5.03							Well watered
+UNT4	average - resultoil	34.29							Well watered
+UNT18	average - resultoil	35.28							Well watered
+UNT21	average - resultoil	32.95							Well watered
+UNT46	average - resultoil	34.78							Well watered
+UNT4	average - plant height (cm)	95.7833333333333							Well watered
+UNT18	average - plant height (cm)	89.85							Well watered
+UNT21	average - plant height (cm)	89.425							Well watered
+UNT46	average - plant height (cm)	96.8333333333333							Well watered
+UNT4	average - no. of branches	4.0							Well watered
+UNT18	average - no. of branches	3.66666666666667							Well watered
+UNT21	average - no. of branches	5.0							Well watered
+UNT46	average - no. of branches	4.33333333333333							Well watered
+UNT4	average - total biomass fresh weight (g)	2.74							Well watered
+UNT18	average - total biomass fresh weight (g)	3.075							Well watered
+UNT21	average - total biomass fresh weight (g)	4.22416666666667							Well watered
+UNT46	average - total biomass fresh weight (g)	4.11083333333333							Well watered
+UNT4	average - no. of siliques	65.5							Well watered
+UNT18	average - no. of siliques	71.5833333333333							Well watered
+UNT21	average - no. of siliques	86.3333333333333							Well watered
+UNT46	average - no. of siliques	80.25							Well watered
+UNT4	average - stem dry weight (g dm)	1.11530228689581							Well watered
+UNT18	average - stem dry weight (g dm)	1.00792199112928							Well watered
+UNT21	average - stem dry weight (g dm)	1.2356799210039							Well watered
+UNT46	average - stem dry weight (g dm)	1.21158297398442							Well watered
+UNT4	average - seed dry weight (g dm)	0.128517300194932							Well watered
+UNT18	average - seed dry weight (g dm)	0.166463887313292							Well watered
+UNT21	average - seed dry weight (g dm)	0.308462406742625							Well watered
+UNT46	average - seed dry weight (g dm)	0.435152239203032							Well watered
+UNT4	average - spad values 7 dad	42.4666666666667							Well watered
+UNT18	average - spad values 7 dad	52.6555555555555							Well watered
+UNT21	average - spad values 7 dad	49.0222222222222							Well watered
+UNT46	average - spad values 7 dad	43.1							Well watered
+UNT4	average - spad values 14 dad	41.6333333333333							Well watered
+UNT18	average - spad values 14 dad	40.2222222222222							Well watered
+UNT21	average - spad values 14 dad	35.1666666666667							Well watered
+UNT46	average - spad values 14 dad	33.3111111111111							Well watered
+UNT4	average - fv/fm 7 dad	0.809222222222222							Well watered
+UNT18	average - fv/fm 7 dad	0.793888888888889							Well watered
+UNT21	average - fv/fm 7 dad	0.794111111111111							Well watered
+UNT46	average - fv/fm 7 dad	0.774333333333333							Well watered
+UNT4	average - fv/fm 14 dad	0.794666666666667							Well watered
+UNT18	average - fv/fm 14 dad	0.800111111111111							Well watered
+UNT21	average - fv/fm 14 dad	0.776333333333333							Well watered
+UNT46	average - fv/fm 14 dad	0.718111111111111							Well watered
+UNT4	average - leaf relative water content (rwc) 7 dad	77.5738746414939							Well watered
+UNT18	average - leaf relative water content (rwc) 7 dad	51.42504692764							Well watered
+UNT21	average - leaf relative water content (rwc) 7 dad	48.5847386188869							Well watered
+UNT46	average - leaf relative water content (rwc) 7 dad	63.7714118882104							Well watered
+UNT4	average - leaves stomatal conductance (gs) 14 dad	170.826093244207							Well watered
+UNT18	average - leaves stomatal conductance (gs) 14 dad	51.183452936042							Well watered
+UNT21	average - leaves stomatal conductance (gs) 14 dad	24.6449248942736							Well watered
+UNT46	average - leaves stomatal conductance (gs) 14 dad	20.7278166083735							Well watered
+UNT4	average - leaves photosynthesis (a) 14 dad	10.4755645901907							Well watered
+UNT18	average - leaves photosynthesis (a) 14 dad	5.98186981819846							Well watered
+UNT21	average - leaves photosynthesis (a) 14 dad	2.90532544479235							Well watered
+UNT46	average - leaves photosynthesis (a) 14 dad	2.94876958558718							Well watered
+UNT4	average - leaf relative water content (rwc) dad	72.9081172097199							Well watered
+UNT18	average - leaf relative water content (rwc) dad	37.1843644389876							Well watered
+UNT21	average - leaf relative water content (rwc) dad	36.0104459310289							Well watered
+UNT46	average - leaf relative water content (rwc) dad	44.4748964094522							Well watered
+UNT4	average - leaves transpiration (e) 14 dad	3.55138285794812							Well watered
+UNT18	average - leaves transpiration (e) 14 dad	1.48329621316095							Well watered
+UNT21	average - leaves transpiration (e) 14 dad	0.85247311391814							Well watered
+UNT46	average - leaves transpiration (e) 14 dad	0.761861260654674							Well watered
+UNT4	average - leaves transpiration (e) 7 dad	3.32264795947216							Well watered
+UNT18	average - leaves transpiration (e) 7 dad	1.1849725143132							Well watered
+UNT21	average - leaves transpiration (e) 7 dad	0.734974977157806							Well watered
+UNT46	average - leaves transpiration (e) 7 dad	1.31551553014235							Well watered
+UNT4	average - leaves stomatal conductance (gs) 7 dad	184.897111092682							Well watered
+UNT18	average - leaves stomatal conductance (gs) 7 dad	42.2129361759233							Well watered
+UNT21	average - leaves stomatal conductance (gs) 7 dad	23.5735987997039							Well watered
+UNT46	average - leaves stomatal conductance (gs) 7 dad	62.9589198384426							Well watered
+UNT4	average - siliques transpiration (e)	6.53596368060749							Well watered
+UNT18	average - siliques transpiration (e)	4.17566485810965							Well watered
+UNT21	average - siliques transpiration (e)	2.34401145306655							Well watered
+UNT46	average - siliques transpiration (e)	2.52883224363615							Well watered
+UNT4	average - siliques stomatal conductance (gs)	3323.10014444131							Well watered
+UNT18	average - siliques stomatal conductance (gs)	598.253626786167							Well watered
+UNT21	average - siliques stomatal conductance (gs)	263.340378114154							Well watered
+UNT46	average - siliques stomatal conductance (gs)	707.743655045394							Well watered
+UNT4	average - leaves internal co2 concentration (ci) 7 dad	205.701451675641							Well watered
+UNT18	average - leaves internal co2 concentration (ci) 7 dad	89.7247182060092							Well watered
+UNT21	average - leaves internal co2 concentration (ci) 7 dad	-15.4849699641473							Well watered
+UNT46	average - leaves internal co2 concentration (ci) 7 dad	-11.8880025580766							Well watered
+UNT4	average - leaves internal co2 concentration (ci) 14dad	261.279693449316							Well watered
+UNT18	average - leaves internal co2 concentration (ci) 14dad	165.091243042074							Well watered
+UNT21	average - leaves internal co2 concentration (ci) 14dad	192.508682062235							Well watered
+UNT46	average - leaves internal co2 concentration (ci) 14dad	152.447380235105							Well watered
+UNT4	average - siliques photosynthesis (a)	15.4472383872568							Well watered
+UNT18	average - siliques photosynthesis (a)	5.74691589670255							Well watered
+UNT21	average - siliques photosynthesis (a)	2.54303997668949							Well watered
+UNT46	average - siliques photosynthesis (a)	13.2047147088517							Well watered
+UNT4	average - siliques internal co2 concentration (ci)	334.309722714342							Well watered
+UNT18	average - siliques internal co2 concentration (ci)	349.269221554134							Well watered
+UNT21	average - siliques internal co2 concentration (ci)	355.203726258557							Well watered
+UNT46	average - siliques internal co2 concentration (ci)	290.920699197943							Well watered
+UNT4	average - leaves photosynthesis (a) 7 dad	16.2711806360285							Well watered
+UNT18	average - leaves photosynthesis (a) 7 dad	6.91727375358494							Well watered
+UNT21	average - leaves photosynthesis (a) 7 dad	5.66487385374919							Well watered
+UNT46	average - leaves photosynthesis (a) 7 dad	8.60502793363845							Well watered

@@ -1,0 +1,610 @@
+subject	variable	value	sample_plant_anatomical_entity	sample_collection_date	sample_institute	sample_city	sample_country	sample_associated_interval	sample_associated_factor
+UNT1	plant_anatomical_entity	NaN			CCE		Spain		
+UNT2	plant_anatomical_entity	NaN			CCE		Spain		
+UNT3	plant_anatomical_entity	NaN			CCE		Spain		
+UNT4	plant_anatomical_entity	NaN			CCE		Spain		
+UNT5	plant_anatomical_entity	NaN			CCE		Spain		
+UNT7	plant_anatomical_entity	NaN			CCE		Spain		
+UNT8	plant_anatomical_entity	NaN			CCE		Spain		
+UNT9	plant_anatomical_entity	NaN			CCE		Spain		
+UNT10	plant_anatomical_entity	NaN			CCE		Spain		
+UNT11	plant_anatomical_entity	NaN			CCE		Spain		
+UNT12	plant_anatomical_entity	NaN			CCE		Spain		
+UNT13	plant_anatomical_entity	NaN			CCE		Spain		
+UNT15	plant_anatomical_entity	NaN			CCE		Spain		
+UNT17	plant_anatomical_entity	NaN			CCE		Spain		
+UNT18	plant_anatomical_entity	NaN			CCE		Spain		
+UNT20	plant_anatomical_entity	NaN			CCE		Spain		
+UNT21	plant_anatomical_entity	NaN			CCE		Spain		
+UNT22	plant_anatomical_entity	NaN			CCE		Spain		
+UNT23	plant_anatomical_entity	NaN			CCE		Spain		
+UNT26	plant_anatomical_entity	NaN			CCE		Spain		
+UNT28	plant_anatomical_entity	NaN			CCE		Spain		
+UNT30	plant_anatomical_entity	NaN			CCE		Spain		
+UNT31	plant_anatomical_entity	NaN			CCE		Spain		
+UNT32	plant_anatomical_entity	NaN			CCE		Spain		
+UNT33	plant_anatomical_entity	NaN			CCE		Spain		
+UNT35	plant_anatomical_entity	NaN			CCE		Spain		
+UNT37	plant_anatomical_entity	NaN			CCE		Spain		
+UNT38	plant_anatomical_entity	NaN			CCE		Spain		
+UNT40	plant_anatomical_entity	NaN			CCE		Spain		
+UNT42	plant_anatomical_entity	NaN			CCE		Spain		
+UNT44	plant_anatomical_entity	NaN			CCE		Spain		
+UNT46	plant_anatomical_entity	NaN			CCE		Spain		
+UNT47	plant_anatomical_entity	NaN			CCE		Spain		
+UNT50	plant_anatomical_entity	NaN			CCE		Spain		
+UNT52	plant_anatomical_entity	NaN			CCE		Spain		
+UNT53	plant_anatomical_entity	NaN			CCE		Spain		
+UNT55	plant_anatomical_entity	NaN			CCE		Spain		
+UNT56	plant_anatomical_entity	NaN			CCE		Spain		
+UNT57	plant_anatomical_entity	NaN			CCE		Spain		
+UNT58	plant_anatomical_entity	NaN			CCE		Spain		
+UNT59	plant_anatomical_entity	NaN			CCE		Spain		
+UNT1	mean  result oil	23.07			CCE		Spain		
+UNT2	mean  result oil	30.91			CCE		Spain		
+UNT3	mean  result oil	30.11			CCE		Spain		
+UNT4	mean  result oil	33.46			CCE		Spain		
+UNT5	mean  result oil	26.52			CCE		Spain		
+UNT7	mean  result oil	27.75			CCE		Spain		
+UNT8	mean  result oil	31.23			CCE		Spain		
+UNT9	mean  result oil	21.61			CCE		Spain		
+UNT10	mean  result oil	23.86			CCE		Spain		
+UNT11	mean  result oil	29.23			CCE		Spain		
+UNT12	mean  result oil	30.73			CCE		Spain		
+UNT13	mean  result oil	30.9			CCE		Spain		
+UNT15	mean  result oil	27.86			CCE		Spain		
+UNT17	mean  result oil	27.34			CCE		Spain		
+UNT18	mean  result oil	29.07			CCE		Spain		
+UNT20	mean  result oil	27.75			CCE		Spain		
+UNT21	mean  result oil	26.13			CCE		Spain		
+UNT22	mean  result oil	27.33			CCE		Spain		
+UNT23	mean  result oil	30.18			CCE		Spain		
+UNT26	mean  result oil	28.31			CCE		Spain		
+UNT28	mean  result oil	34.11			CCE		Spain		
+UNT30	mean  result oil	26.03			CCE		Spain		
+UNT31	mean  result oil	21.98			CCE		Spain		
+UNT32	mean  result oil	9.97			CCE		Spain		
+UNT33	mean  result oil	24.81			CCE		Spain		
+UNT35	mean  result oil	22.56			CCE		Spain		
+UNT37	mean  result oil	28.65			CCE		Spain		
+UNT38	mean  result oil	24.78			CCE		Spain		
+UNT40	mean  result oil	30.84			CCE		Spain		
+UNT42	mean  result oil	28.73			CCE		Spain		
+UNT44	mean  result oil	26.63			CCE		Spain		
+UNT46	mean  result oil	31.34			CCE		Spain		
+UNT47	mean  result oil	27.93			CCE		Spain		
+UNT50	mean  result oil	32.73			CCE		Spain		
+UNT52	mean  result oil	31.14			CCE		Spain		
+UNT53	mean  result oil	30.39			CCE		Spain		
+UNT55	mean  result oil	31.09			CCE		Spain		
+UNT56	mean  result oil	32.18			CCE		Spain		
+UNT57	mean  result oil	37.74			CCE		Spain		
+UNT58	mean  result oil	30.26			CCE		Spain		
+UNT59	mean  result oil	32.49			CCE		Spain		
+UNT1	mean  result moisture	4.6			CCE		Spain		
+UNT2	mean  result moisture	5.88			CCE		Spain		
+UNT3	mean  result moisture	5.39			CCE		Spain		
+UNT4	mean  result moisture	4.82			CCE		Spain		
+UNT5	mean  result moisture	4.44			CCE		Spain		
+UNT7	mean  result moisture	4.56			CCE		Spain		
+UNT8	mean  result moisture	4.76			CCE		Spain		
+UNT9	mean  result moisture	4.23			CCE		Spain		
+UNT10	mean  result moisture	4.19			CCE		Spain		
+UNT11	mean  result moisture	4.66			CCE		Spain		
+UNT12	mean  result moisture	5.23			CCE		Spain		
+UNT13	mean  result moisture	5.05			CCE		Spain		
+UNT15	mean  result moisture	4.9			CCE		Spain		
+UNT17	mean  result moisture	5.68			CCE		Spain		
+UNT18	mean  result moisture	5.14			CCE		Spain		
+UNT20	mean  result moisture	4.55			CCE		Spain		
+UNT21	mean  result moisture	4.37			CCE		Spain		
+UNT22	mean  result moisture	4.73			CCE		Spain		
+UNT23	mean  result moisture	4.79			CCE		Spain		
+UNT26	mean  result moisture	4.95			CCE		Spain		
+UNT28	mean  result moisture	5.0			CCE		Spain		
+UNT30	mean  result moisture	4.96			CCE		Spain		
+UNT31	mean  result moisture	4.2			CCE		Spain		
+UNT32	mean  result moisture	2.77			CCE		Spain		
+UNT33	mean  result moisture	4.15			CCE		Spain		
+UNT35	mean  result moisture	4.38			CCE		Spain		
+UNT37	mean  result moisture	4.77			CCE		Spain		
+UNT38	mean  result moisture	4.3			CCE		Spain		
+UNT40	mean  result moisture	4.94			CCE		Spain		
+UNT42	mean  result moisture	4.44			CCE		Spain		
+UNT44	mean  result moisture	4.57			CCE		Spain		
+UNT46	mean  result moisture	4.85			CCE		Spain		
+UNT47	mean  result moisture	4.72			CCE		Spain		
+UNT50	mean  result moisture	4.95			CCE		Spain		
+UNT52	mean  result moisture	4.86			CCE		Spain		
+UNT53	mean  result moisture	4.85			CCE		Spain		
+UNT55	mean  result moisture	4.85			CCE		Spain		
+UNT56	mean  result moisture	4.87			CCE		Spain		
+UNT57	mean  result moisture	5.09			CCE		Spain		
+UNT58	mean  result moisture	4.68			CCE		Spain		
+UNT59	mean  result moisture	4.93			CCE		Spain		
+UNT1	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT2	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT3	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT4	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT5	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT6	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT7	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT8	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT9	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT10	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT11	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT12	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT13	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT14	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT15	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT16	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT17	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT18	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT19	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT20	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT21	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT22	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT23	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT24	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT25	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT26	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT27	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT28	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT29	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT30	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT31	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT32	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT33	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT34	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT35	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT37	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT38	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT39	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT40	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT42	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT43	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT44	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT45	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT46	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT47	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT50	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT52	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT53	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT54	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT55	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT56	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT57	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT58	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT59	plant_anatomical_entity	NaN			UNIBO		Italy		
+UNT1	mean  result oil	0.986245			UNIBO		Italy		
+UNT2	mean  result oil	0.999815			UNIBO		Italy		
+UNT3	mean  result oil	0.78995			UNIBO		Italy		
+UNT4	mean  result oil	0.993355			UNIBO		Italy		
+UNT5	mean  result oil	0.99147			UNIBO		Italy		
+UNT6	mean  result oil	1.00474			UNIBO		Italy		
+UNT7	mean  result oil	0.99205			UNIBO		Italy		
+UNT8	mean  result oil	1.00237			UNIBO		Italy		
+UNT9	mean  result oil	1.002625			UNIBO		Italy		
+UNT10	mean  result oil	1.012065			UNIBO		Italy		
+UNT11	mean  result oil	1.009345			UNIBO		Italy		
+UNT12	mean  result oil	0.999395			UNIBO		Italy		
+UNT13	mean  result oil	0.978425			UNIBO		Italy		
+UNT14	mean  result oil	0.995765			UNIBO		Italy		
+UNT15	mean  result oil	1.006945			UNIBO		Italy		
+UNT16	mean  result oil	0.99675			UNIBO		Italy		
+UNT17	mean  result oil	1.01246666666667			UNIBO		Italy		
+UNT18	mean  result oil	1.006405			UNIBO		Italy		
+UNT19	mean  result oil	0.99419			UNIBO		Italy		
+UNT20	mean  result oil	1.015035			UNIBO		Italy		
+UNT21	mean  result oil	1.020115			UNIBO		Italy		
+UNT22	mean  result oil	0.99253			UNIBO		Italy		
+UNT23	mean  result oil	1.01124			UNIBO		Italy		
+UNT24	mean  result oil	0.983365			UNIBO		Italy		
+UNT25	mean  result oil	1.01494			UNIBO		Italy		
+UNT26	mean  result oil	1.00913			UNIBO		Italy		
+UNT27	mean  result oil	0.99756			UNIBO		Italy		
+UNT28	mean  result oil	0.98864			UNIBO		Italy		
+UNT29	mean  result oil	1.001335			UNIBO		Italy		
+UNT30	mean  result oil	0.9948			UNIBO		Italy		
+UNT31	mean  result oil	1.00499			UNIBO		Italy		
+UNT32	mean  result oil	1.016425			UNIBO		Italy		
+UNT33	mean  result oil	1.006995			UNIBO		Italy		
+UNT34	mean  result oil	0.969575			UNIBO		Italy		
+UNT35	mean  result oil	1.000885			UNIBO		Italy		
+UNT37	mean  result oil	1.020385			UNIBO		Italy		
+UNT38	mean  result oil	0.999105			UNIBO		Italy		
+UNT39	mean  result oil	1.00489			UNIBO		Italy		
+UNT40	mean  result oil	0.991485			UNIBO		Italy		
+UNT42	mean  result oil	1.01036			UNIBO		Italy		
+UNT43	mean  result oil	0.996605			UNIBO		Italy		
+UNT44	mean  result oil	1.004035			UNIBO		Italy		
+UNT45	mean  result oil	1.003835			UNIBO		Italy		
+UNT46	mean  result oil	0.98433			UNIBO		Italy		
+UNT47	mean  result oil	1.000795			UNIBO		Italy		
+UNT50	mean  result oil	0.992335			UNIBO		Italy		
+UNT52	mean  result oil	0.994945			UNIBO		Italy		
+UNT53	mean  result oil	0.98837			UNIBO		Italy		
+UNT54	mean  result oil	0.992715			UNIBO		Italy		
+UNT55	mean  result oil	0.996395			UNIBO		Italy		
+UNT56	mean  result oil	0.99397			UNIBO		Italy		
+UNT57	mean  result oil	1.001705			UNIBO		Italy		
+UNT58	mean  result oil	0.99349			UNIBO		Italy		
+UNT59	mean  result oil	0.99307			UNIBO		Italy		
+UNT1	mean  result moisture	5.079			UNIBO		Italy		
+UNT2	mean  result moisture	5.091			UNIBO		Italy		
+UNT3	mean  result moisture	5.095			UNIBO		Italy		
+UNT4	mean  result moisture	5.089			UNIBO		Italy		
+UNT5	mean  result moisture	5.1635			UNIBO		Italy		
+UNT6	mean  result moisture	5.126			UNIBO		Italy		
+UNT7	mean  result moisture	5.162			UNIBO		Italy		
+UNT8	mean  result moisture	5.0975			UNIBO		Italy		
+UNT9	mean  result moisture	5.089			UNIBO		Italy		
+UNT10	mean  result moisture	5.1475			UNIBO		Italy		
+UNT11	mean  result moisture	5.1215			UNIBO		Italy		
+UNT12	mean  result moisture	5.046			UNIBO		Italy		
+UNT13	mean  result moisture	5.0495			UNIBO		Italy		
+UNT14	mean  result moisture	5.0815			UNIBO		Italy		
+UNT15	mean  result moisture	5.0505			UNIBO		Italy		
+UNT16	mean  result moisture	5.0645			UNIBO		Italy		
+UNT17	mean  result moisture	5.028			UNIBO		Italy		
+UNT18	mean  result moisture	5.111			UNIBO		Italy		
+UNT19	mean  result moisture	5.102			UNIBO		Italy		
+UNT20	mean  result moisture	5.154			UNIBO		Italy		
+UNT21	mean  result moisture	5.0225			UNIBO		Italy		
+UNT22	mean  result moisture	5.1395			UNIBO		Italy		
+UNT23	mean  result moisture	5.1625			UNIBO		Italy		
+UNT24	mean  result moisture	5.1135			UNIBO		Italy		
+UNT25	mean  result moisture	5.116			UNIBO		Italy		
+UNT26	mean  result moisture	5.077			UNIBO		Italy		
+UNT27	mean  result moisture	5.1635			UNIBO		Italy		
+UNT28	mean  result moisture	5.116			UNIBO		Italy		
+UNT29	mean  result moisture	5.098			UNIBO		Italy		
+UNT30	mean  result moisture	5.0825			UNIBO		Italy		
+UNT31	mean  result moisture	5.0715			UNIBO		Italy		
+UNT32	mean  result moisture	5.06			UNIBO		Italy		
+UNT33	mean  result moisture	5.0335			UNIBO		Italy		
+UNT34	mean  result moisture	5.117			UNIBO		Italy		
+UNT35	mean  result moisture	5.025			UNIBO		Italy		
+UNT37	mean  result moisture	5.097			UNIBO		Italy		
+UNT38	mean  result moisture	4.998			UNIBO		Italy		
+UNT39	mean  result moisture	5.099			UNIBO		Italy		
+UNT40	mean  result moisture	5.123			UNIBO		Italy		
+UNT42	mean  result moisture	5.0765			UNIBO		Italy		
+UNT43	mean  result moisture	5.093			UNIBO		Italy		
+UNT44	mean  result moisture	5.1305			UNIBO		Italy		
+UNT45	mean  result moisture	5.1			UNIBO		Italy		
+UNT46	mean  result moisture	5.069			UNIBO		Italy		
+UNT47	mean  result moisture	5.108			UNIBO		Italy		
+UNT50	mean  result moisture	5.1385			UNIBO		Italy		
+UNT52	mean  result moisture	5.087			UNIBO		Italy		
+UNT53	mean  result moisture	5.1395			UNIBO		Italy		
+UNT54	mean  result moisture	5.149			UNIBO		Italy		
+UNT55	mean  result moisture	5.0775			UNIBO		Italy		
+UNT56	mean  result moisture	5.1325			UNIBO		Italy		
+UNT57	mean  result moisture	5.029			UNIBO		Italy		
+UNT58	mean  result moisture	5.0515			UNIBO		Italy		
+UNT59	mean  result moisture	5.0825			UNIBO		Italy		
+UNT1	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT2	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT3	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT4	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT5	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT6	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT7	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT8	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT9	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT10	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT11	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT12	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT13	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT14	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT15	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT16	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT17	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT18	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT19	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT20	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT21	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT22	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT23	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT24	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT25	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT26	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT27	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT28	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT29	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT30	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT31	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT32	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT33	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT34	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT35	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT37	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT38	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT39	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT40	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT42	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT43	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT44	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT45	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT46	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT47	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT50	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT52	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT53	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT54	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT55	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT56	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT57	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT58	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT59	plant_anatomical_entity	NaN			RRES		United Kingdom		
+UNT1	mean  result oil	0.968165			RRES		United Kingdom		
+UNT2	mean  result oil	0.968956			RRES		United Kingdom		
+UNT3	mean  result oil	0.964035			RRES		United Kingdom		
+UNT4	mean  result oil	0.96748			RRES		United Kingdom		
+UNT5	mean  result oil	0.964165			RRES		United Kingdom		
+UNT6	mean  result oil	0.978164			RRES		United Kingdom		
+UNT7	mean  result oil	0.98602			RRES		United Kingdom		
+UNT8	mean  result oil	0.968405			RRES		United Kingdom		
+UNT9	mean  result oil	0.96984			RRES		United Kingdom		
+UNT10	mean  result oil	0.96272			RRES		United Kingdom		
+UNT11	mean  result oil	0.939996			RRES		United Kingdom		
+UNT12	mean  result oil	0.959055			RRES		United Kingdom		
+UNT13	mean  result oil	0.965875			RRES		United Kingdom		
+UNT14	mean  result oil	0.975628			RRES		United Kingdom		
+UNT15	mean  result oil	0.963865			RRES		United Kingdom		
+UNT16	mean  result oil	0.96287			RRES		United Kingdom		
+UNT17	mean  result oil	0.97542			RRES		United Kingdom		
+UNT18	mean  result oil	0.964595			RRES		United Kingdom		
+UNT19	mean  result oil	0.9579			RRES		United Kingdom		
+UNT20	mean  result oil	0.978796			RRES		United Kingdom		
+UNT21	mean  result oil	0.971966666666667			RRES		United Kingdom		
+UNT22	mean  result oil	0.967808			RRES		United Kingdom		
+UNT23	mean  result oil	0.97864			RRES		United Kingdom		
+UNT24	mean  result oil	0.971525			RRES		United Kingdom		
+UNT25	mean  result oil	0.97859			RRES		United Kingdom		
+UNT26	mean  result oil	0.96862			RRES		United Kingdom		
+UNT27	mean  result oil	0.979028			RRES		United Kingdom		
+UNT28	mean  result oil	0.97624			RRES		United Kingdom		
+UNT29	mean  result oil	0.968655172413793			RRES		United Kingdom		
+UNT30	mean  result oil	0.97145			RRES		United Kingdom		
+UNT31	mean  result oil	0.97622			RRES		United Kingdom		
+UNT32	mean  result oil	0.974085			RRES		United Kingdom		
+UNT33	mean  result oil	1.022328			RRES		United Kingdom		
+UNT34	mean  result oil	0.96287			RRES		United Kingdom		
+UNT35	mean  result oil	0.961325			RRES		United Kingdom		
+UNT37	mean  result oil	0.950984			RRES		United Kingdom		
+UNT38	mean  result oil	0.977325			RRES		United Kingdom		
+UNT39	mean  result oil	0.96979			RRES		United Kingdom		
+UNT40	mean  result oil	0.974121739130435			RRES		United Kingdom		
+UNT42	mean  result oil	0.963225			RRES		United Kingdom		
+UNT43	mean  result oil	0.972292			RRES		United Kingdom		
+UNT44	mean  result oil	0.96914			RRES		United Kingdom		
+UNT45	mean  result oil	0.972205			RRES		United Kingdom		
+UNT46	mean  result oil	0.977635			RRES		United Kingdom		
+UNT47	mean  result oil	0.961095			RRES		United Kingdom		
+UNT50	mean  result oil	0.971225			RRES		United Kingdom		
+UNT52	mean  result oil	0.97048			RRES		United Kingdom		
+UNT53	mean  result oil	0.97997			RRES		United Kingdom		
+UNT54	mean  result oil	0.959015			RRES		United Kingdom		
+UNT55	mean  result oil	0.965224			RRES		United Kingdom		
+UNT56	mean  result oil	0.965072			RRES		United Kingdom		
+UNT57	mean  result oil	0.97225			RRES		United Kingdom		
+UNT58	mean  result oil	0.970068			RRES		United Kingdom		
+UNT59	mean  result oil	0.97338			RRES		United Kingdom		
+UNT1	mean  result moisture	6.446			RRES		United Kingdom		
+UNT2	mean  result moisture	6.208			RRES		United Kingdom		
+UNT3	mean  result moisture	6.587			RRES		United Kingdom		
+UNT4	mean  result moisture	5.987			RRES		United Kingdom		
+UNT5	mean  result moisture	6.668			RRES		United Kingdom		
+UNT6	mean  result moisture	6.6488			RRES		United Kingdom		
+UNT7	mean  result moisture	6.97333333333333			RRES		United Kingdom		
+UNT8	mean  result moisture	6.9485			RRES		United Kingdom		
+UNT9	mean  result moisture	6.725			RRES		United Kingdom		
+UNT10	mean  result moisture	7.6125			RRES		United Kingdom		
+UNT11	mean  result moisture	7.7016			RRES		United Kingdom		
+UNT12	mean  result moisture	6.734			RRES		United Kingdom		
+UNT13	mean  result moisture	6.5195			RRES		United Kingdom		
+UNT14	mean  result moisture	6.8236			RRES		United Kingdom		
+UNT15	mean  result moisture	6.5685			RRES		United Kingdom		
+UNT16	mean  result moisture	6.348			RRES		United Kingdom		
+UNT17	mean  result moisture	6.1645			RRES		United Kingdom		
+UNT18	mean  result moisture	6.589			RRES		United Kingdom		
+UNT19	mean  result moisture	6.631			RRES		United Kingdom		
+UNT20	mean  result moisture	6.6564			RRES		United Kingdom		
+UNT21	mean  result moisture	6.6			RRES		United Kingdom		
+UNT22	mean  result moisture	6.4332			RRES		United Kingdom		
+UNT23	mean  result moisture	6.5008			RRES		United Kingdom		
+UNT24	mean  result moisture	6.335			RRES		United Kingdom		
+UNT25	mean  result moisture	6.043			RRES		United Kingdom		
+UNT26	mean  result moisture	6.5065			RRES		United Kingdom		
+UNT27	mean  result moisture	7.0288			RRES		United Kingdom		
+UNT28	mean  result moisture	7.1115			RRES		United Kingdom		
+UNT29	mean  result moisture	6.55551724137931			RRES		United Kingdom		
+UNT30	mean  result moisture	6.6385			RRES		United Kingdom		
+UNT31	mean  result moisture	7.1295			RRES		United Kingdom		
+UNT32	mean  result moisture	7.1515			RRES		United Kingdom		
+UNT33	mean  result moisture	6.6984			RRES		United Kingdom		
+UNT34	mean  result moisture	6.583			RRES		United Kingdom		
+UNT35	mean  result moisture	6.526			RRES		United Kingdom		
+UNT37	mean  result moisture	6.7196			RRES		United Kingdom		
+UNT38	mean  result moisture	6.202			RRES		United Kingdom		
+UNT39	mean  result moisture	6.4445			RRES		United Kingdom		
+UNT40	mean  result moisture	6.41434782608696			RRES		United Kingdom		
+UNT42	mean  result moisture	6.5465			RRES		United Kingdom		
+UNT43	mean  result moisture	6.194			RRES		United Kingdom		
+UNT44	mean  result moisture	6.29466666666667			RRES		United Kingdom		
+UNT45	mean  result moisture	6.5735			RRES		United Kingdom		
+UNT46	mean  result moisture	6.263			RRES		United Kingdom		
+UNT47	mean  result moisture	6.48			RRES		United Kingdom		
+UNT50	mean  result moisture	6.3795			RRES		United Kingdom		
+UNT52	mean  result moisture	6.9096			RRES		United Kingdom		
+UNT53	mean  result moisture	6.497			RRES		United Kingdom		
+UNT54	mean  result moisture	6.6335			RRES		United Kingdom		
+UNT55	mean  result moisture	6.5692			RRES		United Kingdom		
+UNT56	mean  result moisture	6.8288			RRES		United Kingdom		
+UNT57	mean  result moisture	6.9535			RRES		United Kingdom		
+UNT58	mean  result moisture	6.9488			RRES		United Kingdom		
+UNT59	mean  result moisture	7.1485			RRES		United Kingdom		
+UNT1	plant_anatomical_entity	NaN			INRAE		France		
+UNT2	plant_anatomical_entity	NaN			INRAE		France		
+UNT3	plant_anatomical_entity	NaN			INRAE		France		
+UNT4	plant_anatomical_entity	NaN			INRAE		France		
+UNT5	plant_anatomical_entity	NaN			INRAE		France		
+UNT6	plant_anatomical_entity	NaN			INRAE		France		
+UNT7	plant_anatomical_entity	NaN			INRAE		France		
+UNT8	plant_anatomical_entity	NaN			INRAE		France		
+UNT9	plant_anatomical_entity	NaN			INRAE		France		
+UNT10	plant_anatomical_entity	NaN			INRAE		France		
+UNT11	plant_anatomical_entity	NaN			INRAE		France		
+UNT12	plant_anatomical_entity	NaN			INRAE		France		
+UNT13	plant_anatomical_entity	NaN			INRAE		France		
+UNT14	plant_anatomical_entity	NaN			INRAE		France		
+UNT15	plant_anatomical_entity	NaN			INRAE		France		
+UNT16	plant_anatomical_entity	NaN			INRAE		France		
+UNT17	plant_anatomical_entity	NaN			INRAE		France		
+UNT18	plant_anatomical_entity	NaN			INRAE		France		
+UNT19	plant_anatomical_entity	NaN			INRAE		France		
+UNT20	plant_anatomical_entity	NaN			INRAE		France		
+UNT21	plant_anatomical_entity	NaN			INRAE		France		
+UNT22	plant_anatomical_entity	NaN			INRAE		France		
+UNT23	plant_anatomical_entity	NaN			INRAE		France		
+UNT24	plant_anatomical_entity	NaN			INRAE		France		
+UNT25	plant_anatomical_entity	NaN			INRAE		France		
+UNT26	plant_anatomical_entity	NaN			INRAE		France		
+UNT27	plant_anatomical_entity	NaN			INRAE		France		
+UNT28	plant_anatomical_entity	NaN			INRAE		France		
+UNT29	plant_anatomical_entity	NaN			INRAE		France		
+UNT30	plant_anatomical_entity	NaN			INRAE		France		
+UNT31	plant_anatomical_entity	NaN			INRAE		France		
+UNT32	plant_anatomical_entity	NaN			INRAE		France		
+UNT33	plant_anatomical_entity	NaN			INRAE		France		
+UNT34	plant_anatomical_entity	NaN			INRAE		France		
+UNT35	plant_anatomical_entity	NaN			INRAE		France		
+UNT37	plant_anatomical_entity	NaN			INRAE		France		
+UNT38	plant_anatomical_entity	NaN			INRAE		France		
+UNT39	plant_anatomical_entity	NaN			INRAE		France		
+UNT40	plant_anatomical_entity	NaN			INRAE		France		
+UNT42	plant_anatomical_entity	NaN			INRAE		France		
+UNT43	plant_anatomical_entity	NaN			INRAE		France		
+UNT44	plant_anatomical_entity	NaN			INRAE		France		
+UNT45	plant_anatomical_entity	NaN			INRAE		France		
+UNT46	plant_anatomical_entity	NaN			INRAE		France		
+UNT47	plant_anatomical_entity	NaN			INRAE		France		
+UNT50	plant_anatomical_entity	NaN			INRAE		France		
+UNT52	plant_anatomical_entity	NaN			INRAE		France		
+UNT53	plant_anatomical_entity	NaN			INRAE		France		
+UNT54	plant_anatomical_entity	NaN			INRAE		France		
+UNT55	plant_anatomical_entity	NaN			INRAE		France		
+UNT56	plant_anatomical_entity	NaN			INRAE		France		
+UNT57	plant_anatomical_entity	NaN			INRAE		France		
+UNT58	plant_anatomical_entity	NaN			INRAE		France		
+UNT59	plant_anatomical_entity	NaN			INRAE		France		
+UNT1	mean  result oil	1.330965			INRAE		France		
+UNT2	mean  result oil	1.393635			INRAE		France		
+UNT3	mean  result oil	1.316175			INRAE		France		
+UNT4	mean  result oil	1.362255			INRAE		France		
+UNT5	mean  result oil	1.344215			INRAE		France		
+UNT6	mean  result oil	1.37592631578947			INRAE		France		
+UNT7	mean  result oil	1.38677619047619			INRAE		France		
+UNT8	mean  result oil	1.37112			INRAE		France		
+UNT9	mean  result oil	1.323885			INRAE		France		
+UNT10	mean  result oil	1.371025			INRAE		France		
+UNT11	mean  result oil	1.342345			INRAE		France		
+UNT12	mean  result oil	1.31991			INRAE		France		
+UNT13	mean  result oil	1.38012			INRAE		France		
+UNT14	mean  result oil	1.379145			INRAE		France		
+UNT15	mean  result oil	1.3692			INRAE		France		
+UNT16	mean  result oil	1.339035			INRAE		France		
+UNT17	mean  result oil	1.319005			INRAE		France		
+UNT18	mean  result oil	1.397235			INRAE		France		
+UNT19	mean  result oil	1.34094			INRAE		France		
+UNT20	mean  result oil	1.38448			INRAE		France		
+UNT21	mean  result oil	1.378425			INRAE		France		
+UNT22	mean  result oil	1.37658			INRAE		France		
+UNT23	mean  result oil	1.396535			INRAE		France		
+UNT24	mean  result oil	1.38743684210526			INRAE		France		
+UNT25	mean  result oil	1.30848571428571			INRAE		France		
+UNT26	mean  result oil	1.38728			INRAE		France		
+UNT27	mean  result oil	1.358715			INRAE		France		
+UNT28	mean  result oil	1.313805			INRAE		France		
+UNT29	mean  result oil	1.382285			INRAE		France		
+UNT30	mean  result oil	1.36330476190476			INRAE		France		
+UNT31	mean  result oil	1.351145			INRAE		France		
+UNT32	mean  result oil	1.37011578947368			INRAE		France		
+UNT33	mean  result oil	1.37088571428571			INRAE		France		
+UNT34	mean  result oil	1.36686			INRAE		France		
+UNT35	mean  result oil	1.378285			INRAE		France		
+UNT37	mean  result oil	1.386545			INRAE		France		
+UNT38	mean  result oil	1.32938			INRAE		France		
+UNT39	mean  result oil	1.33109			INRAE		France		
+UNT40	mean  result oil	1.379305			INRAE		France		
+UNT42	mean  result oil	1.382435			INRAE		France		
+UNT43	mean  result oil	1.33374			INRAE		France		
+UNT44	mean  result oil	1.391105			INRAE		France		
+UNT45	mean  result oil	1.32211578947368			INRAE		France		
+UNT46	mean  result oil	1.35108095238095			INRAE		France		
+UNT47	mean  result oil	1.325295			INRAE		France		
+UNT50	mean  result oil	1.35406			INRAE		France		
+UNT52	mean  result oil	1.372245			INRAE		France		
+UNT53	mean  result oil	1.380875			INRAE		France		
+UNT54	mean  result oil	1.37914210526316			INRAE		France		
+UNT55	mean  result oil	1.29976666666667			INRAE		France		
+UNT56	mean  result oil	1.33404			INRAE		France		
+UNT57	mean  result oil	1.337815			INRAE		France		
+UNT58	mean  result oil	1.370815			INRAE		France		
+UNT59	mean  result oil	1.374825			INRAE		France		
+UNT1	mean  result moisture	5.5525			INRAE		France		
+UNT2	mean  result moisture	5.4335			INRAE		France		
+UNT3	mean  result moisture	5.606			INRAE		France		
+UNT4	mean  result moisture	5.491			INRAE		France		
+UNT5	mean  result moisture	5.4655			INRAE		France		
+UNT6	mean  result moisture	5.38947368421053			INRAE		France		
+UNT7	mean  result moisture	5.50380952380952			INRAE		France		
+UNT8	mean  result moisture	5.501			INRAE		France		
+UNT9	mean  result moisture	5.4705			INRAE		France		
+UNT10	mean  result moisture	5.5125			INRAE		France		
+UNT11	mean  result moisture	5.388			INRAE		France		
+UNT12	mean  result moisture	5.558			INRAE		France		
+UNT13	mean  result moisture	5.4715			INRAE		France		
+UNT14	mean  result moisture	5.53			INRAE		France		
+UNT15	mean  result moisture	5.399			INRAE		France		
+UNT16	mean  result moisture	5.4285			INRAE		France		
+UNT17	mean  result moisture	5.537			INRAE		France		
+UNT18	mean  result moisture	5.477			INRAE		France		
+UNT19	mean  result moisture	5.559			INRAE		France		
+UNT20	mean  result moisture	5.507			INRAE		France		
+UNT21	mean  result moisture	5.4095			INRAE		France		
+UNT22	mean  result moisture	5.514			INRAE		France		
+UNT23	mean  result moisture	5.441			INRAE		France		
+UNT24	mean  result moisture	5.43947368421053			INRAE		France		
+UNT25	mean  result moisture	5.39523809523809			INRAE		France		
+UNT26	mean  result moisture	5.5475			INRAE		France		
+UNT27	mean  result moisture	5.495			INRAE		France		
+UNT28	mean  result moisture	5.426			INRAE		France		
+UNT29	mean  result moisture	5.4345			INRAE		France		
+UNT30	mean  result moisture	5.41			INRAE		France		
+UNT31	mean  result moisture	5.474			INRAE		France		
+UNT32	mean  result moisture	5.46052631578947			INRAE		France		
+UNT33	mean  result moisture	5.40047619047619			INRAE		France		
+UNT34	mean  result moisture	5.415			INRAE		France		
+UNT35	mean  result moisture	5.3695			INRAE		France		
+UNT37	mean  result moisture	5.545			INRAE		France		
+UNT38	mean  result moisture	5.4465			INRAE		France		
+UNT39	mean  result moisture	5.508			INRAE		France		
+UNT40	mean  result moisture	5.4535			INRAE		France		
+UNT42	mean  result moisture	5.4135			INRAE		France		
+UNT43	mean  result moisture	5.4345			INRAE		France		
+UNT44	mean  result moisture	5.43			INRAE		France		
+UNT45	mean  result moisture	5.42473684210526			INRAE		France		
+UNT46	mean  result moisture	5.46190476190476			INRAE		France		
+UNT47	mean  result moisture	5.477			INRAE		France		
+UNT50	mean  result moisture	5.604			INRAE		France		
+UNT52	mean  result moisture	5.56			INRAE		France		
+UNT53	mean  result moisture	5.5125			INRAE		France		
+UNT54	mean  result moisture	5.50684210526316			INRAE		France		
+UNT55	mean  result moisture	5.46666666666667			INRAE		France		
+UNT56	mean  result moisture	5.44			INRAE		France		
+UNT57	mean  result moisture	5.4525			INRAE		France		
+UNT58	mean  result moisture	5.4205			INRAE		France		
+UNT59	mean  result moisture	5.492			INRAE		France		

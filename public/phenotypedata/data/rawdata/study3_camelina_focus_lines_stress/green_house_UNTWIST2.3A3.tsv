@@ -1,0 +1,345 @@
+subject	variable	value	sample_plant_anatomical_entity	sample_collection_date	sample_institute	sample_city	sample_country	sample_associated_interval	sample_associated_factor
+UNT18	plant_anatomical_entity	NaN			RRES		United Kingdom		Control
+UNT21	plant_anatomical_entity	NaN			RRES		United Kingdom		Control
+UNT4	plant_anatomical_entity	NaN			RRES		United Kingdom		Control
+UNT46	plant_anatomical_entity	NaN			RRES		United Kingdom		Control
+UNT18	biomassfreshweight(g)	77.6245714285714			RRES		United Kingdom		Control
+UNT21	biomassfreshweight(g)	66.8921951219512			RRES		United Kingdom		Control
+UNT4	biomassfreshweight(g)	54.9539393939394			RRES		United Kingdom		Control
+UNT46	biomassfreshweight(g)	68.11825			RRES		United Kingdom		Control
+UNT18	biomassdryweight(g)	16.6882857142857			RRES		United Kingdom		Control
+UNT21	biomassdryweight(g)	13.720243902439			RRES		United Kingdom		Control
+UNT4	biomassdryweight(g)	12.7839393939394			RRES		United Kingdom		Control
+UNT46	biomassdryweight(g)	14.6815			RRES		United Kingdom		Control
+UNT18	biomassplantwatercontent(g)	80.2571428571429			RRES		United Kingdom		Control
+UNT21	biomassplantwatercontent(g)	83.1292682926829			RRES		United Kingdom		Control
+UNT4	biomassplantwatercontent(g)	80.169696969697			RRES		United Kingdom		Control
+UNT46	biomassplantwatercontent(g)	81.695			RRES		United Kingdom		Control
+UNT18	biomassdryweight/freshweight	0.255977142857143			RRES		United Kingdom		Control
+UNT21	biomassdryweight/freshweight	0.221251219512195			RRES		United Kingdom		Control
+UNT4	biomassdryweight/freshweight	0.325942424242424			RRES		United Kingdom		Control
+UNT46	biomassdryweight/freshweight	0.243805			RRES		United Kingdom		Control
+UNT18	stemheight(cm)	92.2404761904762			RRES		United Kingdom		Control
+UNT21	stemheight(cm)	89.7225			RRES		United Kingdom		Control
+UNT4	stemheight(cm)	85.38			RRES		United Kingdom		Control
+UNT46	stemheight(cm)	94.5906976744186			RRES		United Kingdom		Control
+UNT18	stemwidth(mm)	6.30857142857143			RRES		United Kingdom		Control
+UNT21	stemwidth(mm)	6.262			RRES		United Kingdom		Control
+UNT4	stemwidth(mm)	5.676			RRES		United Kingdom		Control
+UNT46	stemwidth(mm)	5.6553488372093			RRES		United Kingdom		Control
+UNT18	spad	34.2954545454545			RRES		United Kingdom		Control
+UNT21	spad	33.8733333333333			RRES		United Kingdom		Control
+UNT4	spad	36.2933333333333			RRES		United Kingdom		Control
+UNT46	spad	40.12			RRES		United Kingdom		Control
+UNT18	photosynthesis	20.69			RRES		United Kingdom		Control
+UNT21	photosynthesis	22.2473684210526			RRES		United Kingdom		Control
+UNT4	photosynthesis	19.795			RRES		United Kingdom		Control
+UNT46	photosynthesis	21.51			RRES		United Kingdom		Control
+UNT18	stomatal conductance	0.405025			RRES		United Kingdom		Control
+UNT21	stomatal conductance	0.464736842105263			RRES		United Kingdom		Control
+UNT4	stomatal conductance	0.36235			RRES		United Kingdom		Control
+UNT46	stomatal conductance	0.4167			RRES		United Kingdom		Control
+UNT18	ci	273.05			RRES		United Kingdom		Control
+UNT21	ci	282.736842105263			RRES		United Kingdom		Control
+UNT4	ci	270.15			RRES		United Kingdom		Control
+UNT46	ci	277.15			RRES		United Kingdom		Control
+UNT18	trmmol	4.1525			RRES		United Kingdom		Control
+UNT21	trmmol	4.78894736842105			RRES		United Kingdom		Control
+UNT4	trmmol	3.718			RRES		United Kingdom		Control
+UNT46	trmmol	4.338			RRES		United Kingdom		Control
+UNT18	rh_s	61.82			RRES		United Kingdom		Control
+UNT21	rh_s	61.5715789473684			RRES		United Kingdom		Control
+UNT4	rh_s	61.242			RRES		United Kingdom		Control
+UNT46	rh_s	61.7515			RRES		United Kingdom		Control
+UNT18	wue (%)	0.000551683017533			RRES		United Kingdom		Control
+UNT21	wue (%)	0.000491308011769			RRES		United Kingdom		Control
+UNT4	wue (%)	0.000575059889202			RRES		United Kingdom		Control
+UNT46	wue (%)	0.000530428537189			RRES		United Kingdom		Control
+UNT18	fs	918.435			RRES		United Kingdom		Control
+UNT21	fs	971.594736842105			RRES		United Kingdom		Control
+UNT4	fs	912.225			RRES		United Kingdom		Control
+UNT46	fs	962.78			RRES		United Kingdom		Control
+UNT18	phips2	0.2848			RRES		United Kingdom		Control
+UNT21	phips2	0.292842105263158			RRES		United Kingdom		Control
+UNT4	phips2	0.2695			RRES		United Kingdom		Control
+UNT46	phips2	0.28165			RRES		United Kingdom		Control
+UNT18	qp	0.5193			RRES		United Kingdom		Control
+UNT21	qp	0.529368421052632			RRES		United Kingdom		Control
+UNT4	qp	0.4942			RRES		United Kingdom		Control
+UNT46	qp	0.50705			RRES		United Kingdom		Control
+UNT18	qn	2.24255			RRES		United Kingdom		Control
+UNT21	qn	2.25210526315789			RRES		United Kingdom		Control
+UNT4	qn	2.20455			RRES		United Kingdom		Control
+UNT46	qn	2.2579			RRES		United Kingdom		Control
+UNT18	etr	174.40405			RRES		United Kingdom		Control
+UNT21	etr	179.369578947368			RRES		United Kingdom		Control
+UNT4	etr	164.996			RRES		United Kingdom		Control
+UNT46	etr	172.5693			RRES		United Kingdom		Control
+UNT18	fv/fm	0.82335			RRES		United Kingdom		Control
+UNT21	fv/fm	0.822315789473684			RRES		United Kingdom		Control
+UNT4	fv/fm	0.8285			RRES		United Kingdom		Control
+UNT46	fv/fm	0.8292			RRES		United Kingdom		Control
+UNT18	pi abs	7.6887			RRES		United Kingdom		Control
+UNT21	pi abs	6.00073684210526			RRES		United Kingdom		Control
+UNT4	pi abs	7.1976			RRES		United Kingdom		Control
+UNT46	pi abs	6.5701			RRES		United Kingdom		Control
+UNT18	seedssampled	171.6			RRES		United Kingdom		Control
+UNT21	seedssampled	170.0			RRES		United Kingdom		Control
+UNT4	seedssampled	173.6			RRES		United Kingdom		Control
+UNT46	seedssampled	162.8			RRES		United Kingdom		Control
+UNT18	maxseedpersilique	18.0			RRES		United Kingdom		Control
+UNT21	maxseedpersilique	17.7			RRES		United Kingdom		Control
+UNT4	maxseedpersilique	18.2			RRES		United Kingdom		Control
+UNT46	maxseedpersilique	17.4			RRES		United Kingdom		Control
+UNT18	minseedpersilique	9.1			RRES		United Kingdom		Control
+UNT21	minseedpersilique	9.0			RRES		United Kingdom		Control
+UNT4	minseedpersilique	8.3			RRES		United Kingdom		Control
+UNT46	minseedpersilique	8.6			RRES		United Kingdom		Control
+UNT18	seeddryweightofseedssampled(g)	0.046607			RRES		United Kingdom		Control
+UNT21	seeddryweightofseedssampled(g)	0.03238			RRES		United Kingdom		Control
+UNT4	seeddryweightofseedssampled(g)	0.052287			RRES		United Kingdom		Control
+UNT46	seeddryweightofseedssampled(g)	0.039576			RRES		United Kingdom		Control
+UNT18	dryweightperseed(g)	0.000262671766843			RRES		United Kingdom		Control
+UNT21	dryweightperseed(g)	0.000179231857126			RRES		United Kingdom		Control
+UNT4	dryweightperseed(g)	0.00029346548576			RRES		United Kingdom		Control
+UNT46	dryweightperseed(g)	0.000229039614959			RRES		United Kingdom		Control
+UNT18	dryweightperseed(mg)	0.262671766843299			RRES		United Kingdom		Control
+UNT21	dryweightperseed(mg)	0.179231857126016			RRES		United Kingdom		Control
+UNT4	dryweightperseed(mg)	0.293465485759831			RRES		United Kingdom		Control
+UNT46	dryweightperseed(mg)	0.229039614958921			RRES		United Kingdom		Control
+UNT18	flowersopen3dos	22.8095238095238			RRES		United Kingdom		Control
+UNT21	flowersopen3dos	28.25			RRES		United Kingdom		Control
+UNT4	flowersopen3dos	31.4545454545455			RRES		United Kingdom		Control
+UNT46	flowersopen3dos	25.2368421052632			RRES		United Kingdom		Control
+UNT18	siliques3dos	12.4761904761905			RRES		United Kingdom		Control
+UNT21	siliques3dos	16.5			RRES		United Kingdom		Control
+UNT4	siliques3dos	21.7878787878788			RRES		United Kingdom		Control
+UNT46	siliques3dos	13.8684210526316			RRES		United Kingdom		Control
+UNT18	maturesiliques3dos	0.547619047619048			RRES		United Kingdom		Control
+UNT21	maturesiliques3dos	1.9			RRES		United Kingdom		Control
+UNT4	maturesiliques3dos	5.06060606060606			RRES		United Kingdom		Control
+UNT46	maturesiliques3dos	0.789473684210526			RRES		United Kingdom		Control
+UNT18	flowersopen10dos	4.19047619047619			RRES		United Kingdom		Control
+UNT21	flowersopen10dos	6.4			RRES		United Kingdom		Control
+UNT4	flowersopen10dos	1.78787878787879			RRES		United Kingdom		Control
+UNT46	flowersopen10dos	4.97368421052632			RRES		United Kingdom		Control
+UNT18	siliques10dos	39.7619047619048			RRES		United Kingdom		Control
+UNT21	siliques10dos	47.6			RRES		United Kingdom		Control
+UNT4	siliques10dos	42.9393939393939			RRES		United Kingdom		Control
+UNT46	siliques10dos	45.2631578947368			RRES		United Kingdom		Control
+UNT18	totalsiliques(onmainstem)	46.1538461538462			RRES		United Kingdom		Control
+UNT21	totalsiliques(onmainstem)	60.6428571428572			RRES		United Kingdom		Control
+UNT4	totalsiliques(onmainstem)	46.5			RRES		United Kingdom		Control
+UNT46	totalsiliques(onmainstem)	56.2162162162162			RRES		United Kingdom		Control
+UNT18	abortedsiliques(onmainstem)	0.58974358974359			RRES		United Kingdom		Control
+UNT21	abortedsiliques(onmainstem)	0.571428571428571			RRES		United Kingdom		Control
+UNT4	abortedsiliques(onmainstem)	1.88235294117647			RRES		United Kingdom		Control
+UNT46	abortedsiliques(onmainstem)	2.35135135135135			RRES		United Kingdom		Control
+UNT18	mainstemheight(firsttolastsilique)	33.451282051282			RRES		United Kingdom		Control
+UNT21	mainstemheight(firsttolastsilique)	34.0523809523809			RRES		United Kingdom		Control
+UNT4	mainstemheight(firsttolastsilique)	32.1647058823529			RRES		United Kingdom		Control
+UNT46	mainstemheight(firsttolastsilique)	34.5567567567568			RRES		United Kingdom		Control
+UNT18	burstsiliques	0.0			RRES		United Kingdom		Control
+UNT21	burstsiliques	0.0			RRES		United Kingdom		Control
+UNT4	burstsiliques	0.0			RRES		United Kingdom		Control
+UNT46	burstsiliques	0.0			RRES		United Kingdom		Control
+UNT18	siliquesnumber(per cm)	1.49213182996717			RRES		United Kingdom		Control
+UNT21	siliquesnumber(per cm)	1.87788562512336			RRES		United Kingdom		Control
+UNT4	siliquesnumber(per cm)	1.54393350822492			RRES		United Kingdom		Control
+UNT46	siliquesnumber(per cm)	1.66352314847363			RRES		United Kingdom		Control
+UNT18	abortedsiliques(%)	1.31328384615385			RRES		United Kingdom		Control
+UNT21	abortedsiliques(%)	0.948566666666667			RRES		United Kingdom		Control
+UNT4	abortedsiliques(%)	4.03003147058824			RRES		United Kingdom		Control
+UNT46	abortedsiliques(%)	3.94810108108108			RRES		United Kingdom		Control
+UNT18	leafbbch17das	108.176470588235			RRES		United Kingdom		Control
+UNT21	leafbbch17das	108.238095238095			RRES		United Kingdom		Control
+UNT4	leafbbch17das	107.833333333333			RRES		United Kingdom		Control
+UNT46	leafbbch17das	108.35			RRES		United Kingdom		Control
+UNT18	leafbbch19das	109.470588235294			RRES		United Kingdom		Control
+UNT21	leafbbch19das	110.380952380952			RRES		United Kingdom		Control
+UNT4	leafbbch19das	109.933333333333			RRES		United Kingdom		Control
+UNT46	leafbbch19das	109.4			RRES		United Kingdom		Control
+UNT18	leafbbch23das	118.470588235294			RRES		United Kingdom		Control
+UNT21	leafbbch23das	118.52380952381			RRES		United Kingdom		Control
+UNT4	leafbbch23das	118.433333333333			RRES		United Kingdom		Control
+UNT46	leafbbch23das	118.45			RRES		United Kingdom		Control
+UNT18	budbbch23das	500.0			RRES		United Kingdom		Control
+UNT21	budbbch23das	500.0			RRES		United Kingdom		Control
+UNT4	budbbch23das	500.0			RRES		United Kingdom		Control
+UNT46	budbbch23das	500.0			RRES		United Kingdom		Control
+UNT18	leafbbch26das	119.0			RRES		United Kingdom		Control
+UNT21	leafbbch26das	119.0			RRES		United Kingdom		Control
+UNT4	leafbbch26das	119.0			RRES		United Kingdom		Control
+UNT46	leafbbch26das	119.0			RRES		United Kingdom		Control
+UNT18	plant_anatomical_entity	NaN			RRES		United Kingdom		Heat
+UNT21	plant_anatomical_entity	NaN			RRES		United Kingdom		Heat
+UNT4	plant_anatomical_entity	NaN			RRES		United Kingdom		Heat
+UNT46	plant_anatomical_entity	NaN			RRES		United Kingdom		Heat
+UNT18	biomassfreshweight(g)	41.5843333333333			RRES		United Kingdom		Heat
+UNT21	biomassfreshweight(g)	40.6878048780488			RRES		United Kingdom		Heat
+UNT4	biomassfreshweight(g)	31.0185			RRES		United Kingdom		Heat
+UNT46	biomassfreshweight(g)	43.595			RRES		United Kingdom		Heat
+UNT18	biomassdryweight(g)	12.1456666666667			RRES		United Kingdom		Heat
+UNT21	biomassdryweight(g)	10.36			RRES		United Kingdom		Heat
+UNT4	biomassdryweight(g)	10.052			RRES		United Kingdom		Heat
+UNT46	biomassdryweight(g)	11.6417647058824			RRES		United Kingdom		Heat
+UNT18	biomassplantwatercontent(g)	77.1666666666667			RRES		United Kingdom		Heat
+UNT21	biomassplantwatercontent(g)	81.5365853658536			RRES		United Kingdom		Heat
+UNT4	biomassplantwatercontent(g)	76.62			RRES		United Kingdom		Heat
+UNT46	biomassplantwatercontent(g)	79.1676470588235			RRES		United Kingdom		Heat
+UNT18	biomassdryweight/freshweight	0.308493333333333			RRES		United Kingdom		Heat
+UNT21	biomassdryweight/freshweight	0.266585365853659			RRES		United Kingdom		Heat
+UNT4	biomassdryweight/freshweight	0.355215			RRES		United Kingdom		Heat
+UNT46	biomassdryweight/freshweight	0.292782352941176			RRES		United Kingdom		Heat
+UNT18	stemheight(cm)	78.6028571428571			RRES		United Kingdom		Heat
+UNT21	stemheight(cm)	75.0227906976744			RRES		United Kingdom		Heat
+UNT4	stemheight(cm)	74.0045454545455			RRES		United Kingdom		Heat
+UNT46	stemheight(cm)	80.6805555555556			RRES		United Kingdom		Heat
+UNT18	stemwidth(mm)	5.74342857142857			RRES		United Kingdom		Heat
+UNT21	stemwidth(mm)	5.59			RRES		United Kingdom		Heat
+UNT4	stemwidth(mm)	5.41863636363636			RRES		United Kingdom		Heat
+UNT46	stemwidth(mm)	5.34527777777778			RRES		United Kingdom		Heat
+UNT18	spad	40.6866666666667			RRES		United Kingdom		Heat
+UNT21	spad	30.9888888888889			RRES		United Kingdom		Heat
+UNT4	spad	33.9444444444444			RRES		United Kingdom		Heat
+UNT46	spad	33.4866666666667			RRES		United Kingdom		Heat
+UNT18	photosynthesis	16.7468421052632			RRES		United Kingdom		Heat
+UNT21	photosynthesis	17.5831578947368			RRES		United Kingdom		Heat
+UNT4	photosynthesis	16.2305882352941			RRES		United Kingdom		Heat
+UNT46	photosynthesis	17.6089473684211			RRES		United Kingdom		Heat
+UNT18	stomatal conductance	0.315368421052632			RRES		United Kingdom		Heat
+UNT21	stomatal conductance	0.319578947368421			RRES		United Kingdom		Heat
+UNT4	stomatal conductance	0.3045			RRES		United Kingdom		Heat
+UNT46	stomatal conductance	0.310368421052632			RRES		United Kingdom		Heat
+UNT18	ci	269.368421052632			RRES		United Kingdom		Heat
+UNT21	ci	270.421052631579			RRES		United Kingdom		Heat
+UNT4	ci	271.882352941176			RRES		United Kingdom		Heat
+UNT46	ci	266.736842105263			RRES		United Kingdom		Heat
+UNT18	trmmol	4.71736842105263			RRES		United Kingdom		Heat
+UNT21	trmmol	4.96736842105263			RRES		United Kingdom		Heat
+UNT4	trmmol	4.50941176470588			RRES		United Kingdom		Heat
+UNT46	trmmol	4.92263157894737			RRES		United Kingdom		Heat
+UNT18	rh_s	60.7542105263158			RRES		United Kingdom		Heat
+UNT21	rh_s	60.5936842105263			RRES		United Kingdom		Heat
+UNT4	rh_s	60.0788235294118			RRES		United Kingdom		Heat
+UNT46	rh_s	60.2263157894737			RRES		United Kingdom		Heat
+UNT18	wue (%)	0.000361892898863			RRES		United Kingdom		Heat
+UNT21	wue (%)	0.000366418493097			RRES		United Kingdom		Heat
+UNT4	wue (%)	0.000361312172341			RRES		United Kingdom		Heat
+UNT46	wue (%)	0.000373637827869			RRES		United Kingdom		Heat
+UNT18	fs	628.678947368421			RRES		United Kingdom		Heat
+UNT21	fs	689.805263157895			RRES		United Kingdom		Heat
+UNT4	fs	664.588235294118			RRES		United Kingdom		Heat
+UNT46	fs	696.847368421053			RRES		United Kingdom		Heat
+UNT18	phips2	0.290105263157895			RRES		United Kingdom		Heat
+UNT21	phips2	0.283684210526316			RRES		United Kingdom		Heat
+UNT4	phips2	0.266352941176471			RRES		United Kingdom		Heat
+UNT46	phips2	0.285578947368421			RRES		United Kingdom		Heat
+UNT18	qp	0.588315789473684			RRES		United Kingdom		Heat
+UNT21	qp	0.581210526315789			RRES		United Kingdom		Heat
+UNT4	qp	0.553882352941177			RRES		United Kingdom		Heat
+UNT46	qp	0.581842105263158			RRES		United Kingdom		Heat
+UNT18	qn	-14.4026842105263			RRES		United Kingdom		Heat
+UNT21	qn	1.98152631578947			RRES		United Kingdom		Heat
+UNT4	qn	1.95235294117647			RRES		United Kingdom		Heat
+UNT46	qn	1.99847368421053			RRES		United Kingdom		Heat
+UNT18	etr	177.724157894737			RRES		United Kingdom		Heat
+UNT21	etr	173.850578947368			RRES		United Kingdom		Heat
+UNT4	etr	163.088411764706			RRES		United Kingdom		Heat
+UNT46	etr	174.831263157895			RRES		United Kingdom		Heat
+UNT18	fv/fm	0.801842105263158			RRES		United Kingdom		Heat
+UNT21	fv/fm	0.798368421052632			RRES		United Kingdom		Heat
+UNT4	fv/fm	0.793588235294118			RRES		United Kingdom		Heat
+UNT46	fv/fm	0.791631578947368			RRES		United Kingdom		Heat
+UNT18	pi abs	5.40431578947368			RRES		United Kingdom		Heat
+UNT21	pi abs	4.10194736842105			RRES		United Kingdom		Heat
+UNT4	pi abs	5.06976470588235			RRES		United Kingdom		Heat
+UNT46	pi abs	4.37442105263158			RRES		United Kingdom		Heat
+UNT18	seedssampled	139.9			RRES		United Kingdom		Heat
+UNT21	seedssampled	118.9			RRES		United Kingdom		Heat
+UNT4	seedssampled	141.0			RRES		United Kingdom		Heat
+UNT46	seedssampled	104.3			RRES		United Kingdom		Heat
+UNT18	maxseedpersilique	16.3			RRES		United Kingdom		Heat
+UNT21	maxseedpersilique	13.2			RRES		United Kingdom		Heat
+UNT4	maxseedpersilique	16.2			RRES		United Kingdom		Heat
+UNT46	maxseedpersilique	12.1			RRES		United Kingdom		Heat
+UNT18	minseedpersilique	7.9			RRES		United Kingdom		Heat
+UNT21	minseedpersilique	4.7			RRES		United Kingdom		Heat
+UNT4	minseedpersilique	7.0			RRES		United Kingdom		Heat
+UNT46	minseedpersilique	4.7			RRES		United Kingdom		Heat
+UNT18	seeddryweightofseedssampled(g)	0.071582			RRES		United Kingdom		Heat
+UNT21	seeddryweightofseedssampled(g)	0.030917			RRES		United Kingdom		Heat
+UNT4	seeddryweightofseedssampled(g)	0.064264			RRES		United Kingdom		Heat
+UNT46	seeddryweightofseedssampled(g)	0.042083			RRES		United Kingdom		Heat
+UNT18	dryweightperseed(g)	0.00050362125981			RRES		United Kingdom		Heat
+UNT21	dryweightperseed(g)	0.000255897987131			RRES		United Kingdom		Heat
+UNT4	dryweightperseed(g)	0.000447884128984			RRES		United Kingdom		Heat
+UNT46	dryweightperseed(g)	0.000394423608144			RRES		United Kingdom		Heat
+UNT18	dryweightperseed(mg)	0.503621259809946			RRES		United Kingdom		Heat
+UNT21	dryweightperseed(mg)	0.255897987131294			RRES		United Kingdom		Heat
+UNT4	dryweightperseed(mg)	0.447884128983457			RRES		United Kingdom		Heat
+UNT46	dryweightperseed(mg)	0.394423608144118			RRES		United Kingdom		Heat
+UNT18	flowersopen3dos	24.8181818181818			RRES		United Kingdom		Heat
+UNT21	flowersopen3dos	25.425			RRES		United Kingdom		Heat
+UNT4	flowersopen3dos	28.46875			RRES		United Kingdom		Heat
+UNT46	flowersopen3dos	24.4545454545455			RRES		United Kingdom		Heat
+UNT18	siliques3dos	15.8787878787879			RRES		United Kingdom		Heat
+UNT21	siliques3dos	14.6			RRES		United Kingdom		Heat
+UNT4	siliques3dos	18.90625			RRES		United Kingdom		Heat
+UNT46	siliques3dos	12.0			RRES		United Kingdom		Heat
+UNT18	maturesiliques3dos	3.03030303030303			RRES		United Kingdom		Heat
+UNT21	maturesiliques3dos	2.2			RRES		United Kingdom		Heat
+UNT4	maturesiliques3dos	4.78125			RRES		United Kingdom		Heat
+UNT46	maturesiliques3dos	1.0			RRES		United Kingdom		Heat
+UNT18	flowersopen10dos	0.121212121212121			RRES		United Kingdom		Heat
+UNT21	flowersopen10dos	1.375			RRES		United Kingdom		Heat
+UNT4	flowersopen10dos	0.0			RRES		United Kingdom		Heat
+UNT46	flowersopen10dos	1.75757575757576			RRES		United Kingdom		Heat
+UNT18	siliques10dos	30.0606060606061			RRES		United Kingdom		Heat
+UNT21	siliques10dos	40.425			RRES		United Kingdom		Heat
+UNT4	siliques10dos	29.90625			RRES		United Kingdom		Heat
+UNT46	siliques10dos	32.5151515151515			RRES		United Kingdom		Heat
+UNT18	totalsiliques(onmainstem)	32.1794871794872			RRES		United Kingdom		Heat
+UNT21	totalsiliques(onmainstem)	51.1627906976744			RRES		United Kingdom		Heat
+UNT4	totalsiliques(onmainstem)	31.7297297297297			RRES		United Kingdom		Heat
+UNT46	totalsiliques(onmainstem)	47.46875			RRES		United Kingdom		Heat
+UNT18	abortedsiliques(onmainstem)	4.74358974358974			RRES		United Kingdom		Heat
+UNT21	abortedsiliques(onmainstem)	8.41860465116279			RRES		United Kingdom		Heat
+UNT4	abortedsiliques(onmainstem)	2.59459459459459			RRES		United Kingdom		Heat
+UNT46	abortedsiliques(onmainstem)	12.09375			RRES		United Kingdom		Heat
+UNT18	mainstemheight(firsttolastsilique)	18.6923076923077			RRES		United Kingdom		Heat
+UNT21	mainstemheight(firsttolastsilique)	23.2325581395349			RRES		United Kingdom		Heat
+UNT4	mainstemheight(firsttolastsilique)	17.9972972972973			RRES		United Kingdom		Heat
+UNT46	mainstemheight(firsttolastsilique)	22.78125			RRES		United Kingdom		Heat
+UNT18	burstsiliques	0.128205128205128			RRES		United Kingdom		Heat
+UNT21	burstsiliques	1.13953488372093			RRES		United Kingdom		Heat
+UNT4	burstsiliques	0.108108108108108			RRES		United Kingdom		Heat
+UNT46	burstsiliques	0.375			RRES		United Kingdom		Heat
+UNT18	siliquesnumber(per cm)	1.95974118825373			RRES		United Kingdom		Heat
+UNT21	siliquesnumber(per cm)	2.41763450116324			RRES		United Kingdom		Heat
+UNT4	siliquesnumber(per cm)	2.00377821501615			RRES		United Kingdom		Heat
+UNT46	siliquesnumber(per cm)	2.21361680177915			RRES		United Kingdom		Heat
+UNT18	abortedsiliques(%)	12.6917207692308			RRES		United Kingdom		Heat
+UNT21	abortedsiliques(%)	16.9212286046512			RRES		United Kingdom		Heat
+UNT4	abortedsiliques(%)	8.97235783783784			RRES		United Kingdom		Heat
+UNT46	abortedsiliques(%)	24.265248125			RRES		United Kingdom		Heat
+UNT18	leafbbch17das	108.142857142857			RRES		United Kingdom		Heat
+UNT21	leafbbch17das	107.875			RRES		United Kingdom		Heat
+UNT4	leafbbch17das	107.65			RRES		United Kingdom		Heat
+UNT46	leafbbch17das	107.933333333333			RRES		United Kingdom		Heat
+UNT18	leafbbch19das	109.809523809524			RRES		United Kingdom		Heat
+UNT21	leafbbch19das	109.0			RRES		United Kingdom		Heat
+UNT4	leafbbch19das	109.55			RRES		United Kingdom		Heat
+UNT46	leafbbch19das	110.533333333333			RRES		United Kingdom		Heat
+UNT18	leafbbch23das	118.142857142857			RRES		United Kingdom		Heat
+UNT21	leafbbch23das	117.75			RRES		United Kingdom		Heat
+UNT4	leafbbch23das	117.8			RRES		United Kingdom		Heat
+UNT46	leafbbch23das	118.8			RRES		United Kingdom		Heat
+UNT18	budbbch23das	500.0			RRES		United Kingdom		Heat
+UNT21	budbbch23das	500.0			RRES		United Kingdom		Heat
+UNT4	budbbch23das	500.0			RRES		United Kingdom		Heat
+UNT46	budbbch23das	500.0			RRES		United Kingdom		Heat
+UNT18	leafbbch26das	119.0			RRES		United Kingdom		Heat
+UNT21	leafbbch26das	118.625			RRES		United Kingdom		Heat
+UNT4	leafbbch26das	118.75			RRES		United Kingdom		Heat
+UNT46	leafbbch26das	119.0			RRES		United Kingdom		Heat

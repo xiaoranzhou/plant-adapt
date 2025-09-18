@@ -74,17 +74,15 @@
                     </h6>
                     <ul class="nav flex-column mb-2">
                         <li class="nav-item">
-                            <a class="nav-link" href="https://dataplan.top">Plink 2.0</a>
+                            <a class="nav-link" id="plink2-tab" data-bs-toggle="pill" href="#plink2pane" role="tab" aria-controls="plink2pane" aria-selected="false">Plink 2.0</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="https://dataplan.top">Manhattan Plotly</a>
+                            <a class="nav-link" id="plotly-tab" data-bs-toggle="pill" href="#plotly" role="tab" aria-controls="plotly" aria-selected="false">Manhattan Plotly</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="https://dataplan.top">JBrowse 3.6.5</a>
+                            <a class="nav-link" id="jb365-tab" data-bs-toggle="pill" href="#jb365" role="tab" aria-controls="jb365" aria-selected="false">JBrowse 3.6.5</a>
                         </li>
-                        <li class="nav-item d-none">
-                            <a class="nav-link" href="https://dataplan.top">Year-end sale</a>
-                        </li>
+
                     </ul>
                 </div>
             </nav>
@@ -158,9 +156,131 @@
                     <!-- GWAS Tab -->
                     <div class="tab-pane fade" id="gwas" role="tabpanel" aria-labelledby="gwas-tab">
                         <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-                            <h1 class="h2">PLINK2 WebAssembly Interface</h1>
+                            <h1 class="h2">GWAS Analysis</h1>
                         </div>
-                        <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Genome-Wide Association Studies</h5>
+                                        <p class="card-text">Perform comprehensive GWAS analysis using PLINK2 and create interactive visualizations.</p>
+
+                                        <div class="alert alert-info">
+                                            <strong>Getting Started:</strong> Use the dedicated tools below for your GWAS workflow.
+                                        </div>
+
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                <div class="card mb-3">
+                                                    <div class="card-body text-center">
+                                                        <h6 class="card-title">1. Data Processing</h6>
+                                                        <p class="card-text">Upload and process genomic data with PLINK2</p>
+                                                        <button class="btn btn-primary" onclick="window.location.hash='#plink2pane'">
+                                                            🧬 Use PLINK2 Tool
+                                                        </button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                                <div class="card mb-3">
+                                                    <div class="card-body text-center">
+                                                        <h6 class="card-title">2. Visualization</h6>
+                                                        <p class="card-text">Create interactive Manhattan plots</p>
+                                                        <button class="btn btn-success" onclick="window.location.hash='#plotly'">
+                                                            📊 Manhattan Plot
+                                                        </button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                                <div class="card mb-3">
+                                                    <div class="card-body text-center">
+                                                        <h6 class="card-title">3. Genome Browser</h6>
+                                                        <p class="card-text">Explore genomic regions in detail</p>
+                                                        <button class="btn btn-info" onclick="window.location.hash='#jb365'">
+                                                            🧭 JBrowse
+                                                        </button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="mt-4">
+                                            <h6>GWAS Workflow:</h6>
+                                            <ol>
+                                                <li><strong>Data Upload:</strong> Upload your genomic files (.bed, .bim, .fam) using the PLINK2 tool</li>
+                                                <li><strong>Quality Control:</strong> Run PLINK2 commands for data cleaning and QC</li>
+                                                <li><strong>Association Analysis:</strong> Perform GWAS using the GLM method</li>
+                                                <li><strong>Visualization:</strong> Create Manhattan plots to identify significant SNPs</li>
+                                                <li><strong>Exploration:</strong> Navigate to significant regions using the genome browser</li>
+                                            </ol>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- General Analysis Tab -->
+                    <div class="tab-pane fade" id="analysis-general" role="tabpanel" aria-labelledby="analysis-general-tab">
+                        <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+                            <h1 class="h2">General Genomic Analysis</h1>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Analysis Tools</h5>
+                                        <p class="card-text">General genomic analysis tools and workflows.</p>
+                                        <div class="alert alert-info">
+                                            <strong>Info:</strong> General analysis features will be implemented here.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Genome Observation Tab -->
+                    <div class="tab-pane fade" id="observation" role="tabpanel" aria-labelledby="observation-tab">
+                        <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+                            <h1 class="h2">Genome Observation</h1>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Genome Browse</h5>
+                                        <p class="card-text">Observe and visualize genomic structures and variations.</p>
+                                        
+
+   
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Genome Browse Tab -->
+                    <div class="tab-pane fade" id="browse" role="tabpanel" aria-labelledby="browse-tab">
+                        <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+                            
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div id="jbrowse_app"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- PLink 2.0 Tab -->
+                    <div class="tab-pane fade" id="plink2pane" role="tabpanel" aria-labelledby="plink2-tab">
+                        <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+                            
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div id="plink2"></div>
+                                 <div class="container-fluid">
                             <div class="file-upload-section">
                                 <h3>Upload Files</h3>
                                 <div class="file-group">
@@ -231,35 +351,85 @@
                             </div>
 
                             <div class="file-info">
-                                <h4>How to use:</h4>
-                                <p>1. Upload your files (any format)</p>
-                                <p>2. Enter PLINK2 command parameters (without the 'plink2' prefix)</p>
-                                <p>3. Click "Run PLINK2" to execute</p>
-                                <p>4. View results in the output tabs below</p>
-                                <p><strong>Example commands:</strong></p>
-                                <ul>
-                                    <li><code>--freq --out frequency_results</code> - Calculate allele frequencies</li>
-                                    <li><code>--hardy --out hwe_results</code> - Hardy-Weinberg equilibrium test</li>
-                                    <li><code>--missing --out missing_results</code> - Missing data report</li>
-                                    <li><code>--pca --out pca_results</code> - Principal component analysis</li>
-                                </ul>
+                               
+                            </div>
+                        </div>
+
+
                             </div>
                         </div>
                     </div>
 
-                    <!-- General Analysis Tab -->
-                    <div class="tab-pane fade" id="analysis-general" role="tabpanel" aria-labelledby="analysis-general-tab">
+
+
+
+
+
+
+
+
+                    <!-- Manhattan Plotly Tab -->
+                    <div class="tab-pane fade" id="plotly" role="tabpanel" aria-labelledby="plotly-tab">
                         <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-                            <h1 class="h2">General Genomic Analysis</h1>
+                            <h1 class="h2">Manhattan Plot Visualization</h1>
                         </div>
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h5 class="card-title">Analysis Tools</h5>
-                                        <p class="card-text">General genomic analysis tools and workflows.</p>
+                                        <h5 class="card-title">Interactive Manhattan Plot</h5>
+                                        <p class="card-text">Create interactive Manhattan plots from GWAS data with click-to-navigate functionality to the genome browser.</p>
+
                                         <div class="alert alert-info">
-                                            <strong>Info:</strong> General analysis features will be implemented here.
+                                            <strong>Info:</strong> To create Manhattan plots, first run GWAS analysis in the PLINK2 tool, then use the cleaned data for visualization.
+                                        </div>
+
+                                        <div class="manhattan-controls" style="margin-bottom: 20px; text-align: center;">
+                                            <button class="btn btn-success" id="plotFromCleanedButtonStandalone" onclick="plotFromCleanedDataStandalone()" style="margin-right: 10px;">
+                                                📊 Plot from Cleaned Data
+                                            </button>
+                                            <button class="btn btn-secondary" onclick="toggleSignificanceLineStandalone()" style="margin-right: 10px;">
+                                                📈 Toggle Significance Line
+                                            </button>
+                                            <button class="btn btn-primary" onclick="exportPlotImageStandalone()" style="margin-right: 10px;">
+                                                📥 Export PNG
+                                            </button>
+                                            <button class="btn btn-warning" onclick="exportPlotSVGStandalone()" style="margin-right: 10px;">
+                                                📥 Export SVG
+                                            </button>
+                                            <button class="btn btn-outline-danger" onclick="clearManhattanPlotStandalone()">
+                                                🗑️ Clear Plot
+                                            </button>
+                                        </div>
+
+                                        <div class="progress" id="manhattanProgressSectionStandalone" style="display: none; text-align: center; margin-bottom: 15px;">
+                                            <div id="manhattanProgressMessageStandalone">Processing data...</div>
+                                            <div style="width: 100%; height: 20px; background: #f0f0f0; border-radius: 10px; overflow: hidden; margin: 10px 0; position: relative;">
+                                                <div id="manhattanProgressFillStandalone" style="height: 100%; background: linear-gradient(90deg, #4CAF50, #45a049); transition: width 0.3s ease; width: 0%;"></div>
+                                                <div id="manhattanProgressTextStandalone" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-weight: bold; color: #333; font-size: 12px;">0%</div>
+                                            </div>
+                                        </div>
+
+                                        <div id="manhattanStatsStandalone" style="text-align: center; margin: 10px 0; color: #666; font-weight: 500;">
+                                            Ready to plot Manhattan plot from cleaned GWAS data
+                                        </div>
+
+                                        <div id="manhattanPlotDivStandalone" style="width: 100%; height: 700px; border: 2px solid #ddd; border-radius: 8px; display: flex; align-items: center; justify-content: center; background-color: #f8f9fa; color: #666; font-size: 16px;">
+                                            <div style="text-align: center;">
+                                                <div style="font-size: 48px; margin-bottom: 10px;">📊</div>
+                                                <div>Manhattan plot will appear here</div>
+                                                <div style="font-size: 14px; margin-top: 5px;">Click "Plot from Cleaned Data" to create visualization</div>
+                                            </div>
+                                        </div>
+
+                                        <div class="mt-4">
+                                            <h6>Features:</h6>
+                                            <ul>
+                                                <li><strong>Interactive Navigation:</strong> Click on any point to navigate to the genome browser</li>
+                                                <li><strong>Significance Threshold:</strong> Toggle genome-wide significance line (p < 5×10⁻⁸)</li>
+                                                <li><strong>Export Options:</strong> Save plots as PNG or SVG for publications</li>
+                                                <li><strong>Performance Optimized:</strong> Handles large datasets with WebGL rendering</li>
+                                            </ul>
                                         </div>
                                     </div>
                                 </div>
@@ -267,37 +437,71 @@
                         </div>
                     </div>
 
-                    <!-- Genome Observation Tab -->
-                    <div class="tab-pane fade" id="observation" role="tabpanel" aria-labelledby="observation-tab">
+                    <!-- JBrowse 3.6.5 Tab -->
+                    <div class="tab-pane fade" id="jb365" role="tabpanel" aria-labelledby="jb365-tab">
                         <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-                            <h1 class="h2">Genome Observation</h1>
+                            <h1 class="h2">JBrowse 3.6.5 Genome Browser</h1>
                         </div>
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h5 class="card-title">Genome Browse</h5>
-                                        <p class="card-text">Observe and visualize genomic structures and variations.</p>
-                                        
+                                        <h5 class="card-title">Advanced Genome Browser</h5>
+                                        <p class="card-text">Explore genomic data with the latest JBrowse 3.6.5 technology for interactive genome visualization.</p>
 
-   
+                                        <div class="alert alert-success">
+                                            <strong>Navigation:</strong> You can navigate here directly from Manhattan plot points or use the controls below.
+                                        </div>
+
+                                        <div class="genome-controls" style="margin-bottom: 20px;">
+                                            <div class="row">
+                                                <div class="col-md-8">
+                                                    <label for="locationInput" class="form-label">Navigate to Location:</label>
+                                                    <input type="text" class="form-control" id="locationInput" placeholder="e.g., 1:1000-2000 or 2:5000000-5001000" value="1:1000-10000">
+                                                </div>
+                                                <div class="col-md-4 d-flex align-items-end">
+                                                    <button class="btn btn-primary w-100" onclick="navigateToLocation()">
+                                                        🧭 Navigate
+                                                    </button>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div id="jbrowse_app_standalone" style="width: 100%; height: 700px; border: 2px solid #ddd; border-radius: 8px; background-color: #f8f9fa;">
+                                            <div style="display: flex; align-items: center; justify-content: center; height: 100%; color: #666; font-size: 16px; flex-direction: column;">
+                                                <div style="font-size: 48px; margin-bottom: 10px;">🧬</div>
+                                                <div>JBrowse Genome Browser</div>
+                                                <div style="font-size: 14px; margin-top: 5px;">Integrated genome browser for detailed genomic analysis</div>
+                                            </div>
+                                        </div>
+
+                                        <div class="mt-4">
+                                            <h6>Available Tracks:</h6>
+                                            <div class="row">
+                                                <div class="col-md-6">
+                                                    <ul>
+                                                        <li><strong>Reference Sequence:</strong> Camelina Sativa genome</li>
+                                                        <li><strong>Structural Annotations:</strong> Gene models and features</li>
+                                                        <li><strong>Variant Data:</strong> Untwist variant calls</li>
+                                                        <li><strong>Expression Tracks:</strong> Tissue-specific expression</li>
+                                                    </ul>
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <ul>
+                                                        <li><strong>Stress Conditions:</strong> Salt/control comparisons</li>
+                                                        <li><strong>Root Expression:</strong> DH55 root samples</li>
+                                                        <li><strong>Shoot Expression:</strong> DH55 shoot samples</li>
+                                                        <li><strong>Flower/Seed Data:</strong> Developmental stages</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <!-- Genome Browse Tab -->
-                    <div class="tab-pane fade" id="browse" role="tabpanel" aria-labelledby="browse-tab">
-                        <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-                            
-                        </div>
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div id="jbrowse_app"></div>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </main>
         </div>
@@ -598,6 +802,77 @@
             const statsDiv = document.getElementById('manhattanStats');
             if (statsDiv) {
                 statsDiv.textContent = 'Manhattan plot cleared.';
+            }
+        }
+
+        // Standalone Manhattan Plot Functions
+        function plotFromCleanedDataStandalone() {
+            console.log('Standalone Manhattan plot function called');
+            if (!window.gwasModule) {
+                alert('Please run GWAS analysis in the PLINK2 tool first to generate data for plotting.');
+                return;
+            }
+
+            if (!window.gwasModule.manhattanCurrentData) {
+                alert('No cleaned GWAS data available. Please run GWAS Data Clean in the PLINK2 tool first.');
+                return;
+            }
+
+            // Use the enhanced GWAS module with standalone target
+            window.gwasModule.plotFromCleanedData('manhattanPlotDivStandalone');
+        }
+
+        function toggleSignificanceLineStandalone() {
+            if (window.gwasModule) {
+                window.gwasModule.toggleSignificanceLinePlot();
+            } else {
+                alert('No GWAS data available. Please run GWAS analysis first.');
+            }
+        }
+
+        function exportPlotImageStandalone() {
+            if (window.gwasModule) {
+                window.gwasModule.exportPlotImage();
+            } else {
+                alert('No plot available to export. Please create a plot first.');
+            }
+        }
+
+        function exportPlotSVGStandalone() {
+            if (window.gwasModule) {
+                window.gwasModule.exportPlotSVG();
+            } else {
+                alert('No plot available to export. Please create a plot first.');
+            }
+        }
+
+        function clearManhattanPlotStandalone() {
+            const plotDiv = document.getElementById('manhattanPlotDivStandalone');
+            const statsDiv = document.getElementById('manhattanStatsStandalone');
+
+            if (plotDiv) {
+                plotDiv.innerHTML = '<div style="text-align: center;"><div style="font-size: 48px; margin-bottom: 10px;">📊</div><div>Manhattan plot cleared</div><div style="font-size: 14px; margin-top: 5px;">Click "Plot from Cleaned Data" to create visualization</div></div>';
+            }
+
+            if (statsDiv) {
+                statsDiv.textContent = 'Ready to plot Manhattan plot from cleaned GWAS data';
+            }
+        }
+
+        // JBrowse navigation function
+        function navigateToLocation() {
+            const locationInput = document.getElementById('locationInput');
+            const location = locationInput.value.trim();
+
+            if (!location) {
+                alert('Please enter a location (e.g., 1:1000-2000)');
+                return;
+            }
+
+            if (typeof jbNav === 'function') {
+                jbNav(location);
+            } else {
+                alert('JBrowse navigation function not available');
             }
         }
     </script>

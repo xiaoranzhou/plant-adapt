@@ -1,0 +1,1414 @@
+{
+  "metadata": {
+    "dataset_name": "Camelina sativa Environmental Adaptation Database",
+    "version": "1.0",
+    "created": "2025-09-18T18:00:00.000Z",
+    "description": "Comprehensive dataset for analyzing Camelina sativa adaptation to environmental conditions",
+    "species": "Camelina sativa (L.) Crantz",
+    "common_name": "False flax, Gold-of-pleasure",
+    "total_studies": 11,
+    "total_datasets": 278,
+    "total_measurements": 156469,
+    "data_types": [
+      "physiological",
+      "morphological",
+      "biochemical",
+      "agronomic"
+    ],
+    "environmental_contexts": [
+      "controlled",
+      "field",
+      "stress",
+      "multi-environment"
+    ],
+    "research_scope": "environmental_adaptation_and_stress_tolerance"
+  },
+  "studies": {
+    "study1": {
+      "title": "Characterization of camelina core collection and RILs under controlled conditions",
+      "species": "Camelina sativa (L.) Crantz",
+      "biological_conditions": "Control, Drought, Heat",
+      "tissue_types": "Leaf, aerial tissue, silique, cotyledons",
+      "source": "UNTWIST",
+      "doi": null,
+      "folder_name": "study1_camelina_core_collection_controlled",
+      "study_ids": [
+        "2.1A1",
+        "2.1A2",
+        "2.1A3",
+        "2.1A4",
+        "2.1A5",
+        "2.1A6"
+      ],
+      "study_type": "UNTWIST",
+      "environmental_focus": "controlled",
+      "adaptation_relevance": {
+        "drought_tolerance": false,
+        "heat_tolerance": false,
+        "geographic_adaptation": false,
+        "controlled_phenotyping": true
+      }
+    },
+    "study2": {
+      "title": "Characterization of camelina core collection under field conditions",
+      "species": "Camelina sativa (L.) Crantz",
+      "biological_conditions": null,
+      "tissue_types": null,
+      "source": "UNTWIST",
+      "doi": null,
+      "folder_name": "study2_camelina_core_collection_field",
+      "study_ids": [
+        "2.2A1",
+        "2.2A2",
+        "2.2A3",
+        "2.2A4",
+        "2.2A5",
+        "2.2A6"
+      ],
+      "study_type": "UNTWIST",
+      "environmental_focus": "field",
+      "adaptation_relevance": {
+        "drought_tolerance": false,
+        "heat_tolerance": false,
+        "geographic_adaptation": true,
+        "controlled_phenotyping": true
+      }
+    },
+    "study3": {
+      "title": "Controlled stress-testing of selected camelina focus lines",
+      "species": "Camelina sativa (L.) Crantz",
+      "biological_conditions": "Control, Drought, Heat, Pest (Molluscs)",
+      "tissue_types": "Leaf, Seeds, siliqua",
+      "source": "UNTWIST",
+      "doi": null,
+      "folder_name": "study3_camelina_focus_lines_stress",
+      "study_ids": [
+        "2.3A1",
+        "2.3A2",
+        "2.3A3",
+        "2.3A4"
+      ],
+      "study_type": "UNTWIST",
+      "environmental_focus": "controlled",
+      "adaptation_relevance": {
+        "drought_tolerance": true,
+        "heat_tolerance": true,
+        "geographic_adaptation": false,
+        "controlled_phenotyping": true
+      }
+    },
+    "study4": {
+      "title": "Environmental suitability of camelina to stressful conditions.",
+      "species": "Camelina sativa (L.) Crantz",
+      "biological_conditions": "Optimal, Stressed",
+      "tissue_types": "Leaf, Seed, Siliqua",
+      "source": "UNTWIST",
+      "doi": null,
+      "folder_name": "study4_environmental_suitability",
+      "study_ids": [
+        "2.4A1",
+        "2.4A2",
+        "2.4A3",
+        "2.4A4",
+        "2.4A5",
+        "2.4A6",
+        "2.4A7",
+        "2.4A8",
+        "2.4A9",
+        "2.4A10",
+        "2.4A11",
+        "2.4A12",
+        "2.4A13",
+        "2.4A14",
+        "2.4A15",
+        "2.4A16",
+        "2.4A17"
+      ],
+      "study_type": "UNTWIST",
+      "environmental_focus": "stress",
+      "adaptation_relevance": {
+        "drought_tolerance": true,
+        "heat_tolerance": true,
+        "geographic_adaptation": false,
+        "controlled_phenotyping": false
+      }
+    },
+    "study5": {
+      "title": "Redox-status analysis of core collection and focus lines (redox profiling)",
+      "species": "Camelina sativa (L.) Crantz",
+      "biological_conditions": "Control, Drought, Heat",
+      "tissue_types": "Cotyledon, Junction cotyledon - root...",
+      "source": "UNTWIST",
+      "doi": null,
+      "folder_name": "study5_redox_status_analysis",
+      "study_ids": [
+        "3.2A1"
+      ],
+      "study_type": "UNTWIST",
+      "environmental_focus": "general",
+      "adaptation_relevance": {
+        "drought_tolerance": false,
+        "heat_tolerance": false,
+        "geographic_adaptation": false,
+        "controlled_phenotyping": false
+      }
+    },
+    "study6": {
+      "title": "Targeted measurement of enzyme activities in focus lines (enzyme activity profiling)",
+      "species": "Camelina sativa (L.) Crantz",
+      "biological_conditions": "Control, Drought, Heat",
+      "tissue_types": "Leaf, Root",
+      "source": "UNTWIST",
+      "doi": null,
+      "folder_name": "study6_enzyme_activity_profiling",
+      "study_ids": [
+        "3.5A1"
+      ],
+      "study_type": "UNTWIST",
+      "environmental_focus": "general",
+      "adaptation_relevance": {
+        "drought_tolerance": false,
+        "heat_tolerance": false,
+        "geographic_adaptation": false,
+        "controlled_phenotyping": false
+      }
+    },
+    "study7": {
+      "title": "Phenotypic Examination of Camelina sativa (L.) Crantz Accessions from the USDA-ARS National Genetics Resource Program",
+      "species": "Camelina sativa",
+      "biological_conditions": null,
+      "tissue_types": null,
+      "source": "PUBLIC",
+      "doi": "https://doi.org/10.3390/plants10050842",
+      "folder_name": "study7_public_usda_phenotypic_examination",
+      "study_ids": [
+        "3A1",
+        "3A2",
+        "3A3",
+        "3A4",
+        "3A5",
+        "3A6"
+      ],
+      "study_type": "PUBLIC",
+      "environmental_focus": "general",
+      "adaptation_relevance": {
+        "drought_tolerance": false,
+        "heat_tolerance": false,
+        "geographic_adaptation": false,
+        "controlled_phenotyping": false
+      }
+    },
+    "study8": {
+      "title": "Agronomic and seed quality evaluation of Camelina sativa in western Canada",
+      "species": "Camelina sativa",
+      "biological_conditions": null,
+      "tissue_types": null,
+      "source": "PUBLIC",
+      "doi": "https://doi.org/10.4141/P04-061",
+      "folder_name": "study8_public_western_canada_evaluation",
+      "study_ids": [
+        "5A1"
+      ],
+      "study_type": "PUBLIC",
+      "environmental_focus": "general",
+      "adaptation_relevance": {
+        "drought_tolerance": false,
+        "heat_tolerance": false,
+        "geographic_adaptation": true,
+        "controlled_phenotyping": false
+      }
+    },
+    "study9": {
+      "title": "Camelina (Camelina sativa L. Crantz) under low-input management systems in northern Italy: Yields, chemical characterization and environmental sustainability",
+      "species": "Camelina sativa",
+      "biological_conditions": "low input cultivation systems",
+      "tissue_types": null,
+      "source": "PUBLIC",
+      "doi": "https://doi.org/10.4081/ija.2021.1518",
+      "folder_name": "study9_public_northern_italy_low_input",
+      "study_ids": [
+        "6A1"
+      ],
+      "study_type": "PUBLIC",
+      "environmental_focus": "general",
+      "adaptation_relevance": {
+        "drought_tolerance": false,
+        "heat_tolerance": false,
+        "geographic_adaptation": true,
+        "controlled_phenotyping": true
+      }
+    },
+    "study10": {
+      "title": "Fatty Acid Composition of Cannabis sativa, Linum usitatissimum and Camelina sativa Seeds Harvested in Lithuania for Food Use",
+      "species": "Camelina sativa, Cannabis s..., Linum usitatissimum",
+      "biological_conditions": null,
+      "tissue_types": null,
+      "source": "PUBLIC",
+      "doi": "https://doi.org/10.3390/foods10011962",
+      "folder_name": "study10_public_lithuanian_fatty_acids",
+      "study_ids": [
+        "7A1"
+      ],
+      "study_type": "PUBLIC",
+      "environmental_focus": "general",
+      "adaptation_relevance": {
+        "drought_tolerance": false,
+        "heat_tolerance": false,
+        "geographic_adaptation": true,
+        "controlled_phenotyping": false
+      }
+    },
+    "study11": {
+      "title": "The occurrence and characterisation of phenolic compounds in Camelina sativa seed, cake and oil",
+      "species": "Camelina sativa",
+      "biological_conditions": null,
+      "tissue_types": null,
+      "source": "PUBLIC",
+      "doi": "https://doi.org/10.1016/j.foodchem.2017.06.033",
+      "folder_name": "study11_public_phenolic_compounds",
+      "study_ids": [
+        "9A1"
+      ],
+      "study_type": "PUBLIC",
+      "environmental_focus": "general",
+      "adaptation_relevance": {
+        "drought_tolerance": false,
+        "heat_tolerance": false,
+        "geographic_adaptation": false,
+        "controlled_phenotyping": false
+      }
+    }
+  },
+  "environmental_conditions": {
+    "controlled_conditions": {
+      "temperature": "controlled",
+      "water_availability": "optimal",
+      "stress_factors": [
+        "drought",
+        "heat"
+      ],
+      "environment_type": "greenhouse/growth_chamber",
+      "description": "Standardized growth conditions for baseline measurements"
+    },
+    "field_conditions": {
+      "temperature": "natural_variation",
+      "water_availability": "natural_precipitation",
+      "stress_factors": [
+        "weather_variation",
+        "soil_conditions"
+      ],
+      "environment_type": "field",
+      "description": "Natural field environments across different locations"
+    },
+    "stress_testing": {
+      "temperature": "controlled_stress",
+      "water_availability": "drought_stress",
+      "stress_factors": [
+        "drought",
+        "heat",
+        "pest_pressure"
+      ],
+      "environment_type": "controlled_stress",
+      "description": "Controlled application of specific stress conditions"
+    },
+    "environmental_suitability": {
+      "temperature": "variable",
+      "water_availability": "variable",
+      "stress_factors": [
+        "optimal",
+        "stressed"
+      ],
+      "environment_type": "multi_environment",
+      "description": "Assessment across multiple environmental scenarios"
+    }
+  },
+  "adaptation_trait_categories": {
+    "physiological_adaptation": {
+      "description": "Traits related to plant physiological responses to environment",
+      "water_relations": {
+        "traits": [
+          "plant water content",
+          "fw/dw",
+          "dw/fw",
+          "relative water content"
+        ],
+        "adaptation_relevance": "drought_tolerance"
+      },
+      "photosynthesis": {
+        "traits": [
+          "spad",
+          "chlorophyll",
+          "photosynthetic rate",
+          "fluorescence"
+        ],
+        "adaptation_relevance": "light_stress_tolerance"
+      },
+      "stress_response": {
+        "traits": [
+          "antioxidant capacity",
+          "enzyme activity",
+          "redox status"
+        ],
+        "adaptation_relevance": "general_stress_tolerance"
+      }
+    },
+    "morphological_adaptation": {
+      "description": "Traits related to plant structure and growth",
+      "growth_characteristics": {
+        "traits": [
+          "plant height",
+          "stem thickness",
+          "fresh weight",
+          "dry weight"
+        ],
+        "adaptation_relevance": "resource_allocation"
+      },
+      "developmental_traits": {
+        "traits": [
+          "flowering time",
+          "maturity",
+          "emergence rate"
+        ],
+        "adaptation_relevance": "phenological_adaptation"
+      }
+    },
+    "biochemical_adaptation": {
+      "description": "Traits related to metabolic and chemical composition",
+      "metabolic_profile": {
+        "traits": [
+          "fatty acid composition",
+          "lipid content",
+          "oil content"
+        ],
+        "adaptation_relevance": "membrane_stability"
+      },
+      "stress_metabolites": {
+        "traits": [
+          "phenolic compounds",
+          "pigments",
+          "antocyanins"
+        ],
+        "adaptation_relevance": "protective_compounds"
+      },
+      "nutritional_quality": {
+        "traits": [
+          "protein content",
+          "isotope ratios",
+          "element composition"
+        ],
+        "adaptation_relevance": "resource_use_efficiency"
+      }
+    },
+    "agronomic_performance": {
+      "description": "Traits related to agricultural productivity",
+      "yield_components": {
+        "traits": [
+          "grain weight",
+          "thousand kernel weight",
+          "seed yield"
+        ],
+        "adaptation_relevance": "productivity_under_stress"
+      },
+      "productivity": {
+        "traits": [
+          "biomass",
+          "harvest index",
+          "plants per area"
+        ],
+        "adaptation_relevance": "resource_conversion_efficiency"
+      }
+    }
+  },
+  "geographic_distribution": {
+    "study1": {
+      "region": "Controlled Environment",
+      "climate_zone": "controlled",
+      "latitude_range": null,
+      "longitude_range": null,
+      "environmental_challenges": [
+        "controlled stress application"
+      ],
+      "growing_season_length": "controlled",
+      "temperature_range": "controlled"
+    },
+    "study2": {
+      "region": "Multi-location/Various",
+      "climate_zone": "multiple",
+      "latitude_range": null,
+      "longitude_range": null,
+      "environmental_challenges": [
+        "diverse environmental conditions"
+      ],
+      "growing_season_length": "variable",
+      "temperature_range": "variable"
+    },
+    "study3": {
+      "region": "Controlled Environment",
+      "climate_zone": "controlled",
+      "latitude_range": null,
+      "longitude_range": null,
+      "environmental_challenges": [
+        "controlled stress application"
+      ],
+      "growing_season_length": "controlled",
+      "temperature_range": "controlled"
+    },
+    "study4": {
+      "region": "Multi-location/Various",
+      "climate_zone": "multiple",
+      "latitude_range": null,
+      "longitude_range": null,
+      "environmental_challenges": [
+        "diverse environmental conditions"
+      ],
+      "growing_season_length": "variable",
+      "temperature_range": "variable"
+    },
+    "study5": {
+      "region": "Multi-location/Various",
+      "climate_zone": "multiple",
+      "latitude_range": null,
+      "longitude_range": null,
+      "environmental_challenges": [
+        "diverse environmental conditions"
+      ],
+      "growing_season_length": "variable",
+      "temperature_range": "variable"
+    },
+    "study6": {
+      "region": "Multi-location/Various",
+      "climate_zone": "multiple",
+      "latitude_range": null,
+      "longitude_range": null,
+      "environmental_challenges": [
+        "diverse environmental conditions"
+      ],
+      "growing_season_length": "variable",
+      "temperature_range": "variable"
+    },
+    "study7": {
+      "region": "Multi-location/Various",
+      "climate_zone": "multiple",
+      "latitude_range": null,
+      "longitude_range": null,
+      "environmental_challenges": [
+        "diverse environmental conditions"
+      ],
+      "growing_season_length": "variable",
+      "temperature_range": "variable"
+    },
+    "study8": {
+      "region": "Western Canada",
+      "climate_zone": "temperate_continental",
+      "latitude_range": [
+        49,
+        60
+      ],
+      "longitude_range": [
+        -125,
+        -95
+      ],
+      "environmental_challenges": [
+        "short growing season",
+        "frost risk",
+        "variable precipitation"
+      ],
+      "growing_season_length": "short",
+      "temperature_range": "wide_seasonal_variation"
+    },
+    "study9": {
+      "region": "Northern Italy",
+      "climate_zone": "temperate_mediterranean",
+      "latitude_range": [
+        44,
+        47
+      ],
+      "longitude_range": [
+        6,
+        13
+      ],
+      "environmental_challenges": [
+        "low input systems",
+        "water limitation",
+        "heat stress"
+      ],
+      "growing_season_length": "medium",
+      "temperature_range": "moderate_variation"
+    },
+    "study10": {
+      "region": "Lithuania",
+      "climate_zone": "temperate_continental",
+      "latitude_range": [
+        53,
+        57
+      ],
+      "longitude_range": [
+        20,
+        27
+      ],
+      "environmental_challenges": [
+        "cold winters",
+        "variable precipitation",
+        "short summers"
+      ],
+      "growing_season_length": "short",
+      "temperature_range": "wide_seasonal_variation"
+    },
+    "study11": {
+      "region": "Multi-location/Various",
+      "climate_zone": "multiple",
+      "latitude_range": null,
+      "longitude_range": null,
+      "environmental_challenges": [
+        "diverse environmental conditions"
+      ],
+      "growing_season_length": "variable",
+      "temperature_range": "variable"
+    }
+  },
+  "rawdata_summary": {
+    "study2_camelina_core_collection_field": {
+      "folder_name": "study2_camelina_core_collection_field",
+      "file_count": 12,
+      "file_types": [
+        ".tsv"
+      ],
+      "study_ids": [
+        "2.1A6",
+        "2.1A1",
+        "2.2A1",
+        "2.1A3",
+        "2.1A4",
+        "2.2A6",
+        "2.2A2",
+        "2.2A4",
+        "2.1A2",
+        "2.2A5",
+        "2.2A3",
+        "2.1A5"
+      ],
+      "measurement_types": [
+        "isotope_analysis",
+        "total_antioxidant_capacity",
+        "plant_water_content",
+        "stem_biometrics",
+        "nuclear_magnetic_resonance_spectroscopy",
+        "fatty_acid_methyl_esters",
+        "flour_pen",
+        "agronomic_traits_multiple_locations_",
+        "agronomic_traits_single_location_",
+        "pigments"
+      ]
+    },
+    "study10_public_lithuanian_fatty_acids": {
+      "folder_name": "study10_public_lithuanian_fatty_acids",
+      "file_count": 28,
+      "file_types": [
+        ".tsv"
+      ],
+      "study_ids": [
+        "2.4A13",
+        "2.4A8",
+        "2.4A16",
+        "3A6",
+        "2.4A10",
+        "6A1",
+        "3A1",
+        "2.4A14",
+        "5A1",
+        "2.4A12",
+        "2.4A5",
+        "2.4A6",
+        "3A2",
+        "3A3",
+        "7A1",
+        "2.4A7",
+        "2.4A15",
+        "3.2A1",
+        "2.4A1",
+        "2.4A3",
+        "3.5A1",
+        "3A4",
+        "2.4A9",
+        "2.4A17",
+        "3A5",
+        "2.4A4",
+        "2.4A2",
+        "2.4A11"
+      ],
+      "measurement_types": [
+        "rres_nmr",
+        "rres_spad",
+        "rres_harvest",
+        "plant_development",
+        "fames",
+        "seed_fatty_acid_composition",
+        "rres_handypea",
+        "rres_straw_dm",
+        "rres_height_and_width",
+        "rres_rwc",
+        "unibo_agronomic",
+        "flowering_traits",
+        "enzyme_profiles",
+        "inrae_agronomic_traits",
+        "rres_yield_dm",
+        "genetic_analysis",
+        "field_trials",
+        "redox_status_analysis",
+        "rres_licor_photosynthesis",
+        "seed_traits",
+        "rres_licor_fluorescence",
+        "cce_agronomic",
+        "inrae_pigments",
+        "inrae_licor",
+        "inrae_fames",
+        "fatty_acid_profiling",
+        "early_emergence"
+      ]
+    },
+    "study3_camelina_focus_lines_stress": {
+      "folder_name": "study3_camelina_focus_lines_stress",
+      "file_count": 16,
+      "file_types": [
+        ".tsv"
+      ],
+      "study_ids": [
+        "2.1A6",
+        "2.1A1",
+        "2.3A1",
+        "2.2A1",
+        "2.1A3",
+        "2.3A2",
+        "2.1A4",
+        "2.3A3",
+        "2.2A6",
+        "2.2A2",
+        "2.3A4",
+        "2.2A4",
+        "2.1A2",
+        "2.2A5",
+        "2.2A3",
+        "2.1A5"
+      ],
+      "measurement_types": [
+        "isotope_analysis",
+        "total_antioxidant_capacity",
+        "plant_water_content",
+        "lysimeter_experiments",
+        "stem_biometrics",
+        "nuclear_magnetic_resonance_spectroscopy",
+        "fatty_acid_methyl_esters",
+        "green_house",
+        "targeted_metabolomics",
+        "flour_pen",
+        "agronomic_traits_multiple_locations_",
+        "agronomic_traits_single_location_",
+        "untargeted_metabolomics",
+        "pigments"
+      ]
+    },
+    "study9_public_northern_italy_low_input": {
+      "folder_name": "study9_public_northern_italy_low_input",
+      "file_count": 27,
+      "file_types": [
+        ".tsv"
+      ],
+      "study_ids": [
+        "2.4A13",
+        "2.4A8",
+        "2.4A16",
+        "3A6",
+        "2.4A10",
+        "6A1",
+        "3A1",
+        "2.4A14",
+        "5A1",
+        "2.4A12",
+        "2.4A5",
+        "2.4A6",
+        "3A2",
+        "3A3",
+        "2.4A7",
+        "2.4A15",
+        "3.2A1",
+        "2.4A1",
+        "2.4A3",
+        "3.5A1",
+        "3A4",
+        "2.4A9",
+        "2.4A17",
+        "3A5",
+        "2.4A4",
+        "2.4A2",
+        "2.4A11"
+      ],
+      "measurement_types": [
+        "rres_nmr",
+        "rres_spad",
+        "rres_harvest",
+        "plant_development",
+        "fames",
+        "rres_handypea",
+        "rres_straw_dm",
+        "rres_height_and_width",
+        "rres_rwc",
+        "unibo_agronomic",
+        "flowering_traits",
+        "enzyme_profiles",
+        "inrae_agronomic_traits",
+        "rres_yield_dm",
+        "genetic_analysis",
+        "field_trials",
+        "redox_status_analysis",
+        "rres_licor_photosynthesis",
+        "seed_traits",
+        "rres_licor_fluorescence",
+        "cce_agronomic",
+        "inrae_pigments",
+        "inrae_licor",
+        "inrae_fames",
+        "fatty_acid_profiling",
+        "early_emergence"
+      ]
+    },
+    "study6_enzyme_activity_profiling": {
+      "folder_name": "study6_enzyme_activity_profiling",
+      "file_count": 19,
+      "file_types": [
+        ".tsv"
+      ],
+      "study_ids": [
+        "2.4A13",
+        "2.4A8",
+        "2.4A16",
+        "2.4A10",
+        "2.4A14",
+        "2.4A12",
+        "2.4A5",
+        "2.4A6",
+        "2.4A7",
+        "2.4A15",
+        "3.2A1",
+        "2.4A1",
+        "2.4A3",
+        "3.5A1",
+        "2.4A9",
+        "2.4A17",
+        "2.4A4",
+        "2.4A2",
+        "2.4A11"
+      ],
+      "measurement_types": [
+        "rres_nmr",
+        "rres_spad",
+        "rres_harvest",
+        "fames",
+        "rres_handypea",
+        "rres_straw_dm",
+        "rres_height_and_width",
+        "rres_rwc",
+        "unibo_agronomic",
+        "enzyme_profiles",
+        "inrae_agronomic_traits",
+        "rres_yield_dm",
+        "redox_status_analysis",
+        "rres_licor_photosynthesis",
+        "rres_licor_fluorescence",
+        "cce_agronomic",
+        "inrae_pigments",
+        "inrae_licor",
+        "inrae_fames"
+      ]
+    },
+    "study1_camelina_core_collection_controlled": {
+      "folder_name": "study1_camelina_core_collection_controlled",
+      "file_count": 6,
+      "file_types": [
+        ".tsv"
+      ],
+      "study_ids": [
+        "2.1A6",
+        "2.1A1",
+        "2.1A3",
+        "2.1A4",
+        "2.1A2",
+        "2.1A5"
+      ],
+      "measurement_types": [
+        "isotope_analysis",
+        "total_antioxidant_capacity",
+        "plant_water_content",
+        "stem_biometrics",
+        "fatty_acid_methyl_esters",
+        "flour_pen"
+      ]
+    },
+    "study5_redox_status_analysis": {
+      "folder_name": "study5_redox_status_analysis",
+      "file_count": 18,
+      "file_types": [
+        ".tsv"
+      ],
+      "study_ids": [
+        "2.4A13",
+        "2.4A5",
+        "2.4A6",
+        "2.4A7",
+        "2.4A17",
+        "2.4A8",
+        "2.4A12",
+        "2.4A15",
+        "2.4A16",
+        "3.2A1",
+        "2.4A1",
+        "2.4A10",
+        "2.4A3",
+        "2.4A4",
+        "2.4A2",
+        "2.4A14",
+        "2.4A11",
+        "2.4A9"
+      ],
+      "measurement_types": [
+        "rres_licor_photosynthesis",
+        "rres_nmr",
+        "rres_handypea",
+        "rres_straw_dm",
+        "rres_spad",
+        "rres_licor_fluorescence",
+        "rres_harvest",
+        "cce_agronomic",
+        "inrae_pigments",
+        "rres_height_and_width",
+        "fames",
+        "rres_rwc",
+        "inrae_licor",
+        "inrae_agronomic_traits",
+        "rres_yield_dm",
+        "unibo_agronomic",
+        "inrae_fames",
+        "redox_status_analysis"
+      ]
+    },
+    "study4_environmental_suitability": {
+      "folder_name": "study4_environmental_suitability",
+      "file_count": 17,
+      "file_types": [
+        ".tsv"
+      ],
+      "study_ids": [
+        "2.4A13",
+        "2.4A5",
+        "2.4A6",
+        "2.4A7",
+        "2.4A17",
+        "2.4A8",
+        "2.4A12",
+        "2.4A15",
+        "2.4A16",
+        "2.4A1",
+        "2.4A10",
+        "2.4A3",
+        "2.4A4",
+        "2.4A2",
+        "2.4A14",
+        "2.4A11",
+        "2.4A9"
+      ],
+      "measurement_types": [
+        "rres_licor_photosynthesis",
+        "rres_nmr",
+        "rres_handypea",
+        "rres_straw_dm",
+        "rres_spad",
+        "rres_licor_fluorescence",
+        "rres_harvest",
+        "cce_agronomic",
+        "inrae_pigments",
+        "rres_height_and_width",
+        "fames",
+        "rres_rwc",
+        "inrae_licor",
+        "inrae_agronomic_traits",
+        "rres_yield_dm",
+        "unibo_agronomic",
+        "inrae_fames"
+      ]
+    },
+    "study11_public_phenolic_compounds": {
+      "folder_name": "study11_public_phenolic_compounds",
+      "file_count": 29,
+      "file_types": [
+        ".tsv"
+      ],
+      "study_ids": [
+        "2.4A13",
+        "2.4A8",
+        "2.4A16",
+        "3A6",
+        "2.4A10",
+        "6A1",
+        "3A1",
+        "2.4A14",
+        "5A1",
+        "2.4A12",
+        "2.4A5",
+        "2.4A6",
+        "3A2",
+        "3A3",
+        "7A1",
+        "2.4A7",
+        "2.4A15",
+        "3.2A1",
+        "2.4A1",
+        "2.4A3",
+        "3.5A1",
+        "3A4",
+        "2.4A9",
+        "2.4A17",
+        "3A5",
+        "9A1",
+        "2.4A4",
+        "2.4A2",
+        "2.4A11"
+      ],
+      "measurement_types": [
+        "rres_nmr",
+        "rres_spad",
+        "rres_harvest",
+        "plant_development",
+        "fames",
+        "phenolic_compounds",
+        "seed_fatty_acid_composition",
+        "rres_handypea",
+        "rres_straw_dm",
+        "rres_height_and_width",
+        "rres_rwc",
+        "unibo_agronomic",
+        "flowering_traits",
+        "enzyme_profiles",
+        "inrae_agronomic_traits",
+        "rres_yield_dm",
+        "genetic_analysis",
+        "field_trials",
+        "redox_status_analysis",
+        "rres_licor_photosynthesis",
+        "seed_traits",
+        "rres_licor_fluorescence",
+        "cce_agronomic",
+        "inrae_pigments",
+        "inrae_licor",
+        "inrae_fames",
+        "fatty_acid_profiling",
+        "early_emergence"
+      ]
+    },
+    "study8_public_western_canada_evaluation": {
+      "folder_name": "study8_public_western_canada_evaluation",
+      "file_count": 26,
+      "file_types": [
+        ".tsv"
+      ],
+      "study_ids": [
+        "2.4A13",
+        "2.4A8",
+        "2.4A16",
+        "3A6",
+        "2.4A10",
+        "3A1",
+        "2.4A14",
+        "5A1",
+        "2.4A12",
+        "2.4A5",
+        "2.4A6",
+        "3A2",
+        "3A3",
+        "2.4A7",
+        "2.4A15",
+        "3.2A1",
+        "2.4A1",
+        "2.4A3",
+        "3.5A1",
+        "3A4",
+        "2.4A9",
+        "2.4A17",
+        "3A5",
+        "2.4A4",
+        "2.4A2",
+        "2.4A11"
+      ],
+      "measurement_types": [
+        "rres_nmr",
+        "rres_spad",
+        "rres_harvest",
+        "plant_development",
+        "fames",
+        "rres_handypea",
+        "rres_straw_dm",
+        "rres_height_and_width",
+        "rres_rwc",
+        "unibo_agronomic",
+        "flowering_traits",
+        "enzyme_profiles",
+        "inrae_agronomic_traits",
+        "rres_yield_dm",
+        "genetic_analysis",
+        "field_trials",
+        "redox_status_analysis",
+        "rres_licor_photosynthesis",
+        "seed_traits",
+        "rres_licor_fluorescence",
+        "cce_agronomic",
+        "inrae_pigments",
+        "inrae_licor",
+        "inrae_fames",
+        "fatty_acid_profiling",
+        "early_emergence"
+      ]
+    },
+    "study7_public_usda_phenotypic_examination": {
+      "folder_name": "study7_public_usda_phenotypic_examination",
+      "file_count": 25,
+      "file_types": [
+        ".tsv"
+      ],
+      "study_ids": [
+        "2.4A13",
+        "2.4A8",
+        "2.4A16",
+        "3A6",
+        "2.4A10",
+        "3A1",
+        "2.4A14",
+        "2.4A12",
+        "2.4A5",
+        "2.4A6",
+        "3A2",
+        "3A3",
+        "2.4A7",
+        "2.4A15",
+        "3.2A1",
+        "2.4A1",
+        "2.4A3",
+        "3.5A1",
+        "3A4",
+        "2.4A9",
+        "2.4A17",
+        "3A5",
+        "2.4A4",
+        "2.4A2",
+        "2.4A11"
+      ],
+      "measurement_types": [
+        "rres_nmr",
+        "rres_spad",
+        "rres_harvest",
+        "plant_development",
+        "fames",
+        "rres_handypea",
+        "rres_straw_dm",
+        "rres_height_and_width",
+        "rres_rwc",
+        "unibo_agronomic",
+        "flowering_traits",
+        "enzyme_profiles",
+        "inrae_agronomic_traits",
+        "rres_yield_dm",
+        "genetic_analysis",
+        "redox_status_analysis",
+        "rres_licor_photosynthesis",
+        "seed_traits",
+        "rres_licor_fluorescence",
+        "cce_agronomic",
+        "inrae_pigments",
+        "inrae_licor",
+        "inrae_fames",
+        "fatty_acid_profiling",
+        "early_emergence"
+      ]
+    }
+  },
+  "research_institutes": {
+    "AIT": {
+      "name": "Austrian Institute of Technology GmbH",
+      "city": "Seibersdorf",
+      "country": "Austria",
+      "coordinates": {
+        "latitude": 47.97941022497,
+        "longitude": 16.50465871665
+      },
+      "website": "https://www.ait.ac.at/"
+    },
+    "INRAE": {
+      "name": "Institut national de la recherche agronomique",
+      "city": "Bordeaux",
+      "country": "France",
+      "coordinates": {
+        "latitude": 43.25044089046,
+        "longitude": -0.520038126963
+      },
+      "website": "https://www.inrae.fr/"
+    },
+    "RRES": {
+      "name": "Rothamsted Research",
+      "city": "Harpenden",
+      "country": "United Kingdom",
+      "coordinates": {
+        "latitude": 51.80906958406,
+        "longitude": -0.3565596310194
+      },
+      "website": "https://www.rothamsted.ac.uk/"
+    },
+    "FZJ": {
+      "name": "Forschungszentrum Juelich",
+      "city": "J\u00fclich",
+      "country": "Germany",
+      "coordinates": {
+        "latitude": 50.905559028267,
+        "longitude": 6.4132615796119
+      },
+      "website": "https://www.fz-juelich.de/de"
+    },
+    "UNIBO": {
+      "name": "University of Bologna",
+      "city": "Bologna",
+      "country": "Italy",
+      "coordinates": {
+        "latitude": 44.49774296719,
+        "longitude": 11.353461089373
+      },
+      "website": "https://www.unibo.it/en"
+    },
+    "CCE": {
+      "name": "Camelina Company",
+      "city": "Madrid",
+      "country": "Spain",
+      "coordinates": {
+        "latitude": 40.635882580877,
+        "longitude": -3.5189061439046
+      },
+      "website": "https://camelinacompany.es/?lang=en_ES"
+    },
+    "INI": {
+      "name": "Iniciativas Innovadoras",
+      "city": "Zizur Mayor",
+      "country": "Spain",
+      "coordinates": {
+        "latitude": 42.788781290896,
+        "longitude": -1.6905272107461
+      },
+      "website": "https://www.iniciativas-innovadoras.es/en"
+    },
+    "RTDS": {
+      "name": "RTDS Group",
+      "city": "Austria",
+      "country": "Austria",
+      "coordinates": {
+        "latitude": 48.209730677078,
+        "longitude": 16.345461671049
+      },
+      "website": "https://www.rtds-group.com/"
+    }
+  },
+  "database_schema": {
+    "core_tables": {
+      "studies": {
+        "primary_key": "study_id",
+        "fields": [
+          "title",
+          "species",
+          "environmental_conditions",
+          "institutes",
+          "geographic_region"
+        ],
+        "description": "Main study information and experimental design"
+      },
+      "subjects": {
+        "primary_key": "subject_id",
+        "fields": [
+          "genotype",
+          "accession",
+          "study_id",
+          "treatment_conditions"
+        ],
+        "description": "Individual plant subjects and their genetic/treatment information"
+      },
+      "measurements": {
+        "primary_key": "measurement_id",
+        "fields": [
+          "subject_id",
+          "trait_name",
+          "value",
+          "unit",
+          "measurement_date",
+          "tissue_type"
+        ],
+        "description": "Individual trait measurements with metadata"
+      },
+      "environmental_conditions": {
+        "primary_key": "condition_id",
+        "fields": [
+          "study_id",
+          "temperature",
+          "water_availability",
+          "stress_type",
+          "location"
+        ],
+        "description": "Environmental conditions for each study"
+      },
+      "traits": {
+        "primary_key": "trait_id",
+        "fields": [
+          "trait_name",
+          "category",
+          "adaptation_relevance",
+          "measurement_method"
+        ],
+        "description": "Trait definitions and categorizations"
+      }
+    },
+    "relationships": {
+      "studies_to_subjects": "one_to_many",
+      "subjects_to_measurements": "one_to_many",
+      "studies_to_conditions": "one_to_many",
+      "measurements_to_traits": "many_to_one"
+    }
+  },
+  "analysis_recommendations": {
+    "environmental_adaptation_analyses": {
+      "stress_response_comparison": {
+        "description": "Compare trait values under stress vs optimal conditions",
+        "relevant_studies": [
+          "study1",
+          "study3",
+          "study4"
+        ],
+        "key_traits": [
+          "water_relations",
+          "stress_metabolites",
+          "photosynthesis"
+        ],
+        "statistical_approach": "ANOVA, PCA, clustering",
+        "expected_outcomes": "Identification of stress-tolerant genotypes"
+      },
+      "geographic_adaptation": {
+        "description": "Analyze adaptation patterns across different geographic regions",
+        "relevant_studies": [
+          "study8",
+          "study9",
+          "study10"
+        ],
+        "key_traits": [
+          "agronomic_performance",
+          "biochemical_adaptation"
+        ],
+        "statistical_approach": "Geographic clustering, environmental correlation",
+        "expected_outcomes": "Region-specific adaptation patterns"
+      },
+      "multi_environment_stability": {
+        "description": "Assess genotype \u00d7 environment interactions",
+        "relevant_studies": [
+          "study2",
+          "study4"
+        ],
+        "key_traits": [
+          "yield_components",
+          "physiological_adaptation"
+        ],
+        "statistical_approach": "GxE analysis, stability indices",
+        "expected_outcomes": "Stable high-performing genotypes"
+      }
+    },
+    "visualization_suggestions": {
+      "stress_tolerance_dashboard": {
+        "description": "Interactive plots showing trait responses to different stress conditions",
+        "chart_types": [
+          "heatmap",
+          "scatter_plot",
+          "box_plot"
+        ],
+        "interactivity": [
+          "filter_by_genotype",
+          "select_stress_type",
+          "compare_studies"
+        ]
+      },
+      "geographic_adaptation_map": {
+        "description": "Map visualization of trait values across different regions",
+        "chart_types": [
+          "choropleth_map",
+          "point_map",
+          "heatmap_overlay"
+        ],
+        "interactivity": [
+          "zoom_to_region",
+          "select_trait",
+          "temporal_slider"
+        ]
+      },
+      "trait_correlation_network": {
+        "description": "Network analysis of trait relationships under different environments",
+        "chart_types": [
+          "network_graph",
+          "chord_diagram",
+          "correlation_matrix"
+        ],
+        "interactivity": [
+          "node_selection",
+          "edge_filtering",
+          "community_detection"
+        ]
+      }
+    }
+  },
+  "web_integration_endpoints": {
+    "api_structure": {
+      "base_url": "/api/v1/camelina",
+      "endpoints": {
+        "/studies": "GET all studies or specific study details",
+        "/studies/{id}/measurements": "GET measurements for a specific study",
+        "/traits": "GET all traits or filter by category",
+        "/subjects/{id}": "GET individual subject data",
+        "/analysis/stress-response": "POST request for stress response analysis",
+        "/analysis/geographic": "POST request for geographic adaptation analysis",
+        "/export/fam": "GET FAM format files for genetic analysis",
+        "/export/csv": "GET CSV format for general analysis"
+      }
+    },
+    "data_formats": {
+      "json": "Standard API responses",
+      "csv": "Tabular data export",
+      "fam": "Genetic analysis format",
+      "geojson": "Geographic data with traits"
+    },
+    "frontend_components": {
+      "study_browser": "Browse and filter studies",
+      "trait_explorer": "Interactive trait analysis",
+      "map_viewer": "Geographic trait visualization",
+      "comparison_tool": "Compare genotypes across conditions",
+      "export_manager": "Data download and export"
+    }
+  },
+  "summary_statistics": {
+    "data_volume": {
+      "total_studies": 11,
+      "total_datasets": 278,
+      "total_measurements": 156469,
+      "research_institutes": 8,
+      "environmental_contexts": 4,
+      "trait_categories": 4
+    },
+    "study_distribution": {
+      "untwist_studies": 6,
+      "public_studies": 5,
+      "controlled_studies": 2,
+      "field_studies": 1,
+      "stress_studies": 1
+    },
+    "adaptation_focus": {
+      "drought_tolerance_studies": 2,
+      "heat_tolerance_studies": 2,
+      "geographic_adaptation_studies": 4
+    }
+  }
+}

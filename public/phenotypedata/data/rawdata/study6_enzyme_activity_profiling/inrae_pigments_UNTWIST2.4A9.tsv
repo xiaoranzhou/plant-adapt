@@ -1,0 +1,321 @@
+subject	variable	value	sample_plant_anatomical_entity	sample_collection_date	sample_institute	sample_city	sample_country	sample_associated_interval	sample_associated_factor
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT4	chlorophyll (fluorescence units)	31.583	Leaf		INRAE		France		Stressed
+UNT4	chlorophyll (fluorescence units)	28.4866	Leaf		INRAE		France		Stressed
+UNT4	chlorophyll (fluorescence units)	30.4488	Leaf		INRAE		France		Stressed
+UNT4	chlorophyll (fluorescence units)	28.602	Leaf		INRAE		France		Stressed
+UNT18	chlorophyll (fluorescence units)	29.3109	Leaf		INRAE		France		Stressed
+UNT18	chlorophyll (fluorescence units)	29.9615	Leaf		INRAE		France		Stressed
+UNT18	chlorophyll (fluorescence units)	30.9014	Leaf		INRAE		France		Stressed
+UNT18	chlorophyll (fluorescence units)	30.0958	Leaf		INRAE		France		Stressed
+UNT21	chlorophyll (fluorescence units)	28.0202	Leaf		INRAE		France		Stressed
+UNT21	chlorophyll (fluorescence units)	30.6732	Leaf		INRAE		France		Stressed
+UNT21	chlorophyll (fluorescence units)	28.4392	Leaf		INRAE		France		Stressed
+UNT21	chlorophyll (fluorescence units)	25.7085	Leaf		INRAE		France		Stressed
+UNT46	chlorophyll (fluorescence units)	31.123	Leaf		INRAE		France		Stressed
+UNT46	chlorophyll (fluorescence units)	28.2855	Leaf		INRAE		France		Stressed
+UNT46	chlorophyll (fluorescence units)	30.53	Leaf		INRAE		France		Stressed
+UNT46	chlorophyll (fluorescence units)	25.9398	Leaf		INRAE		France		Stressed
+UNT4	flavonoid (fluorescence units)	1.1664	Leaf		INRAE		France		Stressed
+UNT4	flavonoid (fluorescence units)	1.0859	Leaf		INRAE		France		Stressed
+UNT4	flavonoid (fluorescence units)	1.0507	Leaf		INRAE		France		Stressed
+UNT4	flavonoid (fluorescence units)	1.1546	Leaf		INRAE		France		Stressed
+UNT18	flavonoid (fluorescence units)	1.0454	Leaf		INRAE		France		Stressed
+UNT18	flavonoid (fluorescence units)	1.0131	Leaf		INRAE		France		Stressed
+UNT18	flavonoid (fluorescence units)	0.9907	Leaf		INRAE		France		Stressed
+UNT18	flavonoid (fluorescence units)	1.0691	Leaf		INRAE		France		Stressed
+UNT21	flavonoid (fluorescence units)	1.2145	Leaf		INRAE		France		Stressed
+UNT21	flavonoid (fluorescence units)	1.1199	Leaf		INRAE		France		Stressed
+UNT21	flavonoid (fluorescence units)	1.1909	Leaf		INRAE		France		Stressed
+UNT21	flavonoid (fluorescence units)	1.1925	Leaf		INRAE		France		Stressed
+UNT46	flavonoid (fluorescence units)	0.99	Leaf		INRAE		France		Stressed
+UNT46	flavonoid (fluorescence units)	1.0469	Leaf		INRAE		France		Stressed
+UNT46	flavonoid (fluorescence units)	1.1115	Leaf		INRAE		France		Stressed
+UNT46	flavonoid (fluorescence units)	1.2425	Leaf		INRAE		France		Stressed
+UNT4	anthocyanin (fluorescence units)	0.1767	Leaf		INRAE		France		Stressed
+UNT4	anthocyanin (fluorescence units)	0.1883	Leaf		INRAE		France		Stressed
+UNT4	anthocyanin (fluorescence units)	0.1615	Leaf		INRAE		France		Stressed
+UNT4	anthocyanin (fluorescence units)	0.1751	Leaf		INRAE		France		Stressed
+UNT18	anthocyanin (fluorescence units)	0.1543	Leaf		INRAE		France		Stressed
+UNT18	anthocyanin (fluorescence units)	0.1449	Leaf		INRAE		France		Stressed
+UNT18	anthocyanin (fluorescence units)	0.1764	Leaf		INRAE		France		Stressed
+UNT18	anthocyanin (fluorescence units)	0.1817	Leaf		INRAE		France		Stressed
+UNT21	anthocyanin (fluorescence units)	0.1644	Leaf		INRAE		France		Stressed
+UNT21	anthocyanin (fluorescence units)	0.1758	Leaf		INRAE		France		Stressed
+UNT21	anthocyanin (fluorescence units)	0.1767	Leaf		INRAE		France		Stressed
+UNT21	anthocyanin (fluorescence units)	0.1852	Leaf		INRAE		France		Stressed
+UNT46	anthocyanin (fluorescence units)	0.1638	Leaf		INRAE		France		Stressed
+UNT46	anthocyanin (fluorescence units)	0.163	Leaf		INRAE		France		Stressed
+UNT46	anthocyanin (fluorescence units)	0.1835	Leaf		INRAE		France		Stressed
+UNT46	anthocyanin (fluorescence units)	0.1917	Leaf		INRAE		France		Stressed
+UNT4	nitrogen balanced index (nbi)	27.367	Leaf		INRAE		France		Stressed
+UNT4	nitrogen balanced index (nbi)	27.29	Leaf		INRAE		France		Stressed
+UNT4	nitrogen balanced index (nbi)	29.689	Leaf		INRAE		France		Stressed
+UNT4	nitrogen balanced index (nbi)	25.368	Leaf		INRAE		France		Stressed
+UNT18	nitrogen balanced index (nbi)	28.216	Leaf		INRAE		France		Stressed
+UNT18	nitrogen balanced index (nbi)	30.12	Leaf		INRAE		France		Stressed
+UNT18	nitrogen balanced index (nbi)	31.508	Leaf		INRAE		France		Stressed
+UNT18	nitrogen balanced index (nbi)	28.73	Leaf		INRAE		France		Stressed
+UNT21	nitrogen balanced index (nbi)	23.861	Leaf		INRAE		France		Stressed
+UNT21	nitrogen balanced index (nbi)	28.103	Leaf		INRAE		France		Stressed
+UNT21	nitrogen balanced index (nbi)	24.036	Leaf		INRAE		France		Stressed
+UNT21	nitrogen balanced index (nbi)	21.909	Leaf		INRAE		France		Stressed
+UNT46	nitrogen balanced index (nbi)	32.635	Leaf		INRAE		France		Stressed
+UNT46	nitrogen balanced index (nbi)	27.815	Leaf		INRAE		France		Stressed
+UNT46	nitrogen balanced index (nbi)	28.144	Leaf		INRAE		France		Stressed
+UNT46	nitrogen balanced index (nbi)	21.259	Leaf		INRAE		France		Stressed
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT4	chlorophyll (fluorescence units)	32.6036	Leaf		INRAE		France		Optimal
+UNT4	chlorophyll (fluorescence units)	32.3323	Leaf		INRAE		France		Optimal
+UNT4	chlorophyll (fluorescence units)	30.8579	Leaf		INRAE		France		Optimal
+UNT4	chlorophyll (fluorescence units)	31.9163	Leaf		INRAE		France		Optimal
+UNT18	chlorophyll (fluorescence units)	31.2265	Leaf		INRAE		France		Optimal
+UNT18	chlorophyll (fluorescence units)	31.955	Leaf		INRAE		France		Optimal
+UNT18	chlorophyll (fluorescence units)	32.475125	Leaf		INRAE		France		Optimal
+UNT18	chlorophyll (fluorescence units)	31.595	Leaf		INRAE		France		Optimal
+UNT21	chlorophyll (fluorescence units)	31.4695	Leaf		INRAE		France		Optimal
+UNT21	chlorophyll (fluorescence units)	27.7941	Leaf		INRAE		France		Optimal
+UNT21	chlorophyll (fluorescence units)	29.9117	Leaf		INRAE		France		Optimal
+UNT21	chlorophyll (fluorescence units)	32.3553	Leaf		INRAE		France		Optimal
+UNT46	chlorophyll (fluorescence units)	30.5643	Leaf		INRAE		France		Optimal
+UNT46	chlorophyll (fluorescence units)	31.1848	Leaf		INRAE		France		Optimal
+UNT46	chlorophyll (fluorescence units)	26.5814	Leaf		INRAE		France		Optimal
+UNT46	chlorophyll (fluorescence units)	30.2445	Leaf		INRAE		France		Optimal
+UNT4	flavonoid (fluorescence units)	1.2154	Leaf		INRAE		France		Optimal
+UNT4	flavonoid (fluorescence units)	1.3143	Leaf		INRAE		France		Optimal
+UNT4	flavonoid (fluorescence units)	1.3913	Leaf		INRAE		France		Optimal
+UNT4	flavonoid (fluorescence units)	1.1739	Leaf		INRAE		France		Optimal
+UNT18	flavonoid (fluorescence units)	1.1836	Leaf		INRAE		France		Optimal
+UNT18	flavonoid (fluorescence units)	1.2758	Leaf		INRAE		France		Optimal
+UNT18	flavonoid (fluorescence units)	1.294875	Leaf		INRAE		France		Optimal
+UNT18	flavonoid (fluorescence units)	1.3788	Leaf		INRAE		France		Optimal
+UNT21	flavonoid (fluorescence units)	1.2365	Leaf		INRAE		France		Optimal
+UNT21	flavonoid (fluorescence units)	1.4213	Leaf		INRAE		France		Optimal
+UNT21	flavonoid (fluorescence units)	1.2737	Leaf		INRAE		France		Optimal
+UNT21	flavonoid (fluorescence units)	1.1565	Leaf		INRAE		France		Optimal
+UNT46	flavonoid (fluorescence units)	1.2444	Leaf		INRAE		France		Optimal
+UNT46	flavonoid (fluorescence units)	1.1748	Leaf		INRAE		France		Optimal
+UNT46	flavonoid (fluorescence units)	1.3374	Leaf		INRAE		France		Optimal
+UNT46	flavonoid (fluorescence units)	1.3242	Leaf		INRAE		France		Optimal
+UNT4	anthocyanin (fluorescence units)	0.2446	Leaf		INRAE		France		Optimal
+UNT4	anthocyanin (fluorescence units)	0.201	Leaf		INRAE		France		Optimal
+UNT4	anthocyanin (fluorescence units)	0.2564	Leaf		INRAE		France		Optimal
+UNT4	anthocyanin (fluorescence units)	0.1684	Leaf		INRAE		France		Optimal
+UNT18	anthocyanin (fluorescence units)	0.2423	Leaf		INRAE		France		Optimal
+UNT18	anthocyanin (fluorescence units)	0.2504	Leaf		INRAE		France		Optimal
+UNT18	anthocyanin (fluorescence units)	0.250375	Leaf		INRAE		France		Optimal
+UNT18	anthocyanin (fluorescence units)	0.2133	Leaf		INRAE		France		Optimal
+UNT21	anthocyanin (fluorescence units)	0.2553	Leaf		INRAE		France		Optimal
+UNT21	anthocyanin (fluorescence units)	0.266	Leaf		INRAE		France		Optimal
+UNT21	anthocyanin (fluorescence units)	0.265	Leaf		INRAE		France		Optimal
+UNT21	anthocyanin (fluorescence units)	0.2209	Leaf		INRAE		France		Optimal
+UNT46	anthocyanin (fluorescence units)	0.184	Leaf		INRAE		France		Optimal
+UNT46	anthocyanin (fluorescence units)	0.2358	Leaf		INRAE		France		Optimal
+UNT46	anthocyanin (fluorescence units)	0.2518	Leaf		INRAE		France		Optimal
+UNT46	anthocyanin (fluorescence units)	0.2518	Leaf		INRAE		France		Optimal
+UNT4	nitrogen balanced index (nbi)	27.345	Leaf		INRAE		France		Optimal
+UNT4	nitrogen balanced index (nbi)	25.239	Leaf		INRAE		France		Optimal
+UNT4	nitrogen balanced index (nbi)	22.437	Leaf		INRAE		France		Optimal
+UNT4	nitrogen balanced index (nbi)	27.604	Leaf		INRAE		France		Optimal
+UNT18	nitrogen balanced index (nbi)	26.814	Leaf		INRAE		France		Optimal
+UNT18	nitrogen balanced index (nbi)	25.482	Leaf		INRAE		France		Optimal
+UNT18	nitrogen balanced index (nbi)	25.0875	Leaf		INRAE		France		Optimal
+UNT18	nitrogen balanced index (nbi)	23.28	Leaf		INRAE		France		Optimal
+UNT21	nitrogen balanced index (nbi)	25.9	Leaf		INRAE		France		Optimal
+UNT21	nitrogen balanced index (nbi)	20.19	Leaf		INRAE		France		Optimal
+UNT21	nitrogen balanced index (nbi)	23.77	Leaf		INRAE		France		Optimal
+UNT21	nitrogen balanced index (nbi)	28.852	Leaf		INRAE		France		Optimal
+UNT46	nitrogen balanced index (nbi)	25.203	Leaf		INRAE		France		Optimal
+UNT46	nitrogen balanced index (nbi)	26.627	Leaf		INRAE		France		Optimal
+UNT46	nitrogen balanced index (nbi)	20.437	Leaf		INRAE		France		Optimal
+UNT46	nitrogen balanced index (nbi)	22.926	Leaf		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Stressed
+UNT4	chlorophyll (fluorescence units)	30.7107	Leaf		INRAE		France		Stressed
+UNT4	chlorophyll (fluorescence units)	32.3763	Leaf		INRAE		France		Stressed
+UNT4	chlorophyll (fluorescence units)	31.6352222222222	Leaf		INRAE		France		Stressed
+UNT4	chlorophyll (fluorescence units)	32.4264	Leaf		INRAE		France		Stressed
+UNT18	chlorophyll (fluorescence units)	32.9461	Leaf		INRAE		France		Stressed
+UNT18	chlorophyll (fluorescence units)	30.0755	Leaf		INRAE		France		Stressed
+UNT18	chlorophyll (fluorescence units)	29.6237	Leaf		INRAE		France		Stressed
+UNT18	chlorophyll (fluorescence units)	31.6709	Leaf		INRAE		France		Stressed
+UNT21	chlorophyll (fluorescence units)	30.038	Leaf		INRAE		France		Stressed
+UNT21	chlorophyll (fluorescence units)	29.493	Leaf		INRAE		France		Stressed
+UNT21	chlorophyll (fluorescence units)	27.3846	Leaf		INRAE		France		Stressed
+UNT21	chlorophyll (fluorescence units)	28.9553333333333	Leaf		INRAE		France		Stressed
+UNT46	chlorophyll (fluorescence units)	29.0937777777778	Leaf		INRAE		France		Stressed
+UNT46	chlorophyll (fluorescence units)	28.8342	Leaf		INRAE		France		Stressed
+UNT46	chlorophyll (fluorescence units)	27.8159	Leaf		INRAE		France		Stressed
+UNT46	chlorophyll (fluorescence units)	28.7536	Leaf		INRAE		France		Stressed
+UNT4	flavonoid (fluorescence units)	0.988444444444444	Leaf		INRAE		France		Stressed
+UNT4	flavonoid (fluorescence units)	1.0395	Leaf		INRAE		France		Stressed
+UNT4	flavonoid (fluorescence units)	1.08244444444444	Leaf		INRAE		France		Stressed
+UNT4	flavonoid (fluorescence units)	1.09077777777778	Leaf		INRAE		France		Stressed
+UNT18	flavonoid (fluorescence units)	1.00577777777778	Leaf		INRAE		France		Stressed
+UNT18	flavonoid (fluorescence units)	1.0211	Leaf		INRAE		France		Stressed
+UNT18	flavonoid (fluorescence units)	1.0176	Leaf		INRAE		France		Stressed
+UNT18	flavonoid (fluorescence units)	1.1663	Leaf		INRAE		France		Stressed
+UNT21	flavonoid (fluorescence units)	1.0665	Leaf		INRAE		France		Stressed
+UNT21	flavonoid (fluorescence units)	1.0663	Leaf		INRAE		France		Stressed
+UNT21	flavonoid (fluorescence units)	1.05966666666667	Leaf		INRAE		France		Stressed
+UNT21	flavonoid (fluorescence units)	1.10575	Leaf		INRAE		France		Stressed
+UNT46	flavonoid (fluorescence units)	0.9357	Leaf		INRAE		France		Stressed
+UNT46	flavonoid (fluorescence units)	1.0437	Leaf		INRAE		France		Stressed
+UNT46	flavonoid (fluorescence units)	0.941777777777778	Leaf		INRAE		France		Stressed
+UNT46	flavonoid (fluorescence units)	1.0025	Leaf		INRAE		France		Stressed
+UNT4	anthocyanin (fluorescence units)	0.4519	Leaf		INRAE		France		Stressed
+UNT4	anthocyanin (fluorescence units)	0.1399	Leaf		INRAE		France		Stressed
+UNT4	anthocyanin (fluorescence units)	0.282	Leaf		INRAE		France		Stressed
+UNT4	anthocyanin (fluorescence units)	0.1221	Leaf		INRAE		France		Stressed
+UNT18	anthocyanin (fluorescence units)	0.1981	Leaf		INRAE		France		Stressed
+UNT18	anthocyanin (fluorescence units)	0.4474	Leaf		INRAE		France		Stressed
+UNT18	anthocyanin (fluorescence units)	0.1709	Leaf		INRAE		France		Stressed
+UNT18	anthocyanin (fluorescence units)	0.3422	Leaf		INRAE		France		Stressed
+UNT21	anthocyanin (fluorescence units)	0.184	Leaf		INRAE		France		Stressed
+UNT21	anthocyanin (fluorescence units)	0.2455	Leaf		INRAE		France		Stressed
+UNT21	anthocyanin (fluorescence units)	0.4609	Leaf		INRAE		France		Stressed
+UNT21	anthocyanin (fluorescence units)	0.442555555555556	Leaf		INRAE		France		Stressed
+UNT46	anthocyanin (fluorescence units)	0.173	Leaf		INRAE		France		Stressed
+UNT46	anthocyanin (fluorescence units)	0.4447	Leaf		INRAE		France		Stressed
+UNT46	anthocyanin (fluorescence units)	0.113666666666667	Leaf		INRAE		France		Stressed
+UNT46	anthocyanin (fluorescence units)	0.1697	Leaf		INRAE		France		Stressed
+UNT4	nitrogen balanced index (nbi)	31.1033333333333	Leaf		INRAE		France		Stressed
+UNT4	nitrogen balanced index (nbi)	31.607	Leaf		INRAE		France		Stressed
+UNT4	nitrogen balanced index (nbi)	29.7744444444444	Leaf		INRAE		France		Stressed
+UNT4	nitrogen balanced index (nbi)	30.6011111111111	Leaf		INRAE		France		Stressed
+UNT18	nitrogen balanced index (nbi)	33.2733333333333	Leaf		INRAE		France		Stressed
+UNT18	nitrogen balanced index (nbi)	29.814	Leaf		INRAE		France		Stressed
+UNT18	nitrogen balanced index (nbi)	29.476	Leaf		INRAE		France		Stressed
+UNT18	nitrogen balanced index (nbi)	27.198	Leaf		INRAE		France		Stressed
+UNT21	nitrogen balanced index (nbi)	28.462	Leaf		INRAE		France		Stressed
+UNT21	nitrogen balanced index (nbi)	27.944	Leaf		INRAE		France		Stressed
+UNT21	nitrogen balanced index (nbi)	25.8577777777778	Leaf		INRAE		France		Stressed
+UNT21	nitrogen balanced index (nbi)	25.925	Leaf		INRAE		France		Stressed
+UNT46	nitrogen balanced index (nbi)	31.0111111111111	Leaf		INRAE		France		Stressed
+UNT46	nitrogen balanced index (nbi)	27.634	Leaf		INRAE		France		Stressed
+UNT46	nitrogen balanced index (nbi)	29.9688888888889	Leaf		INRAE		France		Stressed
+UNT46	nitrogen balanced index (nbi)	28.696	Leaf		INRAE		France		Stressed
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Leaf	Leaf		INRAE		France		Optimal
+UNT4	chlorophyll (fluorescence units)	29.3705	Leaf		INRAE		France		Optimal
+UNT4	chlorophyll (fluorescence units)	30.35175	Leaf		INRAE		France		Optimal
+UNT4	chlorophyll (fluorescence units)	32.7247	Leaf		INRAE		France		Optimal
+UNT4	chlorophyll (fluorescence units)	33.1265	Leaf		INRAE		France		Optimal
+UNT18	chlorophyll (fluorescence units)	33.1597	Leaf		INRAE		France		Optimal
+UNT18	chlorophyll (fluorescence units)	28.0114	Leaf		INRAE		France		Optimal
+UNT18	chlorophyll (fluorescence units)	33.3373333333333	Leaf		INRAE		France		Optimal
+UNT18	chlorophyll (fluorescence units)	29.8844	Leaf		INRAE		France		Optimal
+UNT21	chlorophyll (fluorescence units)	28.0788	Leaf		INRAE		France		Optimal
+UNT21	chlorophyll (fluorescence units)	30.5831	Leaf		INRAE		France		Optimal
+UNT21	chlorophyll (fluorescence units)	29.3746	Leaf		INRAE		France		Optimal
+UNT21	chlorophyll (fluorescence units)	30.4941	Leaf		INRAE		France		Optimal
+UNT46	chlorophyll (fluorescence units)	29.846	Leaf		INRAE		France		Optimal
+UNT46	chlorophyll (fluorescence units)	29.9385	Leaf		INRAE		France		Optimal
+UNT46	chlorophyll (fluorescence units)	29.0325	Leaf		INRAE		France		Optimal
+UNT46	chlorophyll (fluorescence units)	31.0171	Leaf		INRAE		France		Optimal
+UNT4	flavonoid (fluorescence units)	1.44711111111111	Leaf		INRAE		France		Optimal
+UNT4	flavonoid (fluorescence units)	1.42822222222222	Leaf		INRAE		France		Optimal
+UNT4	flavonoid (fluorescence units)	1.43457142857143	Leaf		INRAE		France		Optimal
+UNT4	flavonoid (fluorescence units)	1.318	Leaf		INRAE		France		Optimal
+UNT18	flavonoid (fluorescence units)	1.44533333333333	Leaf		INRAE		France		Optimal
+UNT18	flavonoid (fluorescence units)	1.3769	Leaf		INRAE		France		Optimal
+UNT18	flavonoid (fluorescence units)	1.30133333333333	Leaf		INRAE		France		Optimal
+UNT18	flavonoid (fluorescence units)	1.35914285714286	Leaf		INRAE		France		Optimal
+UNT21	flavonoid (fluorescence units)	1.37666666666667	Leaf		INRAE		France		Optimal
+UNT21	flavonoid (fluorescence units)	1.331	Leaf		INRAE		France		Optimal
+UNT21	flavonoid (fluorescence units)	1.4899	Leaf		INRAE		France		Optimal
+UNT21	flavonoid (fluorescence units)	1.4714	Leaf		INRAE		France		Optimal
+UNT46	flavonoid (fluorescence units)	1.538625	Leaf		INRAE		France		Optimal
+UNT46	flavonoid (fluorescence units)	1.60166666666667	Leaf		INRAE		France		Optimal
+UNT46	flavonoid (fluorescence units)	1.39488888888889	Leaf		INRAE		France		Optimal
+UNT46	flavonoid (fluorescence units)	1.476875	Leaf		INRAE		France		Optimal
+UNT4	anthocyanin (fluorescence units)	0.3316	Leaf		INRAE		France		Optimal
+UNT4	anthocyanin (fluorescence units)	0.301111111111111	Leaf		INRAE		France		Optimal
+UNT4	anthocyanin (fluorescence units)	0.296333333333333	Leaf		INRAE		France		Optimal
+UNT4	anthocyanin (fluorescence units)	0.2838	Leaf		INRAE		France		Optimal
+UNT18	anthocyanin (fluorescence units)	0.293666666666667	Leaf		INRAE		France		Optimal
+UNT18	anthocyanin (fluorescence units)	0.3018	Leaf		INRAE		France		Optimal
+UNT18	anthocyanin (fluorescence units)	0.2831	Leaf		INRAE		France		Optimal
+UNT18	anthocyanin (fluorescence units)	0.294857142857143	Leaf		INRAE		France		Optimal
+UNT21	anthocyanin (fluorescence units)	0.321333333333333	Leaf		INRAE		France		Optimal
+UNT21	anthocyanin (fluorescence units)	0.290777777777778	Leaf		INRAE		France		Optimal
+UNT21	anthocyanin (fluorescence units)	0.3096	Leaf		INRAE		France		Optimal
+UNT21	anthocyanin (fluorescence units)	0.3074	Leaf		INRAE		France		Optimal
+UNT46	anthocyanin (fluorescence units)	0.297222222222222	Leaf		INRAE		France		Optimal
+UNT46	anthocyanin (fluorescence units)	0.2954	Leaf		INRAE		France		Optimal
+UNT46	anthocyanin (fluorescence units)	0.307	Leaf		INRAE		France		Optimal
+UNT46	anthocyanin (fluorescence units)	0.3075	Leaf		INRAE		France		Optimal
+UNT4	nitrogen balanced index (nbi)	20.3111111111111	Leaf		INRAE		France		Optimal
+UNT4	nitrogen balanced index (nbi)	21.3875	Leaf		INRAE		France		Optimal
+UNT4	nitrogen balanced index (nbi)	21.7457142857143	Leaf		INRAE		France		Optimal
+UNT4	nitrogen balanced index (nbi)	25.696	Leaf		INRAE		France		Optimal
+UNT18	nitrogen balanced index (nbi)	23.0555555555556	Leaf		INRAE		France		Optimal
+UNT18	nitrogen balanced index (nbi)	21.7233333333333	Leaf		INRAE		France		Optimal
+UNT18	nitrogen balanced index (nbi)	25.9077777777778	Leaf		INRAE		France		Optimal
+UNT18	nitrogen balanced index (nbi)	23.4771428571429	Leaf		INRAE		France		Optimal
+UNT21	nitrogen balanced index (nbi)	20.29	Leaf		INRAE		France		Optimal
+UNT21	nitrogen balanced index (nbi)	24.5433333333333	Leaf		INRAE		France		Optimal
+UNT21	nitrogen balanced index (nbi)	19.874	Leaf		INRAE		France		Optimal
+UNT21	nitrogen balanced index (nbi)	20.944	Leaf		INRAE		France		Optimal
+UNT46	nitrogen balanced index (nbi)	20.13	Leaf		INRAE		France		Optimal
+UNT46	nitrogen balanced index (nbi)	19.1433333333333	Leaf		INRAE		France		Optimal
+UNT46	nitrogen balanced index (nbi)	21.7366666666667	Leaf		INRAE		France		Optimal
+UNT46	nitrogen balanced index (nbi)	21.22375	Leaf		INRAE		France		Optimal

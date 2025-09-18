@@ -1,0 +1,2177 @@
+subject	variable	value	sample_plant_anatomical_entity	sample_collection_date	sample_institute	sample_city	sample_country	sample_associated_interval	sample_associated_factor
+UNT4	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT4	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT4	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT4	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT18	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT18	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT18	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT18	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT21	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT21	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT21	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT21	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT46	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT46	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT46	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT46	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT4	c16:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c16:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c16:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c16:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c16:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c16:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c16:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c16:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c16:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c16:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c16:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c16:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c16:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c16:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c16:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c16:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c16:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c16:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c16:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c16:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c16:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c16:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c16:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c16:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c16:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c16:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c16:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c16:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c16:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c16:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c16:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c16:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:2 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:3 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c24:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c24:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c24:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c24:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c24:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c24:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c24:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c24:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c24:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c24:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c24:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c24:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c24:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c24:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c24:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c24:0 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c24:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c24:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c24:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c24:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c24:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c24:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c24:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT18	c24:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c24:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c24:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c24:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT21	c24:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c24:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c24:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c24:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT46	c24:1 (mol % )	NaN	Seed		INRAE		France		Stressed
+UNT4	c16:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c16:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c16:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c16:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c16:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c16:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c16:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c16:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c16:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c16:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c16:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c16:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c16:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c16:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c16:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c16:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c16:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c16:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c16:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c16:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c16:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c16:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c16:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c16:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c16:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c16:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c16:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c16:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c16:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c16:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c16:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c16:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c18:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c18:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c18:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c18:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c20:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c20:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c20:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c20:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:2 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c22:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c22:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c22:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c22:3 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c24:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c24:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c24:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c24:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c24:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c24:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c24:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c24:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c24:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c24:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c24:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c24:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c24:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c24:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c24:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c24:0 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c24:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c24:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c24:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	c24:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c24:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c24:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c24:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT18	c24:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c24:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c24:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c24:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT21	c24:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c24:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c24:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c24:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT46	c24:1 (µg/mg )	NaN	Seed		INRAE		France		Stressed
+UNT4	total fa/mg (µg/mg  )	NaN	Seed		INRAE		France		Stressed
+UNT4	total fa/mg (µg/mg  )	NaN	Seed		INRAE		France		Stressed
+UNT4	total fa/mg (µg/mg  )	NaN	Seed		INRAE		France		Stressed
+UNT4	total fa/mg (µg/mg  )	NaN	Seed		INRAE		France		Stressed
+UNT18	total fa/mg (µg/mg  )	NaN	Seed		INRAE		France		Stressed
+UNT18	total fa/mg (µg/mg  )	NaN	Seed		INRAE		France		Stressed
+UNT18	total fa/mg (µg/mg  )	NaN	Seed		INRAE		France		Stressed
+UNT18	total fa/mg (µg/mg  )	NaN	Seed		INRAE		France		Stressed
+UNT21	total fa/mg (µg/mg  )	NaN	Seed		INRAE		France		Stressed
+UNT21	total fa/mg (µg/mg  )	NaN	Seed		INRAE		France		Stressed
+UNT21	total fa/mg (µg/mg  )	NaN	Seed		INRAE		France		Stressed
+UNT21	total fa/mg (µg/mg  )	NaN	Seed		INRAE		France		Stressed
+UNT46	total fa/mg (µg/mg  )	NaN	Seed		INRAE		France		Stressed
+UNT46	total fa/mg (µg/mg  )	NaN	Seed		INRAE		France		Stressed
+UNT46	total fa/mg (µg/mg  )	NaN	Seed		INRAE		France		Stressed
+UNT46	total fa/mg (µg/mg  )	NaN	Seed		INRAE		France		Stressed
+UNT4	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT4	c16:0 (mol % )	7.00300206334925	Seed		INRAE		France		Optimal
+UNT4	c16:0 (mol % )	7.01708480326498	Seed		INRAE		France		Optimal
+UNT4	c16:0 (mol % )	7.02181506223709	Seed		INRAE		France		Optimal
+UNT4	c16:0 (mol % )	6.92106510953192	Seed		INRAE		France		Optimal
+UNT18	c16:0 (mol % )	7.33142779630121	Seed		INRAE		France		Optimal
+UNT18	c16:0 (mol % )	7.27275423473993	Seed		INRAE		France		Optimal
+UNT18	c16:0 (mol % )	7.27432170599921	Seed		INRAE		France		Optimal
+UNT18	c16:0 (mol % )	7.38641901126271	Seed		INRAE		France		Optimal
+UNT21	c16:0 (mol % )	7.37248197520192	Seed		INRAE		France		Optimal
+UNT21	c16:0 (mol % )	7.28222680338046	Seed		INRAE		France		Optimal
+UNT21	c16:0 (mol % )	7.17961834036372	Seed		INRAE		France		Optimal
+UNT21	c16:0 (mol % )	7.36352025604017	Seed		INRAE		France		Optimal
+UNT46	c16:0 (mol % )	7.07594849103029	Seed		INRAE		France		Optimal
+UNT46	c16:0 (mol % )	7.08602380068215	Seed		INRAE		France		Optimal
+UNT46	c16:0 (mol % )	7.27834671235742	Seed		INRAE		France		Optimal
+UNT46	c16:0 (mol % )	7.08613575017965	Seed		INRAE		France		Optimal
+UNT4	c16:1 (mol % )	0.121623257399499	Seed		INRAE		France		Optimal
+UNT4	c16:1 (mol % )	0.120275470353055	Seed		INRAE		France		Optimal
+UNT4	c16:1 (mol % )	0.122349784439227	Seed		INRAE		France		Optimal
+UNT4	c16:1 (mol % )	0.122177862963382	Seed		INRAE		France		Optimal
+UNT18	c16:1 (mol % )	0.122690084392669	Seed		INRAE		France		Optimal
+UNT18	c16:1 (mol % )	0.127697818431411	Seed		INRAE		France		Optimal
+UNT18	c16:1 (mol % )	0.124251143995371	Seed		INRAE		France		Optimal
+UNT18	c16:1 (mol % )	0.128442105594397	Seed		INRAE		France		Optimal
+UNT21	c16:1 (mol % )	0.134650981248135	Seed		INRAE		France		Optimal
+UNT21	c16:1 (mol % )	0.130097139376188	Seed		INRAE		France		Optimal
+UNT21	c16:1 (mol % )	0.129138288994615	Seed		INRAE		France		Optimal
+UNT21	c16:1 (mol % )	0.122956826722599	Seed		INRAE		France		Optimal
+UNT46	c16:1 (mol % )	0.1176231430701	Seed		INRAE		France		Optimal
+UNT46	c16:1 (mol % )	0.123739344230629	Seed		INRAE		France		Optimal
+UNT46	c16:1 (mol % )	0.128573450476052	Seed		INRAE		France		Optimal
+UNT46	c16:1 (mol % )	0.127140711430278	Seed		INRAE		France		Optimal
+UNT4	c18:0 (mol % )	2.89981277070292	Seed		INRAE		France		Optimal
+UNT4	c18:0 (mol % )	2.91121085621976	Seed		INRAE		France		Optimal
+UNT4	c18:0 (mol % )	2.91736148072679	Seed		INRAE		France		Optimal
+UNT4	c18:0 (mol % )	2.8475581479502	Seed		INRAE		France		Optimal
+UNT18	c18:0 (mol % )	2.97590512349314	Seed		INRAE		France		Optimal
+UNT18	c18:0 (mol % )	2.885414537113	Seed		INRAE		France		Optimal
+UNT18	c18:0 (mol % )	3.02930072916654	Seed		INRAE		France		Optimal
+UNT18	c18:0 (mol % )	2.94396716426063	Seed		INRAE		France		Optimal
+UNT21	c18:0 (mol % )	2.6137434934203	Seed		INRAE		France		Optimal
+UNT21	c18:0 (mol % )	2.57669068603968	Seed		INRAE		France		Optimal
+UNT21	c18:0 (mol % )	2.58729816451837	Seed		INRAE		France		Optimal
+UNT21	c18:0 (mol % )	2.64101815771055	Seed		INRAE		France		Optimal
+UNT46	c18:0 (mol % )	2.55042286426572	Seed		INRAE		France		Optimal
+UNT46	c18:0 (mol % )	2.49273633702329	Seed		INRAE		France		Optimal
+UNT46	c18:0 (mol % )	2.48441670466177	Seed		INRAE		France		Optimal
+UNT46	c18:0 (mol % )	2.45625884104719	Seed		INRAE		France		Optimal
+UNT4	c18:1 (mol % )	18.0521962878145	Seed		INRAE		France		Optimal
+UNT4	c18:1 (mol % )	18.0370897533022	Seed		INRAE		France		Optimal
+UNT4	c18:1 (mol % )	18.0252846249951	Seed		INRAE		France		Optimal
+UNT4	c18:1 (mol % )	17.7254221803835	Seed		INRAE		France		Optimal
+UNT18	c18:1 (mol % )	17.2453842751062	Seed		INRAE		France		Optimal
+UNT18	c18:1 (mol % )	16.8521605189929	Seed		INRAE		France		Optimal
+UNT18	c18:1 (mol % )	17.8174320302241	Seed		INRAE		France		Optimal
+UNT18	c18:1 (mol % )	17.2015722295847	Seed		INRAE		France		Optimal
+UNT21	c18:1 (mol % )	19.7076788375895	Seed		INRAE		France		Optimal
+UNT21	c18:1 (mol % )	20.1542486178414	Seed		INRAE		France		Optimal
+UNT21	c18:1 (mol % )	21.0393376659709	Seed		INRAE		France		Optimal
+UNT21	c18:1 (mol % )	19.9101305114848	Seed		INRAE		France		Optimal
+UNT46	c18:1 (mol % )	18.7330016374354	Seed		INRAE		France		Optimal
+UNT46	c18:1 (mol % )	19.1462862398198	Seed		INRAE		France		Optimal
+UNT46	c18:1 (mol % )	18.9131538570295	Seed		INRAE		France		Optimal
+UNT46	c18:1 (mol % )	19.1046945303997	Seed		INRAE		France		Optimal
+UNT4	c18:2 (mol % )	19.3681603345691	Seed		INRAE		France		Optimal
+UNT4	c18:2 (mol % )	19.2854223823399	Seed		INRAE		France		Optimal
+UNT4	c18:2 (mol % )	19.4133163709089	Seed		INRAE		France		Optimal
+UNT4	c18:2 (mol % )	19.1618951412373	Seed		INRAE		France		Optimal
+UNT18	c18:2 (mol % )	20.5719264979228	Seed		INRAE		France		Optimal
+UNT18	c18:2 (mol % )	20.6433313334329	Seed		INRAE		France		Optimal
+UNT18	c18:2 (mol % )	21.2843684650501	Seed		INRAE		France		Optimal
+UNT18	c18:2 (mol % )	20.5929792518759	Seed		INRAE		France		Optimal
+UNT21	c18:2 (mol % )	19.6358044402149	Seed		INRAE		France		Optimal
+UNT21	c18:2 (mol % )	19.8075895072017	Seed		INRAE		France		Optimal
+UNT21	c18:2 (mol % )	19.3363564184283	Seed		INRAE		France		Optimal
+UNT21	c18:2 (mol % )	19.9459460159781	Seed		INRAE		France		Optimal
+UNT46	c18:2 (mol % )	19.976460783161	Seed		INRAE		France		Optimal
+UNT46	c18:2 (mol % )	20.3620839827042	Seed		INRAE		France		Optimal
+UNT46	c18:2 (mol % )	20.7479231335617	Seed		INRAE		France		Optimal
+UNT46	c18:2 (mol % )	20.3974838297375	Seed		INRAE		France		Optimal
+UNT4	c18:3 (mol % )	29.5843223798549	Seed		INRAE		France		Optimal
+UNT4	c18:3 (mol % )	29.6426452090035	Seed		INRAE		France		Optimal
+UNT4	c18:3 (mol % )	29.5500298909203	Seed		INRAE		France		Optimal
+UNT4	c18:3 (mol % )	29.9736211847206	Seed		INRAE		France		Optimal
+UNT18	c18:3 (mol % )	28.4632147347505	Seed		INRAE		France		Optimal
+UNT18	c18:3 (mol % )	28.6173251475372	Seed		INRAE		France		Optimal
+UNT18	c18:3 (mol % )	27.0636687953723	Seed		INRAE		France		Optimal
+UNT18	c18:3 (mol % )	28.5761192982718	Seed		INRAE		France		Optimal
+UNT21	c18:3 (mol % )	29.5161664337039	Seed		INRAE		France		Optimal
+UNT21	c18:3 (mol % )	29.2762508709666	Seed		INRAE		France		Optimal
+UNT21	c18:3 (mol % )	29.258602370989	Seed		INRAE		France		Optimal
+UNT21	c18:3 (mol % )	29.2434511046657	Seed		INRAE		France		Optimal
+UNT46	c18:3 (mol % )	30.2727015651218	Seed		INRAE		France		Optimal
+UNT46	c18:3 (mol % )	30.4016427517549	Seed		INRAE		France		Optimal
+UNT46	c18:3 (mol % )	29.7154962429498	Seed		INRAE		France		Optimal
+UNT46	c18:3 (mol % )	30.5163048717507	Seed		INRAE		France		Optimal
+UNT4	c20:0 (mol % )	1.55964973242213	Seed		INRAE		France		Optimal
+UNT4	c20:0 (mol % )	1.57768312683636	Seed		INRAE		France		Optimal
+UNT4	c20:0 (mol % )	1.60754577019979	Seed		INRAE		France		Optimal
+UNT4	c20:0 (mol % )	1.57345017930291	Seed		INRAE		France		Optimal
+UNT18	c20:0 (mol % )	1.68593465853059	Seed		INRAE		France		Optimal
+UNT18	c20:0 (mol % )	1.71836508084555	Seed		INRAE		France		Optimal
+UNT18	c20:0 (mol % )	1.75811091559114	Seed		INRAE		France		Optimal
+UNT18	c20:0 (mol % )	1.6453761119983	Seed		INRAE		France		Optimal
+UNT21	c20:0 (mol % )	1.3777778940814	Seed		INRAE		France		Optimal
+UNT21	c20:0 (mol % )	1.36216098720359	Seed		INRAE		France		Optimal
+UNT21	c20:0 (mol % )	1.26678887812808	Seed		INRAE		France		Optimal
+UNT21	c20:0 (mol % )	1.35507929169365	Seed		INRAE		France		Optimal
+UNT46	c20:0 (mol % )	1.32895264436591	Seed		INRAE		France		Optimal
+UNT46	c20:0 (mol % )	1.26065854108858	Seed		INRAE		France		Optimal
+UNT46	c20:0 (mol % )	1.28487168858989	Seed		INRAE		France		Optimal
+UNT46	c20:0 (mol % )	1.2366011272558	Seed		INRAE		France		Optimal
+UNT4	c20:1 (mol % )	14.9727632459881	Seed		INRAE		France		Optimal
+UNT4	c20:1 (mol % )	14.9242370427657	Seed		INRAE		France		Optimal
+UNT4	c20:1 (mol % )	15.006871829255	Seed		INRAE		France		Optimal
+UNT4	c20:1 (mol % )	15.1103708834489	Seed		INRAE		France		Optimal
+UNT18	c20:1 (mol % )	15.0027165809142	Seed		INRAE		France		Optimal
+UNT18	c20:1 (mol % )	15.1098010694342	Seed		INRAE		France		Optimal
+UNT18	c20:1 (mol % )	15.268620957961	Seed		INRAE		France		Optimal
+UNT18	c20:1 (mol % )	15.0055800975716	Seed		INRAE		France		Optimal
+UNT21	c20:1 (mol % )	14.2764886536352	Seed		INRAE		France		Optimal
+UNT21	c20:1 (mol % )	14.167219837979	Seed		INRAE		France		Optimal
+UNT21	c20:1 (mol % )	14.0998665922902	Seed		INRAE		France		Optimal
+UNT21	c20:1 (mol % )	14.2178032689654	Seed		INRAE		France		Optimal
+UNT46	c20:1 (mol % )	14.2124644526419	Seed		INRAE		France		Optimal
+UNT46	c20:1 (mol % )	13.8210144966022	Seed		INRAE		France		Optimal
+UNT46	c20:1 (mol % )	14.0274626265905	Seed		INRAE		France		Optimal
+UNT46	c20:1 (mol % )	13.9636402458562	Seed		INRAE		France		Optimal
+UNT4	c20:2 (mol % )	1.81916149941831	Seed		INRAE		France		Optimal
+UNT4	c20:2 (mol % )	1.80743307264366	Seed		INRAE		France		Optimal
+UNT4	c20:2 (mol % )	1.7788605182586	Seed		INRAE		France		Optimal
+UNT4	c20:2 (mol % )	1.8124112693435	Seed		INRAE		France		Optimal
+UNT18	c20:2 (mol % )	1.94384620307051	Seed		INRAE		France		Optimal
+UNT18	c20:2 (mol % )	1.95467177582412	Seed		INRAE		France		Optimal
+UNT18	c20:2 (mol % )	1.90486883523448	Seed		INRAE		France		Optimal
+UNT18	c20:2 (mol % )	1.93658414812551	Seed		INRAE		France		Optimal
+UNT21	c20:2 (mol % )	1.42586636704895	Seed		INRAE		France		Optimal
+UNT21	c20:2 (mol % )	1.41974333480328	Seed		INRAE		France		Optimal
+UNT21	c20:2 (mol % )	1.40789828805397	Seed		INRAE		France		Optimal
+UNT21	c20:2 (mol % )	1.44957727730433	Seed		INRAE		France		Optimal
+UNT46	c20:2 (mol % )	1.59492381298453	Seed		INRAE		France		Optimal
+UNT46	c20:2 (mol % )	1.47521233423086	Seed		INRAE		France		Optimal
+UNT46	c20:2 (mol % )	1.52990930342956	Seed		INRAE		France		Optimal
+UNT46	c20:2 (mol % )	1.46830128638521	Seed		INRAE		France		Optimal
+UNT4	c20:3 (mol % )	1.06498263244474	Seed		INRAE		France		Optimal
+UNT4	c20:3 (mol % )	1.07234686221198	Seed		INRAE		France		Optimal
+UNT4	c20:3 (mol % )	1.03046814386665	Seed		INRAE		France		Optimal
+UNT4	c20:3 (mol % )	1.07958169556631	Seed		INRAE		France		Optimal
+UNT18	c20:3 (mol % )	1.00394521041392	Seed		INRAE		France		Optimal
+UNT18	c20:3 (mol % )	1.02071835789176	Seed		INRAE		France		Optimal
+UNT18	c20:3 (mol % )	0.893396934541461	Seed		INRAE		France		Optimal
+UNT18	c20:3 (mol % )	1.00785820934561	Seed		INRAE		France		Optimal
+UNT21	c20:3 (mol % )	0.831547352630418	Seed		INRAE		France		Optimal
+UNT21	c20:3 (mol % )	0.80443469357679	Seed		INRAE		France		Optimal
+UNT21	c20:3 (mol % )	0.834654251410845	Seed		INRAE		France		Optimal
+UNT21	c20:3 (mol % )	0.806807786225706	Seed		INRAE		France		Optimal
+UNT46	c20:3 (mol % )	0.922922936300056	Seed		INRAE		France		Optimal
+UNT46	c20:3 (mol % )	0.842079226909095	Seed		INRAE		France		Optimal
+UNT46	c20:3 (mol % )	0.840842189899944	Seed		INRAE		France		Optimal
+UNT46	c20:3 (mol % )	0.835219147286797	Seed		INRAE		France		Optimal
+UNT4	c22:0 (mol % )	0.273858534444341	Seed		INRAE		France		Optimal
+UNT4	c22:0 (mol % )	0.278819268539908	Seed		INRAE		France		Optimal
+UNT4	c22:0 (mol % )	0.277081144275348	Seed		INRAE		France		Optimal
+UNT4	c22:0 (mol % )	0.27985070992253	Seed		INRAE		France		Optimal
+UNT18	c22:0 (mol % )	0.294614171207206	Seed		INRAE		France		Optimal
+UNT18	c22:0 (mol % )	0.29708170335786	Seed		INRAE		France		Optimal
+UNT18	c22:0 (mol % )	0.297544175505225	Seed		INRAE		France		Optimal
+UNT18	c22:0 (mol % )	0.284845684914136	Seed		INRAE		France		Optimal
+UNT21	c22:0 (mol % )	0.234885030814154	Seed		INRAE		France		Optimal
+UNT21	c22:0 (mol % )	0.232789474481923	Seed		INRAE		France		Optimal
+UNT21	c22:0 (mol % )	0.217758139723234	Seed		INRAE		France		Optimal
+UNT21	c22:0 (mol % )	0.227953784338757	Seed		INRAE		France		Optimal
+UNT46	c22:0 (mol % )	0.232483071168264	Seed		INRAE		France		Optimal
+UNT46	c22:0 (mol % )	0.206454291534104	Seed		INRAE		France		Optimal
+UNT46	c22:0 (mol % )	0.211879081728448	Seed		INRAE		France		Optimal
+UNT46	c22:0 (mol % )	0.203729916754061	Seed		INRAE		France		Optimal
+UNT4	c22:1 (mol % )	2.427667196433	Seed		INRAE		France		Optimal
+UNT4	c22:1 (mol % )	2.45863647721865	Seed		INRAE		France		Optimal
+UNT4	c22:1 (mol % )	2.42554915027179	Seed		INRAE		France		Optimal
+UNT4	c22:1 (mol % )	2.52211223868471	Seed		INRAE		France		Optimal
+UNT18	c22:1 (mol % )	2.4884749419919	Seed		INRAE		France		Optimal
+UNT18	c22:1 (mol % )	2.58747796657479	Seed		INRAE		France		Optimal
+UNT18	c22:1 (mol % )	2.46082424324392	Seed		INRAE		France		Optimal
+UNT18	c22:1 (mol % )	2.45265274663199	Seed		INRAE		France		Optimal
+UNT21	c22:1 (mol % )	2.14805985592533	Seed		INRAE		France		Optimal
+UNT21	c22:1 (mol % )	2.09612642598371	Seed		INRAE		France		Optimal
+UNT21	c22:1 (mol % )	1.97113840071671	Seed		INRAE		France		Optimal
+UNT21	c22:1 (mol % )	2.04531829002652	Seed		INRAE		France		Optimal
+UNT46	c22:1 (mol % )	2.23839386799928	Seed		INRAE		France		Optimal
+UNT46	c22:1 (mol % )	2.08914765935826	Seed		INRAE		France		Optimal
+UNT46	c22:1 (mol % )	2.15726723959963	Seed		INRAE		France		Optimal
+UNT46	c22:1 (mol % )	2.00041097983603	Seed		INRAE		France		Optimal
+UNT4	c22:2 (mol % )	0.084212301317473	Seed		INRAE		France		Optimal
+UNT4	c22:2 (mol % )	0.086086177233074	Seed		INRAE		France		Optimal
+UNT4	c22:2 (mol % )	0.082967623062093	Seed		INRAE		France		Optimal
+UNT4	c22:2 (mol % )	0.086416856313902	Seed		INRAE		France		Optimal
+UNT18	c22:2 (mol % )	0.095950070415441	Seed		INRAE		France		Optimal
+UNT18	c22:2 (mol % )	0.101400739010979	Seed		INRAE		France		Optimal
+UNT18	c22:2 (mol % )	0.094808142471297	Seed		INRAE		France		Optimal
+UNT18	c22:2 (mol % )	0.092541674108457	Seed		INRAE		France		Optimal
+UNT21	c22:2 (mol % )	0.052563129949268	Seed		INRAE		France		Optimal
+UNT21	c22:2 (mol % )	0.048762730092351	Seed		INRAE		France		Optimal
+UNT21	c22:2 (mol % )	0.045522999029626	Seed		INRAE		France		Optimal
+UNT21	c22:2 (mol % )	0.047859691151524	Seed		INRAE		France		Optimal
+UNT46	c22:2 (mol % )	0.07576115454332	Seed		INRAE		France		Optimal
+UNT46	c22:2 (mol % )	0.068407190659715	Seed		INRAE		France		Optimal
+UNT46	c22:2 (mol % )	0.064597233130332	Seed		INRAE		France		Optimal
+UNT46	c22:2 (mol % )	0.056014828801593	Seed		INRAE		France		Optimal
+UNT4	c22:3 (mol % )	0.219246721122279	Seed		INRAE		France		Optimal
+UNT4	c22:3 (mol % )	0.221560377961448	Seed		INRAE		France		Optimal
+UNT4	c22:3 (mol % )	0.217059081833379	Seed		INRAE		France		Optimal
+UNT4	c22:3 (mol % )	0.231068132204449	Seed		INRAE		France		Optimal
+UNT18	c22:3 (mol % )	0.22061937172334	Seed		INRAE		France		Optimal
+UNT18	c22:3 (mol % )	0.240424802298656	Seed		INRAE		France		Optimal
+UNT18	c22:3 (mol % )	0.199099170605676	Seed		INRAE		France		Optimal
+UNT18	c22:3 (mol % )	0.212079307363144	Seed		INRAE		France		Optimal
+UNT21	c22:3 (mol % )	0.160897552114803	Seed		INRAE		France		Optimal
+UNT21	c22:3 (mol % )	0.148249924244217	Seed		INRAE		France		Optimal
+UNT21	c22:3 (mol % )	0.13557244788017	Seed		INRAE		France		Optimal
+UNT21	c22:3 (mol % )	0.143638864599767	Seed		INRAE		France		Optimal
+UNT46	c22:3 (mol % )	0.183551110360624	Seed		INRAE		France		Optimal
+UNT46	c22:3 (mol % )	0.175971605768411	Seed		INRAE		France		Optimal
+UNT46	c22:3 (mol % )	0.180073902304491	Seed		INRAE		France		Optimal
+UNT46	c22:3 (mol % )	0.153750914842949	Seed		INRAE		France		Optimal
+UNT4	c24:0 (mol % )	0.099030130828757	Seed		INRAE		France		Optimal
+UNT4	c24:0 (mol % )	0.097380059232084	Seed		INRAE		France		Optimal
+UNT4	c24:0 (mol % )	0.091954669994351	Seed		INRAE		France		Optimal
+UNT4	c24:0 (mol % )	0.096210022173191	Seed		INRAE		France		Optimal
+UNT18	c24:0 (mol % )	0.097692744708577	Seed		INRAE		France		Optimal
+UNT18	c24:0 (mol % )	0.103094809604197	Seed		INRAE		France		Optimal
+UNT18	c24:0 (mol % )	0.095868590251963	Seed		INRAE		France		Optimal
+UNT18	c24:0 (mol % )	0.094541212017802	Seed		INRAE		France		Optimal
+UNT21	c24:0 (mol % )	0.097858223774583	Seed		INRAE		France		Optimal
+UNT21	c24:0 (mol % )	0.094084361059192	Seed		INRAE		France		Optimal
+UNT21	c24:0 (mol % )	0.092947829592671	Seed		INRAE		France		Optimal
+UNT21	c24:0 (mol % )	0.092658609920621	Seed		INRAE		France		Optimal
+UNT46	c24:0 (mol % )	0.114862030296438	Seed		INRAE		France		Optimal
+UNT46	c24:0 (mol % )	0.100383229551377	Seed		INRAE		France		Optimal
+UNT46	c24:0 (mol % )	0.107461675380535	Seed		INRAE		France		Optimal
+UNT46	c24:0 (mol % )	0.096182881373187	Seed		INRAE		France		Optimal
+UNT4	c24:1 (mol % )	0.450310911890765	Seed		INRAE		France		Optimal
+UNT4	c24:1 (mol % )	0.46208906087374	Seed		INRAE		France		Optimal
+UNT4	c24:1 (mol % )	0.431484854755638	Seed		INRAE		France		Optimal
+UNT4	c24:1 (mol % )	0.456788386252647	Seed		INRAE		France		Optimal
+UNT18	c24:1 (mol % )	0.455657535057853	Seed		INRAE		France		Optimal
+UNT18	c24:1 (mol % )	0.46828010491053	Seed		INRAE		France		Optimal
+UNT18	c24:1 (mol % )	0.4335151647863	Seed		INRAE		France		Optimal
+UNT18	c24:1 (mol % )	0.43844174707328	Seed		INRAE		France		Optimal
+UNT21	c24:1 (mol % )	0.413529778647236	Seed		INRAE		France		Optimal
+UNT21	c24:1 (mol % )	0.399324605769991	Seed		INRAE		France		Optimal
+UNT21	c24:1 (mol % )	0.397500923909544	Seed		INRAE		France		Optimal
+UNT21	c24:1 (mol % )	0.386280263171906	Seed		INRAE		France		Optimal
+UNT46	c24:1 (mol % )	0.36952643525528	Seed		INRAE		France		Optimal
+UNT46	c24:1 (mol % )	0.348158968082494	Seed		INRAE		France		Optimal
+UNT46	c24:1 (mol % )	0.327724958310405	Seed		INRAE		France		Optimal
+UNT46	c24:1 (mol % )	0.29813013706311	Seed		INRAE		France		Optimal
+UNT4	c16:0 (µg/mg )	25.9752890817416	Seed		INRAE		France		Optimal
+UNT4	c16:0 (µg/mg )	26.3531376601655	Seed		INRAE		France		Optimal
+UNT4	c16:0 (µg/mg )	25.6448356726366	Seed		INRAE		France		Optimal
+UNT4	c16:0 (µg/mg )	26.1214971655727	Seed		INRAE		France		Optimal
+UNT18	c16:0 (µg/mg )	26.4864726859381	Seed		INRAE		France		Optimal
+UNT18	c16:0 (µg/mg )	25.976889330341	Seed		INRAE		France		Optimal
+UNT18	c16:0 (µg/mg )	26.8870395115247	Seed		INRAE		France		Optimal
+UNT18	c16:0 (µg/mg )	25.1740800043004	Seed		INRAE		France		Optimal
+UNT21	c16:0 (µg/mg )	26.3000227821085	Seed		INRAE		France		Optimal
+UNT21	c16:0 (µg/mg )	25.9153595827359	Seed		INRAE		France		Optimal
+UNT21	c16:0 (µg/mg )	26.2840437761746	Seed		INRAE		France		Optimal
+UNT21	c16:0 (µg/mg )	26.0998321021329	Seed		INRAE		France		Optimal
+UNT46	c16:0 (µg/mg )	21.1099089991615	Seed		INRAE		France		Optimal
+UNT46	c16:0 (µg/mg )	17.2187579802666	Seed		INRAE		France		Optimal
+UNT46	c16:0 (µg/mg )	17.9324531658939	Seed		INRAE		France		Optimal
+UNT46	c16:0 (µg/mg )	18.1855204500735	Seed		INRAE		France		Optimal
+UNT4	c16:1 (µg/mg )	0.447414637125608	Seed		INRAE		France		Optimal
+UNT4	c16:1 (µg/mg )	0.448234196261888	Seed		INRAE		France		Optimal
+UNT4	c16:1 (µg/mg )	0.44348494404813	Seed		INRAE		France		Optimal
+UNT4	c16:1 (µg/mg )	0.457881278287178	Seed		INRAE		France		Optimal
+UNT18	c16:1 (µg/mg )	0.439946304955502	Seed		INRAE		France		Optimal
+UNT18	c16:1 (µg/mg )	0.452836282250473	Seed		INRAE		France		Optimal
+UNT18	c16:1 (µg/mg )	0.455940859930363	Seed		INRAE		France		Optimal
+UNT18	c16:1 (µg/mg )	0.434516489594226	Seed		INRAE		France		Optimal
+UNT21	c16:1 (µg/mg )	0.476883199991205	Seed		INRAE		France		Optimal
+UNT21	c16:1 (µg/mg )	0.459526418298008	Seed		INRAE		France		Optimal
+UNT21	c16:1 (µg/mg )	0.469240885974062	Seed		INRAE		France		Optimal
+UNT21	c16:1 (µg/mg )	0.432443116730794	Seed		INRAE		France		Optimal
+UNT46	c16:1 (µg/mg )	0.348371626739251	Seed		INRAE		France		Optimal
+UNT46	c16:1 (µg/mg )	0.299143246308855	Seed		INRAE		France		Optimal
+UNT46	c16:1 (µg/mg )	0.314484017807114	Seed		INRAE		France		Optimal
+UNT46	c16:1 (µg/mg )	0.324161113074358	Seed		INRAE		France		Optimal
+UNT4	c18:0 (µg/mg )	11.8788106270564	Seed		INRAE		France		Optimal
+UNT4	c18:0 (µg/mg )	12.0696752069328	Seed		INRAE		France		Optimal
+UNT4	c18:0 (µg/mg )	11.7658899042164	Seed		INRAE		France		Optimal
+UNT4	c18:0 (µg/mg )	11.8652309618655	Seed		INRAE		France		Optimal
+UNT18	c18:0 (µg/mg )	11.8656192199938	Seed		INRAE		France		Optimal
+UNT18	c18:0 (µg/mg )	11.3829560689387	Seed		INRAE		France		Optimal
+UNT18	c18:0 (µg/mg )	12.3556709528502	Seed		INRAE		France		Optimal
+UNT18	c18:0 (µg/mg )	11.0791660276633	Seed		INRAE		France		Optimal
+UNT21	c18:0 (µg/mg )	10.29126128563	Seed		INRAE		France		Optimal
+UNT21	c18:0 (µg/mg )	10.1202180233337	Seed		INRAE		France		Optimal
+UNT21	c18:0 (µg/mg )	10.4550606294814	Seed		INRAE		France		Optimal
+UNT21	c18:0 (µg/mg )	10.3353877074517	Seed		INRAE		France		Optimal
+UNT46	c18:0 (µg/mg )	8.48795927551401	Seed		INRAE		France		Optimal
+UNT46	c18:0 (µg/mg )	6.69264142147495	Seed		INRAE		France		Optimal
+UNT46	c18:0 (µg/mg )	6.79632093148482	Seed		INRAE		France		Optimal
+UNT46	c18:0 (µg/mg )	6.95513588805744	Seed		INRAE		France		Optimal
+UNT4	c18:1 (µg/mg )	73.4551790014036	Seed		INRAE		France		Optimal
+UNT4	c18:1 (µg/mg )	74.2792567666246	Seed		INRAE		France		Optimal
+UNT4	c18:1 (µg/mg )	72.1996889315666	Seed		INRAE		France		Optimal
+UNT4	c18:1 (µg/mg )	73.3627572508349	Seed		INRAE		France		Optimal
+UNT18	c18:1 (µg/mg )	68.3193964176828	Seed		INRAE		France		Optimal
+UNT18	c18:1 (µg/mg )	66.0255650057125	Seed		INRAE		France		Optimal
+UNT18	c18:1 (µg/mg )	72.1912754616172	Seed		INRAE		France		Optimal
+UNT18	c18:1 (µg/mg )	64.3109259511179	Seed		INRAE		France		Optimal
+UNT21	c18:1 (µg/mg )	77.0951718975022	Seed		INRAE		France		Optimal
+UNT21	c18:1 (µg/mg )	78.6225895464698	Seed		INRAE		France		Optimal
+UNT21	c18:1 (µg/mg )	84.4476012844078	Seed		INRAE		France		Optimal
+UNT21	c18:1 (µg/mg )	77.373378573891	Seed		INRAE		France		Optimal
+UNT46	c18:1 (µg/mg )	61.633935118632	Seed		INRAE		France		Optimal
+UNT46	c18:1 (µg/mg )	50.9293555234492	Seed		INRAE		France		Optimal
+UNT46	c18:1 (µg/mg )	51.2743522547871	Seed		INRAE		France		Optimal
+UNT46	c18:1 (µg/mg )	53.7230486975143	Seed		INRAE		France		Optimal
+UNT4	c18:2 (µg/mg )	78.2596445703091	Seed		INRAE		France		Optimal
+UNT4	c18:2 (µg/mg )	78.8799189227461	Seed		INRAE		France		Optimal
+UNT4	c18:2 (µg/mg )	77.2280948456135	Seed		INRAE		France		Optimal
+UNT4	c18:2 (µg/mg )	78.7571496787971	Seed		INRAE		France		Optimal
+UNT18	c18:2 (µg/mg )	80.938557247286	Seed		INRAE		France		Optimal
+UNT18	c18:2 (µg/mg )	80.301587173862	Seed		INRAE		France		Optimal
+UNT18	c18:2 (µg/mg )	85.6540489693122	Seed		INRAE		France		Optimal
+UNT18	c18:2 (µg/mg )	76.4560072214482	Seed		INRAE		France		Optimal
+UNT21	c18:2 (µg/mg )	76.2833268187591	Seed		INRAE		France		Optimal
+UNT21	c18:2 (µg/mg )	76.7576012954532	Seed		INRAE		France		Optimal
+UNT21	c18:2 (µg/mg )	77.0794904291731	Seed		INRAE		France		Optimal
+UNT21	c18:2 (µg/mg )	76.982453424315	Seed		INRAE		France		Optimal
+UNT46	c18:2 (µg/mg )	64.9909546466709	Seed		INRAE		France		Optimal
+UNT46	c18:2 (µg/mg )	53.8652177955719	Seed		INRAE		France		Optimal
+UNT46	c18:2 (µg/mg )	55.6892958805314	Seed		INRAE		France		Optimal
+UNT46	c18:2 (µg/mg )	56.9736743882581	Seed		INRAE		France		Optimal
+UNT4	c18:3 (µg/mg )	118.666474836738	Seed		INRAE		France		Optimal
+UNT4	c18:3 (µg/mg )	120.420057588198	Seed		INRAE		France		Optimal
+UNT4	c18:3 (µg/mg )	116.712048663861	Seed		INRAE		France		Optimal
+UNT4	c18:3 (µg/mg )	122.352136563604	Seed		INRAE		France		Optimal
+UNT18	c18:3 (µg/mg )	111.198119608829	Seed		INRAE		France		Optimal
+UNT18	c18:3 (µg/mg )	110.58211513608	Seed		INRAE		France		Optimal
+UNT18	c18:3 (µg/mg )	108.165877017308	Seed		INRAE		France		Optimal
+UNT18	c18:3 (µg/mg )	105.368639236522	Seed		INRAE		France		Optimal
+UNT21	c18:3 (µg/mg )	113.881054564963	Seed		INRAE		France		Optimal
+UNT21	c18:3 (µg/mg )	112.718219404511	Seed		INRAE		France		Optimal
+UNT21	c18:3 (µg/mg )	115.839673928112	Seed		INRAE		France		Optimal
+UNT21	c18:3 (µg/mg )	112.102466516506	Seed		INRAE		France		Optimal
+UNT46	c18:3 (µg/mg )	97.9268926598446	Seed		INRAE		France		Optimal
+UNT46	c18:3 (µg/mg )	79.8666812239114	Seed		INRAE		France		Optimal
+UNT46	c18:3 (µg/mg )	79.2956691197371	Seed		INRAE		France		Optimal
+UNT46	c18:3 (µg/mg )	84.6870340729395	Seed		INRAE		France		Optimal
+UNT4	c20:0 (µg/mg )	6.98601216607294	Seed		INRAE		France		Optimal
+UNT4	c20:0 (µg/mg )	7.15430751387357	Seed		INRAE		France		Optimal
+UNT4	c20:0 (µg/mg )	7.09476823361373	Seed		INRAE		France		Optimal
+UNT4	c20:0 (µg/mg )	7.17062136864211	Seed		INRAE		France		Optimal
+UNT18	c20:0 (µg/mg )	7.35150001785404	Seed		INRAE		France		Optimal
+UNT18	c20:0 (µg/mg )	7.41077365533893	Seed		INRAE		France		Optimal
+UNT18	c20:0 (µg/mg )	7.84304480373337	Seed		INRAE		France		Optimal
+UNT18	c20:0 (µg/mg )	6.77596258026702	Seed		INRAE		France		Optimal
+UNT21	c20:0 (µg/mg )	5.93390766173215	Seed		INRAE		France		Optimal
+UNT21	c20:0 (µg/mg )	5.85296285376265	Seed		INRAE		France		Optimal
+UNT21	c20:0 (µg/mg )	5.59833868388901	Seed		INRAE		France		Optimal
+UNT21	c20:0 (µg/mg )	5.79873575939572	Seed		INRAE		France		Optimal
+UNT46	c20:0 (µg/mg )	4.86832707946372	Seed		INRAE		France		Optimal
+UNT46	c20:0 (µg/mg )	3.71501998067375	Seed		INRAE		France		Optimal
+UNT46	c20:0 (µg/mg )	3.85089974305201	Seed		INRAE		France		Optimal
+UNT46	c20:0 (µg/mg )	3.83206611091153	Seed		INRAE		France		Optimal
+UNT4	c20:1 (µg/mg )	66.6688016543181	Seed		INRAE		France		Optimal
+UNT4	c20:1 (µg/mg )	67.2640360875963	Seed		INRAE		France		Optimal
+UNT4	c20:1 (µg/mg )	65.7898344071796	Seed		INRAE		France		Optimal
+UNT4	c20:1 (µg/mg )	68.4438012725893	Seed		INRAE		France		Optimal
+UNT18	c20:1 (µg/mg )	65.0392464695985	Seed		INRAE		France		Optimal
+UNT18	c20:1 (µg/mg )	64.7946111247289	Seed		INRAE		France		Optimal
+UNT18	c20:1 (µg/mg )	67.7161637217738	Seed		INRAE		France		Optimal
+UNT18	c20:1 (µg/mg )	61.4127777705769	Seed		INRAE		France		Optimal
+UNT21	c20:1 (µg/mg )	61.125155647225	Seed		INRAE		France		Optimal
+UNT21	c20:1 (µg/mg )	60.5105077208442	Seed		INRAE		France		Optimal
+UNT21	c20:1 (µg/mg )	61.9389922106181	Seed		INRAE		France		Optimal
+UNT21	c20:1 (µg/mg )	60.4783401599907	Seed		INRAE		France		Optimal
+UNT46	c20:1 (µg/mg )	51.5752769089948	Seed		INRAE		France		Optimal
+UNT46	c20:1 (µg/mg )	40.3055283891964	Seed		INRAE		France		Optimal
+UNT46	c20:1 (µg/mg )	41.6521115219308	Seed		INRAE		France		Optimal
+UNT46	c20:1 (µg/mg )	42.9993427906225	Seed		INRAE		France		Optimal
+UNT4	c20:2 (µg/mg )	8.04848474206114	Seed		INRAE		France		Optimal
+UNT4	c20:2 (µg/mg )	8.09446290291548	Seed		INRAE		France		Optimal
+UNT4	c20:2 (µg/mg )	7.74912616673784	Seed		INRAE		France		Optimal
+UNT4	c20:2 (µg/mg )	8.15733178842944	Seed		INRAE		France		Optimal
+UNT18	c20:2 (µg/mg )	8.37406674374516	Seed		INRAE		France		Optimal
+UNT18	c20:2 (µg/mg )	8.33425324098061	Seed		INRAE		France		Optimal
+UNT18	c20:2 (µg/mg )	8.39677364917269	Seed		INRAE		France		Optimal
+UNT18	c20:2 (µg/mg )	7.87318588709421	Seed		INRAE		France		Optimal
+UNT21	c20:2 (µg/mg )	6.06619376178868	Seed		INRAE		France		Optimal
+UNT21	c20:2 (µg/mg )	6.02697979808895	Seed		INRAE		France		Optimal
+UNT21	c20:2 (µg/mg )	6.14736354095006	Seed		INRAE		France		Optimal
+UNT21	c20:2 (µg/mg )	6.12881900451679	Seed		INRAE		France		Optimal
+UNT46	c20:2 (µg/mg )	5.76747963459002	Seed		INRAE		France		Optimal
+UNT46	c20:2 (µg/mg )	4.27966034714256	Seed		INRAE		France		Optimal
+UNT46	c20:2 (µg/mg )	4.50779787235941	Seed		INRAE		France		Optimal
+UNT46	c20:2 (µg/mg )	4.49490042136354	Seed		INRAE		France		Optimal
+UNT4	c20:3 (µg/mg )	4.67951596431602	Seed		INRAE		France		Optimal
+UNT4	c20:3 (µg/mg )	4.77254226847196	Seed		INRAE		France		Optimal
+UNT4	c20:3 (µg/mg )	4.45968894405567	Seed		INRAE		France		Optimal
+UNT4	c20:3 (µg/mg )	4.8289829312874	Seed		INRAE		France		Optimal
+UNT18	c20:3 (µg/mg )	4.29687151392542	Seed		INRAE		France		Optimal
+UNT18	c20:3 (µg/mg )	4.32836553136247	Seed		INRAE		France		Optimal
+UNT18	c20:3 (µg/mg )	3.91358278496272	Seed		INRAE		France		Optimal
+UNT18	c20:3 (µg/mg )	4.07144590345643	Seed		INRAE		France		Optimal
+UNT21	c20:3 (µg/mg )	3.51518653349898	Seed		INRAE		France		Optimal
+UNT21	c20:3 (µg/mg )	3.39415349160585	Seed		INRAE		France		Optimal
+UNT21	c20:3 (µg/mg )	3.62148133459486	Seed		INRAE		France		Optimal
+UNT21	c20:3 (µg/mg )	3.39032196092718	Seed		INRAE		France		Optimal
+UNT46	c20:3 (µg/mg )	3.31479820562177	Seed		INRAE		France		Optimal
+UNT46	c20:3 (µg/mg )	2.42974150576902	Seed		INRAE		France		Optimal
+UNT46	c20:3 (µg/mg )	2.46535721542686	Seed		INRAE		France		Optimal
+UNT46	c20:3 (µg/mg )	2.54262694942469	Seed		INRAE		France		Optimal
+UNT4	c22:0 (µg/mg )	1.33211238240009	Seed		INRAE		France		Optimal
+UNT4	c22:0 (µg/mg )	1.37286391174627	Seed		INRAE		France		Optimal
+UNT4	c22:0 (µg/mg )	1.32773479253706	Seed		INRAE		France		Optimal
+UNT4	c22:0 (µg/mg )	1.38471909181481	Seed		INRAE		France		Optimal
+UNT18	c22:0 (µg/mg )	1.39488430278193	Seed		INRAE		France		Optimal
+UNT18	c22:0 (µg/mg )	1.39230329982183	Seed		INRAE		France		Optimal
+UNT18	c22:0 (µg/mg )	1.44177850018683	Seed		INRAE		France		Optimal
+UNT18	c22:0 (µg/mg )	1.27359698598592	Seed		INRAE		France		Optimal
+UNT21	c22:0 (µg/mg )	1.09843162610937	Seed		INRAE		France		Optimal
+UNT21	c22:0 (µg/mg )	1.08594940777991	Seed		INRAE		France		Optimal
+UNT21	c22:0 (µg/mg )	1.04498848537539	Seed		INRAE		France		Optimal
+UNT21	c22:0 (µg/mg )	1.05921265634238	Seed		INRAE		France		Optimal
+UNT46	c22:0 (µg/mg )	0.929466634421061	Seed		INRAE		France		Optimal
+UNT46	c22:0 (µg/mg )	0.660023971615215	Seed		INRAE		France		Optimal
+UNT46	c22:0 (µg/mg )	0.689280720239188	Seed		INRAE		France		Optimal
+UNT46	c22:0 (µg/mg )	0.685723702393282	Seed		INRAE		France		Optimal
+UNT4	c22:1 (µg/mg )	11.7367076129501	Seed		INRAE		France		Optimal
+UNT4	c22:1 (µg/mg )	12.035094745441	Seed		INRAE		France		Optimal
+UNT4	c22:1 (µg/mg )	11.5519045127154	Seed		INRAE		France		Optimal
+UNT4	c22:1 (µg/mg )	12.4069185131422	Seed		INRAE		France		Optimal
+UNT18	c22:1 (µg/mg )	11.7168635793178	Seed		INRAE		France		Optimal
+UNT18	c22:1 (µg/mg )	12.0578815032346	Seed		INRAE		France		Optimal
+UNT18	c22:1 (µg/mg )	11.8589897467807	Seed		INRAE		France		Optimal
+UNT18	c22:1 (µg/mg )	10.9067489198913	Seed		INRAE		France		Optimal
+UNT21	c22:1 (µg/mg )	9.99053278460183	Seed		INRAE		France		Optimal
+UNT21	c22:1 (µg/mg )	9.72524335341536	Seed		INRAE		France		Optimal
+UNT21	c22:1 (µg/mg )	9.4062066881368	Seed		INRAE		France		Optimal
+UNT21	c22:1 (µg/mg )	9.44955741999765	Seed		INRAE		France		Optimal
+UNT46	c22:1 (µg/mg )	8.89261272833486	Seed		INRAE		France		Optimal
+UNT46	c22:1 (µg/mg )	6.63954781557102	Seed		INRAE		France		Optimal
+UNT46	c22:1 (µg/mg )	6.97175744965221	Seed		INRAE		France		Optimal
+UNT46	c22:1 (µg/mg )	6.69660097289073	Seed		INRAE		France		Optimal
+UNT4	c22:2 (µg/mg )	0.404667669831262	Seed		INRAE		France		Optimal
+UNT4	c22:2 (µg/mg )	0.41889709946402	Seed		INRAE		France		Optimal
+UNT4	c22:2 (µg/mg )	0.393084139245289	Seed		INRAE		France		Optimal
+UNT4	c22:2 (µg/mg )	0.422569615555431	Seed		INRAE		France		Optimal
+UNT18	c22:2 (µg/mg )	0.449029144204733	Seed		INRAE		France		Optimal
+UNT18	c22:2 (µg/mg )	0.469759078540177	Seed		INRAE		France		Optimal
+UNT18	c22:2 (µg/mg )	0.454319023824358	Seed		INRAE		France		Optimal
+UNT18	c22:2 (µg/mg )	0.408903308767347	Seed		INRAE		France		Optimal
+UNT21	c22:2 (µg/mg )	0.243066787679507	Seed		INRAE		France		Optimal
+UNT21	c22:2 (µg/mg )	0.224871226179495	Seed		INRAE		France		Optimal
+UNT21	c22:2 (µg/mg )	0.215973035080244	Seed		INRAE		France		Optimal
+UNT21	c22:2 (µg/mg )	0.219836981108164	Seed		INRAE		France		Optimal
+UNT46	c22:2 (µg/mg )	0.292278995446263	Seed		INRAE		France		Optimal
+UNT46	c22:2 (µg/mg )	0.21670318033876	Seed		INRAE		France		Optimal
+UNT46	c22:2 (µg/mg )	0.206814337145135	Seed		INRAE		France		Optimal
+UNT46	c22:2 (µg/mg )	0.186414242277418	Seed		INRAE		France		Optimal
+UNT4	c22:3 (µg/mg )	1.04690780744061	Seed		INRAE		France		Optimal
+UNT4	c22:3 (µg/mg )	1.07158809085288	Seed		INRAE		France		Optimal
+UNT4	c22:3 (µg/mg )	1.02215617408831	Seed		INRAE		France		Optimal
+UNT4	c22:3 (µg/mg )	1.1232780801513	Seed		INRAE		France		Optimal
+UNT18	c22:3 (µg/mg )	1.02625737547405	Seed		INRAE		France		Optimal
+UNT18	c22:3 (µg/mg )	1.10780589843645	Seed		INRAE		France		Optimal
+UNT18	c22:3 (µg/mg )	0.948402994518488	Seed		INRAE		France		Optimal
+UNT18	c22:3 (µg/mg )	0.931529203895766	Seed		INRAE		France		Optimal
+UNT21	c22:3 (µg/mg )	0.739476246100014	Seed		INRAE		France		Optimal
+UNT21	c22:3 (µg/mg )	0.680136915809914	Seed		INRAE		France		Optimal
+UNT21	c22:3 (µg/mg )	0.639540725771839	Seed		INRAE		France		Optimal
+UNT21	c22:3 (µg/mg )	0.656125212052507	Seed		INRAE		France		Optimal
+UNT46	c22:3 (µg/mg )	0.714647730355547	Seed		INRAE		France		Optimal
+UNT46	c22:3 (µg/mg )	0.553862032578653	Seed		INRAE		France		Optimal
+UNT46	c22:3 (µg/mg )	0.574277903746543	Seed		INRAE		France		Optimal
+UNT46	c22:3 (µg/mg )	0.509428710724403	Seed		INRAE		France		Optimal
+UNT4	c24:0 (µg/mg )	0.520179294549062	Seed		INRAE		France		Optimal
+UNT4	c24:0 (µg/mg )	0.517549868063742	Seed		INRAE		France		Optimal
+UNT4	c24:0 (µg/mg )	0.475143478727276	Seed		INRAE		France		Optimal
+UNT4	c24:0 (µg/mg )	0.513569712398568	Seed		INRAE		France		Optimal
+UNT18	c24:0 (µg/mg )	0.499317867948109	Seed		INRAE		France		Optimal
+UNT18	c24:0 (µg/mg )	0.522893502513047	Seed		INRAE		France		Optimal
+UNT18	c24:0 (µg/mg )	0.501493949156929	Seed		INRAE		France		Optimal
+UNT18	c24:0 (µg/mg )	0.45550986774717	Seed		INRAE		France		Optimal
+UNT21	c24:0 (µg/mg )	0.493949840217309	Seed		INRAE		France		Optimal
+UNT21	c24:0 (µg/mg )	0.473585641468915	Seed		INRAE		France		Optimal
+UNT21	c24:0 (µg/mg )	0.481414928251602	Seed		INRAE		France		Optimal
+UNT21	c24:0 (µg/mg )	0.464680169126613	Seed		INRAE		France		Optimal
+UNT46	c24:0 (µg/mg )	0.503560310773927	Seed		INRAE		France		Optimal
+UNT46	c24:0 (µg/mg )	0.346263153508622	Seed		INRAE		France		Optimal
+UNT46	c24:0 (µg/mg )	0.375529512496433	Seed		INRAE		France		Optimal
+UNT46	c24:0 (µg/mg )	0.349322893234504	Seed		INRAE		France		Optimal
+UNT4	c24:1 (µg/mg )	2.3507919685295	Seed		INRAE		France		Optimal
+UNT4	c24:1 (µg/mg )	2.44207941587335	Seed		INRAE		France		Optimal
+UNT4	c24:1 (µg/mg )	2.2180231952495	Seed		INRAE		France		Optimal
+UNT4	c24:1 (µg/mg )	2.42564902992646	Seed		INRAE		France		Optimal
+UNT18	c24:1 (µg/mg )	2.31606120315876	Seed		INRAE		France		Optimal
+UNT18	c24:1 (µg/mg )	2.35760086422884	Seed		INRAE		France		Optimal
+UNT18	c24:1 (µg/mg )	2.25571135759834	Seed		INRAE		France		Optimal
+UNT18	c24:1 (µg/mg )	2.10263968474888	Seed		INRAE		France		Optimal
+UNT21	c24:1 (µg/mg )	2.07610411326328	Seed		INRAE		France		Optimal
+UNT21	c24:1 (µg/mg )	1.99940581765152	Seed		INRAE		France		Optimal
+UNT21	c24:1 (µg/mg )	2.04795555575524	Seed		INRAE		France		Optimal
+UNT21	c24:1 (µg/mg )	1.92704791272291	Seed		INRAE		France		Optimal
+UNT46	c24:1 (µg/mg )	1.58068248677697	Seed		INRAE		France		Optimal
+UNT46	c24:1 (µg/mg )	1.19238139434743	Seed		INRAE		France		Optimal
+UNT46	c24:1 (µg/mg )	1.14494028604217	Seed		INRAE		France		Optimal
+UNT46	c24:1 (µg/mg )	1.07657988209258	Seed		INRAE		France		Optimal
+UNT4	total fa/mg (µg/mg  )	412.456994016844	Seed		INRAE		France		Optimal
+UNT4	total fa/mg (µg/mg  )	417.593702245228	Seed		INRAE		France		Optimal
+UNT4	total fa/mg (µg/mg  )	406.075507006091	Seed		INRAE		France		Optimal
+UNT4	total fa/mg (µg/mg  )	419.794094302899	Seed		INRAE		France		Optimal
+UNT18	total fa/mg (µg/mg  )	401.712209702694	Seed		INRAE		France		Optimal
+UNT18	total fa/mg (µg/mg  )	397.498196696371	Seed		INRAE		France		Optimal
+UNT18	total fa/mg (µg/mg  )	411.04011330425	Seed		INRAE		France		Optimal
+UNT18	total fa/mg (µg/mg  )	379.035635043077	Seed		INRAE		France		Optimal
+UNT21	total fa/mg (µg/mg  )	395.60972555117	Seed		INRAE		France		Optimal
+UNT21	total fa/mg (µg/mg  )	394.567310497408	Seed		INRAE		France		Optimal
+UNT21	total fa/mg (µg/mg  )	405.717366121746	Seed		INRAE		France		Optimal
+UNT21	total fa/mg (µg/mg  )	392.898638677208	Seed		INRAE		France		Optimal
+UNT46	total fa/mg (µg/mg  )	332.937153041341	Seed		INRAE		France		Optimal
+UNT46	total fa/mg (µg/mg  )	269.210528961724	Seed		INRAE		France		Optimal
+UNT46	total fa/mg (µg/mg  )	273.741341932332	Seed		INRAE		France		Optimal
+UNT46	total fa/mg (µg/mg  )	284.221581285852	Seed		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT4	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT4	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT4	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT18	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT18	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT18	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT18	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT21	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT21	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT21	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT21	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT46	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT46	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT46	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT46	plant_anatomical_entity	Seed	Seed		INRAE		France		Stressed
+UNT4	c16:0 (mol % )	7.73340818487429	Seed		INRAE		France		Stressed
+UNT4	c16:0 (mol % )	7.69751459371027	Seed		INRAE		France		Stressed
+UNT4	c16:0 (mol % )	7.64132603870672	Seed		INRAE		France		Stressed
+UNT4	c16:0 (mol % )	7.71514655440828	Seed		INRAE		France		Stressed
+UNT18	c16:0 (mol % )	8.35550805022432	Seed		INRAE		France		Stressed
+UNT18	c16:0 (mol % )	8.14437559691989	Seed		INRAE		France		Stressed
+UNT18	c16:0 (mol % )	7.47584567649889	Seed		INRAE		France		Stressed
+UNT18	c16:0 (mol % )	7.30929555526831	Seed		INRAE		France		Stressed
+UNT21	c16:0 (mol % )	7.59305139484719	Seed		INRAE		France		Stressed
+UNT21	c16:0 (mol % )	7.41289851847721	Seed		INRAE		France		Stressed
+UNT21	c16:0 (mol % )	7.51055564428233	Seed		INRAE		France		Stressed
+UNT21	c16:0 (mol % )	7.40918639019858	Seed		INRAE		France		Stressed
+UNT46	c16:0 (mol % )	6.85693754182913	Seed		INRAE		France		Stressed
+UNT46	c16:0 (mol % )	6.91699513471365	Seed		INRAE		France		Stressed
+UNT46	c16:0 (mol % )	6.7641455147334	Seed		INRAE		France		Stressed
+UNT46	c16:0 (mol % )	6.97143858744662	Seed		INRAE		France		Stressed
+UNT4	c16:1 (mol % )	0.15799944031275	Seed		INRAE		France		Stressed
+UNT4	c16:1 (mol % )	0.16688966000685	Seed		INRAE		France		Stressed
+UNT4	c16:1 (mol % )	0.160911060078394	Seed		INRAE		France		Stressed
+UNT4	c16:1 (mol % )	0.157657941153156	Seed		INRAE		France		Stressed
+UNT18	c16:1 (mol % )	0.172648220764539	Seed		INRAE		France		Stressed
+UNT18	c16:1 (mol % )	0.163827158459865	Seed		INRAE		France		Stressed
+UNT18	c16:1 (mol % )	0.156330390838891	Seed		INRAE		France		Stressed
+UNT18	c16:1 (mol % )	0.158939012340676	Seed		INRAE		France		Stressed
+UNT21	c16:1 (mol % )	0.163093347046121	Seed		INRAE		France		Stressed
+UNT21	c16:1 (mol % )	0.16568210081031	Seed		INRAE		France		Stressed
+UNT21	c16:1 (mol % )	0.157840739613727	Seed		INRAE		France		Stressed
+UNT21	c16:1 (mol % )	0.162907175879223	Seed		INRAE		France		Stressed
+UNT46	c16:1 (mol % )	0.128570392140695	Seed		INRAE		France		Stressed
+UNT46	c16:1 (mol % )	0.122810292657803	Seed		INRAE		France		Stressed
+UNT46	c16:1 (mol % )	0.126486996033155	Seed		INRAE		France		Stressed
+UNT46	c16:1 (mol % )	0.125131484550569	Seed		INRAE		France		Stressed
+UNT4	c18:0 (mol % )	2.38684910411454	Seed		INRAE		France		Stressed
+UNT4	c18:0 (mol % )	2.41959153569826	Seed		INRAE		France		Stressed
+UNT4	c18:0 (mol % )	2.38536632057198	Seed		INRAE		France		Stressed
+UNT4	c18:0 (mol % )	2.52215561750944	Seed		INRAE		France		Stressed
+UNT18	c18:0 (mol % )	2.88305576929045	Seed		INRAE		France		Stressed
+UNT18	c18:0 (mol % )	2.70369207115296	Seed		INRAE		France		Stressed
+UNT18	c18:0 (mol % )	2.93316551381882	Seed		INRAE		France		Stressed
+UNT18	c18:0 (mol % )	2.71293851195585	Seed		INRAE		France		Stressed
+UNT21	c18:0 (mol % )	2.50590632299412	Seed		INRAE		France		Stressed
+UNT21	c18:0 (mol % )	2.48024814111791	Seed		INRAE		France		Stressed
+UNT21	c18:0 (mol % )	2.56077514635954	Seed		INRAE		France		Stressed
+UNT21	c18:0 (mol % )	2.4494867090449	Seed		INRAE		France		Stressed
+UNT46	c18:0 (mol % )	2.56526193082375	Seed		INRAE		France		Stressed
+UNT46	c18:0 (mol % )	2.49183659711639	Seed		INRAE		France		Stressed
+UNT46	c18:0 (mol % )	2.54200404742599	Seed		INRAE		France		Stressed
+UNT46	c18:0 (mol % )	2.58792557482173	Seed		INRAE		France		Stressed
+UNT4	c18:1 (mol % )	14.237915475683	Seed		INRAE		France		Stressed
+UNT4	c18:1 (mol % )	14.2633609832472	Seed		INRAE		France		Stressed
+UNT4	c18:1 (mol % )	14.0588349989235	Seed		INRAE		France		Stressed
+UNT4	c18:1 (mol % )	14.7065077847515	Seed		INRAE		France		Stressed
+UNT18	c18:1 (mol % )	13.1149741871584	Seed		INRAE		France		Stressed
+UNT18	c18:1 (mol % )	13.3181821720827	Seed		INRAE		France		Stressed
+UNT18	c18:1 (mol % )	13.325548253618	Seed		INRAE		France		Stressed
+UNT18	c18:1 (mol % )	13.4483301476625	Seed		INRAE		France		Stressed
+UNT21	c18:1 (mol % )	15.9631700491089	Seed		INRAE		France		Stressed
+UNT21	c18:1 (mol % )	15.7102656068548	Seed		INRAE		France		Stressed
+UNT21	c18:1 (mol % )	15.7923812465931	Seed		INRAE		France		Stressed
+UNT21	c18:1 (mol % )	16.14083874343	Seed		INRAE		France		Stressed
+UNT46	c18:1 (mol % )	15.1018593905028	Seed		INRAE		France		Stressed
+UNT46	c18:1 (mol % )	14.9896341433803	Seed		INRAE		France		Stressed
+UNT46	c18:1 (mol % )	15.8941907852855	Seed		INRAE		France		Stressed
+UNT46	c18:1 (mol % )	15.7199681350451	Seed		INRAE		France		Stressed
+UNT4	c18:2 (mol % )	20.1782317343199	Seed		INRAE		France		Stressed
+UNT4	c18:2 (mol % )	20.29647304786	Seed		INRAE		France		Stressed
+UNT4	c18:2 (mol % )	20.2641203801374	Seed		INRAE		France		Stressed
+UNT4	c18:2 (mol % )	21.0362122871334	Seed		INRAE		France		Stressed
+UNT18	c18:2 (mol % )	22.6983349474378	Seed		INRAE		France		Stressed
+UNT18	c18:2 (mol % )	21.8589529417898	Seed		INRAE		France		Stressed
+UNT18	c18:2 (mol % )	20.6364874188928	Seed		INRAE		France		Stressed
+UNT18	c18:2 (mol % )	19.9877499927306	Seed		INRAE		France		Stressed
+UNT21	c18:2 (mol % )	18.9775390656568	Seed		INRAE		France		Stressed
+UNT21	c18:2 (mol % )	18.7057554243095	Seed		INRAE		France		Stressed
+UNT21	c18:2 (mol % )	19.1710349980683	Seed		INRAE		France		Stressed
+UNT21	c18:2 (mol % )	18.8074462869606	Seed		INRAE		France		Stressed
+UNT46	c18:2 (mol % )	19.1120737955124	Seed		INRAE		France		Stressed
+UNT46	c18:2 (mol % )	18.3934277420653	Seed		INRAE		France		Stressed
+UNT46	c18:2 (mol % )	18.7381379910643	Seed		INRAE		France		Stressed
+UNT46	c18:2 (mol % )	19.1656501591279	Seed		INRAE		France		Stressed
+UNT4	c18:3 (mol % )	34.0752885330188	Seed		INRAE		France		Stressed
+UNT4	c18:3 (mol % )	34.0691613761335	Seed		INRAE		France		Stressed
+UNT4	c18:3 (mol % )	34.1623542328622	Seed		INRAE		France		Stressed
+UNT4	c18:3 (mol % )	32.6790354465486	Seed		INRAE		France		Stressed
+UNT18	c18:3 (mol % )	31.3743055191345	Seed		INRAE		France		Stressed
+UNT18	c18:3 (mol % )	31.920982203956	Seed		INRAE		France		Stressed
+UNT18	c18:3 (mol % )	31.4206304684751	Seed		INRAE		France		Stressed
+UNT18	c18:3 (mol % )	32.2744229784204	Seed		INRAE		France		Stressed
+UNT21	c18:3 (mol % )	34.0755103654139	Seed		INRAE		France		Stressed
+UNT21	c18:3 (mol % )	34.0798071570262	Seed		INRAE		France		Stressed
+UNT21	c18:3 (mol % )	33.2007260071136	Seed		INRAE		France		Stressed
+UNT21	c18:3 (mol % )	33.6196985057825	Seed		INRAE		France		Stressed
+UNT46	c18:3 (mol % )	33.286753665209	Seed		INRAE		France		Stressed
+UNT46	c18:3 (mol % )	34.2291367218201	Seed		INRAE		France		Stressed
+UNT46	c18:3 (mol % )	33.599330244886	Seed		INRAE		France		Stressed
+UNT46	c18:3 (mol % )	33.1528569128713	Seed		INRAE		France		Stressed
+UNT4	c20:0 (mol % )	1.49423298451158	Seed		INRAE		France		Stressed
+UNT4	c20:0 (mol % )	1.47655431715132	Seed		INRAE		France		Stressed
+UNT4	c20:0 (mol % )	1.52964244369051	Seed		INRAE		France		Stressed
+UNT4	c20:0 (mol % )	1.56016943760726	Seed		INRAE		France		Stressed
+UNT18	c20:0 (mol % )	1.86480139525915	Seed		INRAE		France		Stressed
+UNT18	c20:0 (mol % )	1.82554966006196	Seed		INRAE		France		Stressed
+UNT18	c20:0 (mol % )	2.04136367287608	Seed		INRAE		France		Stressed
+UNT18	c20:0 (mol % )	1.99056434123853	Seed		INRAE		France		Stressed
+UNT21	c20:0 (mol % )	1.44718563537881	Seed		INRAE		France		Stressed
+UNT21	c20:0 (mol % )	1.50243083014183	Seed		INRAE		France		Stressed
+UNT21	c20:0 (mol % )	1.54838206163989	Seed		INRAE		France		Stressed
+UNT21	c20:0 (mol % )	1.47347937526547	Seed		INRAE		France		Stressed
+UNT46	c20:0 (mol % )	1.71427135137349	Seed		INRAE		France		Stressed
+UNT46	c20:0 (mol % )	1.6283644363638	Seed		INRAE		France		Stressed
+UNT46	c20:0 (mol % )	1.59908139843844	Seed		INRAE		France		Stressed
+UNT46	c20:0 (mol % )	1.60720926400476	Seed		INRAE		France		Stressed
+UNT4	c20:1 (mol % )	12.9657803318223	Seed		INRAE		France		Stressed
+UNT4	c20:1 (mol % )	12.9224649723223	Seed		INRAE		France		Stressed
+UNT4	c20:1 (mol % )	12.8717561930378	Seed		INRAE		France		Stressed
+UNT4	c20:1 (mol % )	12.9740893217413	Seed		INRAE		France		Stressed
+UNT18	c20:1 (mol % )	12.6949032648381	Seed		INRAE		France		Stressed
+UNT18	c20:1 (mol % )	12.9428073947917	Seed		INRAE		France		Stressed
+UNT18	c20:1 (mol % )	13.8992210402706	Seed		INRAE		France		Stressed
+UNT18	c20:1 (mol % )	13.8372395526402	Seed		INRAE		France		Stressed
+UNT21	c20:1 (mol % )	12.9208080448906	Seed		INRAE		France		Stressed
+UNT21	c20:1 (mol % )	13.1251417975354	Seed		INRAE		France		Stressed
+UNT21	c20:1 (mol % )	13.2758991942507	Seed		INRAE		France		Stressed
+UNT21	c20:1 (mol % )	13.198743503775	Seed		INRAE		France		Stressed
+UNT46	c20:1 (mol % )	13.5303103276092	Seed		INRAE		France		Stressed
+UNT46	c20:1 (mol % )	13.6276147310113	Seed		INRAE		France		Stressed
+UNT46	c20:1 (mol % )	13.5604576096729	Seed		INRAE		France		Stressed
+UNT46	c20:1 (mol % )	13.607404270354	Seed		INRAE		France		Stressed
+UNT4	c20:2 (mol % )	1.69476819195973	Seed		INRAE		France		Stressed
+UNT4	c20:2 (mol % )	1.67448736238301	Seed		INRAE		France		Stressed
+UNT4	c20:2 (mol % )	1.73168249470458	Seed		INRAE		France		Stressed
+UNT4	c20:2 (mol % )	1.72534331052201	Seed		INRAE		France		Stressed
+UNT18	c20:2 (mol % )	1.80349242125441	Seed		INRAE		France		Stressed
+UNT18	c20:2 (mol % )	1.86695162766912	Seed		INRAE		France		Stressed
+UNT18	c20:2 (mol % )	1.96330027301581	Seed		INRAE		France		Stressed
+UNT18	c20:2 (mol % )	1.99813142335711	Seed		INRAE		France		Stressed
+UNT21	c20:2 (mol % )	1.49036154505466	Seed		INRAE		France		Stressed
+UNT21	c20:2 (mol % )	1.55545515799114	Seed		INRAE		France		Stressed
+UNT21	c20:2 (mol % )	1.5788141467306	Seed		INRAE		France		Stressed
+UNT21	c20:2 (mol % )	1.54884024930417	Seed		INRAE		France		Stressed
+UNT46	c20:2 (mol % )	1.71941191483914	Seed		INRAE		France		Stressed
+UNT46	c20:2 (mol % )	1.70075863119464	Seed		INRAE		France		Stressed
+UNT46	c20:2 (mol % )	1.63559290136424	Seed		INRAE		France		Stressed
+UNT46	c20:2 (mol % )	1.63467749402489	Seed		INRAE		France		Stressed
+UNT4	c20:3 (mol % )	1.11269567197132	Seed		INRAE		France		Stressed
+UNT4	c20:3 (mol % )	1.07992559334073	Seed		INRAE		France		Stressed
+UNT4	c20:3 (mol % )	1.12632692747355	Seed		INRAE		France		Stressed
+UNT4	c20:3 (mol % )	1.04552209445972	Seed		INRAE		France		Stressed
+UNT18	c20:3 (mol % )	0.982215552132873	Seed		INRAE		France		Stressed
+UNT18	c20:3 (mol % )	1.07639839152158	Seed		INRAE		France		Stressed
+UNT18	c20:3 (mol % )	1.19119601588965	Seed		INRAE		France		Stressed
+UNT18	c20:3 (mol % )	1.26424082764714	Seed		INRAE		France		Stressed
+UNT21	c20:3 (mol % )	1.07910380839901	Seed		INRAE		France		Stressed
+UNT21	c20:3 (mol % )	1.14582108357583	Seed		INRAE		France		Stressed
+UNT21	c20:3 (mol % )	1.10180157039949	Seed		INRAE		France		Stressed
+UNT21	c20:3 (mol % )	1.11527926368078	Seed		INRAE		France		Stressed
+UNT46	c20:3 (mol % )	1.20247970328135	Seed		INRAE		France		Stressed
+UNT46	c20:3 (mol % )	1.25986078354798	Seed		INRAE		France		Stressed
+UNT46	c20:3 (mol % )	1.16133620864191	Seed		INRAE		France		Stressed
+UNT46	c20:3 (mol % )	1.10753619421659	Seed		INRAE		France		Stressed
+UNT4	c22:0 (mol % )	0.260987241371994	Seed		INRAE		France		Stressed
+UNT4	c22:0 (mol % )	0.256399573299732	Seed		INRAE		France		Stressed
+UNT4	c22:0 (mol % )	0.267298402018991	Seed		INRAE		France		Stressed
+UNT4	c22:0 (mol % )	0.268140352976372	Seed		INRAE		France		Stressed
+UNT18	c22:0 (mol % )	0.304323206625959	Seed		INRAE		France		Stressed
+UNT18	c22:0 (mol % )	0.301767817222742	Seed		INRAE		France		Stressed
+UNT18	c22:0 (mol % )	0.378590440370908	Seed		INRAE		France		Stressed
+UNT18	c22:0 (mol % )	0.367871675508209	Seed		INRAE		France		Stressed
+UNT21	c22:0 (mol % )	0.257031853012981	Seed		INRAE		France		Stressed
+UNT21	c22:0 (mol % )	0.288710543037904	Seed		INRAE		France		Stressed
+UNT21	c22:0 (mol % )	0.29084765698706	Seed		INRAE		France		Stressed
+UNT21	c22:0 (mol % )	0.279664588182121	Seed		INRAE		France		Stressed
+UNT46	c22:0 (mol % )	0.332907759455217	Seed		INRAE		France		Stressed
+UNT46	c22:0 (mol % )	0.317682852585058	Seed		INRAE		France		Stressed
+UNT46	c22:0 (mol % )	0.305877504232687	Seed		INRAE		France		Stressed
+UNT46	c22:0 (mol % )	0.304626198681555	Seed		INRAE		France		Stressed
+UNT4	c22:1 (mol % )	2.65158477431209	Seed		INRAE		France		Stressed
+UNT4	c22:1 (mol % )	2.63318172633291	Seed		INRAE		France		Stressed
+UNT4	c22:1 (mol % )	2.70245103431382	Seed		INRAE		France		Stressed
+UNT4	c22:1 (mol % )	2.58709583767985	Seed		INRAE		France		Stressed
+UNT18	c22:1 (mol % )	2.65287000119564	Seed		INRAE		France		Stressed
+UNT18	c22:1 (mol % )	2.73445102785501	Seed		INRAE		France		Stressed
+UNT18	c22:1 (mol % )	3.19742375272583	Seed		INRAE		France		Stressed
+UNT18	c22:1 (mol % )	3.20448867160984	Seed		INRAE		France		Stressed
+UNT21	c22:1 (mol % )	2.47676580832685	Seed		INRAE		France		Stressed
+UNT21	c22:1 (mol % )	2.64509639027101	Seed		INRAE		France		Stressed
+UNT21	c22:1 (mol % )	2.64938323004002	Seed		INRAE		France		Stressed
+UNT21	c22:1 (mol % )	2.63151519195978	Seed		INRAE		France		Stressed
+UNT46	c22:1 (mol % )	3.14015338390179	Seed		INRAE		France		Stressed
+UNT46	c22:1 (mol % )	3.04648294497338	Seed		INRAE		France		Stressed
+UNT46	c22:1 (mol % )	2.88453133762351	Seed		INRAE		France		Stressed
+UNT46	c22:1 (mol % )	2.84655092419191	Seed		INRAE		France		Stressed
+UNT4	c22:2 (mol % )	0.123220378972759	Seed		INRAE		France		Stressed
+UNT4	c22:2 (mol % )	0.12100797673739	Seed		INRAE		France		Stressed
+UNT4	c22:2 (mol % )	0.130551592213951	Seed		INRAE		France		Stressed
+UNT4	c22:2 (mol % )	0.121426535894509	Seed		INRAE		France		Stressed
+UNT18	c22:2 (mol % )	0.144388133747161	Seed		INRAE		France		Stressed
+UNT18	c22:2 (mol % )	0.14995614490507	Seed		INRAE		France		Stressed
+UNT18	c22:2 (mol % )	0.159229201462727	Seed		INRAE		France		Stressed
+UNT18	c22:2 (mol % )	0.169780347043366	Seed		INRAE		France		Stressed
+UNT21	c22:2 (mol % )	0.08453961469103	Seed		INRAE		France		Stressed
+UNT21	c22:2 (mol % )	0.094160009995351	Seed		INRAE		France		Stressed
+UNT21	c22:2 (mol % )	0.100447100733296	Seed		INRAE		France		Stressed
+UNT21	c22:2 (mol % )	0.092846464562334	Seed		INRAE		France		Stressed
+UNT46	c22:2 (mol % )	0.132479865875384	Seed		INRAE		France		Stressed
+UNT46	c22:2 (mol % )	0.124366947808327	Seed		INRAE		France		Stressed
+UNT46	c22:2 (mol % )	0.114842144282409	Seed		INRAE		France		Stressed
+UNT46	c22:2 (mol % )	0.113356045289571	Seed		INRAE		France		Stressed
+UNT4	c22:3 (mol % )	0.34902797978247	Seed		INRAE		France		Stressed
+UNT4	c22:3 (mol % )	0.339702202129929	Seed		INRAE		France		Stressed
+UNT4	c22:3 (mol % )	0.363759994936759	Seed		INRAE		France		Stressed
+UNT4	c22:3 (mol % )	0.321570986530025	Seed		INRAE		France		Stressed
+UNT18	c22:3 (mol % )	0.330480447654976	Seed		INRAE		France		Stressed
+UNT18	c22:3 (mol % )	0.368039208115168	Seed		INRAE		France		Stressed
+UNT18	c22:3 (mol % )	0.410643147942879	Seed		INRAE		France		Stressed
+UNT18	c22:3 (mol % )	0.455729747320644	Seed		INRAE		France		Stressed
+UNT21	c22:3 (mol % )	0.295613442873687	Seed		INRAE		France		Stressed
+UNT21	c22:3 (mol % )	0.327093000113586	Seed		INRAE		France		Stressed
+UNT21	c22:3 (mol % )	0.324645412627606	Seed		INRAE		France		Stressed
+UNT21	c22:3 (mol % )	0.323987845882889	Seed		INRAE		France		Stressed
+UNT46	c22:3 (mol % )	0.402863645416285	Seed		INRAE		France		Stressed
+UNT46	c22:3 (mol % )	0.405477336489116	Seed		INRAE		France		Stressed
+UNT46	c22:3 (mol % )	0.353335362665946	Seed		INRAE		France		Stressed
+UNT46	c22:3 (mol % )	0.334122046753152	Seed		INRAE		France		Stressed
+UNT4	c24:0 (mol % )	0.097898351903782	Seed		INRAE		France		Stressed
+UNT4	c24:0 (mol % )	0.095716629098946	Seed		INRAE		France		Stressed
+UNT4	c24:0 (mol % )	0.103776263224916	Seed		INRAE		France		Stressed
+UNT4	c24:0 (mol % )	0.09952967189869	Seed		INRAE		France		Stressed
+UNT18	c24:0 (mol % )	0.118366861711319	Seed		INRAE		France		Stressed
+UNT18	c24:0 (mol % )	0.11646984204098	Seed		INRAE		France		Stressed
+UNT18	c24:0 (mol % )	0.152145388073233	Seed		INRAE		France		Stressed
+UNT18	c24:0 (mol % )	0.148843869845246	Seed		INRAE		France		Stressed
+UNT21	c24:0 (mol % )	0.120583769855673	Seed		INRAE		France		Stressed
+UNT21	c24:0 (mol % )	0.144008993120329	Seed		INRAE		France		Stressed
+UNT21	c24:0 (mol % )	0.13796702574834	Seed		INRAE		France		Stressed
+UNT21	c24:0 (mol % )	0.135409201382139	Seed		INRAE		France		Stressed
+UNT46	c24:0 (mol % )	0.191250601089438	Seed		INRAE		France		Stressed
+UNT46	c24:0 (mol % )	0.18339012739031	Seed		INRAE		France		Stressed
+UNT46	c24:0 (mol % )	0.165407973367773	Seed		INRAE		France		Stressed
+UNT46	c24:0 (mol % )	0.176712603730698	Seed		INRAE		France		Stressed
+UNT4	c24:1 (mol % )	0.480111621068647	Seed		INRAE		France		Stressed
+UNT4	c24:1 (mol % )	0.487568450547699	Seed		INRAE		France		Stressed
+UNT4	c24:1 (mol % )	0.499841623104922	Seed		INRAE		France		Stressed
+UNT4	c24:1 (mol % )	0.480396819185828	Seed		INRAE		France		Stressed
+UNT18	c24:1 (mol % )	0.505332021570315	Seed		INRAE		France		Stressed
+UNT18	c24:1 (mol % )	0.507596741455515	Seed		INRAE		France		Stressed
+UNT18	c24:1 (mol % )	0.658879345229837	Seed		INRAE		France		Stressed
+UNT18	c24:1 (mol % )	0.67143334541144	Seed		INRAE		France		Stressed
+UNT21	c24:1 (mol % )	0.549735932449724	Seed		INRAE		France		Stressed
+UNT21	c24:1 (mol % )	0.617425245621607	Seed		INRAE		France		Stressed
+UNT21	c24:1 (mol % )	0.59849881881237	Seed		INRAE		France		Stressed
+UNT21	c24:1 (mol % )	0.610670504709523	Seed		INRAE		France		Stressed
+UNT46	c24:1 (mol % )	0.582414731140978	Seed		INRAE		France		Stressed
+UNT46	c24:1 (mol % )	0.562160576882645	Seed		INRAE		France		Stressed
+UNT46	c24:1 (mol % )	0.555241980281901	Seed		INRAE		France		Stressed
+UNT46	c24:1 (mol % )	0.544834104889678	Seed		INRAE		France		Stressed
+UNT4	c16:0 (µg/mg )	11.1147575082915	Seed		INRAE		France		Stressed
+UNT4	c16:0 (µg/mg )	11.8379744692893	Seed		INRAE		France		Stressed
+UNT4	c16:0 (µg/mg )	11.4149085079006	Seed		INRAE		France		Stressed
+UNT4	c16:0 (µg/mg )	12.8978132450659	Seed		INRAE		France		Stressed
+UNT18	c16:0 (µg/mg )	11.4723658057263	Seed		INRAE		France		Stressed
+UNT18	c16:0 (µg/mg )	12.7929234331885	Seed		INRAE		France		Stressed
+UNT18	c16:0 (µg/mg )	19.7820521668983	Seed		INRAE		France		Stressed
+UNT18	c16:0 (µg/mg )	19.0632678489674	Seed		INRAE		France		Stressed
+UNT21	c16:0 (µg/mg )	16.8442566656433	Seed		INRAE		France		Stressed
+UNT21	c16:0 (µg/mg )	19.3150684116662	Seed		INRAE		France		Stressed
+UNT21	c16:0 (µg/mg )	19.4950670810642	Seed		INRAE		France		Stressed
+UNT21	c16:0 (µg/mg )	18.9064071237072	Seed		INRAE		France		Stressed
+UNT46	c16:0 (µg/mg )	17.8516309776386	Seed		INRAE		France		Stressed
+UNT46	c16:0 (µg/mg )	18.2282747004856	Seed		INRAE		France		Stressed
+UNT46	c16:0 (µg/mg )	18.5951308298984	Seed		INRAE		France		Stressed
+UNT46	c16:0 (µg/mg )	18.3746201366256	Seed		INRAE		France		Stressed
+UNT4	c16:1 (µg/mg )	0.225490568177888	Seed		INRAE		France		Stressed
+UNT4	c16:1 (µg/mg )	0.254680382856659	Seed		INRAE		France		Stressed
+UNT4	c16:1 (µg/mg )	0.238252452255801	Seed		INRAE		France		Stressed
+UNT4	c16:1 (µg/mg )	0.26211876257288	Seed		INRAE		France		Stressed
+UNT18	c16:1 (µg/mg )	0.235259731571439	Seed		INRAE		France		Stressed
+UNT18	c16:1 (µg/mg )	0.255897728055793	Seed		INRAE		France		Stressed
+UNT18	c16:1 (µg/mg )	0.410634028805386	Seed		INRAE		France		Stressed
+UNT18	c16:1 (µg/mg )	0.41149407822857	Seed		INRAE		France		Stressed
+UNT21	c16:1 (µg/mg )	0.358909209545462	Seed		INRAE		France		Stressed
+UNT21	c16:1 (µg/mg )	0.428585466664067	Seed		INRAE		France		Stressed
+UNT21	c16:1 (µg/mg )	0.406565491943296	Seed		INRAE		France		Stressed
+UNT21	c16:1 (µg/mg )	0.412724578613513	Seed		INRAE		France		Stressed
+UNT46	c16:1 (µg/mg )	0.332105612990649	Seed		INRAE		France		Stressed
+UNT46	c16:1 (µg/mg )	0.321500861719845	Seed		INRAE		France		Stressed
+UNT46	c16:1 (µg/mg )	0.345172081615158	Seed		INRAE		France		Stressed
+UNT46	c16:1 (µg/mg )	0.327485421523912	Seed		INRAE		France		Stressed
+UNT4	c18:0 (µg/mg )	3.78650184153528	Seed		INRAE		France		Stressed
+UNT4	c18:0 (µg/mg )	4.10691388576847	Seed		INRAE		France		Stressed
+UNT4	c18:0 (µg/mg )	3.93531204460824	Seed		INRAE		France		Stressed
+UNT4	c18:0 (µg/mg )	4.65584790832416	Seed		INRAE		France		Stressed
+UNT18	c18:0 (µg/mg )	4.36982848956785	Seed		INRAE		France		Stressed
+UNT18	c18:0 (µg/mg )	4.69814772246062	Seed		INRAE		France		Stressed
+UNT18	c18:0 (µg/mg )	8.56524667777027	Seed		INRAE		France		Stressed
+UNT18	c18:0 (µg/mg )	7.80945158948338	Seed		INRAE		France		Stressed
+UNT21	c18:0 (µg/mg )	6.17073295042889	Seed		INRAE		France		Stressed
+UNT21	c18:0 (µg/mg )	7.1343645966142	Seed		INRAE		France		Stressed
+UNT21	c18:0 (µg/mg )	7.33454736306497	Seed		INRAE		France		Stressed
+UNT21	c18:0 (µg/mg )	6.89891088505045	Seed		INRAE		France		Stressed
+UNT46	c18:0 (µg/mg )	7.37172572443617	Seed		INRAE		France		Stressed
+UNT46	c18:0 (µg/mg )	7.24606993822452	Seed		INRAE		France		Stressed
+UNT46	c18:0 (µg/mg )	7.7129331256145	Seed		INRAE		France		Stressed
+UNT46	c18:0 (µg/mg )	7.52991890402574	Seed		INRAE		France		Stressed
+UNT4	c18:1 (µg/mg )	22.4358586727499	Seed		INRAE		France		Stressed
+UNT4	c18:1 (µg/mg )	24.0737410475	Seed		INRAE		France		Stressed
+UNT4	c18:1 (µg/mg )	23.0248412518548	Seed		INRAE		France		Stressed
+UNT4	c18:1 (µg/mg )	26.9534483474697	Seed		INRAE		France		Stressed
+UNT18	c18:1 (µg/mg )	19.7560265132586	Seed		INRAE		France		Stressed
+UNT18	c18:1 (µg/mg )	22.9524739020335	Seed		INRAE		France		Stressed
+UNT18	c18:1 (µg/mg )	38.6691422442111	Seed		INRAE		France		Stressed
+UNT18	c18:1 (µg/mg )	38.4598116418317	Seed		INRAE		France		Stressed
+UNT21	c18:1 (µg/mg )	38.9685308985354	Seed		INRAE		France		Stressed
+UNT21	c18:1 (µg/mg )	44.9032941489299	Seed		INRAE		France		Stressed
+UNT21	c18:1 (µg/mg )	44.9363137815989	Seed		INRAE		France		Stressed
+UNT21	c18:1 (µg/mg )	45.1691333218209	Seed		INRAE		France		Stressed
+UNT46	c18:1 (µg/mg )	43.1087342445737	Seed		INRAE		France		Stressed
+UNT46	c18:1 (µg/mg )	43.3033149937477	Seed		INRAE		France		Stressed
+UNT46	c18:1 (µg/mg )	47.9011845475382	Seed		INRAE		France		Stressed
+UNT46	c18:1 (µg/mg )	45.4310328568477	Seed		INRAE		France		Stressed
+UNT4	c18:2 (µg/mg )	31.5804479197778	Seed		INRAE		France		Stressed
+UNT4	c18:2 (µg/mg )	33.9986761404188	Seed		INRAE		France		Stressed
+UNT4	c18:2 (µg/mg )	32.9612753275945	Seed		INRAE		France		Stressed
+UNT4	c18:2 (µg/mg )	38.2948880155225	Seed		INRAE		France		Stressed
+UNT18	c18:2 (µg/mg )	33.9362630091193	Seed		INRAE		France		Stressed
+UNT18	c18:2 (µg/mg )	37.3706706081633	Seed		INRAE		France		Stressed
+UNT18	c18:2 (µg/mg )	59.450415714095	Seed		INRAE		France		Stressed
+UNT18	c18:2 (µg/mg )	56.7633669574491	Seed		INRAE		France		Stressed
+UNT21	c18:2 (µg/mg )	45.9205569082086	Seed		INRAE		France		Stressed
+UNT21	c18:2 (µg/mg )	53.1130192117008	Seed		INRAE		France		Stressed
+UNT21	c18:2 (µg/mg )	54.1673916565593	Seed		INRAE		France		Stressed
+UNT21	c18:2 (µg/mg )	52.2586454740323	Seed		INRAE		France		Stressed
+UNT46	c18:2 (µg/mg )	54.1845456962743	Seed		INRAE		France		Stressed
+UNT46	c18:2 (µg/mg )	52.7930000871992	Seed		INRAE		France		Stressed
+UNT46	c18:2 (µg/mg )	56.0902906462341	Seed		INRAE		France		Stressed
+UNT46	c18:2 (µg/mg )	55.0052643732945	Seed		INRAE		France		Stressed
+UNT4	c18:3 (µg/mg )	52.9673969494008	Seed		INRAE		France		Stressed
+UNT4	c18:3 (µg/mg )	56.670114713927	Seed		INRAE		France		Stressed
+UNT4	c18:3 (µg/mg )	55.2117861006103	Seed		INRAE		France		Stressed
+UNT4	c18:3 (µg/mg )	59.0488720583076	Seed		INRAE		France		Stressed
+UNT18	c18:3 (µg/mg )	46.6199681144751	Seed		INRAE		France		Stressed
+UNT18	c18:3 (µg/mg )	54.3436059422989	Seed		INRAE		France		Stressed
+UNT18	c18:3 (µg/mg )	89.9318011159032	Seed		INRAE		France		Stressed
+UNT18	c18:3 (µg/mg )	91.0306027188738	Seed		INRAE		France		Stressed
+UNT21	c18:3 (µg/mg )	82.5341828605797	Seed		INRAE		France		Stressed
+UNT21	c18:3 (µg/mg )	96.0513324434302	Seed		INRAE		France		Stressed
+UNT21	c18:3 (µg/mg )	93.2274478413053	Seed		INRAE		France		Stressed
+UNT21	c18:3 (µg/mg )	92.8012406857233	Seed		INRAE		France		Stressed
+UNT46	c18:3 (µg/mg )	93.7267529359997	Seed		INRAE		France		Stressed
+UNT46	c18:3 (µg/mg )	97.5548836584161	Seed		INRAE		France		Stressed
+UNT46	c18:3 (µg/mg )	99.9001259139978	Seed		INRAE		France		Stressed
+UNT46	c18:3 (µg/mg )	94.5069708802915	Seed		INRAE		France		Stressed
+UNT4	c20:0 (µg/mg )	2.59329809262862	Seed		INRAE		France		Stressed
+UNT4	c20:0 (µg/mg )	2.74055154684948	Seed		INRAE		France		Stressed
+UNT4	c20:0 (µg/mg )	2.76100208030136	Seed		INRAE		France		Stressed
+UNT4	c20:0 (µg/mg )	3.15189097413841	Seed		INRAE		France		Stressed
+UNT18	c20:0 (µg/mg )	3.09264822460868	Seed		INRAE		France		Stressed
+UNT18	c20:0 (µg/mg )	3.47741944523027	Seed		INRAE		France		Stressed
+UNT18	c20:0 (µg/mg )	6.52230753138778	Seed		INRAE		France		Stressed
+UNT18	c20:0 (µg/mg )	6.26798916500243	Seed		INRAE		France		Stressed
+UNT21	c20:0 (µg/mg )	3.93077872661488	Seed		INRAE		France		Stressed
+UNT21	c20:0 (µg/mg )	4.72902653679655	Seed		INRAE		France		Stressed
+UNT21	c20:0 (µg/mg )	4.85159330013519	Seed		INRAE		France		Stressed
+UNT21	c20:0 (µg/mg )	4.53923321652328	Seed		INRAE		France		Stressed
+UNT46	c20:0 (µg/mg )	5.38975702901323	Seed		INRAE		France		Stressed
+UNT46	c20:0 (µg/mg )	5.18157729287364	Seed		INRAE		France		Stressed
+UNT46	c20:0 (µg/mg )	5.3083693812852	Seed		INRAE		France		Stressed
+UNT46	c20:0 (µg/mg )	5.11532969836182	Seed		INRAE		France		Stressed
+UNT4	c20:1 (µg/mg )	22.3642396262835	Seed		INRAE		France		Stressed
+UNT4	c20:1 (µg/mg )	23.8520487550199	Seed		INRAE		France		Stressed
+UNT4	c20:1 (µg/mg )	23.0833130598962	Seed		INRAE		France		Stressed
+UNT4	c20:1 (µg/mg )	26.0229977878754	Seed		INRAE		France		Stressed
+UNT18	c20:1 (µg/mg )	20.9308248694891	Seed		INRAE		France		Stressed
+UNT18	c20:1 (µg/mg )	24.5116242260203	Seed		INRAE		France		Stressed
+UNT18	c20:1 (µg/mg )	44.1422626905534	Seed		INRAE		France		Stressed
+UNT18	c20:1 (µg/mg )	43.3082196749058	Seed		INRAE		France		Stressed
+UNT21	c20:1 (µg/mg )	34.8604611403275	Seed		INRAE		France		Stressed
+UNT21	c20:1 (µg/mg )	41.048148652763	Seed		INRAE		France		Stressed
+UNT21	c20:1 (µg/mg )	41.3616607341157	Seed		INRAE		France		Stressed
+UNT21	c20:1 (µg/mg )	40.41764808641	Seed		INRAE		France		Stressed
+UNT46	c20:1 (µg/mg )	42.2735660706692	Seed		INRAE		France		Stressed
+UNT46	c20:1 (µg/mg )	43.0987983469788	Seed		INRAE		France		Stressed
+UNT46	c20:1 (µg/mg )	44.7365437709677	Seed		INRAE		France		Stressed
+UNT46	c20:1 (µg/mg )	43.0380637785726	Seed		INRAE		France		Stressed
+UNT4	c20:2 (µg/mg )	2.90569555469239	Seed		INRAE		France		Stressed
+UNT4	c20:2 (µg/mg )	3.07141795844547	Seed		INRAE		France		Stressed
+UNT4	c20:2 (µg/mg )	3.08537949924981	Seed		INRAE		France		Stressed
+UNT4	c20:2 (µg/mg )	3.43920147417033	Seed		INRAE		France		Stressed
+UNT18	c20:2 (µg/mg )	2.9551187966999	Seed		INRAE		France		Stressed
+UNT18	c20:2 (µg/mg )	3.51731949166233	Seed		INRAE		France		Stressed
+UNT18	c20:2 (µg/mg )	6.19648879537829	Seed		INRAE		France		Stressed
+UNT18	c20:2 (µg/mg )	6.21443714798958	Seed		INRAE		France		Stressed
+UNT21	c20:2 (µg/mg )	4.00626505403104	Seed		INRAE		France		Stressed
+UNT21	c20:2 (µg/mg )	4.83634298068728	Seed		INRAE		France		Stressed
+UNT21	c20:2 (µg/mg )	4.88845738502306	Seed		INRAE		France		Stressed
+UNT21	c20:2 (µg/mg )	4.7134917045137	Seed		INRAE		France		Stressed
+UNT46	c20:2 (µg/mg )	5.33880211014049	Seed		INRAE		France		Stressed
+UNT46	c20:2 (µg/mg )	5.34764094021587	Seed		INRAE		France		Stressed
+UNT46	c20:2 (µg/mg )	5.36244903057552	Seed		INRAE		France		Stressed
+UNT46	c20:2 (µg/mg )	5.13807164612891	Seed		INRAE		France		Stressed
+UNT4	c20:3 (µg/mg )	1.89580612202239	Seed		INRAE		France		Stressed
+UNT4	c20:3 (µg/mg )	1.96806312607801	Seed		INRAE		France		Stressed
+UNT4	c20:3 (µg/mg )	1.99526558620934	Seed		INRAE		France		Stressed
+UNT4	c20:3 (µg/mg )	2.07119678607114	Seed		INRAE		France		Stressed
+UNT18	c20:3 (µg/mg )	1.60019697390182	Seed		INRAE		France		Stressed
+UNT18	c20:3 (µg/mg )	2.02081995348158	Seed		INRAE		France		Stressed
+UNT18	c20:3 (µg/mg )	3.73785720731241	Seed		INRAE		France		Stressed
+UNT18	c20:3 (µg/mg )	3.90779691751155	Seed		INRAE		France		Stressed
+UNT21	c20:3 (µg/mg )	2.9014964696292	Seed		INRAE		France		Stressed
+UNT21	c20:3 (µg/mg )	3.53933636250331	Seed		INRAE		France		Stressed
+UNT21	c20:3 (µg/mg )	3.39238777277317	Seed		INRAE		France		Stressed
+UNT21	c20:3 (µg/mg )	3.3741625161782	Seed		INRAE		France		Stressed
+UNT46	c20:3 (µg/mg )	3.71050864600882	Seed		INRAE		France		Stressed
+UNT46	c20:3 (µg/mg )	3.93525867034883	Seed		INRAE		France		Stressed
+UNT46	c20:3 (µg/mg )	3.78383873675561	Seed		INRAE		France		Stressed
+UNT46	c20:3 (µg/mg )	3.45995870786319	Seed		INRAE		France		Stressed
+UNT4	c22:0 (µg/mg )	0.491671837197293	Seed		INRAE		France		Stressed
+UNT4	c22:0 (µg/mg )	0.516420902622868	Seed		INRAE		France		Stressed
+UNT4	c22:0 (µg/mg )	0.523635935691062	Seed		INRAE		France		Stressed
+UNT4	c22:0 (µg/mg )	0.587712102849931	Seed		INRAE		France		Stressed
+UNT18	c22:0 (µg/mg )	0.548153097021578	Seed		INRAE		France		Stressed
+UNT18	c22:0 (µg/mg )	0.625474112602947	Seed		INRAE		France		Stressed
+UNT18	c22:0 (µg/mg )	1.31376072658049	Seed		INRAE		France		Stressed
+UNT18	c22:0 (µg/mg )	1.25777657932494	Seed		INRAE		France		Stressed
+UNT21	c22:0 (µg/mg )	0.76652413159531	Seed		INRAE		France		Stressed
+UNT21	c22:0 (µg/mg )	0.987098369438205	Seed		INRAE		France		Stressed
+UNT21	c22:0 (µg/mg )	0.989700245907102	Seed		INRAE		France		Stressed
+UNT21	c22:0 (µg/mg )	0.935882160416912	Seed		INRAE		France		Stressed
+UNT46	c22:0 (µg/mg )	1.13641069521241	Seed		INRAE		France		Stressed
+UNT46	c22:0 (µg/mg )	1.09783100889127	Seed		INRAE		France		Stressed
+UNT46	c22:0 (µg/mg )	1.10268905130616	Seed		INRAE		France		Stressed
+UNT46	c22:0 (µg/mg )	1.0527861680313	Seed		INRAE		France		Stressed
+UNT4	c22:1 (µg/mg )	4.96875982654628	Seed		INRAE		France		Stressed
+UNT4	c22:1 (µg/mg )	5.27802964188193	Seed		INRAE		France		Stressed
+UNT4	c22:1 (µg/mg )	5.26663741935578	Seed		INRAE		France		Stressed
+UNT4	c22:1 (µg/mg )	5.64138405674444	Seed		INRAE		France		Stressed
+UNT18	c22:1 (µg/mg )	4.75229521800013	Seed		INRAE		France		Stressed
+UNT18	c22:1 (µg/mg )	5.6294834148941	Seed		INRAE		France		Stressed
+UNT18	c22:1 (µg/mg )	11.0322842778711	Seed		INRAE		France		Stressed
+UNT18	c22:1 (µg/mg )	10.8964173826544	Seed		INRAE		France		Stressed
+UNT21	c22:1 (µg/mg )	7.34300371426078	Seed		INRAE		France		Stressed
+UNT21	c22:1 (µg/mg )	8.98469169734141	Seed		INRAE		France		Stressed
+UNT21	c22:1 (µg/mg )	8.96767825075249	Seed		INRAE		France		Stressed
+UNT21	c22:1 (µg/mg )	8.75466564318703	Seed		INRAE		France		Stressed
+UNT46	c22:1 (µg/mg )	10.658871407248	Seed		INRAE		France		Stressed
+UNT46	c22:1 (µg/mg )	10.4667139771602	Seed		INRAE		France		Stressed
+UNT46	c22:1 (µg/mg )	10.3389282364431	Seed		INRAE		France		Stressed
+UNT46	c22:1 (µg/mg )	9.78037086525743	Seed		INRAE		France		Stressed
+UNT4	c22:2 (µg/mg )	0.229669479847583	Seed		INRAE		France		Stressed
+UNT4	c22:2 (µg/mg )	0.240983957563369	Seed		INRAE		France		Stressed
+UNT4	c22:2 (µg/mg )	0.252824678373037	Seed		INRAE		France		Stressed
+UNT4	c22:2 (µg/mg )	0.263397419266208	Seed		INRAE		France		Stressed
+UNT18	c22:2 (µg/mg )	0.257342039109865	Seed		INRAE		France		Stressed
+UNT18	c22:2 (µg/mg )	0.308630455150651	Seed		INRAE		France		Stressed
+UNT18	c22:2 (µg/mg )	0.546344538650218	Seed		INRAE		France		Stressed
+UNT18	c22:2 (µg/mg )	0.573889969081069	Seed		INRAE		France		Stressed
+UNT21	c22:2 (µg/mg )	0.248624285878782	Seed		INRAE		France		Stressed
+UNT21	c22:2 (µg/mg )	0.318321119760041	Seed		INRAE		France		Stressed
+UNT21	c22:2 (µg/mg )	0.337974584674724	Seed		INRAE		France		Stressed
+UNT21	c22:2 (µg/mg )	0.307184153969985	Seed		INRAE		France		Stressed
+UNT46	c22:2 (µg/mg )	0.447141335543926	Seed		INRAE		France		Stressed
+UNT46	c22:2 (µg/mg )	0.425116722305206	Seed		INRAE		France		Stressed
+UNT46	c22:2 (µg/mg )	0.40928947871287	Seed		INRAE		France		Stressed
+UNT46	c22:2 (µg/mg )	0.387234881523656	Seed		INRAE		France		Stressed
+UNT4	c22:3 (µg/mg )	0.646670399596101	Seed		INRAE		France		Stressed
+UNT4	c22:3 (µg/mg )	0.672714676636288	Seed		INRAE		France		Stressed
+UNT4	c22:3 (µg/mg )	0.700810985334687	Seed		INRAE		France		Stressed
+UNT4	c22:3 (µg/mg )	0.693030557007842	Seed		INRAE		France		Stressed
+UNT18	c22:3 (µg/mg )	0.585422804201417	Seed		INRAE		France		Stressed
+UNT18	c22:3 (µg/mg )	0.751330126660609	Seed		INRAE		France		Stressed
+UNT18	c22:3 (µg/mg )	1.4014071563544	Seed		INRAE		France		Stressed
+UNT18	c22:3 (µg/mg )	1.53179740307057	Seed		INRAE		France		Stressed
+UNT21	c22:3 (µg/mg )	0.872022304027325	Seed		INRAE		France		Stressed
+UNT21	c22:3 (µg/mg )	1.09887239558891	Seed		INRAE		France		Stressed
+UNT21	c22:3 (µg/mg )	1.08662259020107	Seed		INRAE		France		Stressed
+UNT21	c22:3 (µg/mg )	1.06579030949392	Seed		INRAE		France		Stressed
+UNT46	c22:3 (µg/mg )	1.35193418644997	Seed		INRAE		France		Stressed
+UNT46	c22:3 (µg/mg )	1.3776082526021	Seed		INRAE		France		Stressed
+UNT46	c22:3 (µg/mg )	1.25209047757357	Seed		INRAE		France		Stressed
+UNT46	c22:3 (µg/mg )	1.13505660656105	Seed		INRAE		France		Stressed
+UNT4	c24:0 (µg/mg )	0.198954280031341	Seed		INRAE		France		Stressed
+UNT4	c24:0 (µg/mg )	0.208027525289787	Seed		INRAE		France		Stressed
+UNT4	c24:0 (µg/mg )	0.219502839413467	Seed		INRAE		France		Stressed
+UNT4	c24:0 (µg/mg )	0.235874063919714	Seed		INRAE		France		Stressed
+UNT18	c24:0 (µg/mg )	0.230001998978283	Seed		INRAE		France		Stressed
+UNT18	c24:0 (µg/mg )	0.260177462223381	Seed		INRAE		France		Stressed
+UNT18	c24:0 (µg/mg )	0.569455729530859	Seed		INRAE		France		Stressed
+UNT18	c24:0 (µg/mg )	0.549260594462725	Seed		INRAE		France		Stressed
+UNT21	c24:0 (µg/mg )	0.390095210709566	Seed		INRAE		France		Stressed
+UNT21	c24:0 (µg/mg )	0.530888559430631	Seed		INRAE		France		Stressed
+UNT21	c24:0 (µg/mg )	0.506546222550371	Seed		INRAE		France		Stressed
+UNT21	c24:0 (µg/mg )	0.488795996784771	Seed		INRAE		France		Stressed
+UNT46	c24:0 (µg/mg )	0.704319408498231	Seed		INRAE		France		Stressed
+UNT46	c24:0 (µg/mg )	0.683519177013906	Seed		INRAE		France		Stressed
+UNT46	c24:0 (µg/mg )	0.643432070034462	Seed		INRAE		France		Stressed
+UNT46	c24:0 (µg/mg )	0.659055411732991	Seed		INRAE		France		Stressed
+UNT4	c24:1 (µg/mg )	0.971269346509546	Seed		INRAE		France		Stressed
+UNT4	c24:1 (µg/mg )	1.05523470235076	Seed		INRAE		France		Stressed
+UNT4	c24:1 (µg/mg )	1.05127121842083	Seed		INRAE		France		Stressed
+UNT4	c24:1 (µg/mg )	1.13100998311394	Seed		INRAE		France		Stressed
+UNT18	c24:1 (µg/mg )	0.977239477256781	Seed		INRAE		France		Stressed
+UNT18	c24:1 (µg/mg )	1.12995978491876	Seed		INRAE		France		Stressed
+UNT18	c24:1 (µg/mg )	2.45466479146519	Seed		INRAE		France		Stressed
+UNT18	c24:1 (µg/mg )	2.46455783102455	Seed		INRAE		France		Stressed
+UNT21	c24:1 (µg/mg )	1.77995716120491	Seed		INRAE		France		Stressed
+UNT21	c24:1 (µg/mg )	2.26570745980323	Seed		INRAE		France		Stressed
+UNT21	c24:1 (µg/mg )	2.18658655051816	Seed		INRAE		France		Stressed
+UNT21	c24:1 (µg/mg )	2.19411051508157	Seed		INRAE		France		Stressed
+UNT46	c24:1 (µg/mg )	2.13407695618099	Seed		INRAE		France		Stressed
+UNT46	c24:1 (µg/mg )	2.0848645248935	Seed		INRAE		France		Stressed
+UNT46	c24:1 (µg/mg )	2.14821095325185	Seed		INRAE		France		Stressed
+UNT46	c24:1 (µg/mg )	2.02109928776713	Seed		INRAE		France		Stressed
+UNT4	total fa/mg (µg/mg  )	159.376488025288	Seed		INRAE		France		Stressed
+UNT4	total fa/mg (µg/mg  )	170.545593432498	Seed		INRAE		France		Stressed
+UNT4	total fa/mg (µg/mg  )	165.72601898707	Seed		INRAE		France		Stressed
+UNT4	total fa/mg (µg/mg  )	185.35068354242	Seed		INRAE		France		Stressed
+UNT18	total fa/mg (µg/mg  )	152.318955162986	Seed		INRAE		France		Stressed
+UNT18	total fa/mg (µg/mg  )	174.645957809045	Seed		INRAE		France		Stressed
+UNT18	total fa/mg (µg/mg  )	294.726125392767	Seed		INRAE		France		Stressed
+UNT18	total fa/mg (µg/mg  )	290.510137499862	Seed		INRAE		France		Stressed
+UNT21	total fa/mg (µg/mg  )	247.896397691221	Seed		INRAE		France		Stressed
+UNT21	total fa/mg (µg/mg  )	289.284098413118	Seed		INRAE		France		Stressed
+UNT21	total fa/mg (µg/mg  )	288.136540852187	Seed		INRAE		France		Stressed
+UNT21	total fa/mg (µg/mg  )	283.238026371507	Seed		INRAE		France		Stressed
+UNT46	total fa/mg (µg/mg  )	289.720883036878	Seed		INRAE		France		Stressed
+UNT46	total fa/mg (µg/mg  )	293.145973153076	Seed		INRAE		France		Stressed
+UNT46	total fa/mg (µg/mg  )	305.630678331804	Seed		INRAE		France		Stressed
+UNT46	total fa/mg (µg/mg  )	292.962319624409	Seed		INRAE		France		Stressed
+UNT4	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT4	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT18	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT21	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT46	plant_anatomical_entity	Seed	Seed		INRAE		France		Optimal
+UNT4	c16:0 (mol % )	7.42316644602164	Seed		INRAE		France		Optimal
+UNT4	c16:0 (mol % )	8.15834712882195	Seed		INRAE		France		Optimal
+UNT4	c16:0 (mol % )	7.64596442374426	Seed		INRAE		France		Optimal
+UNT4	c16:0 (mol % )	7.51977142943453	Seed		INRAE		France		Optimal
+UNT18	c16:0 (mol % )	8.34055043536259	Seed		INRAE		France		Optimal
+UNT18	c16:0 (mol % )	7.97858171600043	Seed		INRAE		France		Optimal
+UNT18	c16:0 (mol % )	7.88555112272351	Seed		INRAE		France		Optimal
+UNT18	c16:0 (mol % )	7.97249140026611	Seed		INRAE		France		Optimal
+UNT21	c16:0 (mol % )	7.75202387561268	Seed		INRAE		France		Optimal
+UNT21	c16:0 (mol % )	7.76715633412874	Seed		INRAE		France		Optimal
+UNT21	c16:0 (mol % )	7.91853494045005	Seed		INRAE		France		Optimal
+UNT21	c16:0 (mol % )	7.7038633626238	Seed		INRAE		France		Optimal
+UNT46	c16:0 (mol % )	7.12106967230847	Seed		INRAE		France		Optimal
+UNT46	c16:0 (mol % )	7.10350957381848	Seed		INRAE		France		Optimal
+UNT46	c16:0 (mol % )	6.94362864319702	Seed		INRAE		France		Optimal
+UNT46	c16:0 (mol % )	7.19875351469751	Seed		INRAE		France		Optimal
+UNT4	c16:1 (mol % )	0.159787932004135	Seed		INRAE		France		Optimal
+UNT4	c16:1 (mol % )	0.174205687333026	Seed		INRAE		France		Optimal
+UNT4	c16:1 (mol % )	0.16196244814034	Seed		INRAE		France		Optimal
+UNT4	c16:1 (mol % )	0.150304219343322	Seed		INRAE		France		Optimal
+UNT18	c16:1 (mol % )	0.170197253508338	Seed		INRAE		France		Optimal
+UNT18	c16:1 (mol % )	0.153705159268803	Seed		INRAE		France		Optimal
+UNT18	c16:1 (mol % )	0.159095949254362	Seed		INRAE		France		Optimal
+UNT18	c16:1 (mol % )	0.160914763802516	Seed		INRAE		France		Optimal
+UNT21	c16:1 (mol % )	0.161959924478653	Seed		INRAE		France		Optimal
+UNT21	c16:1 (mol % )	0.154333809560498	Seed		INRAE		France		Optimal
+UNT21	c16:1 (mol % )	0.158696814690477	Seed		INRAE		France		Optimal
+UNT21	c16:1 (mol % )	0.148576272188989	Seed		INRAE		France		Optimal
+UNT46	c16:1 (mol % )	0.126897584126664	Seed		INRAE		France		Optimal
+UNT46	c16:1 (mol % )	0.136927297440075	Seed		INRAE		France		Optimal
+UNT46	c16:1 (mol % )	0.133777337444821	Seed		INRAE		France		Optimal
+UNT46	c16:1 (mol % )	0.123910111060937	Seed		INRAE		France		Optimal
+UNT4	c18:0 (mol % )	2.57901168262926	Seed		INRAE		France		Optimal
+UNT4	c18:0 (mol % )	2.45112272797819	Seed		INRAE		France		Optimal
+UNT4	c18:0 (mol % )	2.58071188658553	Seed		INRAE		France		Optimal
+UNT4	c18:0 (mol % )	2.52676590046834	Seed		INRAE		France		Optimal
+UNT18	c18:0 (mol % )	2.63734493226292	Seed		INRAE		France		Optimal
+UNT18	c18:0 (mol % )	2.58442628305024	Seed		INRAE		France		Optimal
+UNT18	c18:0 (mol % )	2.64500503803085	Seed		INRAE		France		Optimal
+UNT18	c18:0 (mol % )	2.66807694785639	Seed		INRAE		France		Optimal
+UNT21	c18:0 (mol % )	2.52393995593714	Seed		INRAE		France		Optimal
+UNT21	c18:0 (mol % )	2.61375564147956	Seed		INRAE		France		Optimal
+UNT21	c18:0 (mol % )	2.65361038469872	Seed		INRAE		France		Optimal
+UNT21	c18:0 (mol % )	2.61295712512506	Seed		INRAE		France		Optimal
+UNT46	c18:0 (mol % )	2.4637886916682	Seed		INRAE		France		Optimal
+UNT46	c18:0 (mol % )	2.38753016202451	Seed		INRAE		France		Optimal
+UNT46	c18:0 (mol % )	2.28649140397957	Seed		INRAE		France		Optimal
+UNT46	c18:0 (mol % )	2.39292927090655	Seed		INRAE		France		Optimal
+UNT4	c18:1 (mol % )	18.4252424408717	Seed		INRAE		France		Optimal
+UNT4	c18:1 (mol % )	17.8556730199679	Seed		INRAE		France		Optimal
+UNT4	c18:1 (mol % )	18.2121140802836	Seed		INRAE		France		Optimal
+UNT4	c18:1 (mol % )	17.9714822898576	Seed		INRAE		France		Optimal
+UNT18	c18:1 (mol % )	16.6021844362961	Seed		INRAE		France		Optimal
+UNT18	c18:1 (mol % )	16.329822340149	Seed		INRAE		France		Optimal
+UNT18	c18:1 (mol % )	16.416740374218	Seed		INRAE		France		Optimal
+UNT18	c18:1 (mol % )	16.6340892218381	Seed		INRAE		France		Optimal
+UNT21	c18:1 (mol % )	19.7693779705442	Seed		INRAE		France		Optimal
+UNT21	c18:1 (mol % )	19.9804475643103	Seed		INRAE		France		Optimal
+UNT21	c18:1 (mol % )	19.5398871017108	Seed		INRAE		France		Optimal
+UNT21	c18:1 (mol % )	19.2573182085072	Seed		INRAE		France		Optimal
+UNT46	c18:1 (mol % )	19.7383699570785	Seed		INRAE		France		Optimal
+UNT46	c18:1 (mol % )	18.6990494815504	Seed		INRAE		France		Optimal
+UNT46	c18:1 (mol % )	18.0228382251834	Seed		INRAE		France		Optimal
+UNT46	c18:1 (mol % )	19.7147769554704	Seed		INRAE		France		Optimal
+UNT4	c18:2 (mol % )	21.4121241042039	Seed		INRAE		France		Optimal
+UNT4	c18:2 (mol % )	22.5673078296429	Seed		INRAE		France		Optimal
+UNT4	c18:2 (mol % )	21.7457909584014	Seed		INRAE		France		Optimal
+UNT4	c18:2 (mol % )	21.334932523444	Seed		INRAE		France		Optimal
+UNT18	c18:2 (mol % )	23.5906134784494	Seed		INRAE		France		Optimal
+UNT18	c18:2 (mol % )	22.0770521697461	Seed		INRAE		France		Optimal
+UNT18	c18:2 (mol % )	22.0341678363192	Seed		INRAE		France		Optimal
+UNT18	c18:2 (mol % )	22.4207203677884	Seed		INRAE		France		Optimal
+UNT21	c18:2 (mol % )	20.2313184374586	Seed		INRAE		France		Optimal
+UNT21	c18:2 (mol % )	20.3042888365798	Seed		INRAE		France		Optimal
+UNT21	c18:2 (mol % )	20.6476349257523	Seed		INRAE		France		Optimal
+UNT21	c18:2 (mol % )	19.9799617453145	Seed		INRAE		France		Optimal
+UNT46	c18:2 (mol % )	20.4835180242159	Seed		INRAE		France		Optimal
+UNT46	c18:2 (mol % )	19.3072574022564	Seed		INRAE		France		Optimal
+UNT46	c18:2 (mol % )	19.3779810438337	Seed		INRAE		France		Optimal
+UNT46	c18:2 (mol % )	20.2815320573174	Seed		INRAE		France		Optimal
+UNT4	c18:3 (mol % )	28.0937136149274	Seed		INRAE		France		Optimal
+UNT4	c18:3 (mol % )	28.6015416809071	Seed		INRAE		France		Optimal
+UNT4	c18:3 (mol % )	28.4466356993055	Seed		INRAE		France		Optimal
+UNT4	c18:3 (mol % )	29.1633746660126	Seed		INRAE		France		Optimal
+UNT18	c18:3 (mol % )	27.4311902558654	Seed		INRAE		France		Optimal
+UNT18	c18:3 (mol % )	29.2470975073232	Seed		INRAE		France		Optimal
+UNT18	c18:3 (mol % )	28.7230659004527	Seed		INRAE		France		Optimal
+UNT18	c18:3 (mol % )	27.9455383277884	Seed		INRAE		France		Optimal
+UNT21	c18:3 (mol % )	29.6752919575348	Seed		INRAE		France		Optimal
+UNT21	c18:3 (mol % )	28.7613814798127	Seed		INRAE		France		Optimal
+UNT21	c18:3 (mol % )	28.6184224808914	Seed		INRAE		France		Optimal
+UNT21	c18:3 (mol % )	29.4780105656917	Seed		INRAE		France		Optimal
+UNT46	c18:3 (mol % )	29.1209407328146	Seed		INRAE		France		Optimal
+UNT46	c18:3 (mol % )	31.0971507949018	Seed		INRAE		France		Optimal
+UNT46	c18:3 (mol % )	31.7066543353614	Seed		INRAE		France		Optimal
+UNT46	c18:3 (mol % )	30.0833364726537	Seed		INRAE		France		Optimal
+UNT4	c20:0 (mol % )	1.60601608268695	Seed		INRAE		France		Optimal
+UNT4	c20:0 (mol % )	1.50379841631882	Seed		INRAE		France		Optimal
+UNT4	c20:0 (mol % )	1.53593302033274	Seed		INRAE		France		Optimal
+UNT4	c20:0 (mol % )	1.51928176722944	Seed		INRAE		France		Optimal
+UNT18	c20:0 (mol % )	1.64008501861584	Seed		INRAE		France		Optimal
+UNT18	c20:0 (mol % )	1.63825441503129	Seed		INRAE		France		Optimal
+UNT18	c20:0 (mol % )	1.66580141488651	Seed		INRAE		France		Optimal
+UNT18	c20:0 (mol % )	1.69464330649179	Seed		INRAE		France		Optimal
+UNT21	c20:0 (mol % )	1.34663748416986	Seed		INRAE		France		Optimal
+UNT21	c20:0 (mol % )	1.40640845883143	Seed		INRAE		France		Optimal
+UNT21	c20:0 (mol % )	1.40921908259106	Seed		INRAE		France		Optimal
+UNT21	c20:0 (mol % )	1.42399943729344	Seed		INRAE		France		Optimal
+UNT46	c20:0 (mol % )	1.37020469954184	Seed		INRAE		France		Optimal
+UNT46	c20:0 (mol % )	1.3456943628887	Seed		INRAE		France		Optimal
+UNT46	c20:0 (mol % )	1.36881790565184	Seed		INRAE		France		Optimal
+UNT46	c20:0 (mol % )	1.30682725667527	Seed		INRAE		France		Optimal
+UNT4	c20:1 (mol % )	13.9251519153425	Seed		INRAE		France		Optimal
+UNT4	c20:1 (mol % )	12.9777705731148	Seed		INRAE		France		Optimal
+UNT4	c20:1 (mol % )	13.6107149395146	Seed		INRAE		France		Optimal
+UNT4	c20:1 (mol % )	13.7019087407491	Seed		INRAE		France		Optimal
+UNT18	c20:1 (mol % )	13.4698125381905	Seed		INRAE		France		Optimal
+UNT18	c20:1 (mol % )	13.552212056448	Seed		INRAE		France		Optimal
+UNT18	c20:1 (mol % )	13.806178327107	Seed		INRAE		France		Optimal
+UNT18	c20:1 (mol % )	13.9131343814662	Seed		INRAE		France		Optimal
+UNT21	c20:1 (mol % )	13.1143143653842	Seed		INRAE		France		Optimal
+UNT21	c20:1 (mol % )	13.4422726826791	Seed		INRAE		France		Optimal
+UNT21	c20:1 (mol % )	13.4268041493972	Seed		INRAE		France		Optimal
+UNT21	c20:1 (mol % )	13.58213288999	Seed		INRAE		France		Optimal
+UNT46	c20:1 (mol % )	13.8609454837111	Seed		INRAE		France		Optimal
+UNT46	c20:1 (mol % )	13.6610403154164	Seed		INRAE		France		Optimal
+UNT46	c20:1 (mol % )	13.683338693454	Seed		INRAE		France		Optimal
+UNT46	c20:1 (mol % )	13.3994404044649	Seed		INRAE		France		Optimal
+UNT4	c20:2 (mol % )	1.62490571348169	Seed		INRAE		France		Optimal
+UNT4	c20:2 (mol % )	1.51360299999841	Seed		INRAE		France		Optimal
+UNT4	c20:2 (mol % )	1.60384864040102	Seed		INRAE		France		Optimal
+UNT4	c20:2 (mol % )	1.63390880768007	Seed		INRAE		France		Optimal
+UNT18	c20:2 (mol % )	1.7552757742709	Seed		INRAE		France		Optimal
+UNT18	c20:2 (mol % )	1.80364307351175	Seed		INRAE		France		Optimal
+UNT18	c20:2 (mol % )	1.82860976609452	Seed		INRAE		France		Optimal
+UNT18	c20:2 (mol % )	1.82749613670452	Seed		INRAE		France		Optimal
+UNT21	c20:2 (mol % )	1.36320186631111	Seed		INRAE		France		Optimal
+UNT21	c20:2 (mol % )	1.37544338900921	Seed		INRAE		France		Optimal
+UNT21	c20:2 (mol % )	1.43304692526852	Seed		INRAE		France		Optimal
+UNT21	c20:2 (mol % )	1.45093798627398	Seed		INRAE		France		Optimal
+UNT46	c20:2 (mol % )	1.47090635140184	Seed		INRAE		France		Optimal
+UNT46	c20:2 (mol % )	1.52892645401833	Seed		INRAE		France		Optimal
+UNT46	c20:2 (mol % )	1.54376355745289	Seed		INRAE		France		Optimal
+UNT46	c20:2 (mol % )	1.4364159307057	Seed		INRAE		France		Optimal
+UNT4	c20:3 (mol % )	0.828943139123193	Seed		INRAE		France		Optimal
+UNT4	c20:3 (mol % )	0.770954403912937	Seed		INRAE		France		Optimal
+UNT4	c20:3 (mol % )	0.821521238483981	Seed		INRAE		France		Optimal
+UNT4	c20:3 (mol % )	0.861466580049795	Seed		INRAE		France		Optimal
+UNT18	c20:3 (mol % )	0.792925370111676	Seed		INRAE		France		Optimal
+UNT18	c20:3 (mol % )	0.907659758699054	Seed		INRAE		France		Optimal
+UNT18	c20:3 (mol % )	0.926039448976764	Seed		INRAE		France		Optimal
+UNT18	c20:3 (mol % )	0.881178862699269	Seed		INRAE		France		Optimal
+UNT21	c20:3 (mol % )	0.809680846767861	Seed		INRAE		France		Optimal
+UNT21	c20:3 (mol % )	0.780939216383349	Seed		INRAE		France		Optimal
+UNT21	c20:3 (mol % )	0.789970147560999	Seed		INRAE		France		Optimal
+UNT21	c20:3 (mol % )	0.852655263802403	Seed		INRAE		France		Optimal
+UNT46	c20:3 (mol % )	0.814726395791496	Seed		INRAE		France		Optimal
+UNT46	c20:3 (mol % )	0.970125577680315	Seed		INRAE		France		Optimal
+UNT46	c20:3 (mol % )	1.00292487033456	Seed		INRAE		France		Optimal
+UNT46	c20:3 (mol % )	0.834382639095412	Seed		INRAE		France		Optimal
+UNT4	c22:0 (mol % )	0.297455497039823	Seed		INRAE		France		Optimal
+UNT4	c22:0 (mol % )	0.256575017953675	Seed		INRAE		France		Optimal
+UNT4	c22:0 (mol % )	0.271201523577586	Seed		INRAE		France		Optimal
+UNT4	c22:0 (mol % )	0.266595349860183	Seed		INRAE		France		Optimal
+UNT18	c22:0 (mol % )	0.27611770419687	Seed		INRAE		France		Optimal
+UNT18	c22:0 (mol % )	0.274552270642355	Seed		INRAE		France		Optimal
+UNT18	c22:0 (mol % )	0.290091101886738	Seed		INRAE		France		Optimal
+UNT18	c22:0 (mol % )	0.291183577035843	Seed		INRAE		France		Optimal
+UNT21	c22:0 (mol % )	0.251807525841356	Seed		INRAE		France		Optimal
+UNT21	c22:0 (mol % )	0.260529621008493	Seed		INRAE		France		Optimal
+UNT21	c22:0 (mol % )	0.264794989177966	Seed		INRAE		France		Optimal
+UNT21	c22:0 (mol % )	0.261091122531491	Seed		INRAE		France		Optimal
+UNT46	c22:0 (mol % )	0.257946986489857	Seed		INRAE		France		Optimal
+UNT46	c22:0 (mol % )	0.268258897849861	Seed		INRAE		France		Optimal
+UNT46	c22:0 (mol % )	0.269175844556817	Seed		INRAE		France		Optimal
+UNT46	c22:0 (mol % )	0.233038114685492	Seed		INRAE		France		Optimal
+UNT4	c22:1 (mol % )	2.62448062681736	Seed		INRAE		France		Optimal
+UNT4	c22:1 (mol % )	2.3074961633146	Seed		INRAE		France		Optimal
+UNT4	c22:1 (mol % )	2.45343092669896	Seed		INRAE		France		Optimal
+UNT4	c22:1 (mol % )	2.43077158312918	Seed		INRAE		France		Optimal
+UNT18	c22:1 (mol % )	2.39389642835783	Seed		INRAE		France		Optimal
+UNT18	c22:1 (mol % )	2.5050164904877	Seed		INRAE		France		Optimal
+UNT18	c22:1 (mol % )	2.5963287971338	Seed		INRAE		France		Optimal
+UNT18	c22:1 (mol % )	2.60538900500358	Seed		INRAE		France		Optimal
+UNT21	c22:1 (mol % )	2.14975620571791	Seed		INRAE		France		Optimal
+UNT21	c22:1 (mol % )	2.27707151444192	Seed		INRAE		France		Optimal
+UNT21	c22:1 (mol % )	2.27569529597031	Seed		INRAE		France		Optimal
+UNT21	c22:1 (mol % )	2.345879448129	Seed		INRAE		France		Optimal
+UNT46	c22:1 (mol % )	2.34288290490367	Seed		INRAE		France		Optimal
+UNT46	c22:1 (mol % )	2.54619798114938	Seed		INRAE		France		Optimal
+UNT46	c22:1 (mol % )	2.63457011446367	Seed		INRAE		France		Optimal
+UNT46	c22:1 (mol % )	2.22509317769008	Seed		INRAE		France		Optimal
+UNT4	c22:2 (mol % )	0.113383595795327	Seed		INRAE		France		Optimal
+UNT4	c22:2 (mol % )	0.102940210807502	Seed		INRAE		France		Optimal
+UNT4	c22:2 (mol % )	0.108465696713068	Seed		INRAE		France		Optimal
+UNT4	c22:2 (mol % )	0.105316249350757	Seed		INRAE		France		Optimal
+UNT18	c22:2 (mol % )	0.117432997413902	Seed		INRAE		France		Optimal
+UNT18	c22:2 (mol % )	0.12182620260426	Seed		INRAE		France		Optimal
+UNT18	c22:2 (mol % )	0.128764401268416	Seed		INRAE		France		Optimal
+UNT18	c22:2 (mol % )	0.127000325090517	Seed		INRAE		France		Optimal
+UNT21	c22:2 (mol % )	0.067538326163592	Seed		INRAE		France		Optimal
+UNT21	c22:2 (mol % )	0.072667695070416	Seed		INRAE		France		Optimal
+UNT21	c22:2 (mol % )	0.074669836167472	Seed		INRAE		France		Optimal
+UNT21	c22:2 (mol % )	0.073728627069892	Seed		INRAE		France		Optimal
+UNT46	c22:2 (mol % )	0.079702206229401	Seed		INRAE		France		Optimal
+UNT46	c22:2 (mol % )	0.088260545043415	Seed		INRAE		France		Optimal
+UNT46	c22:2 (mol % )	0.097066361976397	Seed		INRAE		France		Optimal
+UNT46	c22:2 (mol % )	0.078255278423204	Seed		INRAE		France		Optimal
+UNT4	c22:3 (mol % )	0.256293432147806	Seed		INRAE		France		Optimal
+UNT4	c22:3 (mol % )	0.225945023688776	Seed		INRAE		France		Optimal
+UNT4	c22:3 (mol % )	0.23919916518406	Seed		INRAE		France		Optimal
+UNT4	c22:3 (mol % )	0.243511773889381	Seed		INRAE		France		Optimal
+UNT18	c22:3 (mol % )	0.230105818826333	Seed		INRAE		France		Optimal
+UNT18	c22:3 (mol % )	0.270134945712726	Seed		INRAE		France		Optimal
+UNT18	c22:3 (mol % )	0.282785265364753	Seed		INRAE		France		Optimal
+UNT18	c22:3 (mol % )	0.265854256434921	Seed		INRAE		France		Optimal
+UNT21	c22:3 (mol % )	0.195331734960847	Seed		INRAE		France		Optimal
+UNT21	c22:3 (mol % )	0.205626574357761	Seed		INRAE		France		Optimal
+UNT21	c22:3 (mol % )	0.203059778926047	Seed		INRAE		France		Optimal
+UNT21	c22:3 (mol % )	0.224112383906184	Seed		INRAE		France		Optimal
+UNT46	c22:3 (mol % )	0.199757475273633	Seed		INRAE		France		Optimal
+UNT46	c22:3 (mol % )	0.251657492513214	Seed		INRAE		France		Optimal
+UNT46	c22:3 (mol % )	0.278517307663854	Seed		INRAE		France		Optimal
+UNT46	c22:3 (mol % )	0.206257896502146	Seed		INRAE		France		Optimal
+UNT4	c24:0 (mol % )	0.105252360980343	Seed		INRAE		France		Optimal
+UNT4	c24:0 (mol % )	0.089227206951839	Seed		INRAE		France		Optimal
+UNT4	c24:0 (mol % )	0.095280769847569	Seed		INRAE		France		Optimal
+UNT4	c24:0 (mol % )	0.094463891460811	Seed		INRAE		France		Optimal
+UNT18	c24:0 (mol % )	0.100153245459278	Seed		INRAE		France		Optimal
+UNT18	c24:0 (mol % )	0.095011944570142	Seed		INRAE		France		Optimal
+UNT18	c24:0 (mol % )	0.101761686942635	Seed		INRAE		France		Optimal
+UNT18	c24:0 (mol % )	0.098462300379489	Seed		INRAE		France		Optimal
+UNT21	c24:0 (mol % )	0.111317983047051	Seed		INRAE		France		Optimal
+UNT21	c24:0 (mol % )	0.113929530080801	Seed		INRAE		France		Optimal
+UNT21	c24:0 (mol % )	0.107125787818112	Seed		INRAE		France		Optimal
+UNT21	c24:0 (mol % )	0.110679479548803	Seed		INRAE		France		Optimal
+UNT46	c24:0 (mol % )	0.126905692582797	Seed		INRAE		France		Optimal
+UNT46	c24:0 (mol % )	0.134716173304383	Seed		INRAE		France		Optimal
+UNT46	c24:0 (mol % )	0.14273894526524	Seed		INRAE		France		Optimal
+UNT46	c24:0 (mol % )	0.116957124137924	Seed		INRAE		France		Optimal
+UNT4	c24:1 (mol % )	0.525071415927088	Seed		INRAE		France		Optimal
+UNT4	c24:1 (mol % )	0.443491909287504	Seed		INRAE		France		Optimal
+UNT4	c24:1 (mol % )	0.46722458278577	Seed		INRAE		France		Optimal
+UNT4	c24:1 (mol % )	0.476144228040958	Seed		INRAE		France		Optimal
+UNT18	c24:1 (mol % )	0.452114312812121	Seed		INRAE		France		Optimal
+UNT18	c24:1 (mol % )	0.461003666754954	Seed		INRAE		France		Optimal
+UNT18	c24:1 (mol % )	0.510013569340199	Seed		INRAE		France		Optimal
+UNT18	c24:1 (mol % )	0.493826819354046	Seed		INRAE		France		Optimal
+UNT21	c24:1 (mol % )	0.47650154007003	Seed		INRAE		France		Optimal
+UNT21	c24:1 (mol % )	0.483747652265917	Seed		INRAE		France		Optimal
+UNT21	c24:1 (mol % )	0.478827358928496	Seed		INRAE		France		Optimal
+UNT21	c24:1 (mol % )	0.494096082003514	Seed		INRAE		France		Optimal
+UNT46	c24:1 (mol % )	0.421437141862078	Seed		INRAE		France		Optimal
+UNT46	c24:1 (mol % )	0.473697488144343	Seed		INRAE		France		Optimal
+UNT46	c24:1 (mol % )	0.507715410180818	Seed		INRAE		France		Optimal
+UNT46	c24:1 (mol % )	0.368093795513389	Seed		INRAE		France		Optimal
+UNT4	c16:0 (µg/mg )	22.1280636277104	Seed		INRAE		France		Optimal
+UNT4	c16:0 (µg/mg )	15.3495671322702	Seed		INRAE		France		Optimal
+UNT4	c16:0 (µg/mg )	18.8517614217073	Seed		INRAE		France		Optimal
+UNT4	c16:0 (µg/mg )	19.0681952466121	Seed		INRAE		France		Optimal
+UNT18	c16:0 (µg/mg )	18.2975877180477	Seed		INRAE		France		Optimal
+UNT18	c16:0 (µg/mg )	17.5603847495918	Seed		INRAE		France		Optimal
+UNT18	c16:0 (µg/mg )	20.5878090663325	Seed		INRAE		France		Optimal
+UNT18	c16:0 (µg/mg )	20.6759328402553	Seed		INRAE		France		Optimal
+UNT21	c16:0 (µg/mg )	21.8069771725526	Seed		INRAE		France		Optimal
+UNT21	c16:0 (µg/mg )	22.8196105663948	Seed		INRAE		France		Optimal
+UNT21	c16:0 (µg/mg )	23.0974343802962	Seed		INRAE		France		Optimal
+UNT21	c16:0 (µg/mg )	22.9660861670585	Seed		INRAE		France		Optimal
+UNT46	c16:0 (µg/mg )	21.9385046241296	Seed		INRAE		France		Optimal
+UNT46	c16:0 (µg/mg )	21.0133423932837	Seed		INRAE		France		Optimal
+UNT46	c16:0 (µg/mg )	19.8179618233566	Seed		INRAE		France		Optimal
+UNT46	c16:0 (µg/mg )	16.5802621312459	Seed		INRAE		France		Optimal
+UNT4	c16:1 (µg/mg )	0.472718257309367	Seed		INRAE		France		Optimal
+UNT4	c16:1 (µg/mg )	0.333050952648924	Seed		INRAE		France		Optimal
+UNT4	c16:1 (µg/mg )	0.396330085537838	Seed		INRAE		France		Optimal
+UNT4	c16:1 (µg/mg )	0.378633528534931	Seed		INRAE		France		Optimal
+UNT18	c16:1 (µg/mg )	0.370442168816981	Seed		INRAE		France		Optimal
+UNT18	c16:1 (µg/mg )	0.335304903876126	Seed		INRAE		France		Optimal
+UNT18	c16:1 (µg/mg )	0.412319885341255	Seed		INRAE		France		Optimal
+UNT18	c16:1 (µg/mg )	0.414157063023597	Seed		INRAE		France		Optimal
+UNT21	c16:1 (µg/mg )	0.452048921360511	Seed		INRAE		France		Optimal
+UNT21	c16:1 (µg/mg )	0.450003407119167	Seed		INRAE		France		Optimal
+UNT21	c16:1 (µg/mg )	0.459442615708385	Seed		INRAE		France		Optimal
+UNT21	c16:1 (µg/mg )	0.440019167937594	Seed		INRAE		France		Optimal
+UNT46	c16:1 (µg/mg )	0.387792438298031	Seed		INRAE		France		Optimal
+UNT46	c16:1 (µg/mg )	0.40202138772707	Seed		INRAE		France		Optimal
+UNT46	c16:1 (µg/mg )	0.37889561341837	Seed		INRAE		France		Optimal
+UNT46	c16:1 (µg/mg )	0.280524484918778	Seed		INRAE		France		Optimal
+UNT4	c18:0 (µg/mg )	8.48728187693782	Seed		INRAE		France		Optimal
+UNT4	c18:0 (µg/mg )	5.4281406215843	Seed		INRAE		France		Optimal
+UNT4	c18:0 (µg/mg )	7.02432645901022	Seed		INRAE		France		Optimal
+UNT4	c18:0 (µg/mg )	7.07605182566067	Seed		INRAE		France		Optimal
+UNT18	c18:0 (µg/mg )	6.40948676538455	Seed		INRAE		France		Optimal
+UNT18	c18:0 (µg/mg )	6.28061872798804	Seed		INRAE		France		Optimal
+UNT18	c18:0 (µg/mg )	7.62236125947797	Seed		INRAE		France		Optimal
+UNT18	c18:0 (µg/mg )	7.63679573917399	Seed		INRAE		France		Optimal
+UNT21	c18:0 (µg/mg )	7.8379838914363	Seed		INRAE		France		Optimal
+UNT21	c18:0 (µg/mg )	8.47586368725112	Seed		INRAE		France		Optimal
+UNT21	c18:0 (µg/mg )	8.54556135434007	Seed		INRAE		France		Optimal
+UNT21	c18:0 (µg/mg )	8.59815978384807	Seed		INRAE		France		Optimal
+UNT46	c18:0 (µg/mg )	8.37673504881485	Seed		INRAE		France		Optimal
+UNT46	c18:0 (µg/mg )	7.79644829776493	Seed		INRAE		France		Optimal
+UNT46	c18:0 (µg/mg )	7.20469569429898	Seed		INRAE		France		Optimal
+UNT46	c18:0 (µg/mg )	6.13124158941958	Seed		INRAE		France		Optimal
+UNT4	c18:1 (µg/mg )	60.2318131549132	Seed		INRAE		France		Optimal
+UNT4	c18:1 (µg/mg )	38.9673413652034	Seed		INRAE		France		Optimal
+UNT4	c18:1 (µg/mg )	49.2419484847524	Seed		INRAE		France		Optimal
+UNT4	c18:1 (µg/mg )	49.9673926666647	Seed		INRAE		France		Optimal
+UNT18	c18:1 (µg/mg )	39.9535058244199	Seed		INRAE		France		Optimal
+UNT18	c18:1 (µg/mg )	39.4402030921054	Seed		INRAE		France		Optimal
+UNT18	c18:1 (µg/mg )	46.9904247745943	Seed		INRAE		France		Optimal
+UNT18	c18:1 (µg/mg )	47.3036103591854	Seed		INRAE		France		Optimal
+UNT21	c18:1 (µg/mg )	60.9664704380518	Seed		INRAE		France		Optimal
+UNT21	c18:1 (µg/mg )	64.3623047721923	Seed		INRAE		France		Optimal
+UNT21	c18:1 (µg/mg )	62.4948262092999	Seed		INRAE		France		Optimal
+UNT21	c18:1 (µg/mg )	62.9679489521985	Seed		INRAE		France		Optimal
+UNT46	c18:1 (µg/mg )	66.675617543588	Seed		INRAE		France		Optimal
+UNT46	c18:1 (µg/mg )	60.6476879447279	Seed		INRAE		France		Optimal
+UNT46	c18:1 (µg/mg )	56.4090541509484	Seed		INRAE		France		Optimal
+UNT46	c18:1 (µg/mg )	49.950810077776	Seed		INRAE		France		Optimal
+UNT4	c18:2 (µg/mg )	69.5227640546225	Seed		INRAE		France		Optimal
+UNT4	c18:2 (µg/mg )	47.2996813570402	Seed		INRAE		France		Optimal
+UNT4	c18:2 (µg/mg )	58.3933553492325	Seed		INRAE		France		Optimal
+UNT4	c18:2 (µg/mg )	58.9226699442326	Seed		INRAE		France		Optimal
+UNT18	c18:2 (µg/mg )	56.3897902054201	Seed		INRAE		France		Optimal
+UNT18	c18:2 (µg/mg )	52.9137464882164	Seed		INRAE		France		Optimal
+UNT18	c18:2 (µg/mg )	62.6397031014645	Seed		INRAE		France		Optimal
+UNT18	c18:2 (µg/mg )	63.3140445087509	Seed		INRAE		France		Optimal
+UNT21	c18:2 (µg/mg )	61.9682621760973	Seed		INRAE		France		Optimal
+UNT21	c18:2 (µg/mg )	64.9632018310876	Seed		INRAE		France		Optimal
+UNT21	c18:2 (µg/mg )	65.5753408677036	Seed		INRAE		France		Optimal
+UNT21	c18:2 (µg/mg )	64.864000873832	Seed		INRAE		France		Optimal
+UNT46	c18:2 (µg/mg )	68.7193710541529	Seed		INRAE		France		Optimal
+UNT46	c18:2 (µg/mg )	62.1890797847647	Seed		INRAE		France		Optimal
+UNT46	c18:2 (µg/mg )	60.2378333302227	Seed		INRAE		France		Optimal
+UNT46	c18:2 (µg/mg )	51.0428005387398	Seed		INRAE		France		Optimal
+UNT4	c18:3 (µg/mg )	90.5954092840219	Seed		INRAE		France		Optimal
+UNT4	c18:3 (µg/mg )	61.972423589386	Seed		INRAE		France		Optimal
+UNT4	c18:3 (µg/mg )	75.9187482401442	Seed		INRAE		France		Optimal
+UNT4	c18:3 (µg/mg )	79.9248808339706	Seed		INRAE		France		Optimal
+UNT18	c18:3 (µg/mg )	65.0680978408527	Seed		INRAE		France		Optimal
+UNT18	c18:3 (µg/mg )	69.6683447890073	Seed		INRAE		France		Optimal
+UNT18	c18:3 (µg/mg )	81.1034950862859	Seed		INRAE		France		Optimal
+UNT18	c18:3 (µg/mg )	78.4066673357597	Seed		INRAE		France		Optimal
+UNT21	c18:3 (µg/mg )	90.3000817870972	Seed		INRAE		France		Optimal
+UNT21	c18:3 (µg/mg )	91.3743231400007	Seed		INRAE		France		Optimal
+UNT21	c18:3 (µg/mg )	90.2555661336332	Seed		INRAE		France		Optimal
+UNT21	c18:3 (µg/mg )	95.0498861654903	Seed		INRAE		France		Optimal
+UNT46	c18:3 (µg/mg )	96.9872405113906	Seed		INRAE		France		Optimal
+UNT46	c18:3 (µg/mg )	99.4663511925976	Seed		INRAE		France		Optimal
+UNT46	c18:3 (µg/mg )	97.8587464705666	Seed		INRAE		France		Optimal
+UNT46	c18:3 (µg/mg )	75.1394563725214	Seed		INRAE		France		Optimal
+UNT4	c20:0 (µg/mg )	5.77936421914171	Seed		INRAE		France		Optimal
+UNT4	c20:0 (µg/mg )	3.77569913621289	Seed		INRAE		France		Optimal
+UNT4	c20:0 (µg/mg )	4.57684964069423	Seed		INRAE		France		Optimal
+UNT4	c20:0 (µg/mg )	4.65167817019459	Seed		INRAE		France		Optimal
+UNT18	c20:0 (µg/mg )	4.37479209602956	Seed		INRAE		France		Optimal
+UNT18	c20:0 (µg/mg )	4.35423297133197	Seed		INRAE		France		Optimal
+UNT18	c20:0 (µg/mg )	5.25108558837106	Seed		INRAE		France		Optimal
+UNT18	c20:0 (µg/mg )	5.3068534372844	Seed		INRAE		France		Optimal
+UNT21	c20:0 (µg/mg )	4.57669221131514	Seed		INRAE		France		Optimal
+UNT21	c20:0 (µg/mg )	4.98845083194717	Seed		INRAE		France		Optimal
+UNT21	c20:0 (µg/mg )	4.96384967106	Seed		INRAE		France		Optimal
+UNT21	c20:0 (µg/mg )	5.1250837917816	Seed		INRAE		France		Optimal
+UNT46	c20:0 (µg/mg )	5.0956296126536	Seed		INRAE		France		Optimal
+UNT46	c20:0 (µg/mg )	4.80815851904978	Seed		INRAE		France		Optimal
+UNT46	c20:0 (µg/mg )	4.71768031338739	Seed		INRAE		France		Optimal
+UNT46	c20:0 (µg/mg )	3.70433371831174	Seed		INRAE		France		Optimal
+UNT4	c20:1 (µg/mg )	49.8327426461412	Seed		INRAE		France		Optimal
+UNT4	c20:1 (µg/mg )	32.0541750903986	Seed		INRAE		France		Optimal
+UNT4	c20:1 (µg/mg )	40.2794503166569	Seed		INRAE		France		Optimal
+UNT4	c20:1 (µg/mg )	41.6906300118921	Seed		INRAE		France		Optimal
+UNT18	c20:1 (µg/mg )	35.5708703507386	Seed		INRAE		France		Optimal
+UNT18	c20:1 (µg/mg )	35.8125012370216	Seed		INRAE		France		Optimal
+UNT18	c20:1 (µg/mg )	43.2553025146961	Seed		INRAE		France		Optimal
+UNT18	c20:1 (µg/mg )	43.3096746618608	Seed		INRAE		France		Optimal
+UNT21	c20:1 (µg/mg )	44.2775387418132	Seed		INRAE		France		Optimal
+UNT21	c20:1 (µg/mg )	47.3907584202405	Seed		INRAE		France		Optimal
+UNT21	c20:1 (µg/mg )	46.9914855706961	Seed		INRAE		France		Optimal
+UNT21	c20:1 (µg/mg )	48.5985492653095	Seed		INRAE		France		Optimal
+UNT46	c20:1 (µg/mg )	51.2412654176583	Seed		INRAE		France		Optimal
+UNT46	c20:1 (µg/mg )	48.4963831224082	Seed		INRAE		France		Optimal
+UNT46	c20:1 (µg/mg )	46.8711439270225	Seed		INRAE		France		Optimal
+UNT46	c20:1 (µg/mg )	37.3921992191002	Seed		INRAE		France		Optimal
+UNT4	c20:2 (µg/mg )	5.78035154175184	Seed		INRAE		France		Optimal
+UNT4	c20:2 (µg/mg )	3.75647529786266	Seed		INRAE		France		Optimal
+UNT4	c20:2 (µg/mg )	4.71998997056317	Seed		INRAE		France		Optimal
+UNT4	c20:2 (µg/mg )	4.94203948274578	Seed		INRAE		France		Optimal
+UNT18	c20:2 (µg/mg )	4.60568087975277	Seed		INRAE		France		Optimal
+UNT18	c20:2 (µg/mg )	4.73850297330963	Seed		INRAE		France		Optimal
+UNT18	c20:2 (µg/mg )	5.69367410868956	Seed		INRAE		France		Optimal
+UNT18	c20:2 (µg/mg )	5.65380240363251	Seed		INRAE		France		Optimal
+UNT21	c20:2 (µg/mg )	4.5738449502265	Seed		INRAE		France		Optimal
+UNT21	c20:2 (µg/mg )	4.81907264339441	Seed		INRAE		France		Optimal
+UNT21	c20:2 (µg/mg )	4.98363622660446	Seed		INRAE		France		Optimal
+UNT21	c20:2 (µg/mg )	5.15836571440727	Seed		INRAE		France		Optimal
+UNT46	c20:2 (µg/mg )	5.40312828874207	Seed		INRAE		France		Optimal
+UNT46	c20:2 (µg/mg )	5.39435536860017	Seed		INRAE		France		Optimal
+UNT46	c20:2 (µg/mg )	5.25494410339154	Seed		INRAE		France		Optimal
+UNT46	c20:2 (µg/mg )	4.0049377978217	Seed		INRAE		France		Optimal
+UNT4	c20:3 (µg/mg )	2.93047010796646	Seed		INRAE		France		Optimal
+UNT4	c20:3 (µg/mg )	1.95507583514897	Seed		INRAE		France		Optimal
+UNT4	c20:3 (µg/mg )	2.40427657632347	Seed		INRAE		France		Optimal
+UNT4	c20:3 (µg/mg )	2.5871161294028	Seed		INRAE		France		Optimal
+UNT18	c20:3 (µg/mg )	2.06747504798265	Seed		INRAE		France		Optimal
+UNT18	c20:3 (µg/mg )	2.3705775111158	Seed		INRAE		France		Optimal
+UNT18	c20:3 (µg/mg )	2.86570137063936	Seed		INRAE		France		Optimal
+UNT18	c20:3 (µg/mg )	2.71031614880342	Seed		INRAE		France		Optimal
+UNT21	c20:3 (µg/mg )	2.70064080152636	Seed		INRAE		France		Optimal
+UNT21	c20:3 (µg/mg )	2.7185335353345	Seed		INRAE		France		Optimal
+UNT21	c20:3 (µg/mg )	2.72991024376808	Seed		INRAE		France		Optimal
+UNT21	c20:3 (µg/mg )	3.01269708700267	Seed		INRAE		France		Optimal
+UNT46	c20:3 (µg/mg )	2.97290932424106	Seed		INRAE		France		Optimal
+UNT46	c20:3 (µg/mg )	3.40072474154572	Seed		INRAE		France		Optimal
+UNT46	c20:3 (µg/mg )	3.39137861212407	Seed		INRAE		France		Optimal
+UNT46	c20:3 (µg/mg )	2.31264879515395	Seed		INRAE		France		Optimal
+UNT4	c22:0 (µg/mg )	1.16290682734427	Seed		INRAE		France		Optimal
+UNT4	c22:0 (µg/mg )	0.724210512922535	Seed		INRAE		France		Optimal
+UNT4	c22:0 (µg/mg )	0.878156803933477	Seed		INRAE		France		Optimal
+UNT4	c22:0 (µg/mg )	0.886199725306758	Seed		INRAE		France		Optimal
+UNT18	c22:0 (µg/mg )	0.801768599708238	Seed		INRAE		France		Optimal
+UNT18	c22:0 (µg/mg )	0.793005181098946	Seed		INRAE		France		Optimal
+UNT18	c22:0 (µg/mg )	0.992991877010017	Seed		INRAE		France		Optimal
+UNT18	c22:0 (µg/mg )	0.990409164881299	Seed		INRAE		France		Optimal
+UNT21	c22:0 (µg/mg )	0.929173542619846	Seed		INRAE		France		Optimal
+UNT21	c22:0 (µg/mg )	1.00350400249216	Seed		INRAE		France		Optimal
+UNT21	c22:0 (µg/mg )	1.01265699276055	Seed		INRAE		France		Optimal
+UNT21	c22:0 (µg/mg )	1.02046981460352	Seed		INRAE		France		Optimal
+UNT46	c22:0 (µg/mg )	1.04168247988091	Seed		INRAE		France		Optimal
+UNT46	c22:0 (µg/mg )	1.04052593148496	Seed		INRAE		France		Optimal
+UNT46	c22:0 (µg/mg )	1.00733709425406	Seed		INRAE		France		Optimal
+UNT46	c22:0 (µg/mg )	0.721925251848673	Seed		INRAE		France		Optimal
+UNT4	c22:1 (µg/mg )	10.2011060494791	Seed		INRAE		France		Optimal
+UNT4	c22:1 (µg/mg )	6.34814384342477	Seed		INRAE		France		Optimal
+UNT4	c22:1 (µg/mg )	7.898815296281	Seed		INRAE		France		Optimal
+UNT4	c22:1 (µg/mg )	8.03337953004716	Seed		INRAE		France		Optimal
+UNT18	c22:1 (µg/mg )	6.90179790966896	Seed		INRAE		France		Optimal
+UNT18	c22:1 (µg/mg )	7.19509889097322	Seed		INRAE		France		Optimal
+UNT18	c22:1 (µg/mg )	8.83731770666884	Seed		INRAE		France		Optimal
+UNT18	c22:1 (µg/mg )	8.81139526631167	Seed		INRAE		France		Optimal
+UNT21	c22:1 (µg/mg )	7.88854240309991	Seed		INRAE		France		Optimal
+UNT21	c22:1 (µg/mg )	8.72072057777708	Seed		INRAE		France		Optimal
+UNT21	c22:1 (µg/mg )	8.65069721877491	Seed		INRAE		France		Optimal
+UNT21	c22:1 (µg/mg )	9.1169641031904	Seed		INRAE		France		Optimal
+UNT46	c22:1 (µg/mg )	9.40878667156145	Seed		INRAE		France		Optimal
+UNT46	c22:1 (µg/mg )	9.82038383767872	Seed		INRAE		France		Optimal
+UNT46	c22:1 (µg/mg )	9.80228890265537	Seed		INRAE		France		Optimal
+UNT46	c22:1 (µg/mg )	6.83366043562269	Seed		INRAE		France		Optimal
+UNT4	c22:2 (µg/mg )	0.438145152750178	Seed		INRAE		France		Optimal
+UNT4	c22:2 (µg/mg )	0.280279862707591	Seed		INRAE		France		Optimal
+UNT4	c22:2 (µg/mg )	0.346821954473675	Seed		INRAE		France		Optimal
+UNT4	c22:2 (µg/mg )	0.346220936469602	Seed		INRAE		France		Optimal
+UNT18	c22:2 (µg/mg )	0.336162275677057	Seed		INRAE		France		Optimal
+UNT18	c22:2 (µg/mg )	0.348297308779836	Seed		INRAE		France		Optimal
+UNT18	c22:2 (µg/mg )	0.435771106496672	Seed		INRAE		France		Optimal
+UNT18	c22:2 (µg/mg )	0.427109559811435	Seed		INRAE		France		Optimal
+UNT21	c22:2 (µg/mg )	0.246378524871728	Seed		INRAE		France		Optimal
+UNT21	c22:2 (µg/mg )	0.276700705736607	Seed		INRAE		France		Optimal
+UNT21	c22:2 (µg/mg )	0.282151333014167	Seed		INRAE		France		Optimal
+UNT21	c22:2 (µg/mg )	0.28480105839726	Seed		INRAE		France		Optimal
+UNT46	c22:2 (µg/mg )	0.31828746936191	Seed		INRAE		France		Optimal
+UNT46	c22:2 (µg/mg )	0.338592751254635	Seed		INRAE		France		Optimal
+UNT46	c22:2 (µg/mg )	0.359104012582322	Seed		INRAE		France		Optimal
+UNT46	c22:2 (µg/mg )	0.240924438868376	Seed		INRAE		France		Optimal
+UNT4	c22:3 (µg/mg )	0.984982614113846	Seed		INRAE		France		Optimal
+UNT4	c22:3 (µg/mg )	0.63093033627471	Seed		INRAE		France		Optimal
+UNT4	c22:3 (µg/mg )	0.761920438719122	Seed		INRAE		France		Optimal
+UNT4	c22:3 (µg/mg )	0.794946286086757	Seed		INRAE		France		Optimal
+UNT18	c22:3 (µg/mg )	0.654854897269406	Seed		INRAE		France		Optimal
+UNT18	c22:3 (µg/mg )	0.767787617464045	Seed		INRAE		France		Optimal
+UNT18	c22:3 (µg/mg )	0.951598958915076	Seed		INRAE		France		Optimal
+UNT18	c22:3 (µg/mg )	0.889101487679987	Seed		INRAE		France		Optimal
+UNT21	c22:3 (µg/mg )	0.70888104280491	Seed		INRAE		France		Optimal
+UNT21	c22:3 (µg/mg )	0.778342979872604	Seed		INRAE		France		Optimal
+UNT21	c22:3 (µg/mg )	0.762980796398228	Seed		INRAE		France		Optimal
+UNT21	c22:3 (µg/mg )	0.860826013061629	Seed		INRAE		France		Optimal
+UNT46	c22:3 (µg/mg )	0.792555867826315	Seed		INRAE		France		Optimal
+UNT46	c22:3 (µg/mg )	0.959695791606105	Seed		INRAE		France		Optimal
+UNT46	c22:3 (µg/mg )	1.02422703414753	Seed		INRAE		France		Optimal
+UNT46	c22:3 (µg/mg )	0.633834053134828	Seed		INRAE		France		Optimal
+UNT4	c24:0 (µg/mg )	0.443722409849758	Seed		INRAE		France		Optimal
+UNT4	c24:0 (µg/mg )	0.254398026103462	Seed		INRAE		France		Optimal
+UNT4	c24:0 (µg/mg )	0.332753830976492	Seed		INRAE		France		Optimal
+UNT4	c24:0 (µg/mg )	0.33878167845049	Seed		INRAE		France		Optimal
+UNT18	c24:0 (µg/mg )	0.313107229350719	Seed		INRAE		France		Optimal
+UNT18	c24:0 (µg/mg )	0.296757364100503	Seed		INRAE		France		Optimal
+UNT18	c24:0 (µg/mg )	0.375912943657234	Seed		INRAE		France		Optimal
+UNT18	c24:0 (µg/mg )	0.36109690263848	Seed		INRAE		France		Optimal
+UNT21	c24:0 (µg/mg )	0.443245481851409	Seed		INRAE		France		Optimal
+UNT21	c24:0 (µg/mg )	0.473489774143045	Seed		INRAE		France		Optimal
+UNT21	c24:0 (µg/mg )	0.441688096820351	Seed		INRAE		France		Optimal
+UNT21	c24:0 (µg/mg )	0.466851338909343	Seed		INRAE		France		Optimal
+UNT46	c24:0 (µg/mg )	0.55297092219332	Seed		INRAE		France		Optimal
+UNT46	c24:0 (µg/mg )	0.563715941659427	Seed		INRAE		France		Optimal
+UNT46	c24:0 (µg/mg )	0.576343897444331	Seed		INRAE		France		Optimal
+UNT46	c24:0 (µg/mg )	0.393987104064455	Seed		INRAE		France		Optimal
+UNT4	c24:1 (µg/mg )	2.20378766742258	Seed		INRAE		France		Optimal
+UNT4	c24:1 (µg/mg )	1.34825890755561	Seed		INRAE		France		Optimal
+UNT4	c24:1 (µg/mg )	1.62489629386939	Seed		INRAE		France		Optimal
+UNT4	c24:1 (µg/mg )	1.69890876931667	Seed		INRAE		France		Optimal
+UNT18	c24:1 (µg/mg )	1.4095364179307	Seed		INRAE		France		Optimal
+UNT18	c24:1 (µg/mg )	1.42926022870099	Seed		INRAE		France		Optimal
+UNT18	c24:1 (µg/mg )	1.87439584159498	Seed		INRAE		France		Optimal
+UNT18	c24:1 (µg/mg )	1.80283757745999	Seed		INRAE		France		Optimal
+UNT21	c24:1 (µg/mg )	1.88721497270283	Seed		INRAE		France		Optimal
+UNT21	c24:1 (µg/mg )	1.99996263105594	Seed		INRAE		France		Optimal
+UNT21	c24:1 (µg/mg )	1.9658862849887	Seed		INRAE		France		Optimal
+UNT21	c24:1 (µg/mg )	2.07262791466778	Seed		INRAE		France		Optimal
+UNT46	c24:1 (µg/mg )	1.82670497167344	Seed		INRAE		France		Optimal
+UNT46	c24:1 (µg/mg )	1.97182638244525	Seed		INRAE		France		Optimal
+UNT46	c24:1 (µg/mg )	2.03927378854332	Seed		INRAE		France		Optimal
+UNT46	c24:1 (µg/mg )	1.22185144625314	Seed		INRAE		France		Optimal
+UNT4	total fa/mg (µg/mg  )	331.195629491476	Seed		INRAE		France		Optimal
+UNT4	total fa/mg (µg/mg  )	220.477851866745	Seed		INRAE		France		Optimal
+UNT4	total fa/mg (µg/mg  )	273.650401162875	Seed		INRAE		France		Optimal
+UNT4	total fa/mg (µg/mg  )	281.307724765588	Seed		INRAE		France		Optimal
+UNT18	total fa/mg (µg/mg  )	243.52495622705	Seed		INRAE		France		Optimal
+UNT18	total fa/mg (µg/mg  )	244.304624034682	Seed		INRAE		France		Optimal
+UNT18	total fa/mg (µg/mg  )	289.889865190235	Seed		INRAE		France		Optimal
+UNT18	total fa/mg (µg/mg  )	288.013804456513	Seed		INRAE		France		Optimal
+UNT21	total fa/mg (µg/mg  )	311.563977059428	Seed		INRAE		France		Optimal
+UNT21	total fa/mg (µg/mg  )	325.61484350604	Seed		INRAE		France		Optimal
+UNT21	total fa/mg (µg/mg  )	323.213113995867	Seed		INRAE		France		Optimal
+UNT21	total fa/mg (µg/mg  )	330.603337211696	Seed		INRAE		France		Optimal
+UNT46	total fa/mg (µg/mg  )	341.739182246166	Seed		INRAE		France		Optimal
+UNT46	total fa/mg (µg/mg  )	328.309293388599	Seed		INRAE		France		Optimal
+UNT46	total fa/mg (µg/mg  )	316.950908768364	Seed		INRAE		France		Optimal
+UNT46	total fa/mg (µg/mg  )	256.585397454801	Seed		INRAE		France		Optimal

@@ -1,0 +1,257 @@
+subject	variable	value	sample_plant_anatomical_entity	sample_collection_date	sample_institute	sample_city	sample_country	sample_associated_interval	sample_associated_factor
+UNT21	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT4	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT18	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT46	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT18	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT46	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT4	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT21	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT4	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT18	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT21	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT46	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT4	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT46	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT18	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT21	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT21	samplefw (g)	79.4			RRES		United Kingdom		Stressed
+UNT4	samplefw (g)	77.7			RRES		United Kingdom		Stressed
+UNT18	samplefw (g)	78.1			RRES		United Kingdom		Stressed
+UNT46	samplefw (g)	79.4			RRES		United Kingdom		Stressed
+UNT18	samplefw (g)	79.5			RRES		United Kingdom		Stressed
+UNT46	samplefw (g)	76.7			RRES		United Kingdom		Stressed
+UNT4	samplefw (g)	76.3			RRES		United Kingdom		Stressed
+UNT21	samplefw (g)	78.3			RRES		United Kingdom		Stressed
+UNT4	samplefw (g)	76.7			RRES		United Kingdom		Stressed
+UNT18	samplefw (g)	75.4			RRES		United Kingdom		Stressed
+UNT21	samplefw (g)	77.6			RRES		United Kingdom		Stressed
+UNT46	samplefw (g)	76.9			RRES		United Kingdom		Stressed
+UNT4	samplefw (g)	76.5			RRES		United Kingdom		Stressed
+UNT46	samplefw (g)	76.5			RRES		United Kingdom		Stressed
+UNT18	samplefw (g)	76.4			RRES		United Kingdom		Stressed
+UNT21	samplefw (g)	75.5			RRES		United Kingdom		Stressed
+UNT21	sampledw (g)	74.6			RRES		United Kingdom		Stressed
+UNT4	sampledw (g)	73.0			RRES		United Kingdom		Stressed
+UNT18	sampledw (g)	72.8			RRES		United Kingdom		Stressed
+UNT46	sampledw (g)	74.3			RRES		United Kingdom		Stressed
+UNT18	sampledw (g)	73.7			RRES		United Kingdom		Stressed
+UNT46	sampledw (g)	72.1			RRES		United Kingdom		Stressed
+UNT4	sampledw (g)	71.7			RRES		United Kingdom		Stressed
+UNT21	sampledw (g)	73.5			RRES		United Kingdom		Stressed
+UNT4	sampledw (g)	71.9			RRES		United Kingdom		Stressed
+UNT18	sampledw (g)	70.4			RRES		United Kingdom		Stressed
+UNT21	sampledw (g)	72.9			RRES		United Kingdom		Stressed
+UNT46	sampledw (g)	72.5			RRES		United Kingdom		Stressed
+UNT4	sampledw (g)	71.8			RRES		United Kingdom		Stressed
+UNT46	sampledw (g)	71.9			RRES		United Kingdom		Stressed
+UNT18	sampledw (g)	71.1			RRES		United Kingdom		Stressed
+UNT21	sampledw (g)	70.8			RRES		United Kingdom		Stressed
+UNT21	sample_dry matter (%)	93.95			RRES		United Kingdom		Stressed
+UNT4	sample_dry matter (%)	93.95			RRES		United Kingdom		Stressed
+UNT18	sample_dry matter (%)	93.21			RRES		United Kingdom		Stressed
+UNT46	sample_dry matter (%)	93.58			RRES		United Kingdom		Stressed
+UNT18	sample_dry matter (%)	92.7			RRES		United Kingdom		Stressed
+UNT46	sample_dry matter (%)	94.0			RRES		United Kingdom		Stressed
+UNT4	sample_dry matter (%)	93.97			RRES		United Kingdom		Stressed
+UNT21	sample_dry matter (%)	93.87			RRES		United Kingdom		Stressed
+UNT4	sample_dry matter (%)	93.74			RRES		United Kingdom		Stressed
+UNT18	sample_dry matter (%)	93.37			RRES		United Kingdom		Stressed
+UNT21	sample_dry matter (%)	93.94			RRES		United Kingdom		Stressed
+UNT46	sample_dry matter (%)	94.28			RRES		United Kingdom		Stressed
+UNT4	sample_dry matter (%)	93.86			RRES		United Kingdom		Stressed
+UNT46	sample_dry matter (%)	93.99			RRES		United Kingdom		Stressed
+UNT18	sample_dry matter (%)	93.06			RRES		United Kingdom		Stressed
+UNT21	sample_dry matter (%)	93.77			RRES		United Kingdom		Stressed
+UNT21	moisture %	6.0			RRES		United Kingdom		Stressed
+UNT4	moisture %	6.0			RRES		United Kingdom		Stressed
+UNT18	moisture %	6.8			RRES		United Kingdom		Stressed
+UNT46	moisture %	6.4			RRES		United Kingdom		Stressed
+UNT18	moisture %	7.3			RRES		United Kingdom		Stressed
+UNT46	moisture %	6.0			RRES		United Kingdom		Stressed
+UNT4	moisture %	6.0			RRES		United Kingdom		Stressed
+UNT21	moisture %	6.1			RRES		United Kingdom		Stressed
+UNT4	moisture %	6.3			RRES		United Kingdom		Stressed
+UNT18	moisture %	6.6			RRES		United Kingdom		Stressed
+UNT21	moisture %	6.1			RRES		United Kingdom		Stressed
+UNT46	moisture %	5.7			RRES		United Kingdom		Stressed
+UNT4	moisture %	6.1			RRES		United Kingdom		Stressed
+UNT46	moisture %	6.0			RRES		United Kingdom		Stressed
+UNT18	moisture %	6.9			RRES		United Kingdom		Stressed
+UNT21	moisture %	6.2			RRES		United Kingdom		Stressed
+UNT21	grain weight (g)	1325.3			RRES		United Kingdom		Stressed
+UNT4	grain weight (g)	1168.2			RRES		United Kingdom		Stressed
+UNT18	grain weight (g)	1065.2			RRES		United Kingdom		Stressed
+UNT46	grain weight (g)	1230.4			RRES		United Kingdom		Stressed
+UNT18	grain weight (g)	1114.3			RRES		United Kingdom		Stressed
+UNT46	grain weight (g)	1592.6			RRES		United Kingdom		Stressed
+UNT4	grain weight (g)	1567.9			RRES		United Kingdom		Stressed
+UNT21	grain weight (g)	1352.8			RRES		United Kingdom		Stressed
+UNT4	grain weight (g)	1605.1			RRES		United Kingdom		Stressed
+UNT18	grain weight (g)	1265.5			RRES		United Kingdom		Stressed
+UNT21	grain weight (g)	1755.9			RRES		United Kingdom		Stressed
+UNT46	grain weight (g)	1394.9			RRES		United Kingdom		Stressed
+UNT4	grain weight (g)	1126.2			RRES		United Kingdom		Stressed
+UNT46	grain weight (g)	1396.1			RRES		United Kingdom		Stressed
+UNT18	grain weight (g)	1401.3			RRES		United Kingdom		Stressed
+UNT21	grain weight (g)	1137.3			RRES		United Kingdom		Stressed
+UNT21	ha_yield(mg dm/ha)	0.77			RRES		United Kingdom		Stressed
+UNT4	ha_yield(mg dm/ha)	0.68			RRES		United Kingdom		Stressed
+UNT18	ha_yield(mg dm/ha)	0.61			RRES		United Kingdom		Stressed
+UNT46	ha_yield(mg dm/ha)	0.71			RRES		United Kingdom		Stressed
+UNT18	ha_yield(mg dm/ha)	0.64			RRES		United Kingdom		Stressed
+UNT46	ha_yield(mg dm/ha)	0.92			RRES		United Kingdom		Stressed
+UNT4	ha_yield(mg dm/ha)	0.91			RRES		United Kingdom		Stressed
+UNT21	ha_yield(mg dm/ha)	0.78			RRES		United Kingdom		Stressed
+UNT4	ha_yield(mg dm/ha)	0.93			RRES		United Kingdom		Stressed
+UNT18	ha_yield(mg dm/ha)	0.73			RRES		United Kingdom		Stressed
+UNT21	ha_yield(mg dm/ha)	1.02			RRES		United Kingdom		Stressed
+UNT46	ha_yield(mg dm/ha)	0.81			RRES		United Kingdom		Stressed
+UNT4	ha_yield(mg dm/ha)	0.65			RRES		United Kingdom		Stressed
+UNT46	ha_yield(mg dm/ha)	0.81			RRES		United Kingdom		Stressed
+UNT18	ha_yield(mg dm/ha)	0.8			RRES		United Kingdom		Stressed
+UNT21	ha_yield(mg dm/ha)	0.66			RRES		United Kingdom		Stressed
+UNT21	m2_yield(g/m2 dm)	76.86			RRES		United Kingdom		Stressed
+UNT4	m2_yield(g/m2 dm)	67.75			RRES		United Kingdom		Stressed
+UNT18	m2_yield(g/m2 dm)	61.29			RRES		United Kingdom		Stressed
+UNT46	m2_yield(g/m2 dm)	71.07			RRES		United Kingdom		Stressed
+UNT18	m2_yield(g/m2 dm)	63.77			RRES		United Kingdom		Stressed
+UNT46	m2_yield(g/m2 dm)	92.41			RRES		United Kingdom		Stressed
+UNT4	m2_yield(g/m2 dm)	90.95			RRES		United Kingdom		Stressed
+UNT21	m2_yield(g/m2 dm)	78.39			RRES		United Kingdom		Stressed
+UNT4	m2_yield(g/m2 dm)	92.88			RRES		United Kingdom		Stressed
+UNT18	m2_yield(g/m2 dm)	72.94			RRES		United Kingdom		Stressed
+UNT21	m2_yield(g/m2 dm)	101.82			RRES		United Kingdom		Stressed
+UNT46	m2_yield(g/m2 dm)	81.18			RRES		United Kingdom		Stressed
+UNT4	m2_yield(g/m2 dm)	65.25			RRES		United Kingdom		Stressed
+UNT46	m2_yield(g/m2 dm)	81.0			RRES		United Kingdom		Stressed
+UNT18	m2_yield(g/m2 dm)	80.5			RRES		United Kingdom		Stressed
+UNT21	m2_yield(g/m2 dm)	65.83			RRES		United Kingdom		Stressed
+UNT46	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT4	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT18	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT21	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT46	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT4	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT18	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT21	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT4	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT21	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT46	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT18	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT4	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT18	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT21	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT46	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT46	samplefw (g)	76.2			RRES		United Kingdom		Optimal
+UNT4	samplefw (g)	79.2			RRES		United Kingdom		Optimal
+UNT18	samplefw (g)	78.8			RRES		United Kingdom		Optimal
+UNT21	samplefw (g)	79.2			RRES		United Kingdom		Optimal
+UNT46	samplefw (g)	75.6			RRES		United Kingdom		Optimal
+UNT4	samplefw (g)	77.4			RRES		United Kingdom		Optimal
+UNT18	samplefw (g)	75.7			RRES		United Kingdom		Optimal
+UNT21	samplefw (g)	76.3			RRES		United Kingdom		Optimal
+UNT4	samplefw (g)	79.8			RRES		United Kingdom		Optimal
+UNT21	samplefw (g)	75.9			RRES		United Kingdom		Optimal
+UNT46	samplefw (g)	79.5			RRES		United Kingdom		Optimal
+UNT18	samplefw (g)	78.5			RRES		United Kingdom		Optimal
+UNT4	samplefw (g)	75.3			RRES		United Kingdom		Optimal
+UNT18	samplefw (g)	78.5			RRES		United Kingdom		Optimal
+UNT21	samplefw (g)	78.4			RRES		United Kingdom		Optimal
+UNT46	samplefw (g)	79.2			RRES		United Kingdom		Optimal
+UNT46	sampledw (g)	70.6			RRES		United Kingdom		Optimal
+UNT4	sampledw (g)	74.6			RRES		United Kingdom		Optimal
+UNT18	sampledw (g)	74.0			RRES		United Kingdom		Optimal
+UNT21	sampledw (g)	73.4			RRES		United Kingdom		Optimal
+UNT46	sampledw (g)	70.8			RRES		United Kingdom		Optimal
+UNT4	sampledw (g)	73.0			RRES		United Kingdom		Optimal
+UNT18	sampledw (g)	71.4			RRES		United Kingdom		Optimal
+UNT21	sampledw (g)	70.8			RRES		United Kingdom		Optimal
+UNT4	sampledw (g)	75.2			RRES		United Kingdom		Optimal
+UNT21	sampledw (g)	71.3			RRES		United Kingdom		Optimal
+UNT46	sampledw (g)	75.0			RRES		United Kingdom		Optimal
+UNT18	sampledw (g)	73.9			RRES		United Kingdom		Optimal
+UNT4	sampledw (g)	70.8			RRES		United Kingdom		Optimal
+UNT18	sampledw (g)	73.7			RRES		United Kingdom		Optimal
+UNT21	sampledw (g)	73.7			RRES		United Kingdom		Optimal
+UNT46	sampledw (g)	74.2			RRES		United Kingdom		Optimal
+UNT46	sample_dry matter (%)	92.65			RRES		United Kingdom		Optimal
+UNT4	sample_dry matter (%)	94.19			RRES		United Kingdom		Optimal
+UNT18	sample_dry matter (%)	93.91			RRES		United Kingdom		Optimal
+UNT21	sample_dry matter (%)	92.68			RRES		United Kingdom		Optimal
+UNT46	sample_dry matter (%)	93.65			RRES		United Kingdom		Optimal
+UNT4	sample_dry matter (%)	94.32			RRES		United Kingdom		Optimal
+UNT18	sample_dry matter (%)	94.32			RRES		United Kingdom		Optimal
+UNT21	sample_dry matter (%)	92.79			RRES		United Kingdom		Optimal
+UNT4	sample_dry matter (%)	94.24			RRES		United Kingdom		Optimal
+UNT21	sample_dry matter (%)	93.94			RRES		United Kingdom		Optimal
+UNT46	sample_dry matter (%)	94.34			RRES		United Kingdom		Optimal
+UNT18	sample_dry matter (%)	94.14			RRES		United Kingdom		Optimal
+UNT4	sample_dry matter (%)	94.02			RRES		United Kingdom		Optimal
+UNT18	sample_dry matter (%)	93.89			RRES		United Kingdom		Optimal
+UNT21	sample_dry matter (%)	94.01			RRES		United Kingdom		Optimal
+UNT46	sample_dry matter (%)	93.69			RRES		United Kingdom		Optimal
+UNT46	moisture %	7.3			RRES		United Kingdom		Optimal
+UNT4	moisture %	5.8			RRES		United Kingdom		Optimal
+UNT18	moisture %	6.1			RRES		United Kingdom		Optimal
+UNT21	moisture %	7.3			RRES		United Kingdom		Optimal
+UNT46	moisture %	6.3			RRES		United Kingdom		Optimal
+UNT4	moisture %	5.7			RRES		United Kingdom		Optimal
+UNT18	moisture %	5.7			RRES		United Kingdom		Optimal
+UNT21	moisture %	7.2			RRES		United Kingdom		Optimal
+UNT4	moisture %	5.8			RRES		United Kingdom		Optimal
+UNT21	moisture %	6.1			RRES		United Kingdom		Optimal
+UNT46	moisture %	5.7			RRES		United Kingdom		Optimal
+UNT18	moisture %	5.9			RRES		United Kingdom		Optimal
+UNT4	moisture %	6.0			RRES		United Kingdom		Optimal
+UNT18	moisture %	6.1			RRES		United Kingdom		Optimal
+UNT21	moisture %	6.0			RRES		United Kingdom		Optimal
+UNT46	moisture %	6.3			RRES		United Kingdom		Optimal
+UNT46	grain weight (g)	1569.7			RRES		United Kingdom		Optimal
+UNT4	grain weight (g)	2932.9			RRES		United Kingdom		Optimal
+UNT18	grain weight (g)	2896.1			RRES		United Kingdom		Optimal
+UNT21	grain weight (g)	1404.2			RRES		United Kingdom		Optimal
+UNT46	grain weight (g)	2306.9			RRES		United Kingdom		Optimal
+UNT4	grain weight (g)	3183.8			RRES		United Kingdom		Optimal
+UNT18	grain weight (g)	3459.6			RRES		United Kingdom		Optimal
+UNT21	grain weight (g)	1717.6			RRES		United Kingdom		Optimal
+UNT4	grain weight (g)	2959.0			RRES		United Kingdom		Optimal
+UNT21	grain weight (g)	2697.6			RRES		United Kingdom		Optimal
+UNT46	grain weight (g)	3109.7			RRES		United Kingdom		Optimal
+UNT18	grain weight (g)	2589.5			RRES		United Kingdom		Optimal
+UNT4	grain weight (g)	2994.0			RRES		United Kingdom		Optimal
+UNT18	grain weight (g)	3189.2			RRES		United Kingdom		Optimal
+UNT21	grain weight (g)	2577.6			RRES		United Kingdom		Optimal
+UNT46	grain weight (g)	2409.5			RRES		United Kingdom		Optimal
+UNT46	ha_yield(mg dm/ha)	0.9			RRES		United Kingdom		Optimal
+UNT4	ha_yield(mg dm/ha)	1.71			RRES		United Kingdom		Optimal
+UNT18	ha_yield(mg dm/ha)	1.68			RRES		United Kingdom		Optimal
+UNT21	ha_yield(mg dm/ha)	0.8			RRES		United Kingdom		Optimal
+UNT46	ha_yield(mg dm/ha)	1.33			RRES		United Kingdom		Optimal
+UNT4	ha_yield(mg dm/ha)	1.85			RRES		United Kingdom		Optimal
+UNT18	ha_yield(mg dm/ha)	2.01			RRES		United Kingdom		Optimal
+UNT21	ha_yield(mg dm/ha)	0.98			RRES		United Kingdom		Optimal
+UNT4	ha_yield(mg dm/ha)	1.72			RRES		United Kingdom		Optimal
+UNT21	ha_yield(mg dm/ha)	1.56			RRES		United Kingdom		Optimal
+UNT46	ha_yield(mg dm/ha)	1.81			RRES		United Kingdom		Optimal
+UNT18	ha_yield(mg dm/ha)	1.5			RRES		United Kingdom		Optimal
+UNT4	ha_yield(mg dm/ha)	1.74			RRES		United Kingdom		Optimal
+UNT18	ha_yield(mg dm/ha)	1.85			RRES		United Kingdom		Optimal
+UNT21	ha_yield(mg dm/ha)	1.5			RRES		United Kingdom		Optimal
+UNT46	ha_yield(mg dm/ha)	1.39			RRES		United Kingdom		Optimal
+UNT46	m2_yield(g/m2 dm)	89.77			RRES		United Kingdom		Optimal
+UNT4	m2_yield(g/m2 dm)	170.53			RRES		United Kingdom		Optimal
+UNT18	m2_yield(g/m2 dm)	167.88			RRES		United Kingdom		Optimal
+UNT21	m2_yield(g/m2 dm)	80.33			RRES		United Kingdom		Optimal
+UNT46	m2_yield(g/m2 dm)	133.36			RRES		United Kingdom		Optimal
+UNT4	m2_yield(g/m2 dm)	185.36			RRES		United Kingdom		Optimal
+UNT18	m2_yield(g/m2 dm)	201.42			RRES		United Kingdom		Optimal
+UNT21	m2_yield(g/m2 dm)	98.38			RRES		United Kingdom		Optimal
+UNT4	m2_yield(g/m2 dm)	172.13			RRES		United Kingdom		Optimal
+UNT21	m2_yield(g/m2 dm)	156.43			RRES		United Kingdom		Optimal
+UNT46	m2_yield(g/m2 dm)	181.09			RRES		United Kingdom		Optimal
+UNT18	m2_yield(g/m2 dm)	150.48			RRES		United Kingdom		Optimal
+UNT4	m2_yield(g/m2 dm)	173.77			RRES		United Kingdom		Optimal
+UNT18	m2_yield(g/m2 dm)	184.83			RRES		United Kingdom		Optimal
+UNT21	m2_yield(g/m2 dm)	149.57			RRES		United Kingdom		Optimal
+UNT46	m2_yield(g/m2 dm)	139.34			RRES		United Kingdom		Optimal

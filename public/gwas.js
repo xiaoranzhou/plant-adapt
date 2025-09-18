@@ -650,23 +650,28 @@ class GWASModule {
     }
 
     // Manhattan Plot functionality
-    async plotFromCleanedData() {
+    async plotFromCleanedData(targetContainer = 'manhattanPlotDiv') {
         console.log('plotFromCleanedData method called');
         console.log('manhattanCurrentData:', this.manhattanCurrentData);
-        
+        console.log('Target container:', targetContainer);
+
         if (!this.manhattanCurrentData) {
             console.error('No cleaned GWAS data available');
             this.showError('No cleaned GWAS data available. Please run GWAS Data Clean first.');
             return;
         }
 
-        const plotDiv = document.getElementById('manhattanPlotDiv');
-        const progressSection = document.getElementById('manhattanProgressSection');
-        const progressMessage = document.getElementById('manhattanProgressMessage');
-        const progressFill = document.getElementById('manhattanProgressFill');
-        const progressText = document.getElementById('manhattanProgressText');
-        const statsDiv = document.getElementById('manhattanStats');
-        const plotButton = document.getElementById('plotFromCleanedButton');
+        // Determine if this is standalone or embedded plotting
+        const isStandalone = targetContainer.includes('Standalone');
+        const suffix = isStandalone ? 'Standalone' : '';
+
+        const plotDiv = document.getElementById('manhattanPlotDiv' + suffix);
+        const progressSection = document.getElementById('manhattanProgressSection' + suffix);
+        const progressMessage = document.getElementById('manhattanProgressMessage' + suffix);
+        const progressFill = document.getElementById('manhattanProgressFill' + suffix);
+        const progressText = document.getElementById('manhattanProgressText' + suffix);
+        const statsDiv = document.getElementById('manhattanStats' + suffix);
+        const plotButton = document.getElementById('plotFromCleanedButton' + suffix);
 
         try {
             // Show progress section
@@ -717,7 +722,7 @@ class GWASModule {
                         break;
 
                     case 'TRACES_READY':
-                        this.displayManhattanPlot(traces, ticks, labels, dataCount);
+                        this.displayManhattanPlot(traces, ticks, labels, dataCount, suffix);
                         break;
 
                     case 'ERROR':
@@ -735,8 +740,10 @@ class GWASModule {
                 data: this.manhattanCurrentData.data
             });
 
-            // Switch to Manhattan plot tab
-            this.switchTab('manhattan');
+            // Switch to Manhattan plot tab (only for embedded version)
+            if (!isStandalone) {
+                this.switchTab('manhattan');
+            }
 
         } catch (error) {
             console.error('Manhattan plot error:', error);
@@ -747,11 +754,11 @@ class GWASModule {
         }
     }
 
-    displayManhattanPlot(traces, ticks, labels, dataCount) {
-        const plotDiv = document.getElementById('manhattanPlotDiv');
-        const progressSection = document.getElementById('manhattanProgressSection');
-        const statsDiv = document.getElementById('manhattanStats');
-        const plotButton = document.getElementById('plotFromCleanedButton');
+    displayManhattanPlot(traces, ticks, labels, dataCount, suffix = '') {
+        const plotDiv = document.getElementById('manhattanPlotDiv' + suffix);
+        const progressSection = document.getElementById('manhattanProgressSection' + suffix);
+        const statsDiv = document.getElementById('manhattanStats' + suffix);
+        const plotButton = document.getElementById('plotFromCleanedButton' + suffix);
 
         try {
             // Create layout for Manhattan plot
@@ -801,6 +808,27 @@ class GWASModule {
 
             // Create the plot
             Plotly.newPlot(plotDiv, traces, layout, config);
+
+            // Add click event listener for navigation
+            plotDiv.on('plotly_click', (data) => {
+                if (data.points && data.points.length > 0) {
+                    const point = data.points[0];
+                    const chr = point.customdata[0];
+                    const position = point.customdata[1];
+
+                    // Create location string for jbNav: "chr:start-end"
+                    const start = Math.max(1, position - 500);
+                    const end = position + 500;
+                    const location = `${chr}:${start}-${end}`;
+
+                    // Call jbNav function if it exists
+                    if (typeof jbNav === 'function') {
+                        jbNav(location);
+                    } else {
+                        console.warn('jbNav function not found');
+                    }
+                }
+            });
 
             // Hide progress section
             progressSection.style.display = 'none';

@@ -529,8 +529,11 @@
       
       }
       // Wait for files to be ready and then automatically set region and load tracks
-   showGenomeBrowser("1:10-2");
+   showGenomeBrowser("1:10-200");
    function jbNav(location){
-    window.location.hash = '#browse'; 
-    viewState.session.views[0].navToLocString(location)
+    window.location.hash = '#browse';
+    viewState.session.views[0].navToLocString(location);// location example "1:1000-2000" where 1 is the chromosome number 1 from chr1 and 1000 is the start and 2000 is the end, if there is a single poing then create the start as Number(point)-500 and the end is Number(point)+500
   }
+
+  // Make jbNav available globally
+  window.jbNav = jbNav;

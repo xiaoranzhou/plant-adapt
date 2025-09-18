@@ -1,0 +1,129 @@
+subject	variable	value	sample_plant_anatomical_entity	sample_collection_date	sample_institute	sample_city	sample_country	sample_associated_interval	sample_associated_factor
+UNT21	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT4	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT18	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT46	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT18	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT46	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT4	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT21	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT4	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT18	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT21	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT46	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT4	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT46	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT18	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT21	plant_anatomical_entity	NaN			RRES		United Kingdom		Stressed
+UNT21	sample fw(g)	104.9			RRES		United Kingdom		Stressed
+UNT4	sample fw(g)	152.4			RRES		United Kingdom		Stressed
+UNT18	sample fw(g)	112.6			RRES		United Kingdom		Stressed
+UNT46	sample fw(g)	136.9			RRES		United Kingdom		Stressed
+UNT18	sample fw(g)	138.1			RRES		United Kingdom		Stressed
+UNT46	sample fw(g)	125.3			RRES		United Kingdom		Stressed
+UNT4	sample fw(g)	109.3			RRES		United Kingdom		Stressed
+UNT21	sample fw(g)	106.7			RRES		United Kingdom		Stressed
+UNT4	sample fw(g)	134.6			RRES		United Kingdom		Stressed
+UNT18	sample fw(g)	125.3			RRES		United Kingdom		Stressed
+UNT21	sample fw(g)	139.2			RRES		United Kingdom		Stressed
+UNT46	sample fw(g)	125.8			RRES		United Kingdom		Stressed
+UNT4	sample fw(g)	133.7			RRES		United Kingdom		Stressed
+UNT46	sample fw(g)	136.5			RRES		United Kingdom		Stressed
+UNT18	sample fw(g)	109.2			RRES		United Kingdom		Stressed
+UNT21	sample fw(g)	117.3			RRES		United Kingdom		Stressed
+UNT21	sample dw (g)	96.4			RRES		United Kingdom		Stressed
+UNT4	sample dw (g)	140.4			RRES		United Kingdom		Stressed
+UNT18	sample dw (g)	103.0			RRES		United Kingdom		Stressed
+UNT46	sample dw (g)	126.5			RRES		United Kingdom		Stressed
+UNT18	sample dw (g)	126.3			RRES		United Kingdom		Stressed
+UNT46	sample dw (g)	115.5			RRES		United Kingdom		Stressed
+UNT4	sample dw (g)	100.3			RRES		United Kingdom		Stressed
+UNT21	sample dw (g)	97.8			RRES		United Kingdom		Stressed
+UNT4	sample dw (g)	124.4			RRES		United Kingdom		Stressed
+UNT18	sample dw (g)	110.3			RRES		United Kingdom		Stressed
+UNT21	sample dw (g)	127.7			RRES		United Kingdom		Stressed
+UNT46	sample dw (g)	115.8			RRES		United Kingdom		Stressed
+UNT4	sample dw (g)	122.4			RRES		United Kingdom		Stressed
+UNT46	sample dw (g)	126.2			RRES		United Kingdom		Stressed
+UNT18	sample dw (g)	100.9			RRES		United Kingdom		Stressed
+UNT21	sample dw (g)	106.4			RRES		United Kingdom		Stressed
+UNT21	%drymatter	91.9			RRES		United Kingdom		Stressed
+UNT4	%drymatter	92.13			RRES		United Kingdom		Stressed
+UNT18	%drymatter	91.47			RRES		United Kingdom		Stressed
+UNT46	%drymatter	92.4			RRES		United Kingdom		Stressed
+UNT18	%drymatter	91.46			RRES		United Kingdom		Stressed
+UNT46	%drymatter	92.18			RRES		United Kingdom		Stressed
+UNT4	%drymatter	91.77			RRES		United Kingdom		Stressed
+UNT21	%drymatter	91.66			RRES		United Kingdom		Stressed
+UNT4	%drymatter	92.42			RRES		United Kingdom		Stressed
+UNT18	%drymatter	88.03			RRES		United Kingdom		Stressed
+UNT21	%drymatter	91.74			RRES		United Kingdom		Stressed
+UNT46	%drymatter	92.05			RRES		United Kingdom		Stressed
+UNT4	%drymatter	91.55			RRES		United Kingdom		Stressed
+UNT46	%drymatter	92.45			RRES		United Kingdom		Stressed
+UNT18	%drymatter	92.4			RRES		United Kingdom		Stressed
+UNT21	%drymatter	90.71			RRES		United Kingdom		Stressed
+UNT46	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT4	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT18	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT21	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT46	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT4	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT18	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT21	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT4	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT21	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT46	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT18	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT4	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT18	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT21	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT46	plant_anatomical_entity	NaN			RRES		United Kingdom		Optimal
+UNT46	sample fw(g)	149.7			RRES		United Kingdom		Optimal
+UNT4	sample fw(g)	162.8			RRES		United Kingdom		Optimal
+UNT18	sample fw(g)	142.0			RRES		United Kingdom		Optimal
+UNT21	sample fw(g)	119.4			RRES		United Kingdom		Optimal
+UNT46	sample fw(g)	181.1			RRES		United Kingdom		Optimal
+UNT4	sample fw(g)	171.0			RRES		United Kingdom		Optimal
+UNT18	sample fw(g)	148.7			RRES		United Kingdom		Optimal
+UNT21	sample fw(g)	150.8			RRES		United Kingdom		Optimal
+UNT4	sample fw(g)	108.3			RRES		United Kingdom		Optimal
+UNT21	sample fw(g)	122.9			RRES		United Kingdom		Optimal
+UNT46	sample fw(g)	124.7			RRES		United Kingdom		Optimal
+UNT18	sample fw(g)	179.3			RRES		United Kingdom		Optimal
+UNT4	sample fw(g)	151.3			RRES		United Kingdom		Optimal
+UNT18	sample fw(g)	156.2			RRES		United Kingdom		Optimal
+UNT21	sample fw(g)	151.7			RRES		United Kingdom		Optimal
+UNT46	sample fw(g)	110.6			RRES		United Kingdom		Optimal
+UNT46	sample dw (g)	132.0			RRES		United Kingdom		Optimal
+UNT4	sample dw (g)	145.7			RRES		United Kingdom		Optimal
+UNT18	sample dw (g)	127.6			RRES		United Kingdom		Optimal
+UNT21	sample dw (g)	109.4			RRES		United Kingdom		Optimal
+UNT46	sample dw (g)	162.9			RRES		United Kingdom		Optimal
+UNT4	sample dw (g)	150.6			RRES		United Kingdom		Optimal
+UNT18	sample dw (g)	135.5			RRES		United Kingdom		Optimal
+UNT21	sample dw (g)	138.2			RRES		United Kingdom		Optimal
+UNT4	sample dw (g)	97.1			RRES		United Kingdom		Optimal
+UNT21	sample dw (g)	113.0			RRES		United Kingdom		Optimal
+UNT46	sample dw (g)	112.6			RRES		United Kingdom		Optimal
+UNT18	sample dw (g)	163.5			RRES		United Kingdom		Optimal
+UNT4	sample dw (g)	137.9			RRES		United Kingdom		Optimal
+UNT18	sample dw (g)	143.1			RRES		United Kingdom		Optimal
+UNT21	sample dw (g)	135.2			RRES		United Kingdom		Optimal
+UNT46	sample dw (g)	100.8			RRES		United Kingdom		Optimal
+UNT46	%drymatter	88.18			RRES		United Kingdom		Optimal
+UNT4	%drymatter	89.5			RRES		United Kingdom		Optimal
+UNT18	%drymatter	89.86			RRES		United Kingdom		Optimal
+UNT21	%drymatter	91.62			RRES		United Kingdom		Optimal
+UNT46	%drymatter	89.95			RRES		United Kingdom		Optimal
+UNT4	%drymatter	88.07			RRES		United Kingdom		Optimal
+UNT18	%drymatter	91.12			RRES		United Kingdom		Optimal
+UNT21	%drymatter	91.64			RRES		United Kingdom		Optimal
+UNT4	%drymatter	89.66			RRES		United Kingdom		Optimal
+UNT21	%drymatter	91.94			RRES		United Kingdom		Optimal
+UNT46	%drymatter	90.3			RRES		United Kingdom		Optimal
+UNT18	%drymatter	91.19			RRES		United Kingdom		Optimal
+UNT4	%drymatter	91.14			RRES		United Kingdom		Optimal
+UNT18	%drymatter	91.61			RRES		United Kingdom		Optimal
+UNT21	%drymatter	89.12			RRES		United Kingdom		Optimal
+UNT46	%drymatter	91.14			RRES		United Kingdom		Optimal

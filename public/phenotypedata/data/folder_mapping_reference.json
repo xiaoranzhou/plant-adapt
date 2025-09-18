@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "created": "2025-09-18T17:45:00.000Z",
+    "description": "Mapping of original folder names to descriptive study names based on metadata.json"
+  },
+  "folder_mappings": {
+    "data": {
+      "new_name": "study1_camelina_core_collection_controlled",
+      "description": "Characterization of camelina core collection and RILs under controlled conditions",
+      "study_ids": [
+        "2.1A1",
+        "2.1A2",
+        "2.1A3",
+        "2.1A4",
+        "2.1A5",
+        "2.1A6"
+      ]
+    },
+    "data (2)": {
+      "new_name": "study2_camelina_core_collection_field",
+      "description": "Characterization of camelina core collection under field conditions",
+      "study_ids": [
+        "2.2A1",
+        "2.2A2",
+        "2.2A3",
+        "2.2A4",
+        "2.2A5",
+        "2.2A6"
+      ]
+    },
+    "data (3)": {
+      "new_name": "study3_camelina_focus_lines_stress",
+      "description": "Controlled stress-testing of selected camelina focus lines",
+      "study_ids": [
+        "2.3A1",
+        "2.3A2",
+        "2.3A3",
+        "2.3A4"
+      ]
+    },
+    "data (4)": {
+      "new_name": "study4_environmental_suitability",
+      "description": "Environmental suitability of camelina to stressful conditions",
+      "study_ids": [
+        "2.4A1",
+        "2.4A2",
+        "2.4A3",
+        "2.4A4",
+        "2.4A5",
+        "2.4A6",
+        "2.4A7",
+        "2.4A8",
+        "2.4A9",
+        "2.4A10",
+        "2.4A11",
+        "2.4A12",
+        "2.4A13",
+        "2.4A14",
+        "2.4A15",
+        "2.4A16",
+        "2.4A17"
+      ]
+    },
+    "data (5)": {
+      "new_name": "study5_redox_status_analysis",
+      "description": "Redox-status analysis of core collection and focus lines",
+      "study_ids": [
+        "3.2A1"
+      ]
+    },
+    "data (6)": {
+      "new_name": "study6_enzyme_activity_profiling",
+      "description": "Targeted measurement of enzyme activities in focus lines",
+      "study_ids": [
+        "3.5A1"
+      ]
+    },
+    "data (7)": {
+      "new_name": "study7_public_usda_phenotypic_examination",
+      "description": "Phenotypic Examination of Camelina sativa Accessions from USDA-ARS",
+      "study_ids": [
+        "3A1",
+        "3A2",
+        "3A3",
+        "3A4",
+        "3A5",
+        "3A6"
+      ]
+    },
+    "data (8)": {
+      "new_name": "study8_public_western_canada_evaluation",
+      "description": "Agronomic and seed quality evaluation of Camelina sativa in western Canada",
+      "study_ids": [
+        "5A1"
+      ]
+    },
+    "data (9)": {
+      "new_name": "study9_public_northern_italy_low_input",
+      "description": "Camelina under low-input management systems in northern Italy",
+      "study_ids": [
+        "6A1"
+      ]
+    },
+    "data (10)": {
+      "new_name": "study10_public_lithuanian_fatty_acids",
+      "description": "Fatty Acid Composition of seeds harvested in Lithuania",
+      "study_ids": [
+        "7A1"
+      ]
+    },
+    "data (11)": {
+      "new_name": "study11_public_phenolic_compounds",
+      "description": "Occurrence and characterisation of phenolic compounds",
+      "study_ids": [
+        "9A1"
+      ]
+    }
+  }
+}

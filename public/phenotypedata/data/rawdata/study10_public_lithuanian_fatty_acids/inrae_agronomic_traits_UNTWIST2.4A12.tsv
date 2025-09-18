@@ -1,0 +1,705 @@
+subject	variable	value	sample_plant_anatomical_entity	sample_collection_date	sample_institute	sample_city	sample_country	sample_associated_interval	sample_associated_factor
+UNT4	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT4	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT4	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT4	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT18	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT18	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT18	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT18	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT21	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT21	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT21	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT21	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT46	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT46	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT46	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT46	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT4	soil water content (% water)	11.12			INRAE		France		Stressed
+UNT4	soil water content (% water)	12.23			INRAE		France		Stressed
+UNT4	soil water content (% water)	10.11			INRAE		France		Stressed
+UNT4	soil water content (% water)	9.96			INRAE		France		Stressed
+UNT18	soil water content (% water)	11.23			INRAE		France		Stressed
+UNT18	soil water content (% water)	11.22			INRAE		France		Stressed
+UNT18	soil water content (% water)	10.69			INRAE		France		Stressed
+UNT18	soil water content (% water)	9.45			INRAE		France		Stressed
+UNT21	soil water content (% water)	10.61			INRAE		France		Stressed
+UNT21	soil water content (% water)	9.77			INRAE		France		Stressed
+UNT21	soil water content (% water)	10.92			INRAE		France		Stressed
+UNT21	soil water content (% water)	10.39			INRAE		France		Stressed
+UNT46	soil water content (% water)	9.81			INRAE		France		Stressed
+UNT46	soil water content (% water)	10.97			INRAE		France		Stressed
+UNT46	soil water content (% water)	10.14			INRAE		France		Stressed
+UNT46	soil water content (% water)	9.18			INRAE		France		Stressed
+UNT4	straw weight (g/m2)	NaN			INRAE		France		Stressed
+UNT4	straw weight (g/m2)	NaN			INRAE		France		Stressed
+UNT4	straw weight (g/m2)	NaN			INRAE		France		Stressed
+UNT4	straw weight (g/m2)	NaN			INRAE		France		Stressed
+UNT18	straw weight (g/m2)	NaN			INRAE		France		Stressed
+UNT18	straw weight (g/m2)	NaN			INRAE		France		Stressed
+UNT18	straw weight (g/m2)	NaN			INRAE		France		Stressed
+UNT18	straw weight (g/m2)	NaN			INRAE		France		Stressed
+UNT21	straw weight (g/m2)	NaN			INRAE		France		Stressed
+UNT21	straw weight (g/m2)	NaN			INRAE		France		Stressed
+UNT21	straw weight (g/m2)	NaN			INRAE		France		Stressed
+UNT21	straw weight (g/m2)	NaN			INRAE		France		Stressed
+UNT46	straw weight (g/m2)	NaN			INRAE		France		Stressed
+UNT46	straw weight (g/m2)	NaN			INRAE		France		Stressed
+UNT46	straw weight (g/m2)	NaN			INRAE		France		Stressed
+UNT46	straw weight (g/m2)	NaN			INRAE		France		Stressed
+UNT4	flowering  (%)	22.703			INRAE		France		Stressed
+UNT4	flowering  (%)	17.127			INRAE		France		Stressed
+UNT4	flowering  (%)	64.151			INRAE		France		Stressed
+UNT4	flowering  (%)	100.0			INRAE		France		Stressed
+UNT18	flowering  (%)	19.89			INRAE		France		Stressed
+UNT18	flowering  (%)	52.174			INRAE		France		Stressed
+UNT18	flowering  (%)	23.622			INRAE		France		Stressed
+UNT18	flowering  (%)	26.087			INRAE		France		Stressed
+UNT21	flowering  (%)	1.818			INRAE		France		Stressed
+UNT21	flowering  (%)	9.302			INRAE		France		Stressed
+UNT21	flowering  (%)	19.54			INRAE		France		Stressed
+UNT21	flowering  (%)	12.963			INRAE		France		Stressed
+UNT46	flowering  (%)	36.111			INRAE		France		Stressed
+UNT46	flowering  (%)	28.8			INRAE		France		Stressed
+UNT46	flowering  (%)	33.621			INRAE		France		Stressed
+UNT46	flowering  (%)	21.469			INRAE		France		Stressed
+UNT4	leaf relative water content (%)	96.166			INRAE		France		Stressed
+UNT4	leaf relative water content (%)	96.169			INRAE		France		Stressed
+UNT4	leaf relative water content (%)	94.514			INRAE		France		Stressed
+UNT4	leaf relative water content (%)	98.428			INRAE		France		Stressed
+UNT18	leaf relative water content (%)	98.228			INRAE		France		Stressed
+UNT18	leaf relative water content (%)	89.982			INRAE		France		Stressed
+UNT18	leaf relative water content (%)	95.909			INRAE		France		Stressed
+UNT18	leaf relative water content (%)	97.669			INRAE		France		Stressed
+UNT21	leaf relative water content (%)	93.538			INRAE		France		Stressed
+UNT21	leaf relative water content (%)	90.545			INRAE		France		Stressed
+UNT21	leaf relative water content (%)	97.325			INRAE		France		Stressed
+UNT21	leaf relative water content (%)	94.386			INRAE		France		Stressed
+UNT46	leaf relative water content (%)	94.06			INRAE		France		Stressed
+UNT46	leaf relative water content (%)	96.983			INRAE		France		Stressed
+UNT46	leaf relative water content (%)	96.052			INRAE		France		Stressed
+UNT46	leaf relative water content (%)	97.27			INRAE		France		Stressed
+UNT4	tkw	NaN			INRAE		France		Stressed
+UNT4	tkw	NaN			INRAE		France		Stressed
+UNT4	tkw	NaN			INRAE		France		Stressed
+UNT4	tkw	NaN			INRAE		France		Stressed
+UNT18	tkw	NaN			INRAE		France		Stressed
+UNT18	tkw	NaN			INRAE		France		Stressed
+UNT18	tkw	NaN			INRAE		France		Stressed
+UNT18	tkw	NaN			INRAE		France		Stressed
+UNT21	tkw	NaN			INRAE		France		Stressed
+UNT21	tkw	NaN			INRAE		France		Stressed
+UNT21	tkw	NaN			INRAE		France		Stressed
+UNT21	tkw	NaN			INRAE		France		Stressed
+UNT46	tkw	NaN			INRAE		France		Stressed
+UNT46	tkw	NaN			INRAE		France		Stressed
+UNT46	tkw	NaN			INRAE		France		Stressed
+UNT46	tkw	NaN			INRAE		France		Stressed
+UNT4	seed yield (g/m2)	NaN			INRAE		France		Stressed
+UNT4	seed yield (g/m2)	NaN			INRAE		France		Stressed
+UNT4	seed yield (g/m2)	NaN			INRAE		France		Stressed
+UNT4	seed yield (g/m2)	NaN			INRAE		France		Stressed
+UNT18	seed yield (g/m2)	NaN			INRAE		France		Stressed
+UNT18	seed yield (g/m2)	NaN			INRAE		France		Stressed
+UNT18	seed yield (g/m2)	NaN			INRAE		France		Stressed
+UNT18	seed yield (g/m2)	NaN			INRAE		France		Stressed
+UNT21	seed yield (g/m2)	NaN			INRAE		France		Stressed
+UNT21	seed yield (g/m2)	NaN			INRAE		France		Stressed
+UNT21	seed yield (g/m2)	NaN			INRAE		France		Stressed
+UNT21	seed yield (g/m2)	NaN			INRAE		France		Stressed
+UNT46	seed yield (g/m2)	NaN			INRAE		France		Stressed
+UNT46	seed yield (g/m2)	NaN			INRAE		France		Stressed
+UNT46	seed yield (g/m2)	NaN			INRAE		France		Stressed
+UNT46	seed yield (g/m2)	NaN			INRAE		France		Stressed
+UNT4	seed yield (g/plants)	NaN			INRAE		France		Stressed
+UNT4	seed yield (g/plants)	NaN			INRAE		France		Stressed
+UNT4	seed yield (g/plants)	NaN			INRAE		France		Stressed
+UNT4	seed yield (g/plants)	NaN			INRAE		France		Stressed
+UNT18	seed yield (g/plants)	NaN			INRAE		France		Stressed
+UNT18	seed yield (g/plants)	NaN			INRAE		France		Stressed
+UNT18	seed yield (g/plants)	NaN			INRAE		France		Stressed
+UNT18	seed yield (g/plants)	NaN			INRAE		France		Stressed
+UNT21	seed yield (g/plants)	NaN			INRAE		France		Stressed
+UNT21	seed yield (g/plants)	NaN			INRAE		France		Stressed
+UNT21	seed yield (g/plants)	NaN			INRAE		France		Stressed
+UNT21	seed yield (g/plants)	NaN			INRAE		France		Stressed
+UNT46	seed yield (g/plants)	NaN			INRAE		France		Stressed
+UNT46	seed yield (g/plants)	NaN			INRAE		France		Stressed
+UNT46	seed yield (g/plants)	NaN			INRAE		France		Stressed
+UNT46	seed yield (g/plants)	NaN			INRAE		France		Stressed
+UNT4	plants density (plants/m2)	296.571			INRAE		France		Stressed
+UNT4	plants density (plants/m2)	310.286			INRAE		France		Stressed
+UNT4	plants density (plants/m2)	181.714			INRAE		France		Stressed
+UNT4	plants density (plants/m2)	284.571			INRAE		France		Stressed
+UNT18	plants density (plants/m2)	310.286			INRAE		France		Stressed
+UNT18	plants density (plants/m2)	197.143			INRAE		France		Stressed
+UNT18	plants density (plants/m2)	149.143			INRAE		France		Stressed
+UNT18	plants density (plants/m2)	276.0			INRAE		France		Stressed
+UNT21	plants density (plants/m2)	188.571			INRAE		France		Stressed
+UNT21	plants density (plants/m2)	221.143			INRAE		France		Stressed
+UNT21	plants density (plants/m2)	217.714			INRAE		France		Stressed
+UNT21	plants density (plants/m2)	185.143			INRAE		France		Stressed
+UNT46	plants density (plants/m2)	185.143			INRAE		France		Stressed
+UNT46	plants density (plants/m2)	214.286			INRAE		France		Stressed
+UNT46	plants density (plants/m2)	198.857			INRAE		France		Stressed
+UNT46	plants density (plants/m2)	303.429			INRAE		France		Stressed
+UNT4	plants density (%)	59.314			INRAE		France		Stressed
+UNT4	plants density (%)	62.057			INRAE		France		Stressed
+UNT4	plants density (%)	36.343			INRAE		France		Stressed
+UNT4	plants density (%)	56.914			INRAE		France		Stressed
+UNT18	plants density (%)	62.057			INRAE		France		Stressed
+UNT18	plants density (%)	39.429			INRAE		France		Stressed
+UNT18	plants density (%)	29.829			INRAE		France		Stressed
+UNT18	plants density (%)	55.2			INRAE		France		Stressed
+UNT21	plants density (%)	37.714			INRAE		France		Stressed
+UNT21	plants density (%)	44.229			INRAE		France		Stressed
+UNT21	plants density (%)	43.543			INRAE		France		Stressed
+UNT21	plants density (%)	37.029			INRAE		France		Stressed
+UNT46	plants density (%)	37.029			INRAE		France		Stressed
+UNT46	plants density (%)	42.857			INRAE		France		Stressed
+UNT46	plants density (%)	39.771			INRAE		France		Stressed
+UNT46	plants density (%)	60.686			INRAE		France		Stressed
+UNT4	plant height (cm)	NaN			INRAE		France		Stressed
+UNT4	plant height (cm)	NaN			INRAE		France		Stressed
+UNT4	plant height (cm)	NaN			INRAE		France		Stressed
+UNT4	plant height (cm)	NaN			INRAE		France		Stressed
+UNT18	plant height (cm)	NaN			INRAE		France		Stressed
+UNT18	plant height (cm)	NaN			INRAE		France		Stressed
+UNT18	plant height (cm)	NaN			INRAE		France		Stressed
+UNT18	plant height (cm)	NaN			INRAE		France		Stressed
+UNT21	plant height (cm)	NaN			INRAE		France		Stressed
+UNT21	plant height (cm)	NaN			INRAE		France		Stressed
+UNT21	plant height (cm)	NaN			INRAE		France		Stressed
+UNT21	plant height (cm)	NaN			INRAE		France		Stressed
+UNT46	plant height (cm)	NaN			INRAE		France		Stressed
+UNT46	plant height (cm)	NaN			INRAE		France		Stressed
+UNT46	plant height (cm)	NaN			INRAE		France		Stressed
+UNT46	plant height (cm)	NaN			INRAE		France		Stressed
+UNT4	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT4	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT4	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT4	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT18	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT18	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT18	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT18	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT21	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT21	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT21	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT21	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT46	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT46	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT46	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT46	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT4	soil water content (% water)	9.69			INRAE		France		Optimal
+UNT4	soil water content (% water)	9.89			INRAE		France		Optimal
+UNT4	soil water content (% water)	10.8			INRAE		France		Optimal
+UNT4	soil water content (% water)	10.32			INRAE		France		Optimal
+UNT18	soil water content (% water)	9.6			INRAE		France		Optimal
+UNT18	soil water content (% water)	12.73			INRAE		France		Optimal
+UNT18	soil water content (% water)	12.22			INRAE		France		Optimal
+UNT18	soil water content (% water)	10.82			INRAE		France		Optimal
+UNT21	soil water content (% water)	11.79			INRAE		France		Optimal
+UNT21	soil water content (% water)	12.09			INRAE		France		Optimal
+UNT21	soil water content (% water)	10.07			INRAE		France		Optimal
+UNT21	soil water content (% water)	11.24			INRAE		France		Optimal
+UNT46	soil water content (% water)	10.85			INRAE		France		Optimal
+UNT46	soil water content (% water)	9.95			INRAE		France		Optimal
+UNT46	soil water content (% water)	11.91			INRAE		France		Optimal
+UNT46	soil water content (% water)	11.38			INRAE		France		Optimal
+UNT4	straw weight (g/m2)	132.128571428571			INRAE		France		Optimal
+UNT4	straw weight (g/m2)	141.720571428571			INRAE		France		Optimal
+UNT4	straw weight (g/m2)	94.3234285714286			INRAE		France		Optimal
+UNT4	straw weight (g/m2)	138.22			INRAE		France		Optimal
+UNT18	straw weight (g/m2)	125.258285714286			INRAE		France		Optimal
+UNT18	straw weight (g/m2)	85.6137142857143			INRAE		France		Optimal
+UNT18	straw weight (g/m2)	81.1857142857143			INRAE		France		Optimal
+UNT18	straw weight (g/m2)	122.209714285714			INRAE		France		Optimal
+UNT21	straw weight (g/m2)	80.7611428571429			INRAE		France		Optimal
+UNT21	straw weight (g/m2)	59.4068571428571			INRAE		France		Optimal
+UNT21	straw weight (g/m2)	124.656			INRAE		France		Optimal
+UNT21	straw weight (g/m2)	84.2			INRAE		France		Optimal
+UNT46	straw weight (g/m2)	133.629142857143			INRAE		France		Optimal
+UNT46	straw weight (g/m2)	109.931428571429			INRAE		France		Optimal
+UNT46	straw weight (g/m2)	76.5045714285714			INRAE		France		Optimal
+UNT46	straw weight (g/m2)	116.860571428571			INRAE		France		Optimal
+UNT4	flowering  (%)	51.442			INRAE		France		Optimal
+UNT4	flowering  (%)	30.408			INRAE		France		Optimal
+UNT4	flowering  (%)	26.337			INRAE		France		Optimal
+UNT4	flowering  (%)	21.101			INRAE		France		Optimal
+UNT18	flowering  (%)	24.599			INRAE		France		Optimal
+UNT18	flowering  (%)	31.373			INRAE		France		Optimal
+UNT18	flowering  (%)	5.983			INRAE		France		Optimal
+UNT18	flowering  (%)	23.92			INRAE		France		Optimal
+UNT21	flowering  (%)	2.299			INRAE		France		Optimal
+UNT21	flowering  (%)	2.073			INRAE		France		Optimal
+UNT21	flowering  (%)	5.063			INRAE		France		Optimal
+UNT21	flowering  (%)	13.366			INRAE		France		Optimal
+UNT46	flowering  (%)	10.169			INRAE		France		Optimal
+UNT46	flowering  (%)	7.087			INRAE		France		Optimal
+UNT46	flowering  (%)	13.537			INRAE		France		Optimal
+UNT46	flowering  (%)	9.778			INRAE		France		Optimal
+UNT4	leaf relative water content (%)	90.802			INRAE		France		Optimal
+UNT4	leaf relative water content (%)	78.208			INRAE		France		Optimal
+UNT4	leaf relative water content (%)	87.133			INRAE		France		Optimal
+UNT4	leaf relative water content (%)	84.11			INRAE		France		Optimal
+UNT18	leaf relative water content (%)	88.025			INRAE		France		Optimal
+UNT18	leaf relative water content (%)	84.096			INRAE		France		Optimal
+UNT18	leaf relative water content (%)	82.256			INRAE		France		Optimal
+UNT18	leaf relative water content (%)	82.875			INRAE		France		Optimal
+UNT21	leaf relative water content (%)	89.393			INRAE		France		Optimal
+UNT21	leaf relative water content (%)	91.14			INRAE		France		Optimal
+UNT21	leaf relative water content (%)	91.033			INRAE		France		Optimal
+UNT21	leaf relative water content (%)	88.143			INRAE		France		Optimal
+UNT46	leaf relative water content (%)	90.72			INRAE		France		Optimal
+UNT46	leaf relative water content (%)	86.38			INRAE		France		Optimal
+UNT46	leaf relative water content (%)	75.886			INRAE		France		Optimal
+UNT46	leaf relative water content (%)	84.692			INRAE		France		Optimal
+UNT4	tkw	1.01396666666667			INRAE		France		Optimal
+UNT4	tkw	1.01256666666667			INRAE		France		Optimal
+UNT4	tkw	1.02113333333333			INRAE		France		Optimal
+UNT4	tkw	1.02583333333333			INRAE		France		Optimal
+UNT18	tkw	1.13896666666667			INRAE		France		Optimal
+UNT18	tkw	1.08863333333333			INRAE		France		Optimal
+UNT18	tkw	1.1481			INRAE		France		Optimal
+UNT18	tkw	1.0801			INRAE		France		Optimal
+UNT21	tkw	0.7519			INRAE		France		Optimal
+UNT21	tkw	0.750366666666667			INRAE		France		Optimal
+UNT21	tkw	0.7477			INRAE		France		Optimal
+UNT21	tkw	0.6981			INRAE		France		Optimal
+UNT46	tkw	1.0227			INRAE		France		Optimal
+UNT46	tkw	1.01053333333333			INRAE		France		Optimal
+UNT46	tkw	0.986			INRAE		France		Optimal
+UNT46	tkw	0.897266666666667			INRAE		France		Optimal
+UNT4	seed yield (g/m2)	71.777			INRAE		France		Optimal
+UNT4	seed yield (g/m2)	72.242			INRAE		France		Optimal
+UNT4	seed yield (g/m2)	46.815			INRAE		France		Optimal
+UNT4	seed yield (g/m2)	66.491			INRAE		France		Optimal
+UNT18	seed yield (g/m2)	68.165			INRAE		France		Optimal
+UNT18	seed yield (g/m2)	38.536			INRAE		France		Optimal
+UNT18	seed yield (g/m2)	35.872			INRAE		France		Optimal
+UNT18	seed yield (g/m2)	59.238			INRAE		France		Optimal
+UNT21	seed yield (g/m2)	39.157			INRAE		France		Optimal
+UNT21	seed yield (g/m2)	26.974			INRAE		France		Optimal
+UNT21	seed yield (g/m2)	58.588			INRAE		France		Optimal
+UNT21	seed yield (g/m2)	39.086			INRAE		France		Optimal
+UNT46	seed yield (g/m2)	59.771			INRAE		France		Optimal
+UNT46	seed yield (g/m2)	54.384			INRAE		France		Optimal
+UNT46	seed yield (g/m2)	28.91			INRAE		France		Optimal
+UNT46	seed yield (g/m2)	46.876			INRAE		France		Optimal
+UNT4	seed yield (g/plants)	0.201			INRAE		France		Optimal
+UNT4	seed yield (g/plants)	0.132			INRAE		France		Optimal
+UNT4	seed yield (g/plants)	0.112			INRAE		France		Optimal
+UNT4	seed yield (g/plants)	0.119			INRAE		France		Optimal
+UNT18	seed yield (g/plants)	0.213			INRAE		France		Optimal
+UNT18	seed yield (g/plants)	0.088			INRAE		France		Optimal
+UNT18	seed yield (g/plants)	0.089			INRAE		France		Optimal
+UNT18	seed yield (g/plants)	0.115			INRAE		France		Optimal
+UNT21	seed yield (g/plants)	0.088			INRAE		France		Optimal
+UNT21	seed yield (g/plants)	0.082			INRAE		France		Optimal
+UNT21	seed yield (g/plants)	0.144			INRAE		France		Optimal
+UNT21	seed yield (g/plants)	0.113			INRAE		France		Optimal
+UNT46	seed yield (g/plants)	0.118			INRAE		France		Optimal
+UNT46	seed yield (g/plants)	0.125			INRAE		France		Optimal
+UNT46	seed yield (g/plants)	0.074			INRAE		France		Optimal
+UNT46	seed yield (g/plants)	0.122			INRAE		France		Optimal
+UNT4	plants density (plants/m2)	195.429			INRAE		France		Optimal
+UNT4	plants density (plants/m2)	228.0			INRAE		France		Optimal
+UNT4	plants density (plants/m2)	108.0			INRAE		France		Optimal
+UNT4	plants density (plants/m2)	262.286			INRAE		France		Optimal
+UNT18	plants density (plants/m2)	157.714			INRAE		France		Optimal
+UNT18	plants density (plants/m2)	394.286			INRAE		France		Optimal
+UNT18	plants density (plants/m2)	97.714			INRAE		France		Optimal
+UNT18	plants density (plants/m2)	145.714			INRAE		France		Optimal
+UNT21	plants density (plants/m2)	144.0			INRAE		France		Optimal
+UNT21	plants density (plants/m2)	190.286			INRAE		France		Optimal
+UNT21	plants density (plants/m2)	156.0			INRAE		France		Optimal
+UNT21	plants density (plants/m2)	166.286			INRAE		France		Optimal
+UNT46	plants density (plants/m2)	104.571			INRAE		France		Optimal
+UNT46	plants density (plants/m2)	217.714			INRAE		France		Optimal
+UNT46	plants density (plants/m2)	181.714			INRAE		France		Optimal
+UNT46	plants density (plants/m2)	204.0			INRAE		France		Optimal
+UNT4	plants density (%)	39.086			INRAE		France		Optimal
+UNT4	plants density (%)	45.6			INRAE		France		Optimal
+UNT4	plants density (%)	21.6			INRAE		France		Optimal
+UNT4	plants density (%)	52.457			INRAE		France		Optimal
+UNT18	plants density (%)	31.543			INRAE		France		Optimal
+UNT18	plants density (%)	78.857			INRAE		France		Optimal
+UNT18	plants density (%)	19.543			INRAE		France		Optimal
+UNT18	plants density (%)	29.143			INRAE		France		Optimal
+UNT21	plants density (%)	28.8			INRAE		France		Optimal
+UNT21	plants density (%)	38.057			INRAE		France		Optimal
+UNT21	plants density (%)	31.2			INRAE		France		Optimal
+UNT21	plants density (%)	33.257			INRAE		France		Optimal
+UNT46	plants density (%)	20.914			INRAE		France		Optimal
+UNT46	plants density (%)	43.543			INRAE		France		Optimal
+UNT46	plants density (%)	36.343			INRAE		France		Optimal
+UNT46	plants density (%)	40.8			INRAE		France		Optimal
+UNT4	plant height (cm)	58.7			INRAE		France		Optimal
+UNT4	plant height (cm)	68.5			INRAE		France		Optimal
+UNT4	plant height (cm)	55.6			INRAE		France		Optimal
+UNT4	plant height (cm)	65.4			INRAE		France		Optimal
+UNT18	plant height (cm)	63.0			INRAE		France		Optimal
+UNT18	plant height (cm)	58.3			INRAE		France		Optimal
+UNT18	plant height (cm)	56.3			INRAE		France		Optimal
+UNT18	plant height (cm)	66.5			INRAE		France		Optimal
+UNT21	plant height (cm)	52.5			INRAE		France		Optimal
+UNT21	plant height (cm)	51.4			INRAE		France		Optimal
+UNT21	plant height (cm)	59.3			INRAE		France		Optimal
+UNT21	plant height (cm)	53.3			INRAE		France		Optimal
+UNT46	plant height (cm)	65.0			INRAE		France		Optimal
+UNT46	plant height (cm)	61.4			INRAE		France		Optimal
+UNT46	plant height (cm)	56.9			INRAE		France		Optimal
+UNT46	plant height (cm)	60.0			INRAE		France		Optimal
+UNT4	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT4	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT4	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT4	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT18	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT18	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT18	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT18	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT21	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT21	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT21	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT21	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT46	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT46	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT46	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT46	plant_anatomical_entity	NaN			INRAE		France		Stressed
+UNT4	soil water content (% water)	13.991			INRAE		France		Stressed
+UNT4	soil water content (% water)	13.576			INRAE		France		Stressed
+UNT4	soil water content (% water)	13.373			INRAE		France		Stressed
+UNT4	soil water content (% water)	13.019			INRAE		France		Stressed
+UNT18	soil water content (% water)	13.662			INRAE		France		Stressed
+UNT18	soil water content (% water)	14.21			INRAE		France		Stressed
+UNT18	soil water content (% water)	13.35			INRAE		France		Stressed
+UNT18	soil water content (% water)	13.314			INRAE		France		Stressed
+UNT21	soil water content (% water)	13.444			INRAE		France		Stressed
+UNT21	soil water content (% water)	13.706			INRAE		France		Stressed
+UNT21	soil water content (% water)	14.139			INRAE		France		Stressed
+UNT21	soil water content (% water)	13.719			INRAE		France		Stressed
+UNT46	soil water content (% water)	13.616			INRAE		France		Stressed
+UNT46	soil water content (% water)	13.848			INRAE		France		Stressed
+UNT46	soil water content (% water)	12.719			INRAE		France		Stressed
+UNT46	soil water content (% water)	13.169			INRAE		France		Stressed
+UNT4	straw weight (g/m2)	229.56			INRAE		France		Stressed
+UNT4	straw weight (g/m2)	273.531428571429			INRAE		France		Stressed
+UNT4	straw weight (g/m2)	193.582857142857			INRAE		France		Stressed
+UNT4	straw weight (g/m2)	241.302857142857			INRAE		France		Stressed
+UNT18	straw weight (g/m2)	278.354285714286			INRAE		France		Stressed
+UNT18	straw weight (g/m2)	212.96			INRAE		France		Stressed
+UNT18	straw weight (g/m2)	240.782857142857			INRAE		France		Stressed
+UNT18	straw weight (g/m2)	234.462857142857			INRAE		France		Stressed
+UNT21	straw weight (g/m2)	306.12			INRAE		France		Stressed
+UNT21	straw weight (g/m2)	307.937142857143			INRAE		France		Stressed
+UNT21	straw weight (g/m2)	228.045714285714			INRAE		France		Stressed
+UNT21	straw weight (g/m2)	278.411428571429			INRAE		France		Stressed
+UNT46	straw weight (g/m2)	334.108571428571			INRAE		France		Stressed
+UNT46	straw weight (g/m2)	304.474285714286			INRAE		France		Stressed
+UNT46	straw weight (g/m2)	340.365714285714			INRAE		France		Stressed
+UNT46	straw weight (g/m2)	315.857142857143			INRAE		France		Stressed
+UNT4	flowering  (%)	54.658			INRAE		France		Stressed
+UNT4	flowering  (%)	25.641			INRAE		France		Stressed
+UNT4	flowering  (%)	43.038			INRAE		France		Stressed
+UNT4	flowering  (%)	25.309			INRAE		France		Stressed
+UNT18	flowering  (%)	34.286			INRAE		France		Stressed
+UNT18	flowering  (%)	36.517			INRAE		France		Stressed
+UNT18	flowering  (%)	28.994			INRAE		France		Stressed
+UNT18	flowering  (%)	40.994			INRAE		France		Stressed
+UNT21	flowering  (%)	9.189			INRAE		France		Stressed
+UNT21	flowering  (%)	17.277			INRAE		France		Stressed
+UNT21	flowering  (%)	23.894			INRAE		France		Stressed
+UNT21	flowering  (%)	11.656			INRAE		France		Stressed
+UNT46	flowering  (%)	16.667			INRAE		France		Stressed
+UNT46	flowering  (%)	24.211			INRAE		France		Stressed
+UNT46	flowering  (%)	16.561			INRAE		France		Stressed
+UNT46	flowering  (%)	16.384			INRAE		France		Stressed
+UNT4	leaf relative water content (%)	96.9882445920233			INRAE		France		Stressed
+UNT4	leaf relative water content (%)	88.9700304000257			INRAE		France		Stressed
+UNT4	leaf relative water content (%)	97.8902948868431			INRAE		France		Stressed
+UNT4	leaf relative water content (%)	82.0225854003355			INRAE		France		Stressed
+UNT18	leaf relative water content (%)	88.8849134948305			INRAE		France		Stressed
+UNT18	leaf relative water content (%)	82.0217753555659			INRAE		France		Stressed
+UNT18	leaf relative water content (%)	80.2525083006159			INRAE		France		Stressed
+UNT18	leaf relative water content (%)	97.1436098587155			INRAE		France		Stressed
+UNT21	leaf relative water content (%)	81.4954460946888			INRAE		France		Stressed
+UNT21	leaf relative water content (%)	88.5155904568082			INRAE		France		Stressed
+UNT21	leaf relative water content (%)	89.0922747650507			INRAE		France		Stressed
+UNT21	leaf relative water content (%)	73.5527765122741			INRAE		France		Stressed
+UNT46	leaf relative water content (%)	81.6898972655591			INRAE		France		Stressed
+UNT46	leaf relative water content (%)	92.5871149691738			INRAE		France		Stressed
+UNT46	leaf relative water content (%)	99.1581172336845			INRAE		France		Stressed
+UNT46	leaf relative water content (%)	90.4787700627183			INRAE		France		Stressed
+UNT4	tkw	1.18456666666667			INRAE		France		Stressed
+UNT4	tkw	1.17946666666667			INRAE		France		Stressed
+UNT4	tkw	1.21896666666667			INRAE		France		Stressed
+UNT4	tkw	1.1756			INRAE		France		Stressed
+UNT18	tkw	1.2578			INRAE		France		Stressed
+UNT18	tkw	1.22376666666667			INRAE		France		Stressed
+UNT18	tkw	1.27113333333333			INRAE		France		Stressed
+UNT18	tkw	1.27296666666667			INRAE		France		Stressed
+UNT21	tkw	0.907033333333333			INRAE		France		Stressed
+UNT21	tkw	0.865033333333333			INRAE		France		Stressed
+UNT21	tkw	0.833333333333333			INRAE		France		Stressed
+UNT21	tkw	0.871066666666667			INRAE		France		Stressed
+UNT46	tkw	1.07456666666667			INRAE		France		Stressed
+UNT46	tkw	1.08113333333333			INRAE		France		Stressed
+UNT46	tkw	1.0851			INRAE		France		Stressed
+UNT46	tkw	1.05503333333333			INRAE		France		Stressed
+UNT4	seed yield (g/m2)	93.488			INRAE		France		Stressed
+UNT4	seed yield (g/m2)	92.916			INRAE		France		Stressed
+UNT4	seed yield (g/m2)	65.201			INRAE		France		Stressed
+UNT4	seed yield (g/m2)	105.905			INRAE		France		Stressed
+UNT18	seed yield (g/m2)	62.586			INRAE		France		Stressed
+UNT18	seed yield (g/m2)	55.634			INRAE		France		Stressed
+UNT18	seed yield (g/m2)	60.03			INRAE		France		Stressed
+UNT18	seed yield (g/m2)	55.857			INRAE		France		Stressed
+UNT21	seed yield (g/m2)	112.261			INRAE		France		Stressed
+UNT21	seed yield (g/m2)	90.385			INRAE		France		Stressed
+UNT21	seed yield (g/m2)	78.244			INRAE		France		Stressed
+UNT21	seed yield (g/m2)	67.336			INRAE		France		Stressed
+UNT46	seed yield (g/m2)	106.861			INRAE		France		Stressed
+UNT46	seed yield (g/m2)	84.408			INRAE		France		Stressed
+UNT46	seed yield (g/m2)	117.114			INRAE		France		Stressed
+UNT46	seed yield (g/m2)	112.838			INRAE		France		Stressed
+UNT4	seed yield (g/plants)	0.339			INRAE		France		Stressed
+UNT4	seed yield (g/plants)	0.278			INRAE		France		Stressed
+UNT4	seed yield (g/plants)	0.241			INRAE		France		Stressed
+UNT4	seed yield (g/plants)	0.381			INRAE		France		Stressed
+UNT18	seed yield (g/plants)	0.209			INRAE		France		Stressed
+UNT18	seed yield (g/plants)	0.182			INRAE		France		Stressed
+UNT18	seed yield (g/plants)	0.207			INRAE		France		Stressed
+UNT18	seed yield (g/plants)	0.202			INRAE		France		Stressed
+UNT21	seed yield (g/plants)	0.354			INRAE		France		Stressed
+UNT21	seed yield (g/plants)	0.276			INRAE		France		Stressed
+UNT21	seed yield (g/plants)	0.404			INRAE		France		Stressed
+UNT21	seed yield (g/plants)	0.241			INRAE		France		Stressed
+UNT46	seed yield (g/plants)	0.346			INRAE		France		Stressed
+UNT46	seed yield (g/plants)	0.259			INRAE		France		Stressed
+UNT46	seed yield (g/plants)	0.435			INRAE		France		Stressed
+UNT46	seed yield (g/plants)	0.372			INRAE		France		Stressed
+UNT4	plants density (plants/m2)	276.0			INRAE		France		Stressed
+UNT4	plants density (plants/m2)	334.286			INRAE		France		Stressed
+UNT4	plants density (plants/m2)	270.857			INRAE		France		Stressed
+UNT4	plants density (plants/m2)	277.714			INRAE		France		Stressed
+UNT18	plants density (plants/m2)	300.0			INRAE		France		Stressed
+UNT18	plants density (plants/m2)	305.143			INRAE		France		Stressed
+UNT18	plants density (plants/m2)	289.714			INRAE		France		Stressed
+UNT18	plants density (plants/m2)	276.0			INRAE		France		Stressed
+UNT21	plants density (plants/m2)	317.143			INRAE		France		Stressed
+UNT21	plants density (plants/m2)	327.429			INRAE		France		Stressed
+UNT21	plants density (plants/m2)	193.714			INRAE		France		Stressed
+UNT21	plants density (plants/m2)	279.429			INRAE		France		Stressed
+UNT46	plants density (plants/m2)	308.571			INRAE		France		Stressed
+UNT46	plants density (plants/m2)	325.714			INRAE		France		Stressed
+UNT46	plants density (plants/m2)	269.143			INRAE		France		Stressed
+UNT46	plants density (plants/m2)	303.429			INRAE		France		Stressed
+UNT4	plants density (%)	55.2			INRAE		France		Stressed
+UNT4	plants density (%)	66.857			INRAE		France		Stressed
+UNT4	plants density (%)	54.171			INRAE		France		Stressed
+UNT4	plants density (%)	55.543			INRAE		France		Stressed
+UNT18	plants density (%)	60.0			INRAE		France		Stressed
+UNT18	plants density (%)	61.029			INRAE		France		Stressed
+UNT18	plants density (%)	57.943			INRAE		France		Stressed
+UNT18	plants density (%)	55.2			INRAE		France		Stressed
+UNT21	plants density (%)	63.429			INRAE		France		Stressed
+UNT21	plants density (%)	65.486			INRAE		France		Stressed
+UNT21	plants density (%)	38.743			INRAE		France		Stressed
+UNT21	plants density (%)	55.886			INRAE		France		Stressed
+UNT46	plants density (%)	61.714			INRAE		France		Stressed
+UNT46	plants density (%)	65.143			INRAE		France		Stressed
+UNT46	plants density (%)	53.829			INRAE		France		Stressed
+UNT46	plants density (%)	60.686			INRAE		France		Stressed
+UNT4	plant height (cm)	NaN			INRAE		France		Stressed
+UNT4	plant height (cm)	NaN			INRAE		France		Stressed
+UNT4	plant height (cm)	NaN			INRAE		France		Stressed
+UNT4	plant height (cm)	NaN			INRAE		France		Stressed
+UNT18	plant height (cm)	NaN			INRAE		France		Stressed
+UNT18	plant height (cm)	NaN			INRAE		France		Stressed
+UNT18	plant height (cm)	NaN			INRAE		France		Stressed
+UNT18	plant height (cm)	NaN			INRAE		France		Stressed
+UNT21	plant height (cm)	NaN			INRAE		France		Stressed
+UNT21	plant height (cm)	NaN			INRAE		France		Stressed
+UNT21	plant height (cm)	NaN			INRAE		France		Stressed
+UNT21	plant height (cm)	NaN			INRAE		France		Stressed
+UNT46	plant height (cm)	NaN			INRAE		France		Stressed
+UNT46	plant height (cm)	NaN			INRAE		France		Stressed
+UNT46	plant height (cm)	NaN			INRAE		France		Stressed
+UNT46	plant height (cm)	NaN			INRAE		France		Stressed
+UNT4	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT4	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT4	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT4	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT18	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT18	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT18	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT18	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT21	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT21	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT21	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT21	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT46	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT46	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT46	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT46	plant_anatomical_entity	NaN			INRAE		France		Optimal
+UNT4	soil water content (% water)	11.475			INRAE		France		Optimal
+UNT4	soil water content (% water)	11.588			INRAE		France		Optimal
+UNT4	soil water content (% water)	10.396			INRAE		France		Optimal
+UNT4	soil water content (% water)	10.638			INRAE		France		Optimal
+UNT18	soil water content (% water)	11.211			INRAE		France		Optimal
+UNT18	soil water content (% water)	10.959			INRAE		France		Optimal
+UNT18	soil water content (% water)	11.811			INRAE		France		Optimal
+UNT18	soil water content (% water)	10.909			INRAE		France		Optimal
+UNT21	soil water content (% water)	11.638			INRAE		France		Optimal
+UNT21	soil water content (% water)	10.256			INRAE		France		Optimal
+UNT21	soil water content (% water)	11.111			INRAE		France		Optimal
+UNT21	soil water content (% water)	11.111			INRAE		France		Optimal
+UNT46	soil water content (% water)	10.891			INRAE		France		Optimal
+UNT46	soil water content (% water)	11.468			INRAE		France		Optimal
+UNT46	soil water content (% water)	11.523			INRAE		France		Optimal
+UNT46	soil water content (% water)	10.989			INRAE		France		Optimal
+UNT4	straw weight (g/m2)	126.565714285714			INRAE		France		Optimal
+UNT4	straw weight (g/m2)	132.045714285714			INRAE		France		Optimal
+UNT4	straw weight (g/m2)	173.142857142857			INRAE		France		Optimal
+UNT4	straw weight (g/m2)	184.365714285714			INRAE		France		Optimal
+UNT18	straw weight (g/m2)	106.165714285714			INRAE		France		Optimal
+UNT18	straw weight (g/m2)	135.422857142857			INRAE		France		Optimal
+UNT18	straw weight (g/m2)	143.502857142857			INRAE		France		Optimal
+UNT18	straw weight (g/m2)	140.08			INRAE		France		Optimal
+UNT21	straw weight (g/m2)	78.2685714285714			INRAE		France		Optimal
+UNT21	straw weight (g/m2)	186.005714285714			INRAE		France		Optimal
+UNT21	straw weight (g/m2)	143.194285714286			INRAE		France		Optimal
+UNT21	straw weight (g/m2)	125.48			INRAE		France		Optimal
+UNT46	straw weight (g/m2)	165.577142857143			INRAE		France		Optimal
+UNT46	straw weight (g/m2)	172.491428571429			INRAE		France		Optimal
+UNT46	straw weight (g/m2)	106.194285714286			INRAE		France		Optimal
+UNT46	straw weight (g/m2)	165.365714285714			INRAE		France		Optimal
+UNT4	flowering  (%)	48.718			INRAE		France		Optimal
+UNT4	flowering  (%)	53.589			INRAE		France		Optimal
+UNT4	flowering  (%)	37.603			INRAE		France		Optimal
+UNT4	flowering  (%)	54.497			INRAE		France		Optimal
+UNT18	flowering  (%)	30.682			INRAE		France		Optimal
+UNT18	flowering  (%)	20.833			INRAE		France		Optimal
+UNT18	flowering  (%)	34.597			INRAE		France		Optimal
+UNT18	flowering  (%)	36.612			INRAE		France		Optimal
+UNT21	flowering  (%)	1.63			INRAE		France		Optimal
+UNT21	flowering  (%)	10.465			INRAE		France		Optimal
+UNT21	flowering  (%)	2.283			INRAE		France		Optimal
+UNT21	flowering  (%)	11.111			INRAE		France		Optimal
+UNT46	flowering  (%)	9.852			INRAE		France		Optimal
+UNT46	flowering  (%)	13.615			INRAE		France		Optimal
+UNT46	flowering  (%)	15.421			INRAE		France		Optimal
+UNT46	flowering  (%)	20.202			INRAE		France		Optimal
+UNT4	leaf relative water content (%)	88.9091585926325			INRAE		France		Optimal
+UNT4	leaf relative water content (%)	73.7015401050799			INRAE		France		Optimal
+UNT4	leaf relative water content (%)	90.0668496141087			INRAE		France		Optimal
+UNT4	leaf relative water content (%)	91.1145256665166			INRAE		France		Optimal
+UNT18	leaf relative water content (%)	79.0302467597998			INRAE		France		Optimal
+UNT18	leaf relative water content (%)	77.2445203940823			INRAE		France		Optimal
+UNT18	leaf relative water content (%)	81.9238246273498			INRAE		France		Optimal
+UNT18	leaf relative water content (%)	77.1729943448464			INRAE		France		Optimal
+UNT21	leaf relative water content (%)	79.885455670942			INRAE		France		Optimal
+UNT21	leaf relative water content (%)	85.6622480293888			INRAE		France		Optimal
+UNT21	leaf relative water content (%)	87.1003995996376			INRAE		France		Optimal
+UNT21	leaf relative water content (%)	75.191390143346			INRAE		France		Optimal
+UNT46	leaf relative water content (%)	81.9034930982936			INRAE		France		Optimal
+UNT46	leaf relative water content (%)	85.1762318279714			INRAE		France		Optimal
+UNT46	leaf relative water content (%)	84.3898815590314			INRAE		France		Optimal
+UNT46	leaf relative water content (%)	88.3476564859029			INRAE		France		Optimal
+UNT4	tkw	0.9952			INRAE		France		Optimal
+UNT4	tkw	1.02473333333333			INRAE		France		Optimal
+UNT4	tkw	0.973966666666667			INRAE		France		Optimal
+UNT4	tkw	0.998733333333333			INRAE		France		Optimal
+UNT18	tkw	1.07273333333333			INRAE		France		Optimal
+UNT18	tkw	1.1412			INRAE		France		Optimal
+UNT18	tkw	1.12063333333333			INRAE		France		Optimal
+UNT18	tkw	1.07666666666667			INRAE		France		Optimal
+UNT21	tkw	0.7243			INRAE		France		Optimal
+UNT21	tkw	0.676433333333333			INRAE		France		Optimal
+UNT21	tkw	0.653566666666667			INRAE		France		Optimal
+UNT21	tkw	0.686966666666667			INRAE		France		Optimal
+UNT46	tkw	0.888533333333333			INRAE		France		Optimal
+UNT46	tkw	0.899133333333333			INRAE		France		Optimal
+UNT46	tkw	1.01646666666667			INRAE		France		Optimal
+UNT46	tkw	0.902933333333333			INRAE		France		Optimal
+UNT4	seed yield (g/m2)	80.403			INRAE		France		Optimal
+UNT4	seed yield (g/m2)	73.434			INRAE		France		Optimal
+UNT4	seed yield (g/m2)	101.143			INRAE		France		Optimal
+UNT4	seed yield (g/m2)	107.372			INRAE		France		Optimal
+UNT18	seed yield (g/m2)	56.17			INRAE		France		Optimal
+UNT18	seed yield (g/m2)	77.096			INRAE		France		Optimal
+UNT18	seed yield (g/m2)	93.848			INRAE		France		Optimal
+UNT18	seed yield (g/m2)	79.411			INRAE		France		Optimal
+UNT21	seed yield (g/m2)	44.636			INRAE		France		Optimal
+UNT21	seed yield (g/m2)	69.567			INRAE		France		Optimal
+UNT21	seed yield (g/m2)	79.741			INRAE		France		Optimal
+UNT21	seed yield (g/m2)	79.14			INRAE		France		Optimal
+UNT46	seed yield (g/m2)	75.43			INRAE		France		Optimal
+UNT46	seed yield (g/m2)	86.194			INRAE		France		Optimal
+UNT46	seed yield (g/m2)	52.532			INRAE		France		Optimal
+UNT46	seed yield (g/m2)	78.058			INRAE		France		Optimal
+UNT4	seed yield (g/plants)	0.301			INRAE		France		Optimal
+UNT4	seed yield (g/plants)	0.205			INRAE		France		Optimal
+UNT4	seed yield (g/plants)	0.244			INRAE		France		Optimal
+UNT4	seed yield (g/plants)	0.331			INRAE		France		Optimal
+UNT18	seed yield (g/plants)	0.186			INRAE		France		Optimal
+UNT18	seed yield (g/plants)	0.208			INRAE		France		Optimal
+UNT18	seed yield (g/plants)	0.259			INRAE		France		Optimal
+UNT18	seed yield (g/plants)	0.253			INRAE		France		Optimal
+UNT21	seed yield (g/plants)	0.142			INRAE		France		Optimal
+UNT21	seed yield (g/plants)	0.236			INRAE		France		Optimal
+UNT21	seed yield (g/plants)	0.212			INRAE		France		Optimal
+UNT21	seed yield (g/plants)	0.27			INRAE		France		Optimal
+UNT46	seed yield (g/plants)	0.217			INRAE		France		Optimal
+UNT46	seed yield (g/plants)	0.236			INRAE		France		Optimal
+UNT46	seed yield (g/plants)	0.143			INRAE		France		Optimal
+UNT46	seed yield (g/plants)	0.23			INRAE		France		Optimal
+UNT4	plants density (plants/m2)	267.429			INRAE		France		Optimal
+UNT4	plants density (plants/m2)	358.286			INRAE		France		Optimal
+UNT4	plants density (plants/m2)	414.857			INRAE		France		Optimal
+UNT4	plants density (plants/m2)	324.0			INRAE		France		Optimal
+UNT18	plants density (plants/m2)	301.714			INRAE		France		Optimal
+UNT18	plants density (plants/m2)	370.286			INRAE		France		Optimal
+UNT18	plants density (plants/m2)	361.714			INRAE		France		Optimal
+UNT18	plants density (plants/m2)	313.714			INRAE		France		Optimal
+UNT21	plants density (plants/m2)	315.429			INRAE		France		Optimal
+UNT21	plants density (plants/m2)	294.857			INRAE		France		Optimal
+UNT21	plants density (plants/m2)	375.429			INRAE		France		Optimal
+UNT21	plants density (plants/m2)	293.143			INRAE		France		Optimal
+UNT46	plants density (plants/m2)	348.0			INRAE		France		Optimal
+UNT46	plants density (plants/m2)	365.143			INRAE		France		Optimal
+UNT46	plants density (plants/m2)	366.857			INRAE		France		Optimal
+UNT46	plants density (plants/m2)	339.429			INRAE		France		Optimal
+UNT4	plants density (%)	53.486			INRAE		France		Optimal
+UNT4	plants density (%)	71.657			INRAE		France		Optimal
+UNT4	plants density (%)	82.971			INRAE		France		Optimal
+UNT4	plants density (%)	64.8			INRAE		France		Optimal
+UNT18	plants density (%)	60.343			INRAE		France		Optimal
+UNT18	plants density (%)	74.057			INRAE		France		Optimal
+UNT18	plants density (%)	72.343			INRAE		France		Optimal
+UNT18	plants density (%)	62.743			INRAE		France		Optimal
+UNT21	plants density (%)	63.086			INRAE		France		Optimal
+UNT21	plants density (%)	58.971			INRAE		France		Optimal
+UNT21	plants density (%)	75.086			INRAE		France		Optimal
+UNT21	plants density (%)	58.629			INRAE		France		Optimal
+UNT46	plants density (%)	69.6			INRAE		France		Optimal
+UNT46	plants density (%)	73.029			INRAE		France		Optimal
+UNT46	plants density (%)	73.371			INRAE		France		Optimal
+UNT46	plants density (%)	67.886			INRAE		France		Optimal
+UNT4	plant height (cm)	60.8			INRAE		France		Optimal
+UNT4	plant height (cm)	55.5			INRAE		France		Optimal
+UNT4	plant height (cm)	64.3			INRAE		France		Optimal
+UNT4	plant height (cm)	70.1			INRAE		France		Optimal
+UNT18	plant height (cm)	65.9			INRAE		France		Optimal
+UNT18	plant height (cm)	62.3			INRAE		France		Optimal
+UNT18	plant height (cm)	73.1			INRAE		France		Optimal
+UNT18	plant height (cm)	66.7			INRAE		France		Optimal
+UNT21	plant height (cm)	59.4			INRAE		France		Optimal
+UNT21	plant height (cm)	64.4			INRAE		France		Optimal
+UNT21	plant height (cm)	60.3			INRAE		France		Optimal
+UNT21	plant height (cm)	59.8			INRAE		France		Optimal
+UNT46	plant height (cm)	76.5			INRAE		France		Optimal
+UNT46	plant height (cm)	69.1			INRAE		France		Optimal
+UNT46	plant height (cm)	58.0			INRAE		France		Optimal
+UNT46	plant height (cm)	68.5			INRAE		France		Optimal

@@ -1,0 +1,1981 @@
+subject	variable	value	sample_plant_anatomical_entity	sample_collection_date	sample_institute	sample_city	sample_country	sample_associated_interval	sample_associated_factor
+UNT4	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT4	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT4	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT4	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT18	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT18	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT18	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT18	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT21	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT21	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT21	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT21	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT46	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT46	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT46	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT46	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT4	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT4	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT4	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT18	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT18	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT18	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT21	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT21	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT21	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT46	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT46	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT46	plant_anatomical_entity	NaN			UNIBO		Italy		Stressed
+UNT4	gdd tot	1332.1			UNIBO		Italy		Stressed
+UNT4	gdd tot	1332.1			UNIBO		Italy		Stressed
+UNT4	gdd tot	1332.1			UNIBO		Italy		Stressed
+UNT4	gdd tot	1332.1			UNIBO		Italy		Stressed
+UNT18	gdd tot	1332.1			UNIBO		Italy		Stressed
+UNT18	gdd tot	1332.1			UNIBO		Italy		Stressed
+UNT18	gdd tot	1332.1			UNIBO		Italy		Stressed
+UNT18	gdd tot	1332.1			UNIBO		Italy		Stressed
+UNT21	gdd tot	1332.1			UNIBO		Italy		Stressed
+UNT21	gdd tot	1332.1			UNIBO		Italy		Stressed
+UNT21	gdd tot	1332.1			UNIBO		Italy		Stressed
+UNT21	gdd tot	1332.1			UNIBO		Italy		Stressed
+UNT46	gdd tot	1332.1			UNIBO		Italy		Stressed
+UNT46	gdd tot	1332.1			UNIBO		Italy		Stressed
+UNT46	gdd tot	1332.1			UNIBO		Italy		Stressed
+UNT46	gdd tot	1332.1			UNIBO		Italy		Stressed
+UNT4	gdd tot	1174.1			UNIBO		Italy		Stressed
+UNT4	gdd tot	1174.1			UNIBO		Italy		Stressed
+UNT4	gdd tot	1174.1			UNIBO		Italy		Stressed
+UNT18	gdd tot	1174.1			UNIBO		Italy		Stressed
+UNT18	gdd tot	1174.1			UNIBO		Italy		Stressed
+UNT18	gdd tot	1174.1			UNIBO		Italy		Stressed
+UNT21	gdd tot	1174.1			UNIBO		Italy		Stressed
+UNT21	gdd tot	1174.1			UNIBO		Italy		Stressed
+UNT21	gdd tot	1174.1			UNIBO		Italy		Stressed
+UNT46	gdd tot	1174.1			UNIBO		Italy		Stressed
+UNT46	gdd tot	1174.1			UNIBO		Italy		Stressed
+UNT46	gdd tot	1174.1			UNIBO		Italy		Stressed
+UNT4	gdd before flowering	756.5			UNIBO		Italy		Stressed
+UNT4	gdd before flowering	756.5			UNIBO		Italy		Stressed
+UNT4	gdd before flowering	756.5			UNIBO		Italy		Stressed
+UNT4	gdd before flowering	756.5			UNIBO		Italy		Stressed
+UNT18	gdd before flowering	756.5			UNIBO		Italy		Stressed
+UNT18	gdd before flowering	756.5			UNIBO		Italy		Stressed
+UNT18	gdd before flowering	756.5			UNIBO		Italy		Stressed
+UNT18	gdd before flowering	756.5			UNIBO		Italy		Stressed
+UNT21	gdd before flowering	756.5			UNIBO		Italy		Stressed
+UNT21	gdd before flowering	756.5			UNIBO		Italy		Stressed
+UNT21	gdd before flowering	756.5			UNIBO		Italy		Stressed
+UNT21	gdd before flowering	756.5			UNIBO		Italy		Stressed
+UNT46	gdd before flowering	756.5			UNIBO		Italy		Stressed
+UNT46	gdd before flowering	756.5			UNIBO		Italy		Stressed
+UNT46	gdd before flowering	756.5			UNIBO		Italy		Stressed
+UNT46	gdd before flowering	756.5			UNIBO		Italy		Stressed
+UNT4	gdd before flowering	548.6			UNIBO		Italy		Stressed
+UNT4	gdd before flowering	548.6			UNIBO		Italy		Stressed
+UNT4	gdd before flowering	548.6			UNIBO		Italy		Stressed
+UNT18	gdd before flowering	548.6			UNIBO		Italy		Stressed
+UNT18	gdd before flowering	548.6			UNIBO		Italy		Stressed
+UNT18	gdd before flowering	548.6			UNIBO		Italy		Stressed
+UNT21	gdd before flowering	548.6			UNIBO		Italy		Stressed
+UNT21	gdd before flowering	548.6			UNIBO		Italy		Stressed
+UNT21	gdd before flowering	548.6			UNIBO		Italy		Stressed
+UNT46	gdd before flowering	548.6			UNIBO		Italy		Stressed
+UNT46	gdd before flowering	548.6			UNIBO		Italy		Stressed
+UNT46	gdd before flowering	548.6			UNIBO		Italy		Stressed
+UNT4	gdd after flowering	575.6			UNIBO		Italy		Stressed
+UNT4	gdd after flowering	575.6			UNIBO		Italy		Stressed
+UNT4	gdd after flowering	575.6			UNIBO		Italy		Stressed
+UNT4	gdd after flowering	575.6			UNIBO		Italy		Stressed
+UNT18	gdd after flowering	575.6			UNIBO		Italy		Stressed
+UNT18	gdd after flowering	575.6			UNIBO		Italy		Stressed
+UNT18	gdd after flowering	575.6			UNIBO		Italy		Stressed
+UNT18	gdd after flowering	575.6			UNIBO		Italy		Stressed
+UNT21	gdd after flowering	575.6			UNIBO		Italy		Stressed
+UNT21	gdd after flowering	575.6			UNIBO		Italy		Stressed
+UNT21	gdd after flowering	575.6			UNIBO		Italy		Stressed
+UNT21	gdd after flowering	575.6			UNIBO		Italy		Stressed
+UNT46	gdd after flowering	575.6			UNIBO		Italy		Stressed
+UNT46	gdd after flowering	575.6			UNIBO		Italy		Stressed
+UNT46	gdd after flowering	575.6			UNIBO		Italy		Stressed
+UNT46	gdd after flowering	575.6			UNIBO		Italy		Stressed
+UNT4	gdd after flowering	625.5			UNIBO		Italy		Stressed
+UNT4	gdd after flowering	625.5			UNIBO		Italy		Stressed
+UNT4	gdd after flowering	625.5			UNIBO		Italy		Stressed
+UNT18	gdd after flowering	625.5			UNIBO		Italy		Stressed
+UNT18	gdd after flowering	625.5			UNIBO		Italy		Stressed
+UNT18	gdd after flowering	625.5			UNIBO		Italy		Stressed
+UNT21	gdd after flowering	625.5			UNIBO		Italy		Stressed
+UNT21	gdd after flowering	625.5			UNIBO		Italy		Stressed
+UNT21	gdd after flowering	625.5			UNIBO		Italy		Stressed
+UNT46	gdd after flowering	625.5			UNIBO		Italy		Stressed
+UNT46	gdd after flowering	625.5			UNIBO		Italy		Stressed
+UNT46	gdd after flowering	625.5			UNIBO		Italy		Stressed
+UNT4	gdd/day	13.9			UNIBO		Italy		Stressed
+UNT4	gdd/day	13.9			UNIBO		Italy		Stressed
+UNT4	gdd/day	13.9			UNIBO		Italy		Stressed
+UNT4	gdd/day	13.9			UNIBO		Italy		Stressed
+UNT18	gdd/day	13.9			UNIBO		Italy		Stressed
+UNT18	gdd/day	13.9			UNIBO		Italy		Stressed
+UNT18	gdd/day	13.9			UNIBO		Italy		Stressed
+UNT18	gdd/day	13.9			UNIBO		Italy		Stressed
+UNT21	gdd/day	13.9			UNIBO		Italy		Stressed
+UNT21	gdd/day	13.9			UNIBO		Italy		Stressed
+UNT21	gdd/day	13.9			UNIBO		Italy		Stressed
+UNT21	gdd/day	13.9			UNIBO		Italy		Stressed
+UNT46	gdd/day	13.9			UNIBO		Italy		Stressed
+UNT46	gdd/day	13.9			UNIBO		Italy		Stressed
+UNT46	gdd/day	13.9			UNIBO		Italy		Stressed
+UNT46	gdd/day	13.9			UNIBO		Italy		Stressed
+UNT4	gdd/day	13.0			UNIBO		Italy		Stressed
+UNT4	gdd/day	13.0			UNIBO		Italy		Stressed
+UNT4	gdd/day	13.0			UNIBO		Italy		Stressed
+UNT18	gdd/day	13.0			UNIBO		Italy		Stressed
+UNT18	gdd/day	13.0			UNIBO		Italy		Stressed
+UNT18	gdd/day	13.0			UNIBO		Italy		Stressed
+UNT21	gdd/day	13.0			UNIBO		Italy		Stressed
+UNT21	gdd/day	13.0			UNIBO		Italy		Stressed
+UNT21	gdd/day	13.0			UNIBO		Italy		Stressed
+UNT46	gdd/day	13.0			UNIBO		Italy		Stressed
+UNT46	gdd/day	13.0			UNIBO		Italy		Stressed
+UNT46	gdd/day	13.0			UNIBO		Italy		Stressed
+UNT4	gdd/day before flowering	11.5			UNIBO		Italy		Stressed
+UNT4	gdd/day before flowering	11.5			UNIBO		Italy		Stressed
+UNT4	gdd/day before flowering	11.5			UNIBO		Italy		Stressed
+UNT4	gdd/day before flowering	11.5			UNIBO		Italy		Stressed
+UNT18	gdd/day before flowering	11.5			UNIBO		Italy		Stressed
+UNT18	gdd/day before flowering	11.5			UNIBO		Italy		Stressed
+UNT18	gdd/day before flowering	11.5			UNIBO		Italy		Stressed
+UNT18	gdd/day before flowering	11.5			UNIBO		Italy		Stressed
+UNT21	gdd/day before flowering	11.5			UNIBO		Italy		Stressed
+UNT21	gdd/day before flowering	11.5			UNIBO		Italy		Stressed
+UNT21	gdd/day before flowering	11.5			UNIBO		Italy		Stressed
+UNT21	gdd/day before flowering	11.5			UNIBO		Italy		Stressed
+UNT46	gdd/day before flowering	11.5			UNIBO		Italy		Stressed
+UNT46	gdd/day before flowering	11.5			UNIBO		Italy		Stressed
+UNT46	gdd/day before flowering	11.5			UNIBO		Italy		Stressed
+UNT46	gdd/day before flowering	11.5			UNIBO		Italy		Stressed
+UNT4	gdd/day before flowering	9.8			UNIBO		Italy		Stressed
+UNT4	gdd/day before flowering	9.8			UNIBO		Italy		Stressed
+UNT4	gdd/day before flowering	9.8			UNIBO		Italy		Stressed
+UNT18	gdd/day before flowering	9.8			UNIBO		Italy		Stressed
+UNT18	gdd/day before flowering	9.8			UNIBO		Italy		Stressed
+UNT18	gdd/day before flowering	9.8			UNIBO		Italy		Stressed
+UNT21	gdd/day before flowering	9.8			UNIBO		Italy		Stressed
+UNT21	gdd/day before flowering	9.8			UNIBO		Italy		Stressed
+UNT21	gdd/day before flowering	9.8			UNIBO		Italy		Stressed
+UNT46	gdd/day before flowering	9.8			UNIBO		Italy		Stressed
+UNT46	gdd/day before flowering	9.8			UNIBO		Italy		Stressed
+UNT46	gdd/day before flowering	9.8			UNIBO		Italy		Stressed
+UNT4	gdd/day after flowering	19.2			UNIBO		Italy		Stressed
+UNT4	gdd/day after flowering	19.2			UNIBO		Italy		Stressed
+UNT4	gdd/day after flowering	19.2			UNIBO		Italy		Stressed
+UNT4	gdd/day after flowering	19.2			UNIBO		Italy		Stressed
+UNT18	gdd/day after flowering	19.2			UNIBO		Italy		Stressed
+UNT18	gdd/day after flowering	19.2			UNIBO		Italy		Stressed
+UNT18	gdd/day after flowering	19.2			UNIBO		Italy		Stressed
+UNT18	gdd/day after flowering	19.2			UNIBO		Italy		Stressed
+UNT21	gdd/day after flowering	19.2			UNIBO		Italy		Stressed
+UNT21	gdd/day after flowering	19.2			UNIBO		Italy		Stressed
+UNT21	gdd/day after flowering	19.2			UNIBO		Italy		Stressed
+UNT21	gdd/day after flowering	19.2			UNIBO		Italy		Stressed
+UNT46	gdd/day after flowering	19.2			UNIBO		Italy		Stressed
+UNT46	gdd/day after flowering	19.2			UNIBO		Italy		Stressed
+UNT46	gdd/day after flowering	19.2			UNIBO		Italy		Stressed
+UNT46	gdd/day after flowering	19.2			UNIBO		Italy		Stressed
+UNT4	gdd/day after flowering	18.4			UNIBO		Italy		Stressed
+UNT4	gdd/day after flowering	18.4			UNIBO		Italy		Stressed
+UNT4	gdd/day after flowering	18.4			UNIBO		Italy		Stressed
+UNT18	gdd/day after flowering	18.4			UNIBO		Italy		Stressed
+UNT18	gdd/day after flowering	18.4			UNIBO		Italy		Stressed
+UNT18	gdd/day after flowering	18.4			UNIBO		Italy		Stressed
+UNT21	gdd/day after flowering	18.4			UNIBO		Italy		Stressed
+UNT21	gdd/day after flowering	18.4			UNIBO		Italy		Stressed
+UNT21	gdd/day after flowering	18.4			UNIBO		Italy		Stressed
+UNT46	gdd/day after flowering	18.4			UNIBO		Italy		Stressed
+UNT46	gdd/day after flowering	18.4			UNIBO		Italy		Stressed
+UNT46	gdd/day after flowering	18.4			UNIBO		Italy		Stressed
+UNT4	precipitation (mm)	172.0			UNIBO		Italy		Stressed
+UNT4	precipitation (mm)	172.0			UNIBO		Italy		Stressed
+UNT4	precipitation (mm)	172.0			UNIBO		Italy		Stressed
+UNT4	precipitation (mm)	172.0			UNIBO		Italy		Stressed
+UNT18	precipitation (mm)	172.0			UNIBO		Italy		Stressed
+UNT18	precipitation (mm)	172.0			UNIBO		Italy		Stressed
+UNT18	precipitation (mm)	172.0			UNIBO		Italy		Stressed
+UNT18	precipitation (mm)	172.0			UNIBO		Italy		Stressed
+UNT21	precipitation (mm)	172.0			UNIBO		Italy		Stressed
+UNT21	precipitation (mm)	172.0			UNIBO		Italy		Stressed
+UNT21	precipitation (mm)	172.0			UNIBO		Italy		Stressed
+UNT21	precipitation (mm)	172.0			UNIBO		Italy		Stressed
+UNT46	precipitation (mm)	172.0			UNIBO		Italy		Stressed
+UNT46	precipitation (mm)	172.0			UNIBO		Italy		Stressed
+UNT46	precipitation (mm)	172.0			UNIBO		Italy		Stressed
+UNT46	precipitation (mm)	172.0			UNIBO		Italy		Stressed
+UNT4	precipitation (mm)	361.2			UNIBO		Italy		Stressed
+UNT4	precipitation (mm)	361.2			UNIBO		Italy		Stressed
+UNT4	precipitation (mm)	361.2			UNIBO		Italy		Stressed
+UNT18	precipitation (mm)	361.2			UNIBO		Italy		Stressed
+UNT18	precipitation (mm)	361.2			UNIBO		Italy		Stressed
+UNT18	precipitation (mm)	361.2			UNIBO		Italy		Stressed
+UNT21	precipitation (mm)	361.2			UNIBO		Italy		Stressed
+UNT21	precipitation (mm)	361.2			UNIBO		Italy		Stressed
+UNT21	precipitation (mm)	361.2			UNIBO		Italy		Stressed
+UNT46	precipitation (mm)	361.2			UNIBO		Italy		Stressed
+UNT46	precipitation (mm)	361.2			UNIBO		Italy		Stressed
+UNT46	precipitation (mm)	361.2			UNIBO		Italy		Stressed
+UNT4	precipitation before flowering (mm)	159.4			UNIBO		Italy		Stressed
+UNT4	precipitation before flowering (mm)	159.4			UNIBO		Italy		Stressed
+UNT4	precipitation before flowering (mm)	159.4			UNIBO		Italy		Stressed
+UNT4	precipitation before flowering (mm)	159.4			UNIBO		Italy		Stressed
+UNT18	precipitation before flowering (mm)	159.4			UNIBO		Italy		Stressed
+UNT18	precipitation before flowering (mm)	159.4			UNIBO		Italy		Stressed
+UNT18	precipitation before flowering (mm)	159.4			UNIBO		Italy		Stressed
+UNT18	precipitation before flowering (mm)	159.4			UNIBO		Italy		Stressed
+UNT21	precipitation before flowering (mm)	159.4			UNIBO		Italy		Stressed
+UNT21	precipitation before flowering (mm)	159.4			UNIBO		Italy		Stressed
+UNT21	precipitation before flowering (mm)	159.4			UNIBO		Italy		Stressed
+UNT21	precipitation before flowering (mm)	159.4			UNIBO		Italy		Stressed
+UNT46	precipitation before flowering (mm)	159.4			UNIBO		Italy		Stressed
+UNT46	precipitation before flowering (mm)	159.4			UNIBO		Italy		Stressed
+UNT46	precipitation before flowering (mm)	159.4			UNIBO		Italy		Stressed
+UNT46	precipitation before flowering (mm)	159.4			UNIBO		Italy		Stressed
+UNT4	precipitation before flowering (mm)	307.0			UNIBO		Italy		Stressed
+UNT4	seed yield (mg ha-1)	1.1			UNIBO		Italy		Stressed
+UNT4	precipitation before flowering (mm)	307.0			UNIBO		Italy		Stressed
+UNT4	precipitation before flowering (mm)	307.0			UNIBO		Italy		Stressed
+UNT18	precipitation before flowering (mm)	307.0			UNIBO		Italy		Stressed
+UNT18	precipitation before flowering (mm)	307.0			UNIBO		Italy		Stressed
+UNT18	precipitation before flowering (mm)	307.0			UNIBO		Italy		Stressed
+UNT21	precipitation before flowering (mm)	307.0			UNIBO		Italy		Stressed
+UNT21	precipitation before flowering (mm)	307.0			UNIBO		Italy		Stressed
+UNT21	precipitation before flowering (mm)	307.0			UNIBO		Italy		Stressed
+UNT46	precipitation before flowering (mm)	307.0			UNIBO		Italy		Stressed
+UNT46	precipitation before flowering (mm)	307.0			UNIBO		Italy		Stressed
+UNT46	precipitation before flowering (mm)	307.0			UNIBO		Italy		Stressed
+UNT4	precipitation after flowering (mm)	12.6			UNIBO		Italy		Stressed
+UNT4	precipitation after flowering (mm)	12.6			UNIBO		Italy		Stressed
+UNT4	precipitation after flowering (mm)	12.6			UNIBO		Italy		Stressed
+UNT4	precipitation after flowering (mm)	12.6			UNIBO		Italy		Stressed
+UNT18	precipitation after flowering (mm)	12.6			UNIBO		Italy		Stressed
+UNT18	precipitation after flowering (mm)	12.6			UNIBO		Italy		Stressed
+UNT18	precipitation after flowering (mm)	12.6			UNIBO		Italy		Stressed
+UNT18	precipitation after flowering (mm)	12.6			UNIBO		Italy		Stressed
+UNT21	precipitation after flowering (mm)	12.6			UNIBO		Italy		Stressed
+UNT21	precipitation after flowering (mm)	12.6			UNIBO		Italy		Stressed
+UNT21	precipitation after flowering (mm)	12.6			UNIBO		Italy		Stressed
+UNT21	precipitation after flowering (mm)	12.6			UNIBO		Italy		Stressed
+UNT46	precipitation after flowering (mm)	12.6			UNIBO		Italy		Stressed
+UNT46	precipitation after flowering (mm)	12.6			UNIBO		Italy		Stressed
+UNT46	precipitation after flowering (mm)	12.6			UNIBO		Italy		Stressed
+UNT46	precipitation after flowering (mm)	12.6			UNIBO		Italy		Stressed
+UNT4	precipitation after flowering (mm)	54.2			UNIBO		Italy		Stressed
+UNT4	precipitation after flowering (mm)	54.2			UNIBO		Italy		Stressed
+UNT4	precipitation after flowering (mm)	54.2			UNIBO		Italy		Stressed
+UNT18	precipitation after flowering (mm)	54.2			UNIBO		Italy		Stressed
+UNT18	precipitation after flowering (mm)	54.2			UNIBO		Italy		Stressed
+UNT18	precipitation after flowering (mm)	54.2			UNIBO		Italy		Stressed
+UNT21	precipitation after flowering (mm)	54.2			UNIBO		Italy		Stressed
+UNT21	precipitation after flowering (mm)	54.2			UNIBO		Italy		Stressed
+UNT21	precipitation after flowering (mm)	54.2			UNIBO		Italy		Stressed
+UNT46	precipitation after flowering (mm)	54.2			UNIBO		Italy		Stressed
+UNT46	precipitation after flowering (mm)	54.2			UNIBO		Italy		Stressed
+UNT46	precipitation after flowering (mm)	54.2			UNIBO		Italy		Stressed
+UNT4	mm/event	5.93			UNIBO		Italy		Stressed
+UNT4	mm/event	5.93			UNIBO		Italy		Stressed
+UNT4	mm/event	5.93			UNIBO		Italy		Stressed
+UNT4	mm/event	5.93			UNIBO		Italy		Stressed
+UNT18	mm/event	5.93			UNIBO		Italy		Stressed
+UNT18	mm/event	5.93			UNIBO		Italy		Stressed
+UNT18	mm/event	5.93			UNIBO		Italy		Stressed
+UNT18	mm/event	5.93			UNIBO		Italy		Stressed
+UNT21	mm/event	5.93			UNIBO		Italy		Stressed
+UNT21	mm/event	5.93			UNIBO		Italy		Stressed
+UNT21	mm/event	5.93			UNIBO		Italy		Stressed
+UNT21	mm/event	5.93			UNIBO		Italy		Stressed
+UNT46	mm/event	5.93			UNIBO		Italy		Stressed
+UNT46	mm/event	5.93			UNIBO		Italy		Stressed
+UNT46	mm/event	5.93			UNIBO		Italy		Stressed
+UNT46	mm/event	5.93			UNIBO		Italy		Stressed
+UNT4	mm/event	11.65			UNIBO		Italy		Stressed
+UNT4	mm/event	11.65			UNIBO		Italy		Stressed
+UNT4	mm/event	11.65			UNIBO		Italy		Stressed
+UNT18	mm/event	11.65			UNIBO		Italy		Stressed
+UNT18	mm/event	11.65			UNIBO		Italy		Stressed
+UNT18	mm/event	11.65			UNIBO		Italy		Stressed
+UNT21	mm/event	11.65			UNIBO		Italy		Stressed
+UNT21	mm/event	11.65			UNIBO		Italy		Stressed
+UNT21	mm/event	11.65			UNIBO		Italy		Stressed
+UNT46	mm/event	11.65			UNIBO		Italy		Stressed
+UNT46	mm/event	11.65			UNIBO		Italy		Stressed
+UNT46	mm/event	11.65			UNIBO		Italy		Stressed
+UNT4	mm/event before flowering	1.0			UNIBO		Italy		Stressed
+UNT4	mm/event before flowering	1.0			UNIBO		Italy		Stressed
+UNT4	mm/event before flowering	1.0			UNIBO		Italy		Stressed
+UNT4	mm/event before flowering	1.0			UNIBO		Italy		Stressed
+UNT18	mm/event before flowering	1.0			UNIBO		Italy		Stressed
+UNT18	mm/event before flowering	1.0			UNIBO		Italy		Stressed
+UNT18	mm/event before flowering	1.0			UNIBO		Italy		Stressed
+UNT18	mm/event before flowering	1.0			UNIBO		Italy		Stressed
+UNT21	mm/event before flowering	1.0			UNIBO		Italy		Stressed
+UNT21	mm/event before flowering	1.0			UNIBO		Italy		Stressed
+UNT21	mm/event before flowering	1.0			UNIBO		Italy		Stressed
+UNT21	mm/event before flowering	1.0			UNIBO		Italy		Stressed
+UNT46	mm/event before flowering	1.0			UNIBO		Italy		Stressed
+UNT46	mm/event before flowering	1.0			UNIBO		Italy		Stressed
+UNT46	mm/event before flowering	1.0			UNIBO		Italy		Stressed
+UNT46	mm/event before flowering	1.0			UNIBO		Italy		Stressed
+UNT4	mm/event before flowering	13.0			UNIBO		Italy		Stressed
+UNT4	mm/event before flowering	13.0			UNIBO		Italy		Stressed
+UNT4	mm/event before flowering	13.0			UNIBO		Italy		Stressed
+UNT18	mm/event before flowering	13.0			UNIBO		Italy		Stressed
+UNT18	mm/event before flowering	13.0			UNIBO		Italy		Stressed
+UNT18	mm/event before flowering	13.0			UNIBO		Italy		Stressed
+UNT21	mm/event before flowering	13.0			UNIBO		Italy		Stressed
+UNT21	mm/event before flowering	13.0			UNIBO		Italy		Stressed
+UNT21	mm/event before flowering	13.0			UNIBO		Italy		Stressed
+UNT46	mm/event before flowering	13.0			UNIBO		Italy		Stressed
+UNT46	mm/event before flowering	13.0			UNIBO		Italy		Stressed
+UNT46	mm/event before flowering	13.0			UNIBO		Italy		Stressed
+UNT4	mm/event after flowering	13.0			UNIBO		Italy		Stressed
+UNT4	mm/event after flowering	13.0			UNIBO		Italy		Stressed
+UNT4	mm/event after flowering	13.0			UNIBO		Italy		Stressed
+UNT4	mm/event after flowering	13.0			UNIBO		Italy		Stressed
+UNT18	mm/event after flowering	13.0			UNIBO		Italy		Stressed
+UNT18	mm/event after flowering	13.0			UNIBO		Italy		Stressed
+UNT18	mm/event after flowering	13.0			UNIBO		Italy		Stressed
+UNT18	mm/event after flowering	13.0			UNIBO		Italy		Stressed
+UNT21	mm/event after flowering	13.0			UNIBO		Italy		Stressed
+UNT21	mm/event after flowering	13.0			UNIBO		Italy		Stressed
+UNT21	mm/event after flowering	13.0			UNIBO		Italy		Stressed
+UNT21	mm/event after flowering	13.0			UNIBO		Italy		Stressed
+UNT46	mm/event after flowering	13.0			UNIBO		Italy		Stressed
+UNT46	mm/event after flowering	13.0			UNIBO		Italy		Stressed
+UNT46	mm/event after flowering	13.0			UNIBO		Italy		Stressed
+UNT46	mm/event after flowering	13.0			UNIBO		Italy		Stressed
+UNT4	mm/event after flowering	7.0			UNIBO		Italy		Stressed
+UNT4	mm/event after flowering	7.0			UNIBO		Italy		Stressed
+UNT4	mm/event after flowering	7.0			UNIBO		Italy		Stressed
+UNT18	mm/event after flowering	7.0			UNIBO		Italy		Stressed
+UNT18	mm/event after flowering	7.0			UNIBO		Italy		Stressed
+UNT18	mm/event after flowering	7.0			UNIBO		Italy		Stressed
+UNT21	mm/event after flowering	7.0			UNIBO		Italy		Stressed
+UNT21	mm/event after flowering	7.0			UNIBO		Italy		Stressed
+UNT21	mm/event after flowering	7.0			UNIBO		Italy		Stressed
+UNT46	mm/event after flowering	7.0			UNIBO		Italy		Stressed
+UNT46	mm/event after flowering	7.0			UNIBO		Italy		Stressed
+UNT46	mm/event after flowering	7.0			UNIBO		Italy		Stressed
+UNT4	straw yield (mg ha-1)	1.59			UNIBO		Italy		Stressed
+UNT4	straw yield (mg ha-1)	1.59			UNIBO		Italy		Stressed
+UNT4	straw yield (mg ha-1)	1.83			UNIBO		Italy		Stressed
+UNT4	straw yield (mg ha-1)	2.09			UNIBO		Italy		Stressed
+UNT18	straw yield (mg ha-1)	1.68			UNIBO		Italy		Stressed
+UNT18	straw yield (mg ha-1)	2.14			UNIBO		Italy		Stressed
+UNT18	straw yield (mg ha-1)	2.1			UNIBO		Italy		Stressed
+UNT18	straw yield (mg ha-1)	1.77			UNIBO		Italy		Stressed
+UNT21	straw yield (mg ha-1)	1.25			UNIBO		Italy		Stressed
+UNT21	straw yield (mg ha-1)	1.83			UNIBO		Italy		Stressed
+UNT21	straw yield (mg ha-1)	2.04			UNIBO		Italy		Stressed
+UNT21	straw yield (mg ha-1)	1.87			UNIBO		Italy		Stressed
+UNT46	straw yield (mg ha-1)	1.36			UNIBO		Italy		Stressed
+UNT46	straw yield (mg ha-1)	1.82			UNIBO		Italy		Stressed
+UNT46	straw yield (mg ha-1)	1.55			UNIBO		Italy		Stressed
+UNT46	straw yield (mg ha-1)	2.0			UNIBO		Italy		Stressed
+UNT4	straw yield (mg ha-1)	1.13			UNIBO		Italy		Stressed
+UNT4	straw yield (mg ha-1)	0.99			UNIBO		Italy		Stressed
+UNT4	straw yield (mg ha-1)	1.65			UNIBO		Italy		Stressed
+UNT18	straw yield (mg ha-1)	0.66			UNIBO		Italy		Stressed
+UNT18	straw yield (mg ha-1)	0.8			UNIBO		Italy		Stressed
+UNT18	straw yield (mg ha-1)	0.88			UNIBO		Italy		Stressed
+UNT21	straw yield (mg ha-1)	0.87			UNIBO		Italy		Stressed
+UNT21	straw yield (mg ha-1)	0.98			UNIBO		Italy		Stressed
+UNT21	straw yield (mg ha-1)	1.49			UNIBO		Italy		Stressed
+UNT46	straw yield (mg ha-1)	0.81			UNIBO		Italy		Stressed
+UNT46	straw yield (mg ha-1)	1.87			UNIBO		Italy		Stressed
+UNT46	straw yield (mg ha-1)	2.37			UNIBO		Italy		Stressed
+UNT4	seed yield (mg ha-1)	0.77			UNIBO		Italy		Stressed
+UNT4	seed yield (mg ha-1)	1.14			UNIBO		Italy		Stressed
+UNT4	seed yield (mg ha-1)	1.15			UNIBO		Italy		Stressed
+UNT18	seed yield (mg ha-1)	0.76			UNIBO		Italy		Stressed
+UNT18	seed yield (mg ha-1)	0.95			UNIBO		Italy		Stressed
+UNT18	seed yield (mg ha-1)	0.99			UNIBO		Italy		Stressed
+UNT18	seed yield (mg ha-1)	1.01			UNIBO		Italy		Stressed
+UNT21	seed yield (mg ha-1)	0.86			UNIBO		Italy		Stressed
+UNT21	seed yield (mg ha-1)	0.97			UNIBO		Italy		Stressed
+UNT21	seed yield (mg ha-1)	0.98			UNIBO		Italy		Stressed
+UNT21	seed yield (mg ha-1)	1.04			UNIBO		Italy		Stressed
+UNT46	seed yield (mg ha-1)	0.6			UNIBO		Italy		Stressed
+UNT46	seed yield (mg ha-1)	0.94			UNIBO		Italy		Stressed
+UNT46	seed yield (mg ha-1)	0.77			UNIBO		Italy		Stressed
+UNT46	seed yield (mg ha-1)	0.96			UNIBO		Italy		Stressed
+UNT4	seed yield (mg ha-1)	0.28			UNIBO		Italy		Stressed
+UNT4	seed yield (mg ha-1)	0.27			UNIBO		Italy		Stressed
+UNT4	seed yield (mg ha-1)	0.5			UNIBO		Italy		Stressed
+UNT18	seed yield (mg ha-1)	0.17			UNIBO		Italy		Stressed
+UNT18	seed yield (mg ha-1)	0.16			UNIBO		Italy		Stressed
+UNT18	seed yield (mg ha-1)	0.15			UNIBO		Italy		Stressed
+UNT21	seed yield (mg ha-1)	0.29			UNIBO		Italy		Stressed
+UNT21	seed yield (mg ha-1)	0.47			UNIBO		Italy		Stressed
+UNT21	seed yield (mg ha-1)	0.38			UNIBO		Italy		Stressed
+UNT46	seed yield (mg ha-1)	0.19			UNIBO		Italy		Stressed
+UNT46	seed yield (mg ha-1)	0.38			UNIBO		Italy		Stressed
+UNT46	seed yield (mg ha-1)	0.3			UNIBO		Italy		Stressed
+UNT4	tgw (g)	0.97			UNIBO		Italy		Stressed
+UNT4	tgw (g)	0.97			UNIBO		Italy		Stressed
+UNT4	tgw (g)	0.95			UNIBO		Italy		Stressed
+UNT4	tgw (g)	0.97			UNIBO		Italy		Stressed
+UNT18	tgw (g)	1.11			UNIBO		Italy		Stressed
+UNT18	tgw (g)	1.12			UNIBO		Italy		Stressed
+UNT18	tgw (g)	1.06			UNIBO		Italy		Stressed
+UNT18	tgw (g)	1.05			UNIBO		Italy		Stressed
+UNT21	tgw (g)	0.78			UNIBO		Italy		Stressed
+UNT21	tgw (g)	0.79			UNIBO		Italy		Stressed
+UNT21	tgw (g)	0.75			UNIBO		Italy		Stressed
+UNT21	tgw (g)	0.71			UNIBO		Italy		Stressed
+UNT46	tgw (g)	0.95			UNIBO		Italy		Stressed
+UNT46	tgw (g)	0.92			UNIBO		Italy		Stressed
+UNT46	tgw (g)	0.94			UNIBO		Italy		Stressed
+UNT46	tgw (g)	0.95			UNIBO		Italy		Stressed
+UNT4	tgw (g)	1.1			UNIBO		Italy		Stressed
+UNT4	tgw (g)	1.13			UNIBO		Italy		Stressed
+UNT4	tgw (g)	1.12			UNIBO		Italy		Stressed
+UNT18	tgw (g)	1.17			UNIBO		Italy		Stressed
+UNT18	tgw (g)	1.17			UNIBO		Italy		Stressed
+UNT18	tgw (g)	1.28			UNIBO		Italy		Stressed
+UNT21	tgw (g)	0.82			UNIBO		Italy		Stressed
+UNT21	tgw (g)	0.83			UNIBO		Italy		Stressed
+UNT21	tgw (g)	0.83			UNIBO		Italy		Stressed
+UNT46	tgw (g)	0.99			UNIBO		Italy		Stressed
+UNT46	tgw (g)	1.06			UNIBO		Italy		Stressed
+UNT46	tgw (g)	1.03			UNIBO		Italy		Stressed
+UNT4	wue (kg mm-1 ha-1)	4.5			UNIBO		Italy		Stressed
+UNT4	wue (kg mm-1 ha-1)	6.64			UNIBO		Italy		Stressed
+UNT4	wue (kg mm-1 ha-1)	6.69			UNIBO		Italy		Stressed
+UNT4	wue (kg mm-1 ha-1)	6.4			UNIBO		Italy		Stressed
+UNT18	wue (kg mm-1 ha-1)	4.42			UNIBO		Italy		Stressed
+UNT18	wue (kg mm-1 ha-1)	5.5			UNIBO		Italy		Stressed
+UNT18	wue (kg mm-1 ha-1)	5.76			UNIBO		Italy		Stressed
+UNT18	wue (kg mm-1 ha-1)	5.85			UNIBO		Italy		Stressed
+UNT21	wue (kg mm-1 ha-1)	5.01			UNIBO		Italy		Stressed
+UNT21	wue (kg mm-1 ha-1)	5.64			UNIBO		Italy		Stressed
+UNT21	wue (kg mm-1 ha-1)	5.7			UNIBO		Italy		Stressed
+UNT21	wue (kg mm-1 ha-1)	6.06			UNIBO		Italy		Stressed
+UNT46	wue (kg mm-1 ha-1)	3.49			UNIBO		Italy		Stressed
+UNT46	wue (kg mm-1 ha-1)	5.44			UNIBO		Italy		Stressed
+UNT46	wue (kg mm-1 ha-1)	4.48			UNIBO		Italy		Stressed
+UNT46	wue (kg mm-1 ha-1)	5.58			UNIBO		Italy		Stressed
+UNT4	wue (kg mm-1 ha-1)	0.78			UNIBO		Italy		Stressed
+UNT4	wue (kg mm-1 ha-1)	0.74			UNIBO		Italy		Stressed
+UNT4	wue (kg mm-1 ha-1)	1.37			UNIBO		Italy		Stressed
+UNT18	wue (kg mm-1 ha-1)	0.48			UNIBO		Italy		Stressed
+UNT18	wue (kg mm-1 ha-1)	0.44			UNIBO		Italy		Stressed
+UNT18	wue (kg mm-1 ha-1)	0.4			UNIBO		Italy		Stressed
+UNT21	wue (kg mm-1 ha-1)	0.81			UNIBO		Italy		Stressed
+UNT21	wue (kg mm-1 ha-1)	1.29			UNIBO		Italy		Stressed
+UNT21	wue (kg mm-1 ha-1)	1.06			UNIBO		Italy		Stressed
+UNT46	wue (kg mm-1 ha-1)	0.52			UNIBO		Italy		Stressed
+UNT46	wue (kg mm-1 ha-1)	1.06			UNIBO		Italy		Stressed
+UNT46	wue (kg mm-1 ha-1)	0.83			UNIBO		Italy		Stressed
+UNT4	oil content (%)	37.47			UNIBO		Italy		Stressed
+UNT4	oil content (%)	38.29			UNIBO		Italy		Stressed
+UNT4	oil content (%)	37.8			UNIBO		Italy		Stressed
+UNT4	oil content (%)	37.5			UNIBO		Italy		Stressed
+UNT18	oil content (%)	37.27			UNIBO		Italy		Stressed
+UNT18	oil content (%)	37.05			UNIBO		Italy		Stressed
+UNT18	oil content (%)	36.21			UNIBO		Italy		Stressed
+UNT18	oil content (%)	36.58			UNIBO		Italy		Stressed
+UNT21	oil content (%)	34.42			UNIBO		Italy		Stressed
+UNT21	oil content (%)	34.42			UNIBO		Italy		Stressed
+UNT21	oil content (%)	34.77			UNIBO		Italy		Stressed
+UNT21	oil content (%)	34.67			UNIBO		Italy		Stressed
+UNT46	oil content (%)	35.7			UNIBO		Italy		Stressed
+UNT46	oil content (%)	35.15			UNIBO		Italy		Stressed
+UNT46	oil content (%)	34.75			UNIBO		Italy		Stressed
+UNT46	oil content (%)	35.64			UNIBO		Italy		Stressed
+UNT4	oil content (%)	38.05			UNIBO		Italy		Stressed
+UNT4	oil content (%)	38.57			UNIBO		Italy		Stressed
+UNT4	oil content (%)	38.98			UNIBO		Italy		Stressed
+UNT18	oil content (%)	36.59			UNIBO		Italy		Stressed
+UNT18	oil content (%)	37.71			UNIBO		Italy		Stressed
+UNT18	oil content (%)	36.92			UNIBO		Italy		Stressed
+UNT21	oil content (%)	37.58			UNIBO		Italy		Stressed
+UNT21	oil content (%)	36.53			UNIBO		Italy		Stressed
+UNT21	oil content (%)	36.28			UNIBO		Italy		Stressed
+UNT46	oil content (%)	36.97			UNIBO		Italy		Stressed
+UNT46	oil content (%)	37.14			UNIBO		Italy		Stressed
+UNT46	oil content (%)	36.16			UNIBO		Italy		Stressed
+UNT4	oil yield (mg ha-1)	0.29			UNIBO		Italy		Stressed
+UNT4	oil yield (mg ha-1)	0.44			UNIBO		Italy		Stressed
+UNT4	oil yield (mg ha-1)	0.44			UNIBO		Italy		Stressed
+UNT4	oil yield (mg ha-1)	0.41			UNIBO		Italy		Stressed
+UNT18	oil yield (mg ha-1)	0.28			UNIBO		Italy		Stressed
+UNT18	oil yield (mg ha-1)	0.35			UNIBO		Italy		Stressed
+UNT18	oil yield (mg ha-1)	0.36			UNIBO		Italy		Stressed
+UNT18	oil yield (mg ha-1)	0.37			UNIBO		Italy		Stressed
+UNT21	oil yield (mg ha-1)	0.3			UNIBO		Italy		Stressed
+UNT21	oil yield (mg ha-1)	0.33			UNIBO		Italy		Stressed
+UNT21	oil yield (mg ha-1)	0.34			UNIBO		Italy		Stressed
+UNT21	oil yield (mg ha-1)	0.36			UNIBO		Italy		Stressed
+UNT46	oil yield (mg ha-1)	0.21			UNIBO		Italy		Stressed
+UNT46	oil yield (mg ha-1)	0.33			UNIBO		Italy		Stressed
+UNT46	oil yield (mg ha-1)	0.27			UNIBO		Italy		Stressed
+UNT46	oil yield (mg ha-1)	0.34			UNIBO		Italy		Stressed
+UNT4	oil yield (mg ha-1)	0.11			UNIBO		Italy		Stressed
+UNT4	oil yield (mg ha-1)	0.1			UNIBO		Italy		Stressed
+UNT4	oil yield (mg ha-1)	0.19			UNIBO		Italy		Stressed
+UNT18	oil yield (mg ha-1)	0.06			UNIBO		Italy		Stressed
+UNT18	oil yield (mg ha-1)	0.06			UNIBO		Italy		Stressed
+UNT18	oil yield (mg ha-1)	0.05			UNIBO		Italy		Stressed
+UNT21	oil yield (mg ha-1)	0.11			UNIBO		Italy		Stressed
+UNT21	oil yield (mg ha-1)	0.17			UNIBO		Italy		Stressed
+UNT21	oil yield (mg ha-1)	0.14			UNIBO		Italy		Stressed
+UNT46	oil yield (mg ha-1)	0.07			UNIBO		Italy		Stressed
+UNT46	oil yield (mg ha-1)	0.14			UNIBO		Italy		Stressed
+UNT46	oil yield (mg ha-1)	0.11			UNIBO		Italy		Stressed
+UNT4	spad flowering	45.2			UNIBO		Italy		Stressed
+UNT4	spad flowering	41.23			UNIBO		Italy		Stressed
+UNT4	spad flowering	48.53			UNIBO		Italy		Stressed
+UNT4	spad flowering	44.27			UNIBO		Italy		Stressed
+UNT18	spad flowering	41.07			UNIBO		Italy		Stressed
+UNT18	spad flowering	38.37			UNIBO		Italy		Stressed
+UNT18	spad flowering	48.63			UNIBO		Italy		Stressed
+UNT18	spad flowering	47.67			UNIBO		Italy		Stressed
+UNT21	spad flowering	42.17			UNIBO		Italy		Stressed
+UNT21	spad flowering	38.3			UNIBO		Italy		Stressed
+UNT21	spad flowering	37.97			UNIBO		Italy		Stressed
+UNT21	spad flowering	40.07			UNIBO		Italy		Stressed
+UNT46	spad flowering	42.33			UNIBO		Italy		Stressed
+UNT46	spad flowering	36.97			UNIBO		Italy		Stressed
+UNT46	spad flowering	51.23			UNIBO		Italy		Stressed
+UNT46	spad flowering	46.0			UNIBO		Italy		Stressed
+UNT4	spad flowering	NaN			UNIBO		Italy		Stressed
+UNT4	spad flowering	NaN			UNIBO		Italy		Stressed
+UNT4	spad flowering	NaN			UNIBO		Italy		Stressed
+UNT18	spad flowering	NaN			UNIBO		Italy		Stressed
+UNT18	spad flowering	NaN			UNIBO		Italy		Stressed
+UNT18	spad flowering	NaN			UNIBO		Italy		Stressed
+UNT21	spad flowering	NaN			UNIBO		Italy		Stressed
+UNT21	spad flowering	NaN			UNIBO		Italy		Stressed
+UNT21	spad flowering	NaN			UNIBO		Italy		Stressed
+UNT46	spad flowering	NaN			UNIBO		Italy		Stressed
+UNT46	spad flowering	NaN			UNIBO		Italy		Stressed
+UNT46	spad flowering	NaN			UNIBO		Italy		Stressed
+UNT4	rwc flowering (%)	67.53			UNIBO		Italy		Stressed
+UNT4	rwc flowering (%)	73.07			UNIBO		Italy		Stressed
+UNT4	rwc flowering (%)	73.68			UNIBO		Italy		Stressed
+UNT4	rwc flowering (%)	65.83			UNIBO		Italy		Stressed
+UNT18	rwc flowering (%)	77.51			UNIBO		Italy		Stressed
+UNT18	rwc flowering (%)	83.28			UNIBO		Italy		Stressed
+UNT18	rwc flowering (%)	117.81			UNIBO		Italy		Stressed
+UNT18	rwc flowering (%)	75.45			UNIBO		Italy		Stressed
+UNT21	rwc flowering (%)	75.3			UNIBO		Italy		Stressed
+UNT21	rwc flowering (%)	76.8			UNIBO		Italy		Stressed
+UNT21	rwc flowering (%)	74.31			UNIBO		Italy		Stressed
+UNT21	rwc flowering (%)	73.35			UNIBO		Italy		Stressed
+UNT46	rwc flowering (%)	89.05			UNIBO		Italy		Stressed
+UNT46	rwc flowering (%)	73.14			UNIBO		Italy		Stressed
+UNT46	rwc flowering (%)	76.31			UNIBO		Italy		Stressed
+UNT46	rwc flowering (%)	71.32			UNIBO		Italy		Stressed
+UNT4	rwc flowering (%)	NaN			UNIBO		Italy		Stressed
+UNT4	rwc flowering (%)	NaN			UNIBO		Italy		Stressed
+UNT4	rwc flowering (%)	NaN			UNIBO		Italy		Stressed
+UNT18	rwc flowering (%)	NaN			UNIBO		Italy		Stressed
+UNT18	rwc flowering (%)	NaN			UNIBO		Italy		Stressed
+UNT18	rwc flowering (%)	NaN			UNIBO		Italy		Stressed
+UNT21	rwc flowering (%)	NaN			UNIBO		Italy		Stressed
+UNT21	rwc flowering (%)	NaN			UNIBO		Italy		Stressed
+UNT21	rwc flowering (%)	NaN			UNIBO		Italy		Stressed
+UNT46	rwc flowering (%)	NaN			UNIBO		Italy		Stressed
+UNT46	rwc flowering (%)	NaN			UNIBO		Italy		Stressed
+UNT46	rwc flowering (%)	NaN			UNIBO		Italy		Stressed
+UNT4	fv/fm flowering	0.76			UNIBO		Italy		Stressed
+UNT4	fv/fm flowering	0.77			UNIBO		Italy		Stressed
+UNT4	fv/fm flowering	0.8			UNIBO		Italy		Stressed
+UNT4	fv/fm flowering	0.8			UNIBO		Italy		Stressed
+UNT18	fv/fm flowering	0.8			UNIBO		Italy		Stressed
+UNT18	fv/fm flowering	0.79			UNIBO		Italy		Stressed
+UNT18	fv/fm flowering	0.78			UNIBO		Italy		Stressed
+UNT18	fv/fm flowering	0.77			UNIBO		Italy		Stressed
+UNT21	fv/fm flowering	0.75			UNIBO		Italy		Stressed
+UNT21	fv/fm flowering	0.76			UNIBO		Italy		Stressed
+UNT21	fv/fm flowering	0.8			UNIBO		Italy		Stressed
+UNT21	fv/fm flowering	0.78			UNIBO		Italy		Stressed
+UNT46	fv/fm flowering	0.75			UNIBO		Italy		Stressed
+UNT46	fv/fm flowering	0.8			UNIBO		Italy		Stressed
+UNT46	fv/fm flowering	0.78			UNIBO		Italy		Stressed
+UNT46	fv/fm flowering	0.75			UNIBO		Italy		Stressed
+UNT4	fv/fm flowering	NaN			UNIBO		Italy		Stressed
+UNT4	fv/fm flowering	NaN			UNIBO		Italy		Stressed
+UNT4	fv/fm flowering	NaN			UNIBO		Italy		Stressed
+UNT18	fv/fm flowering	NaN			UNIBO		Italy		Stressed
+UNT18	fv/fm flowering	NaN			UNIBO		Italy		Stressed
+UNT18	fv/fm flowering	NaN			UNIBO		Italy		Stressed
+UNT21	fv/fm flowering	NaN			UNIBO		Italy		Stressed
+UNT21	fv/fm flowering	NaN			UNIBO		Italy		Stressed
+UNT21	fv/fm flowering	NaN			UNIBO		Italy		Stressed
+UNT46	fv/fm flowering	NaN			UNIBO		Italy		Stressed
+UNT46	fv/fm flowering	NaN			UNIBO		Italy		Stressed
+UNT46	fv/fm flowering	NaN			UNIBO		Italy		Stressed
+UNT4	gs flowering ( mmol m-2 s-1)	102.58			UNIBO		Italy		Stressed
+UNT4	gs flowering ( mmol m-2 s-1)	602.17			UNIBO		Italy		Stressed
+UNT4	gs flowering ( mmol m-2 s-1)	443.82			UNIBO		Italy		Stressed
+UNT4	gs flowering ( mmol m-2 s-1)	286.38			UNIBO		Italy		Stressed
+UNT18	gs flowering ( mmol m-2 s-1)	327.88			UNIBO		Italy		Stressed
+UNT18	gs flowering ( mmol m-2 s-1)	560.43			UNIBO		Italy		Stressed
+UNT18	gs flowering ( mmol m-2 s-1)	412.09			UNIBO		Italy		Stressed
+UNT18	gs flowering ( mmol m-2 s-1)	142.71			UNIBO		Italy		Stressed
+UNT21	gs flowering ( mmol m-2 s-1)	154.01			UNIBO		Italy		Stressed
+UNT21	gs flowering ( mmol m-2 s-1)	99.07			UNIBO		Italy		Stressed
+UNT21	gs flowering ( mmol m-2 s-1)	691.01			UNIBO		Italy		Stressed
+UNT21	gs flowering ( mmol m-2 s-1)	557.51			UNIBO		Italy		Stressed
+UNT46	gs flowering ( mmol m-2 s-1)	331.31			UNIBO		Italy		Stressed
+UNT46	gs flowering ( mmol m-2 s-1)	223.37			UNIBO		Italy		Stressed
+UNT46	gs flowering ( mmol m-2 s-1)	274.56			UNIBO		Italy		Stressed
+UNT46	gs flowering ( mmol m-2 s-1)	214.18			UNIBO		Italy		Stressed
+UNT4	gs flowering ( mmol m-2 s-1)	NaN			UNIBO		Italy		Stressed
+UNT4	gs flowering ( mmol m-2 s-1)	NaN			UNIBO		Italy		Stressed
+UNT4	gs flowering ( mmol m-2 s-1)	NaN			UNIBO		Italy		Stressed
+UNT18	gs flowering ( mmol m-2 s-1)	NaN			UNIBO		Italy		Stressed
+UNT18	gs flowering ( mmol m-2 s-1)	NaN			UNIBO		Italy		Stressed
+UNT18	gs flowering ( mmol m-2 s-1)	NaN			UNIBO		Italy		Stressed
+UNT21	gs flowering ( mmol m-2 s-1)	NaN			UNIBO		Italy		Stressed
+UNT21	gs flowering ( mmol m-2 s-1)	NaN			UNIBO		Italy		Stressed
+UNT21	gs flowering ( mmol m-2 s-1)	NaN			UNIBO		Italy		Stressed
+UNT46	gs flowering ( mmol m-2 s-1)	NaN			UNIBO		Italy		Stressed
+UNT46	gs flowering ( mmol m-2 s-1)	NaN			UNIBO		Italy		Stressed
+UNT46	gs flowering ( mmol m-2 s-1)	NaN			UNIBO		Italy		Stressed
+UNT4	a flowering ( umol m-2 s-1)	10.83			UNIBO		Italy		Stressed
+UNT4	a flowering ( umol m-2 s-1)	22.49			UNIBO		Italy		Stressed
+UNT4	a flowering ( umol m-2 s-1)	20.84			UNIBO		Italy		Stressed
+UNT4	a flowering ( umol m-2 s-1)	17.73			UNIBO		Italy		Stressed
+UNT18	a flowering ( umol m-2 s-1)	17.83			UNIBO		Italy		Stressed
+UNT18	a flowering ( umol m-2 s-1)	18.44			UNIBO		Italy		Stressed
+UNT18	a flowering ( umol m-2 s-1)	16.22			UNIBO		Italy		Stressed
+UNT18	a flowering ( umol m-2 s-1)	10.96			UNIBO		Italy		Stressed
+UNT21	a flowering ( umol m-2 s-1)	14.57			UNIBO		Italy		Stressed
+UNT21	a flowering ( umol m-2 s-1)	7.01			UNIBO		Italy		Stressed
+UNT21	a flowering ( umol m-2 s-1)	17.25			UNIBO		Italy		Stressed
+UNT21	a flowering ( umol m-2 s-1)	17.49			UNIBO		Italy		Stressed
+UNT46	a flowering ( umol m-2 s-1)	17.7			UNIBO		Italy		Stressed
+UNT46	a flowering ( umol m-2 s-1)	12.95			UNIBO		Italy		Stressed
+UNT46	a flowering ( umol m-2 s-1)	18.14			UNIBO		Italy		Stressed
+UNT46	a flowering ( umol m-2 s-1)	13.1			UNIBO		Italy		Stressed
+UNT4	a flowering ( umol m-2 s-1)	NaN			UNIBO		Italy		Stressed
+UNT4	a flowering ( umol m-2 s-1)	NaN			UNIBO		Italy		Stressed
+UNT4	a flowering ( umol m-2 s-1)	NaN			UNIBO		Italy		Stressed
+UNT18	a flowering ( umol m-2 s-1)	NaN			UNIBO		Italy		Stressed
+UNT18	a flowering ( umol m-2 s-1)	NaN			UNIBO		Italy		Stressed
+UNT18	a flowering ( umol m-2 s-1)	NaN			UNIBO		Italy		Stressed
+UNT21	a flowering ( umol m-2 s-1)	NaN			UNIBO		Italy		Stressed
+UNT21	a flowering ( umol m-2 s-1)	NaN			UNIBO		Italy		Stressed
+UNT21	a flowering ( umol m-2 s-1)	NaN			UNIBO		Italy		Stressed
+UNT46	a flowering ( umol m-2 s-1)	NaN			UNIBO		Italy		Stressed
+UNT46	a flowering ( umol m-2 s-1)	NaN			UNIBO		Italy		Stressed
+UNT46	a flowering ( umol m-2 s-1)	NaN			UNIBO		Italy		Stressed
+UNT4	spad siliques	33.8			UNIBO		Italy		Stressed
+UNT4	spad siliques	28.8			UNIBO		Italy		Stressed
+UNT4	spad siliques	30.83			UNIBO		Italy		Stressed
+UNT4	spad siliques	30.43			UNIBO		Italy		Stressed
+UNT18	spad siliques	41.9			UNIBO		Italy		Stressed
+UNT18	spad siliques	39.93			UNIBO		Italy		Stressed
+UNT18	spad siliques	33.23			UNIBO		Italy		Stressed
+UNT18	spad siliques	29.07			UNIBO		Italy		Stressed
+UNT21	spad siliques	36.83			UNIBO		Italy		Stressed
+UNT21	spad siliques	32.7			UNIBO		Italy		Stressed
+UNT21	spad siliques	35.23			UNIBO		Italy		Stressed
+UNT21	spad siliques	29.83			UNIBO		Italy		Stressed
+UNT46	spad siliques	34.63			UNIBO		Italy		Stressed
+UNT46	spad siliques	34.0			UNIBO		Italy		Stressed
+UNT46	spad siliques	30.33			UNIBO		Italy		Stressed
+UNT46	spad siliques	36.43			UNIBO		Italy		Stressed
+UNT4	spad siliques	NaN			UNIBO		Italy		Stressed
+UNT4	spad siliques	NaN			UNIBO		Italy		Stressed
+UNT4	spad siliques	NaN			UNIBO		Italy		Stressed
+UNT18	spad siliques	NaN			UNIBO		Italy		Stressed
+UNT18	spad siliques	NaN			UNIBO		Italy		Stressed
+UNT18	spad siliques	NaN			UNIBO		Italy		Stressed
+UNT21	spad siliques	NaN			UNIBO		Italy		Stressed
+UNT21	spad siliques	NaN			UNIBO		Italy		Stressed
+UNT21	spad siliques	NaN			UNIBO		Italy		Stressed
+UNT46	spad siliques	NaN			UNIBO		Italy		Stressed
+UNT46	spad siliques	NaN			UNIBO		Italy		Stressed
+UNT46	spad siliques	NaN			UNIBO		Italy		Stressed
+UNT4	rwc siliques (%)	53.06			UNIBO		Italy		Stressed
+UNT4	rwc siliques (%)	47.6			UNIBO		Italy		Stressed
+UNT4	rwc siliques (%)	54.38			UNIBO		Italy		Stressed
+UNT4	rwc siliques (%)	53.44			UNIBO		Italy		Stressed
+UNT18	rwc siliques (%)	63.7			UNIBO		Italy		Stressed
+UNT18	rwc siliques (%)	62.08			UNIBO		Italy		Stressed
+UNT18	rwc siliques (%)	57.65			UNIBO		Italy		Stressed
+UNT18	rwc siliques (%)	54.11			UNIBO		Italy		Stressed
+UNT21	rwc siliques (%)	58.09			UNIBO		Italy		Stressed
+UNT21	rwc siliques (%)	60.21			UNIBO		Italy		Stressed
+UNT21	rwc siliques (%)	67.6			UNIBO		Italy		Stressed
+UNT21	rwc siliques (%)	66.48			UNIBO		Italy		Stressed
+UNT46	rwc siliques (%)	74.76			UNIBO		Italy		Stressed
+UNT46	rwc siliques (%)	58.56			UNIBO		Italy		Stressed
+UNT46	rwc siliques (%)	59.95			UNIBO		Italy		Stressed
+UNT46	rwc siliques (%)	66.25			UNIBO		Italy		Stressed
+UNT4	rwc siliques (%)	NaN			UNIBO		Italy		Stressed
+UNT4	rwc siliques (%)	NaN			UNIBO		Italy		Stressed
+UNT4	rwc siliques (%)	NaN			UNIBO		Italy		Stressed
+UNT18	rwc siliques (%)	NaN			UNIBO		Italy		Stressed
+UNT18	rwc siliques (%)	NaN			UNIBO		Italy		Stressed
+UNT18	rwc siliques (%)	NaN			UNIBO		Italy		Stressed
+UNT21	rwc siliques (%)	NaN			UNIBO		Italy		Stressed
+UNT21	rwc siliques (%)	NaN			UNIBO		Italy		Stressed
+UNT21	rwc siliques (%)	NaN			UNIBO		Italy		Stressed
+UNT46	rwc siliques (%)	NaN			UNIBO		Italy		Stressed
+UNT46	rwc siliques (%)	NaN			UNIBO		Italy		Stressed
+UNT46	rwc siliques (%)	NaN			UNIBO		Italy		Stressed
+UNT4	fv/fm siliques	0.73			UNIBO		Italy		Stressed
+UNT4	fv/fm siliques	0.79			UNIBO		Italy		Stressed
+UNT4	fv/fm siliques	0.8			UNIBO		Italy		Stressed
+UNT4	fv/fm siliques	0.72			UNIBO		Italy		Stressed
+UNT18	fv/fm siliques	0.79			UNIBO		Italy		Stressed
+UNT18	fv/fm siliques	0.8			UNIBO		Italy		Stressed
+UNT18	fv/fm siliques	0.8			UNIBO		Italy		Stressed
+UNT18	fv/fm siliques	0.76			UNIBO		Italy		Stressed
+UNT21	fv/fm siliques	0.82			UNIBO		Italy		Stressed
+UNT21	fv/fm siliques	0.8			UNIBO		Italy		Stressed
+UNT21	fv/fm siliques	0.8			UNIBO		Italy		Stressed
+UNT21	fv/fm siliques	0.81			UNIBO		Italy		Stressed
+UNT46	fv/fm siliques	0.81			UNIBO		Italy		Stressed
+UNT46	fv/fm siliques	0.78			UNIBO		Italy		Stressed
+UNT46	fv/fm siliques	0.78			UNIBO		Italy		Stressed
+UNT46	fv/fm siliques	0.77			UNIBO		Italy		Stressed
+UNT4	fv/fm siliques	NaN			UNIBO		Italy		Stressed
+UNT4	fv/fm siliques	NaN			UNIBO		Italy		Stressed
+UNT4	fv/fm siliques	NaN			UNIBO		Italy		Stressed
+UNT18	fv/fm siliques	NaN			UNIBO		Italy		Stressed
+UNT18	fv/fm siliques	NaN			UNIBO		Italy		Stressed
+UNT18	fv/fm siliques	NaN			UNIBO		Italy		Stressed
+UNT21	fv/fm siliques	NaN			UNIBO		Italy		Stressed
+UNT21	fv/fm siliques	NaN			UNIBO		Italy		Stressed
+UNT21	fv/fm siliques	NaN			UNIBO		Italy		Stressed
+UNT46	fv/fm siliques	NaN			UNIBO		Italy		Stressed
+UNT46	fv/fm siliques	NaN			UNIBO		Italy		Stressed
+UNT46	fv/fm siliques	NaN			UNIBO		Italy		Stressed
+UNT4	gs siliques ( mmol m-2 s-1)	1547.23			UNIBO		Italy		Stressed
+UNT4	gs siliques ( mmol m-2 s-1)	321.57			UNIBO		Italy		Stressed
+UNT4	gs siliques ( mmol m-2 s-1)	585.64			UNIBO		Italy		Stressed
+UNT4	gs siliques ( mmol m-2 s-1)	1438.96			UNIBO		Italy		Stressed
+UNT18	gs siliques ( mmol m-2 s-1)	779.29			UNIBO		Italy		Stressed
+UNT18	gs siliques ( mmol m-2 s-1)	542.44			UNIBO		Italy		Stressed
+UNT18	gs siliques ( mmol m-2 s-1)	345.7			UNIBO		Italy		Stressed
+UNT18	gs siliques ( mmol m-2 s-1)	521.6			UNIBO		Italy		Stressed
+UNT21	gs siliques ( mmol m-2 s-1)	1368.35			UNIBO		Italy		Stressed
+UNT21	gs siliques ( mmol m-2 s-1)	1174.11			UNIBO		Italy		Stressed
+UNT21	gs siliques ( mmol m-2 s-1)	895.92			UNIBO		Italy		Stressed
+UNT21	gs siliques ( mmol m-2 s-1)	271.32			UNIBO		Italy		Stressed
+UNT46	gs siliques ( mmol m-2 s-1)	1765.54			UNIBO		Italy		Stressed
+UNT46	gs siliques ( mmol m-2 s-1)	493.18			UNIBO		Italy		Stressed
+UNT46	gs siliques ( mmol m-2 s-1)	397.14			UNIBO		Italy		Stressed
+UNT46	gs siliques ( mmol m-2 s-1)	253.02			UNIBO		Italy		Stressed
+UNT4	gs siliques ( mmol m-2 s-1)	1419.1			UNIBO		Italy		Stressed
+UNT4	gs siliques ( mmol m-2 s-1)	560.67			UNIBO		Italy		Stressed
+UNT4	gs siliques ( mmol m-2 s-1)	1095.03			UNIBO		Italy		Stressed
+UNT18	gs siliques ( mmol m-2 s-1)	6277.61			UNIBO		Italy		Stressed
+UNT18	gs siliques ( mmol m-2 s-1)	674.01			UNIBO		Italy		Stressed
+UNT18	gs siliques ( mmol m-2 s-1)	1527.94			UNIBO		Italy		Stressed
+UNT21	gs siliques ( mmol m-2 s-1)	NaN			UNIBO		Italy		Stressed
+UNT21	gs siliques ( mmol m-2 s-1)	NaN			UNIBO		Italy		Stressed
+UNT21	gs siliques ( mmol m-2 s-1)	2195.76			UNIBO		Italy		Stressed
+UNT46	gs siliques ( mmol m-2 s-1)	1014.23			UNIBO		Italy		Stressed
+UNT46	gs siliques ( mmol m-2 s-1)	2115.51			UNIBO		Italy		Stressed
+UNT46	gs siliques ( mmol m-2 s-1)	1905.53			UNIBO		Italy		Stressed
+UNT4	a siliques ( umol m-2 s-1)	22.31			UNIBO		Italy		Stressed
+UNT4	a siliques ( umol m-2 s-1)	11.25			UNIBO		Italy		Stressed
+UNT4	a siliques ( umol m-2 s-1)	18.26			UNIBO		Italy		Stressed
+UNT4	a siliques ( umol m-2 s-1)	14.47			UNIBO		Italy		Stressed
+UNT18	a siliques ( umol m-2 s-1)	17.42			UNIBO		Italy		Stressed
+UNT18	a siliques ( umol m-2 s-1)	9.75			UNIBO		Italy		Stressed
+UNT18	a siliques ( umol m-2 s-1)	9.98			UNIBO		Italy		Stressed
+UNT18	a siliques ( umol m-2 s-1)	12.92			UNIBO		Italy		Stressed
+UNT21	a siliques ( umol m-2 s-1)	19.4			UNIBO		Italy		Stressed
+UNT21	a siliques ( umol m-2 s-1)	16.82			UNIBO		Italy		Stressed
+UNT21	a siliques ( umol m-2 s-1)	14.57			UNIBO		Italy		Stressed
+UNT21	a siliques ( umol m-2 s-1)	9.55			UNIBO		Italy		Stressed
+UNT46	a siliques ( umol m-2 s-1)	27.88			UNIBO		Italy		Stressed
+UNT46	a siliques ( umol m-2 s-1)	9.95			UNIBO		Italy		Stressed
+UNT46	a siliques ( umol m-2 s-1)	18.2			UNIBO		Italy		Stressed
+UNT46	a siliques ( umol m-2 s-1)	10.23			UNIBO		Italy		Stressed
+UNT4	a siliques ( umol m-2 s-1)	5.78			UNIBO		Italy		Stressed
+UNT4	a siliques ( umol m-2 s-1)	11.62			UNIBO		Italy		Stressed
+UNT4	a siliques ( umol m-2 s-1)	15.41			UNIBO		Italy		Stressed
+UNT18	a siliques ( umol m-2 s-1)	10.86			UNIBO		Italy		Stressed
+UNT18	a siliques ( umol m-2 s-1)	11.56			UNIBO		Italy		Stressed
+UNT18	a siliques ( umol m-2 s-1)	18.94			UNIBO		Italy		Stressed
+UNT21	a siliques ( umol m-2 s-1)	6.57			UNIBO		Italy		Stressed
+UNT21	a siliques ( umol m-2 s-1)	20.53			UNIBO		Italy		Stressed
+UNT21	a siliques ( umol m-2 s-1)	31.61			UNIBO		Italy		Stressed
+UNT46	a siliques ( umol m-2 s-1)	9.59			UNIBO		Italy		Stressed
+UNT46	a siliques ( umol m-2 s-1)	24.91			UNIBO		Italy		Stressed
+UNT46	a siliques ( umol m-2 s-1)	16.81			UNIBO		Italy		Stressed
+UNT4	swc flowering (%)	11.0			UNIBO		Italy		Stressed
+UNT4	swc flowering (%)	10.05			UNIBO		Italy		Stressed
+UNT4	swc flowering (%)	11.02			UNIBO		Italy		Stressed
+UNT4	swc flowering (%)	10.72			UNIBO		Italy		Stressed
+UNT18	swc flowering (%)	11.0			UNIBO		Italy		Stressed
+UNT18	swc flowering (%)	10.05			UNIBO		Italy		Stressed
+UNT18	swc flowering (%)	11.02			UNIBO		Italy		Stressed
+UNT18	swc flowering (%)	10.72			UNIBO		Italy		Stressed
+UNT21	swc flowering (%)	11.0			UNIBO		Italy		Stressed
+UNT21	swc flowering (%)	10.05			UNIBO		Italy		Stressed
+UNT21	swc flowering (%)	11.02			UNIBO		Italy		Stressed
+UNT21	swc flowering (%)	10.72			UNIBO		Italy		Stressed
+UNT46	swc flowering (%)	11.0			UNIBO		Italy		Stressed
+UNT46	swc flowering (%)	10.05			UNIBO		Italy		Stressed
+UNT46	swc flowering (%)	11.02			UNIBO		Italy		Stressed
+UNT46	swc flowering (%)	10.72			UNIBO		Italy		Stressed
+UNT4	swc flowering (%)	NaN			UNIBO		Italy		Stressed
+UNT4	swc flowering (%)	NaN			UNIBO		Italy		Stressed
+UNT4	swc flowering (%)	NaN			UNIBO		Italy		Stressed
+UNT18	swc flowering (%)	NaN			UNIBO		Italy		Stressed
+UNT18	swc flowering (%)	NaN			UNIBO		Italy		Stressed
+UNT18	swc flowering (%)	NaN			UNIBO		Italy		Stressed
+UNT21	swc flowering (%)	NaN			UNIBO		Italy		Stressed
+UNT21	swc flowering (%)	NaN			UNIBO		Italy		Stressed
+UNT21	swc flowering (%)	NaN			UNIBO		Italy		Stressed
+UNT46	swc flowering (%)	NaN			UNIBO		Italy		Stressed
+UNT46	swc flowering (%)	NaN			UNIBO		Italy		Stressed
+UNT46	swc flowering (%)	NaN			UNIBO		Italy		Stressed
+UNT4	swc siliques (%)	10.13			UNIBO		Italy		Stressed
+UNT4	swc siliques (%)	4.3			UNIBO		Italy		Stressed
+UNT4	swc siliques (%)	9.95			UNIBO		Italy		Stressed
+UNT4	swc siliques (%)	9.24			UNIBO		Italy		Stressed
+UNT18	swc siliques (%)	10.13			UNIBO		Italy		Stressed
+UNT18	swc siliques (%)	4.3			UNIBO		Italy		Stressed
+UNT18	swc siliques (%)	9.95			UNIBO		Italy		Stressed
+UNT18	swc siliques (%)	9.24			UNIBO		Italy		Stressed
+UNT21	swc siliques (%)	10.13			UNIBO		Italy		Stressed
+UNT21	swc siliques (%)	4.3			UNIBO		Italy		Stressed
+UNT21	swc siliques (%)	9.95			UNIBO		Italy		Stressed
+UNT21	swc siliques (%)	9.24			UNIBO		Italy		Stressed
+UNT46	swc siliques (%)	10.13			UNIBO		Italy		Stressed
+UNT46	swc siliques (%)	4.3			UNIBO		Italy		Stressed
+UNT46	swc siliques (%)	9.95			UNIBO		Italy		Stressed
+UNT46	swc siliques (%)	9.24			UNIBO		Italy		Stressed
+UNT4	swc siliques (%)	16.79			UNIBO		Italy		Stressed
+UNT4	swc siliques (%)	17.52			UNIBO		Italy		Stressed
+UNT4	swc siliques (%)	16.66			UNIBO		Italy		Stressed
+UNT18	swc siliques (%)	16.79			UNIBO		Italy		Stressed
+UNT18	swc siliques (%)	17.52			UNIBO		Italy		Stressed
+UNT18	swc siliques (%)	16.66			UNIBO		Italy		Stressed
+UNT21	swc siliques (%)	16.79			UNIBO		Italy		Stressed
+UNT21	swc siliques (%)	17.52			UNIBO		Italy		Stressed
+UNT21	swc siliques (%)	16.66			UNIBO		Italy		Stressed
+UNT46	swc siliques (%)	16.79			UNIBO		Italy		Stressed
+UNT46	swc siliques (%)	17.52			UNIBO		Italy		Stressed
+UNT46	swc siliques (%)	16.66			UNIBO		Italy		Stressed
+UNT4	final plant density (plant m-2)	300.0			UNIBO		Italy		Stressed
+UNT4	final plant density (plant m-2)	200.0			UNIBO		Italy		Stressed
+UNT4	final plant density (plant m-2)	362.0			UNIBO		Italy		Stressed
+UNT4	final plant density (plant m-2)	462.0			UNIBO		Italy		Stressed
+UNT18	final plant density (plant m-2)	585.0			UNIBO		Italy		Stressed
+UNT18	final plant density (plant m-2)	415.0			UNIBO		Italy		Stressed
+UNT18	final plant density (plant m-2)	404.0			UNIBO		Italy		Stressed
+UNT18	final plant density (plant m-2)	412.0			UNIBO		Italy		Stressed
+UNT21	final plant density (plant m-2)	350.0			UNIBO		Italy		Stressed
+UNT21	final plant density (plant m-2)	588.0			UNIBO		Italy		Stressed
+UNT21	final plant density (plant m-2)	446.0			UNIBO		Italy		Stressed
+UNT21	final plant density (plant m-2)	358.0			UNIBO		Italy		Stressed
+UNT46	final plant density (plant m-2)	473.0			UNIBO		Italy		Stressed
+UNT46	final plant density (plant m-2)	469.0			UNIBO		Italy		Stressed
+UNT46	final plant density (plant m-2)	442.0			UNIBO		Italy		Stressed
+UNT46	final plant density (plant m-2)	677.0			UNIBO		Italy		Stressed
+UNT4	final plant density (plant m-2)	62.0			UNIBO		Italy		Stressed
+UNT4	final plant density (plant m-2)	54.0			UNIBO		Italy		Stressed
+UNT4	final plant density (plant m-2)	38.0			UNIBO		Italy		Stressed
+UNT18	final plant density (plant m-2)	69.0			UNIBO		Italy		Stressed
+UNT18	final plant density (plant m-2)	77.0			UNIBO		Italy		Stressed
+UNT18	final plant density (plant m-2)	46.0			UNIBO		Italy		Stressed
+UNT21	final plant density (plant m-2)	69.0			UNIBO		Italy		Stressed
+UNT21	final plant density (plant m-2)	100.0			UNIBO		Italy		Stressed
+UNT21	final plant density (plant m-2)	62.0			UNIBO		Italy		Stressed
+UNT46	final plant density (plant m-2)	54.0			UNIBO		Italy		Stressed
+UNT46	final plant density (plant m-2)	85.0			UNIBO		Italy		Stressed
+UNT46	final plant density (plant m-2)	108.0			UNIBO		Italy		Stressed
+UNT4	h (cm)	50.0			UNIBO		Italy		Stressed
+UNT4	h (cm)	57.0			UNIBO		Italy		Stressed
+UNT4	h (cm)	53.0			UNIBO		Italy		Stressed
+UNT4	h (cm)	60.0			UNIBO		Italy		Stressed
+UNT18	h (cm)	53.0			UNIBO		Italy		Stressed
+UNT18	h (cm)	50.0			UNIBO		Italy		Stressed
+UNT18	h (cm)	65.0			UNIBO		Italy		Stressed
+UNT18	h (cm)	57.0			UNIBO		Italy		Stressed
+UNT21	h (cm)	61.0			UNIBO		Italy		Stressed
+UNT21	h (cm)	57.0			UNIBO		Italy		Stressed
+UNT21	h (cm)	51.0			UNIBO		Italy		Stressed
+UNT21	h (cm)	60.0			UNIBO		Italy		Stressed
+UNT46	h (cm)	58.0			UNIBO		Italy		Stressed
+UNT46	h (cm)	59.0			UNIBO		Italy		Stressed
+UNT46	h (cm)	51.0			UNIBO		Italy		Stressed
+UNT46	h (cm)	61.0			UNIBO		Italy		Stressed
+UNT4	h (cm)	NaN			UNIBO		Italy		Stressed
+UNT4	h (cm)	NaN			UNIBO		Italy		Stressed
+UNT4	h (cm)	NaN			UNIBO		Italy		Stressed
+UNT18	h (cm)	NaN			UNIBO		Italy		Stressed
+UNT18	h (cm)	NaN			UNIBO		Italy		Stressed
+UNT18	h (cm)	NaN			UNIBO		Italy		Stressed
+UNT21	h (cm)	NaN			UNIBO		Italy		Stressed
+UNT21	h (cm)	NaN			UNIBO		Italy		Stressed
+UNT21	h (cm)	NaN			UNIBO		Italy		Stressed
+UNT46	h (cm)	NaN			UNIBO		Italy		Stressed
+UNT46	h (cm)	NaN			UNIBO		Italy		Stressed
+UNT46	h (cm)	NaN			UNIBO		Italy		Stressed
+UNT4	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT4	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT4	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT4	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT18	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT18	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT18	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT18	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT21	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT21	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT21	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT21	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT46	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT46	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT46	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT46	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT4	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT4	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT4	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT4	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT18	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT18	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT18	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT18	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT21	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT21	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT21	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT21	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT46	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT46	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT46	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT46	plant_anatomical_entity	NaN			UNIBO		Italy		Optimal
+UNT4	gdd tot	1269.6			UNIBO		Italy		Optimal
+UNT4	gdd tot	1269.6			UNIBO		Italy		Optimal
+UNT4	gdd tot	1269.6			UNIBO		Italy		Optimal
+UNT4	gdd tot	1269.6			UNIBO		Italy		Optimal
+UNT18	gdd tot	1269.6			UNIBO		Italy		Optimal
+UNT18	gdd tot	1269.6			UNIBO		Italy		Optimal
+UNT18	gdd tot	1269.6			UNIBO		Italy		Optimal
+UNT18	gdd tot	1269.6			UNIBO		Italy		Optimal
+UNT21	gdd tot	1269.6			UNIBO		Italy		Optimal
+UNT21	gdd tot	1269.6			UNIBO		Italy		Optimal
+UNT21	gdd tot	1269.6			UNIBO		Italy		Optimal
+UNT21	gdd tot	1269.6			UNIBO		Italy		Optimal
+UNT46	gdd tot	1269.6			UNIBO		Italy		Optimal
+UNT46	gdd tot	1269.6			UNIBO		Italy		Optimal
+UNT46	gdd tot	1269.6			UNIBO		Italy		Optimal
+UNT46	gdd tot	1269.6			UNIBO		Italy		Optimal
+UNT4	gdd tot	1421.2			UNIBO		Italy		Optimal
+UNT4	gdd tot	1421.2			UNIBO		Italy		Optimal
+UNT4	gdd tot	1421.2			UNIBO		Italy		Optimal
+UNT4	gdd tot	1421.2			UNIBO		Italy		Optimal
+UNT18	gdd tot	1421.2			UNIBO		Italy		Optimal
+UNT18	gdd tot	1421.2			UNIBO		Italy		Optimal
+UNT18	gdd tot	1421.2			UNIBO		Italy		Optimal
+UNT18	gdd tot	1421.2			UNIBO		Italy		Optimal
+UNT21	gdd tot	1421.2			UNIBO		Italy		Optimal
+UNT21	gdd tot	1421.2			UNIBO		Italy		Optimal
+UNT21	gdd tot	1421.2			UNIBO		Italy		Optimal
+UNT21	gdd tot	1421.2			UNIBO		Italy		Optimal
+UNT46	gdd tot	1421.2			UNIBO		Italy		Optimal
+UNT46	gdd tot	1421.2			UNIBO		Italy		Optimal
+UNT46	gdd tot	1421.2			UNIBO		Italy		Optimal
+UNT46	gdd tot	1421.2			UNIBO		Italy		Optimal
+UNT4	gdd before flowering	655.3			UNIBO		Italy		Optimal
+UNT4	gdd before flowering	655.3			UNIBO		Italy		Optimal
+UNT4	gdd before flowering	655.3			UNIBO		Italy		Optimal
+UNT4	gdd before flowering	655.3			UNIBO		Italy		Optimal
+UNT18	gdd before flowering	655.3			UNIBO		Italy		Optimal
+UNT18	gdd before flowering	655.3			UNIBO		Italy		Optimal
+UNT18	gdd before flowering	655.3			UNIBO		Italy		Optimal
+UNT18	gdd before flowering	655.3			UNIBO		Italy		Optimal
+UNT21	gdd before flowering	655.3			UNIBO		Italy		Optimal
+UNT21	gdd before flowering	655.3			UNIBO		Italy		Optimal
+UNT21	gdd before flowering	655.3			UNIBO		Italy		Optimal
+UNT21	gdd before flowering	655.3			UNIBO		Italy		Optimal
+UNT46	gdd before flowering	655.3			UNIBO		Italy		Optimal
+UNT46	gdd before flowering	655.3			UNIBO		Italy		Optimal
+UNT46	gdd before flowering	655.3			UNIBO		Italy		Optimal
+UNT46	gdd before flowering	655.3			UNIBO		Italy		Optimal
+UNT4	gdd before flowering	631.6			UNIBO		Italy		Optimal
+UNT4	gdd before flowering	631.6			UNIBO		Italy		Optimal
+UNT4	gdd before flowering	631.6			UNIBO		Italy		Optimal
+UNT4	gdd before flowering	631.6			UNIBO		Italy		Optimal
+UNT18	gdd before flowering	631.6			UNIBO		Italy		Optimal
+UNT18	gdd before flowering	631.6			UNIBO		Italy		Optimal
+UNT18	gdd before flowering	631.6			UNIBO		Italy		Optimal
+UNT18	gdd before flowering	631.6			UNIBO		Italy		Optimal
+UNT21	gdd before flowering	631.6			UNIBO		Italy		Optimal
+UNT21	gdd before flowering	631.6			UNIBO		Italy		Optimal
+UNT21	gdd before flowering	631.6			UNIBO		Italy		Optimal
+UNT21	gdd before flowering	631.6			UNIBO		Italy		Optimal
+UNT46	gdd before flowering	631.6			UNIBO		Italy		Optimal
+UNT46	gdd before flowering	631.6			UNIBO		Italy		Optimal
+UNT46	gdd before flowering	631.6			UNIBO		Italy		Optimal
+UNT46	gdd before flowering	631.6			UNIBO		Italy		Optimal
+UNT4	gdd after flowering	614.3			UNIBO		Italy		Optimal
+UNT4	gdd after flowering	614.3			UNIBO		Italy		Optimal
+UNT4	gdd after flowering	614.3			UNIBO		Italy		Optimal
+UNT4	gdd after flowering	614.3			UNIBO		Italy		Optimal
+UNT18	gdd after flowering	614.3			UNIBO		Italy		Optimal
+UNT18	gdd after flowering	614.3			UNIBO		Italy		Optimal
+UNT18	gdd after flowering	614.3			UNIBO		Italy		Optimal
+UNT18	gdd after flowering	614.3			UNIBO		Italy		Optimal
+UNT21	gdd after flowering	614.3			UNIBO		Italy		Optimal
+UNT21	gdd after flowering	614.3			UNIBO		Italy		Optimal
+UNT21	gdd after flowering	614.3			UNIBO		Italy		Optimal
+UNT21	gdd after flowering	614.3			UNIBO		Italy		Optimal
+UNT46	gdd after flowering	614.3			UNIBO		Italy		Optimal
+UNT46	gdd after flowering	614.3			UNIBO		Italy		Optimal
+UNT46	gdd after flowering	614.3			UNIBO		Italy		Optimal
+UNT46	gdd after flowering	614.3			UNIBO		Italy		Optimal
+UNT4	gdd after flowering	789.6			UNIBO		Italy		Optimal
+UNT4	gdd after flowering	789.6			UNIBO		Italy		Optimal
+UNT4	gdd after flowering	789.6			UNIBO		Italy		Optimal
+UNT4	gdd after flowering	789.6			UNIBO		Italy		Optimal
+UNT18	gdd after flowering	789.6			UNIBO		Italy		Optimal
+UNT18	gdd after flowering	789.6			UNIBO		Italy		Optimal
+UNT18	gdd after flowering	789.6			UNIBO		Italy		Optimal
+UNT18	gdd after flowering	789.6			UNIBO		Italy		Optimal
+UNT21	gdd after flowering	789.6			UNIBO		Italy		Optimal
+UNT21	gdd after flowering	789.6			UNIBO		Italy		Optimal
+UNT21	gdd after flowering	789.6			UNIBO		Italy		Optimal
+UNT21	gdd after flowering	789.6			UNIBO		Italy		Optimal
+UNT46	gdd after flowering	789.6			UNIBO		Italy		Optimal
+UNT46	gdd after flowering	789.6			UNIBO		Italy		Optimal
+UNT46	gdd after flowering	789.6			UNIBO		Italy		Optimal
+UNT46	gdd after flowering	789.6			UNIBO		Italy		Optimal
+UNT4	gdd/day	5.9			UNIBO		Italy		Optimal
+UNT4	gdd/day	5.9			UNIBO		Italy		Optimal
+UNT4	gdd/day	5.9			UNIBO		Italy		Optimal
+UNT4	gdd/day	5.9			UNIBO		Italy		Optimal
+UNT18	gdd/day	5.9			UNIBO		Italy		Optimal
+UNT18	gdd/day	5.9			UNIBO		Italy		Optimal
+UNT18	gdd/day	5.9			UNIBO		Italy		Optimal
+UNT18	gdd/day	5.9			UNIBO		Italy		Optimal
+UNT21	gdd/day	5.9			UNIBO		Italy		Optimal
+UNT21	gdd/day	5.9			UNIBO		Italy		Optimal
+UNT21	gdd/day	5.9			UNIBO		Italy		Optimal
+UNT21	gdd/day	5.9			UNIBO		Italy		Optimal
+UNT46	gdd/day	5.9			UNIBO		Italy		Optimal
+UNT46	gdd/day	5.9			UNIBO		Italy		Optimal
+UNT46	gdd/day	5.9			UNIBO		Italy		Optimal
+UNT46	gdd/day	5.9			UNIBO		Italy		Optimal
+UNT4	gdd/day	6.7			UNIBO		Italy		Optimal
+UNT4	gdd/day	6.7			UNIBO		Italy		Optimal
+UNT4	gdd/day	6.7			UNIBO		Italy		Optimal
+UNT4	gdd/day	6.7			UNIBO		Italy		Optimal
+UNT18	gdd/day	6.7			UNIBO		Italy		Optimal
+UNT18	gdd/day	6.7			UNIBO		Italy		Optimal
+UNT18	gdd/day	6.7			UNIBO		Italy		Optimal
+UNT18	gdd/day	6.7			UNIBO		Italy		Optimal
+UNT21	gdd/day	6.7			UNIBO		Italy		Optimal
+UNT21	gdd/day	6.7			UNIBO		Italy		Optimal
+UNT21	gdd/day	6.7			UNIBO		Italy		Optimal
+UNT21	gdd/day	6.7			UNIBO		Italy		Optimal
+UNT46	gdd/day	6.7			UNIBO		Italy		Optimal
+UNT46	gdd/day	6.7			UNIBO		Italy		Optimal
+UNT46	gdd/day	6.7			UNIBO		Italy		Optimal
+UNT46	gdd/day	6.7			UNIBO		Italy		Optimal
+UNT4	gdd/day before flowering	4.1			UNIBO		Italy		Optimal
+UNT4	gdd/day before flowering	4.1			UNIBO		Italy		Optimal
+UNT4	gdd/day before flowering	4.1			UNIBO		Italy		Optimal
+UNT4	gdd/day before flowering	4.1			UNIBO		Italy		Optimal
+UNT18	gdd/day before flowering	4.1			UNIBO		Italy		Optimal
+UNT18	gdd/day before flowering	4.1			UNIBO		Italy		Optimal
+UNT18	gdd/day before flowering	4.1			UNIBO		Italy		Optimal
+UNT18	gdd/day before flowering	4.1			UNIBO		Italy		Optimal
+UNT21	gdd/day before flowering	4.1			UNIBO		Italy		Optimal
+UNT21	gdd/day before flowering	4.1			UNIBO		Italy		Optimal
+UNT21	gdd/day before flowering	4.1			UNIBO		Italy		Optimal
+UNT21	gdd/day before flowering	4.1			UNIBO		Italy		Optimal
+UNT46	gdd/day before flowering	4.1			UNIBO		Italy		Optimal
+UNT46	gdd/day before flowering	4.1			UNIBO		Italy		Optimal
+UNT46	gdd/day before flowering	4.1			UNIBO		Italy		Optimal
+UNT46	gdd/day before flowering	4.1			UNIBO		Italy		Optimal
+UNT4	gdd/day before flowering	4.2			UNIBO		Italy		Optimal
+UNT4	gdd/day before flowering	4.2			UNIBO		Italy		Optimal
+UNT4	gdd/day before flowering	4.2			UNIBO		Italy		Optimal
+UNT4	gdd/day before flowering	4.2			UNIBO		Italy		Optimal
+UNT18	gdd/day before flowering	4.2			UNIBO		Italy		Optimal
+UNT18	gdd/day before flowering	4.2			UNIBO		Italy		Optimal
+UNT18	gdd/day before flowering	4.2			UNIBO		Italy		Optimal
+UNT18	gdd/day before flowering	4.2			UNIBO		Italy		Optimal
+UNT21	gdd/day before flowering	4.2			UNIBO		Italy		Optimal
+UNT21	gdd/day before flowering	4.2			UNIBO		Italy		Optimal
+UNT21	gdd/day before flowering	4.2			UNIBO		Italy		Optimal
+UNT21	gdd/day before flowering	4.2			UNIBO		Italy		Optimal
+UNT46	gdd/day before flowering	4.2			UNIBO		Italy		Optimal
+UNT46	gdd/day before flowering	4.2			UNIBO		Italy		Optimal
+UNT46	gdd/day before flowering	4.2			UNIBO		Italy		Optimal
+UNT46	gdd/day before flowering	4.2			UNIBO		Italy		Optimal
+UNT4	gdd/day after flowering	11.0			UNIBO		Italy		Optimal
+UNT4	gdd/day after flowering	11.0			UNIBO		Italy		Optimal
+UNT4	gdd/day after flowering	11.0			UNIBO		Italy		Optimal
+UNT4	gdd/day after flowering	11.0			UNIBO		Italy		Optimal
+UNT18	gdd/day after flowering	11.0			UNIBO		Italy		Optimal
+UNT18	gdd/day after flowering	11.0			UNIBO		Italy		Optimal
+UNT18	gdd/day after flowering	11.0			UNIBO		Italy		Optimal
+UNT18	gdd/day after flowering	11.0			UNIBO		Italy		Optimal
+UNT21	gdd/day after flowering	11.0			UNIBO		Italy		Optimal
+UNT21	gdd/day after flowering	11.0			UNIBO		Italy		Optimal
+UNT21	gdd/day after flowering	11.0			UNIBO		Italy		Optimal
+UNT21	gdd/day after flowering	11.0			UNIBO		Italy		Optimal
+UNT46	gdd/day after flowering	11.0			UNIBO		Italy		Optimal
+UNT46	gdd/day after flowering	11.0			UNIBO		Italy		Optimal
+UNT46	gdd/day after flowering	11.0			UNIBO		Italy		Optimal
+UNT18	straw yield (mg ha-1)	3.43			UNIBO		Italy		Optimal
+UNT46	gdd/day after flowering	11.0			UNIBO		Italy		Optimal
+UNT4	gdd/day after flowering	12.7			UNIBO		Italy		Optimal
+UNT4	gdd/day after flowering	12.7			UNIBO		Italy		Optimal
+UNT4	gdd/day after flowering	12.7			UNIBO		Italy		Optimal
+UNT4	gdd/day after flowering	12.7			UNIBO		Italy		Optimal
+UNT18	gdd/day after flowering	12.7			UNIBO		Italy		Optimal
+UNT18	gdd/day after flowering	12.7			UNIBO		Italy		Optimal
+UNT18	gdd/day after flowering	12.7			UNIBO		Italy		Optimal
+UNT18	gdd/day after flowering	12.7			UNIBO		Italy		Optimal
+UNT21	gdd/day after flowering	12.7			UNIBO		Italy		Optimal
+UNT21	gdd/day after flowering	12.7			UNIBO		Italy		Optimal
+UNT21	gdd/day after flowering	12.7			UNIBO		Italy		Optimal
+UNT21	gdd/day after flowering	12.7			UNIBO		Italy		Optimal
+UNT46	gdd/day after flowering	12.7			UNIBO		Italy		Optimal
+UNT46	gdd/day after flowering	12.7			UNIBO		Italy		Optimal
+UNT46	gdd/day after flowering	12.7			UNIBO		Italy		Optimal
+UNT46	gdd/day after flowering	12.7			UNIBO		Italy		Optimal
+UNT4	precipitation (mm)	578.8			UNIBO		Italy		Optimal
+UNT4	precipitation (mm)	578.8			UNIBO		Italy		Optimal
+UNT4	precipitation (mm)	578.8			UNIBO		Italy		Optimal
+UNT4	precipitation (mm)	578.8			UNIBO		Italy		Optimal
+UNT18	precipitation (mm)	578.8			UNIBO		Italy		Optimal
+UNT18	precipitation (mm)	578.8			UNIBO		Italy		Optimal
+UNT18	precipitation (mm)	578.8			UNIBO		Italy		Optimal
+UNT18	precipitation (mm)	578.8			UNIBO		Italy		Optimal
+UNT21	precipitation (mm)	578.8			UNIBO		Italy		Optimal
+UNT21	precipitation (mm)	578.8			UNIBO		Italy		Optimal
+UNT21	precipitation (mm)	578.8			UNIBO		Italy		Optimal
+UNT21	precipitation (mm)	578.8			UNIBO		Italy		Optimal
+UNT46	precipitation (mm)	578.8			UNIBO		Italy		Optimal
+UNT46	precipitation (mm)	578.8			UNIBO		Italy		Optimal
+UNT46	precipitation (mm)	578.8			UNIBO		Italy		Optimal
+UNT46	precipitation (mm)	578.8			UNIBO		Italy		Optimal
+UNT4	precipitation (mm)	217.2			UNIBO		Italy		Optimal
+UNT4	precipitation (mm)	217.2			UNIBO		Italy		Optimal
+UNT4	precipitation (mm)	217.2			UNIBO		Italy		Optimal
+UNT4	precipitation (mm)	217.2			UNIBO		Italy		Optimal
+UNT18	precipitation (mm)	217.2			UNIBO		Italy		Optimal
+UNT18	precipitation (mm)	217.2			UNIBO		Italy		Optimal
+UNT18	precipitation (mm)	217.2			UNIBO		Italy		Optimal
+UNT18	precipitation (mm)	217.2			UNIBO		Italy		Optimal
+UNT21	precipitation (mm)	217.2			UNIBO		Italy		Optimal
+UNT21	precipitation (mm)	217.2			UNIBO		Italy		Optimal
+UNT21	precipitation (mm)	217.2			UNIBO		Italy		Optimal
+UNT21	precipitation (mm)	217.2			UNIBO		Italy		Optimal
+UNT46	precipitation (mm)	217.2			UNIBO		Italy		Optimal
+UNT46	precipitation (mm)	217.2			UNIBO		Italy		Optimal
+UNT46	precipitation (mm)	217.2			UNIBO		Italy		Optimal
+UNT46	precipitation (mm)	217.2			UNIBO		Italy		Optimal
+UNT4	precipitation before flowering (mm)	276.0			UNIBO		Italy		Optimal
+UNT4	precipitation before flowering (mm)	276.0			UNIBO		Italy		Optimal
+UNT4	precipitation before flowering (mm)	276.0			UNIBO		Italy		Optimal
+UNT4	precipitation before flowering (mm)	276.0			UNIBO		Italy		Optimal
+UNT18	precipitation before flowering (mm)	276.0			UNIBO		Italy		Optimal
+UNT18	precipitation before flowering (mm)	276.0			UNIBO		Italy		Optimal
+UNT18	precipitation before flowering (mm)	276.0			UNIBO		Italy		Optimal
+UNT18	precipitation before flowering (mm)	276.0			UNIBO		Italy		Optimal
+UNT21	precipitation before flowering (mm)	276.0			UNIBO		Italy		Optimal
+UNT21	precipitation before flowering (mm)	276.0			UNIBO		Italy		Optimal
+UNT21	precipitation before flowering (mm)	276.0			UNIBO		Italy		Optimal
+UNT21	precipitation before flowering (mm)	276.0			UNIBO		Italy		Optimal
+UNT46	precipitation before flowering (mm)	276.0			UNIBO		Italy		Optimal
+UNT46	precipitation before flowering (mm)	276.0			UNIBO		Italy		Optimal
+UNT46	precipitation before flowering (mm)	276.0			UNIBO		Italy		Optimal
+UNT46	precipitation before flowering (mm)	276.0			UNIBO		Italy		Optimal
+UNT4	precipitation before flowering (mm)	167.4			UNIBO		Italy		Optimal
+UNT4	precipitation before flowering (mm)	167.4			UNIBO		Italy		Optimal
+UNT4	precipitation before flowering (mm)	167.4			UNIBO		Italy		Optimal
+UNT4	precipitation before flowering (mm)	167.4			UNIBO		Italy		Optimal
+UNT18	precipitation before flowering (mm)	168.4			UNIBO		Italy		Optimal
+UNT18	precipitation before flowering (mm)	167.4			UNIBO		Italy		Optimal
+UNT18	precipitation before flowering (mm)	167.4			UNIBO		Italy		Optimal
+UNT18	precipitation before flowering (mm)	168.4			UNIBO		Italy		Optimal
+UNT21	precipitation before flowering (mm)	167.4			UNIBO		Italy		Optimal
+UNT21	precipitation before flowering (mm)	167.4			UNIBO		Italy		Optimal
+UNT21	precipitation before flowering (mm)	167.4			UNIBO		Italy		Optimal
+UNT21	precipitation before flowering (mm)	167.4			UNIBO		Italy		Optimal
+UNT46	precipitation before flowering (mm)	167.4			UNIBO		Italy		Optimal
+UNT46	precipitation before flowering (mm)	167.4			UNIBO		Italy		Optimal
+UNT46	precipitation before flowering (mm)	167.4			UNIBO		Italy		Optimal
+UNT46	precipitation before flowering (mm)	167.4			UNIBO		Italy		Optimal
+UNT4	precipitation after flowering (mm)	302.8			UNIBO		Italy		Optimal
+UNT4	precipitation after flowering (mm)	302.8			UNIBO		Italy		Optimal
+UNT4	precipitation after flowering (mm)	302.8			UNIBO		Italy		Optimal
+UNT4	precipitation after flowering (mm)	302.8			UNIBO		Italy		Optimal
+UNT18	precipitation after flowering (mm)	302.8			UNIBO		Italy		Optimal
+UNT18	precipitation after flowering (mm)	302.8			UNIBO		Italy		Optimal
+UNT18	precipitation after flowering (mm)	302.8			UNIBO		Italy		Optimal
+UNT18	precipitation after flowering (mm)	302.8			UNIBO		Italy		Optimal
+UNT21	precipitation after flowering (mm)	302.8			UNIBO		Italy		Optimal
+UNT21	precipitation after flowering (mm)	302.8			UNIBO		Italy		Optimal
+UNT21	precipitation after flowering (mm)	302.8			UNIBO		Italy		Optimal
+UNT21	precipitation after flowering (mm)	302.8			UNIBO		Italy		Optimal
+UNT46	precipitation after flowering (mm)	302.8			UNIBO		Italy		Optimal
+UNT46	precipitation after flowering (mm)	302.8			UNIBO		Italy		Optimal
+UNT46	precipitation after flowering (mm)	302.8			UNIBO		Italy		Optimal
+UNT46	precipitation after flowering (mm)	302.8			UNIBO		Italy		Optimal
+UNT4	precipitation after flowering (mm)	49.8			UNIBO		Italy		Optimal
+UNT4	precipitation after flowering (mm)	49.8			UNIBO		Italy		Optimal
+UNT4	precipitation after flowering (mm)	49.8			UNIBO		Italy		Optimal
+UNT4	precipitation after flowering (mm)	49.8			UNIBO		Italy		Optimal
+UNT18	precipitation after flowering (mm)	48.8			UNIBO		Italy		Optimal
+UNT18	precipitation after flowering (mm)	49.8			UNIBO		Italy		Optimal
+UNT18	precipitation after flowering (mm)	49.8			UNIBO		Italy		Optimal
+UNT18	precipitation after flowering (mm)	48.8			UNIBO		Italy		Optimal
+UNT21	precipitation after flowering (mm)	49.8			UNIBO		Italy		Optimal
+UNT21	precipitation after flowering (mm)	49.8			UNIBO		Italy		Optimal
+UNT21	precipitation after flowering (mm)	49.8			UNIBO		Italy		Optimal
+UNT21	precipitation after flowering (mm)	49.8			UNIBO		Italy		Optimal
+UNT46	precipitation after flowering (mm)	49.8			UNIBO		Italy		Optimal
+UNT46	precipitation after flowering (mm)	49.8			UNIBO		Italy		Optimal
+UNT46	precipitation after flowering (mm)	49.8			UNIBO		Italy		Optimal
+UNT46	precipitation after flowering (mm)	49.8			UNIBO		Italy		Optimal
+UNT4	mm/event	6.97			UNIBO		Italy		Optimal
+UNT4	mm/event	6.97			UNIBO		Italy		Optimal
+UNT4	mm/event	6.97			UNIBO		Italy		Optimal
+UNT4	mm/event	6.97			UNIBO		Italy		Optimal
+UNT18	mm/event	6.97			UNIBO		Italy		Optimal
+UNT18	mm/event	6.97			UNIBO		Italy		Optimal
+UNT18	mm/event	6.97			UNIBO		Italy		Optimal
+UNT18	mm/event	6.97			UNIBO		Italy		Optimal
+UNT21	mm/event	6.97			UNIBO		Italy		Optimal
+UNT21	mm/event	6.97			UNIBO		Italy		Optimal
+UNT21	mm/event	6.97			UNIBO		Italy		Optimal
+UNT21	mm/event	6.97			UNIBO		Italy		Optimal
+UNT46	mm/event	6.97			UNIBO		Italy		Optimal
+UNT46	mm/event	6.97			UNIBO		Italy		Optimal
+UNT46	mm/event	6.97			UNIBO		Italy		Optimal
+UNT46	mm/event	6.97			UNIBO		Italy		Optimal
+UNT4	mm/event	2.72			UNIBO		Italy		Optimal
+UNT4	mm/event	2.72			UNIBO		Italy		Optimal
+UNT4	mm/event	2.72			UNIBO		Italy		Optimal
+UNT4	mm/event	2.72			UNIBO		Italy		Optimal
+UNT18	mm/event	2.72			UNIBO		Italy		Optimal
+UNT18	mm/event	2.72			UNIBO		Italy		Optimal
+UNT18	mm/event	2.72			UNIBO		Italy		Optimal
+UNT18	mm/event	2.72			UNIBO		Italy		Optimal
+UNT21	mm/event	2.72			UNIBO		Italy		Optimal
+UNT21	mm/event	2.72			UNIBO		Italy		Optimal
+UNT21	mm/event	2.72			UNIBO		Italy		Optimal
+UNT21	mm/event	2.72			UNIBO		Italy		Optimal
+UNT46	mm/event	2.72			UNIBO		Italy		Optimal
+UNT46	mm/event	2.72			UNIBO		Italy		Optimal
+UNT46	mm/event	2.72			UNIBO		Italy		Optimal
+UNT46	mm/event	2.72			UNIBO		Italy		Optimal
+UNT4	mm/event before flowering	12.0			UNIBO		Italy		Optimal
+UNT4	mm/event before flowering	12.0			UNIBO		Italy		Optimal
+UNT4	mm/event before flowering	12.0			UNIBO		Italy		Optimal
+UNT4	mm/event before flowering	12.0			UNIBO		Italy		Optimal
+UNT18	mm/event before flowering	12.0			UNIBO		Italy		Optimal
+UNT18	mm/event before flowering	12.0			UNIBO		Italy		Optimal
+UNT18	mm/event before flowering	12.0			UNIBO		Italy		Optimal
+UNT18	mm/event before flowering	12.0			UNIBO		Italy		Optimal
+UNT21	mm/event before flowering	12.0			UNIBO		Italy		Optimal
+UNT21	mm/event before flowering	12.0			UNIBO		Italy		Optimal
+UNT21	mm/event before flowering	12.0			UNIBO		Italy		Optimal
+UNT21	mm/event before flowering	12.0			UNIBO		Italy		Optimal
+UNT46	mm/event before flowering	12.0			UNIBO		Italy		Optimal
+UNT46	mm/event before flowering	12.0			UNIBO		Italy		Optimal
+UNT46	mm/event before flowering	12.0			UNIBO		Italy		Optimal
+UNT46	mm/event before flowering	12.0			UNIBO		Italy		Optimal
+UNT4	mm/event before flowering	10.0			UNIBO		Italy		Optimal
+UNT4	mm/event before flowering	10.0			UNIBO		Italy		Optimal
+UNT4	mm/event before flowering	10.0			UNIBO		Italy		Optimal
+UNT4	mm/event before flowering	10.0			UNIBO		Italy		Optimal
+UNT18	mm/event before flowering	10.0			UNIBO		Italy		Optimal
+UNT18	mm/event before flowering	10.0			UNIBO		Italy		Optimal
+UNT18	mm/event before flowering	10.0			UNIBO		Italy		Optimal
+UNT18	mm/event before flowering	10.0			UNIBO		Italy		Optimal
+UNT21	mm/event before flowering	10.0			UNIBO		Italy		Optimal
+UNT21	mm/event before flowering	10.0			UNIBO		Italy		Optimal
+UNT21	mm/event before flowering	10.0			UNIBO		Italy		Optimal
+UNT21	mm/event before flowering	10.0			UNIBO		Italy		Optimal
+UNT46	mm/event before flowering	10.0			UNIBO		Italy		Optimal
+UNT46	mm/event before flowering	10.0			UNIBO		Italy		Optimal
+UNT46	mm/event before flowering	10.0			UNIBO		Italy		Optimal
+UNT46	mm/event before flowering	10.0			UNIBO		Italy		Optimal
+UNT4	mm/event after flowering	2.0			UNIBO		Italy		Optimal
+UNT4	mm/event after flowering	2.0			UNIBO		Italy		Optimal
+UNT4	mm/event after flowering	2.0			UNIBO		Italy		Optimal
+UNT4	mm/event after flowering	2.0			UNIBO		Italy		Optimal
+UNT18	mm/event after flowering	2.0			UNIBO		Italy		Optimal
+UNT18	mm/event after flowering	2.0			UNIBO		Italy		Optimal
+UNT18	mm/event after flowering	2.0			UNIBO		Italy		Optimal
+UNT18	mm/event after flowering	2.0			UNIBO		Italy		Optimal
+UNT21	mm/event after flowering	2.0			UNIBO		Italy		Optimal
+UNT21	mm/event after flowering	2.0			UNIBO		Italy		Optimal
+UNT21	mm/event after flowering	2.0			UNIBO		Italy		Optimal
+UNT21	mm/event after flowering	2.0			UNIBO		Italy		Optimal
+UNT46	mm/event after flowering	2.0			UNIBO		Italy		Optimal
+UNT46	mm/event after flowering	2.0			UNIBO		Italy		Optimal
+UNT46	mm/event after flowering	2.0			UNIBO		Italy		Optimal
+UNT46	mm/event after flowering	2.0			UNIBO		Italy		Optimal
+UNT4	mm/event after flowering	1.0			UNIBO		Italy		Optimal
+UNT4	mm/event after flowering	1.0			UNIBO		Italy		Optimal
+UNT4	mm/event after flowering	1.0			UNIBO		Italy		Optimal
+UNT4	mm/event after flowering	1.0			UNIBO		Italy		Optimal
+UNT18	mm/event after flowering	1.0			UNIBO		Italy		Optimal
+UNT18	mm/event after flowering	1.0			UNIBO		Italy		Optimal
+UNT18	mm/event after flowering	1.0			UNIBO		Italy		Optimal
+UNT18	mm/event after flowering	1.0			UNIBO		Italy		Optimal
+UNT21	mm/event after flowering	1.0			UNIBO		Italy		Optimal
+UNT21	mm/event after flowering	1.0			UNIBO		Italy		Optimal
+UNT21	mm/event after flowering	1.0			UNIBO		Italy		Optimal
+UNT21	mm/event after flowering	1.0			UNIBO		Italy		Optimal
+UNT46	mm/event after flowering	1.0			UNIBO		Italy		Optimal
+UNT46	mm/event after flowering	1.0			UNIBO		Italy		Optimal
+UNT46	mm/event after flowering	1.0			UNIBO		Italy		Optimal
+UNT46	mm/event after flowering	1.0			UNIBO		Italy		Optimal
+UNT4	straw yield (mg ha-1)	5.99			UNIBO		Italy		Optimal
+UNT4	straw yield (mg ha-1)	5.36			UNIBO		Italy		Optimal
+UNT4	straw yield (mg ha-1)	6.22			UNIBO		Italy		Optimal
+UNT4	straw yield (mg ha-1)	3.91			UNIBO		Italy		Optimal
+UNT18	straw yield (mg ha-1)	4.5			UNIBO		Italy		Optimal
+UNT18	straw yield (mg ha-1)	5.12			UNIBO		Italy		Optimal
+UNT18	straw yield (mg ha-1)	6.96			UNIBO		Italy		Optimal
+UNT18	straw yield (mg ha-1)	4.38			UNIBO		Italy		Optimal
+UNT21	straw yield (mg ha-1)	5.49			UNIBO		Italy		Optimal
+UNT21	straw yield (mg ha-1)	6.73			UNIBO		Italy		Optimal
+UNT21	straw yield (mg ha-1)	3.7			UNIBO		Italy		Optimal
+UNT21	straw yield (mg ha-1)	6.82			UNIBO		Italy		Optimal
+UNT46	straw yield (mg ha-1)	4.21			UNIBO		Italy		Optimal
+UNT46	straw yield (mg ha-1)	6.0			UNIBO		Italy		Optimal
+UNT46	straw yield (mg ha-1)	5.5			UNIBO		Italy		Optimal
+UNT46	straw yield (mg ha-1)	7.45			UNIBO		Italy		Optimal
+UNT4	straw yield (mg ha-1)	4.18			UNIBO		Italy		Optimal
+UNT4	straw yield (mg ha-1)	3.3			UNIBO		Italy		Optimal
+UNT4	straw yield (mg ha-1)	2.3			UNIBO		Italy		Optimal
+UNT4	straw yield (mg ha-1)	3.8			UNIBO		Italy		Optimal
+UNT18	straw yield (mg ha-1)	0.0			UNIBO		Italy		Optimal
+UNT18	straw yield (mg ha-1)	2.55			UNIBO		Italy		Optimal
+UNT18	straw yield (mg ha-1)	0.0			UNIBO		Italy		Optimal
+UNT21	straw yield (mg ha-1)	4.3			UNIBO		Italy		Optimal
+UNT21	straw yield (mg ha-1)	3.18			UNIBO		Italy		Optimal
+UNT21	straw yield (mg ha-1)	3.55			UNIBO		Italy		Optimal
+UNT21	straw yield (mg ha-1)	3.68			UNIBO		Italy		Optimal
+UNT46	straw yield (mg ha-1)	3.55			UNIBO		Italy		Optimal
+UNT46	straw yield (mg ha-1)	3.43			UNIBO		Italy		Optimal
+UNT46	straw yield (mg ha-1)	2.55			UNIBO		Italy		Optimal
+UNT46	straw yield (mg ha-1)	2.8			UNIBO		Italy		Optimal
+UNT4	seed yield (mg ha-1)	2.16			UNIBO		Italy		Optimal
+UNT4	seed yield (mg ha-1)	1.91			UNIBO		Italy		Optimal
+UNT4	seed yield (mg ha-1)	1.76			UNIBO		Italy		Optimal
+UNT4	seed yield (mg ha-1)	1.21			UNIBO		Italy		Optimal
+UNT18	seed yield (mg ha-1)	1.33			UNIBO		Italy		Optimal
+UNT18	seed yield (mg ha-1)	1.55			UNIBO		Italy		Optimal
+UNT18	seed yield (mg ha-1)	2.17			UNIBO		Italy		Optimal
+UNT18	seed yield (mg ha-1)	0.99			UNIBO		Italy		Optimal
+UNT21	seed yield (mg ha-1)	2.21			UNIBO		Italy		Optimal
+UNT21	seed yield (mg ha-1)	2.3			UNIBO		Italy		Optimal
+UNT21	seed yield (mg ha-1)	1.48			UNIBO		Italy		Optimal
+UNT21	seed yield (mg ha-1)	1.72			UNIBO		Italy		Optimal
+UNT46	seed yield (mg ha-1)	1.43			UNIBO		Italy		Optimal
+UNT46	seed yield (mg ha-1)	1.69			UNIBO		Italy		Optimal
+UNT46	seed yield (mg ha-1)	1.27			UNIBO		Italy		Optimal
+UNT46	seed yield (mg ha-1)	1.88			UNIBO		Italy		Optimal
+UNT4	seed yield (mg ha-1)	1.09			UNIBO		Italy		Optimal
+UNT4	seed yield (mg ha-1)	1.12			UNIBO		Italy		Optimal
+UNT4	seed yield (mg ha-1)	0.92			UNIBO		Italy		Optimal
+UNT4	seed yield (mg ha-1)	0.9			UNIBO		Italy		Optimal
+UNT18	seed yield (mg ha-1)	0.0			UNIBO		Italy		Optimal
+UNT18	seed yield (mg ha-1)	0.93			UNIBO		Italy		Optimal
+UNT18	seed yield (mg ha-1)	1.74			UNIBO		Italy		Optimal
+UNT18	seed yield (mg ha-1)	0.0			UNIBO		Italy		Optimal
+UNT21	seed yield (mg ha-1)	1.32			UNIBO		Italy		Optimal
+UNT21	seed yield (mg ha-1)	1.19			UNIBO		Italy		Optimal
+UNT21	seed yield (mg ha-1)	1.84			UNIBO		Italy		Optimal
+UNT21	seed yield (mg ha-1)	1.44			UNIBO		Italy		Optimal
+UNT46	seed yield (mg ha-1)	1.92			UNIBO		Italy		Optimal
+UNT46	seed yield (mg ha-1)	0.96			UNIBO		Italy		Optimal
+UNT46	seed yield (mg ha-1)	1.13			UNIBO		Italy		Optimal
+UNT46	seed yield (mg ha-1)	1.28			UNIBO		Italy		Optimal
+UNT4	tgw (g)	1.01			UNIBO		Italy		Optimal
+UNT4	tgw (g)	1.0			UNIBO		Italy		Optimal
+UNT4	tgw (g)	0.88			UNIBO		Italy		Optimal
+UNT4	tgw (g)	0.86			UNIBO		Italy		Optimal
+UNT18	tgw (g)	0.93			UNIBO		Italy		Optimal
+UNT18	tgw (g)	1.01			UNIBO		Italy		Optimal
+UNT18	tgw (g)	0.98			UNIBO		Italy		Optimal
+UNT18	tgw (g)	0.85			UNIBO		Italy		Optimal
+UNT21	tgw (g)	0.74			UNIBO		Italy		Optimal
+UNT21	tgw (g)	0.78			UNIBO		Italy		Optimal
+UNT21	tgw (g)	0.75			UNIBO		Italy		Optimal
+UNT21	tgw (g)	0.65			UNIBO		Italy		Optimal
+UNT46	tgw (g)	1.01			UNIBO		Italy		Optimal
+UNT46	tgw (g)	0.93			UNIBO		Italy		Optimal
+UNT46	tgw (g)	0.76			UNIBO		Italy		Optimal
+UNT46	tgw (g)	0.84			UNIBO		Italy		Optimal
+UNT4	tgw (g)	1.26			UNIBO		Italy		Optimal
+UNT4	tgw (g)	1.18			UNIBO		Italy		Optimal
+UNT4	tgw (g)	1.11			UNIBO		Italy		Optimal
+UNT4	tgw (g)	1.21			UNIBO		Italy		Optimal
+UNT18	tgw (g)	NaN			UNIBO		Italy		Optimal
+UNT18	tgw (g)	1.18			UNIBO		Italy		Optimal
+UNT18	tgw (g)	1.2			UNIBO		Italy		Optimal
+UNT18	tgw (g)	NaN			UNIBO		Italy		Optimal
+UNT21	tgw (g)	1.15			UNIBO		Italy		Optimal
+UNT21	tgw (g)	1.05			UNIBO		Italy		Optimal
+UNT21	tgw (g)	0.87			UNIBO		Italy		Optimal
+UNT21	tgw (g)	0.84			UNIBO		Italy		Optimal
+UNT46	tgw (g)	0.84			UNIBO		Italy		Optimal
+UNT46	tgw (g)	0.84			UNIBO		Italy		Optimal
+UNT46	tgw (g)	1.06			UNIBO		Italy		Optimal
+UNT46	tgw (g)	1.06			UNIBO		Italy		Optimal
+UNT4	wue (kg mm-1 ha-1)	3.73			UNIBO		Italy		Optimal
+UNT4	wue (kg mm-1 ha-1)	3.3			UNIBO		Italy		Optimal
+UNT4	wue (kg mm-1 ha-1)	3.04			UNIBO		Italy		Optimal
+UNT4	wue (kg mm-1 ha-1)	2.09			UNIBO		Italy		Optimal
+UNT18	wue (kg mm-1 ha-1)	2.3			UNIBO		Italy		Optimal
+UNT18	wue (kg mm-1 ha-1)	2.67			UNIBO		Italy		Optimal
+UNT18	wue (kg mm-1 ha-1)	3.75			UNIBO		Italy		Optimal
+UNT18	wue (kg mm-1 ha-1)	1.71			UNIBO		Italy		Optimal
+UNT21	wue (kg mm-1 ha-1)	3.82			UNIBO		Italy		Optimal
+UNT21	wue (kg mm-1 ha-1)	3.97			UNIBO		Italy		Optimal
+UNT21	wue (kg mm-1 ha-1)	2.56			UNIBO		Italy		Optimal
+UNT21	wue (kg mm-1 ha-1)	2.97			UNIBO		Italy		Optimal
+UNT46	wue (kg mm-1 ha-1)	2.48			UNIBO		Italy		Optimal
+UNT46	wue (kg mm-1 ha-1)	2.93			UNIBO		Italy		Optimal
+UNT46	wue (kg mm-1 ha-1)	2.19			UNIBO		Italy		Optimal
+UNT46	wue (kg mm-1 ha-1)	3.25			UNIBO		Italy		Optimal
+UNT4	wue (kg mm-1 ha-1)	5.04			UNIBO		Italy		Optimal
+UNT4	wue (kg mm-1 ha-1)	51.53			UNIBO		Italy		Optimal
+UNT4	wue (kg mm-1 ha-1)	42.49			UNIBO		Italy		Optimal
+UNT4	wue (kg mm-1 ha-1)	41.34			UNIBO		Italy		Optimal
+UNT18	wue (kg mm-1 ha-1)	NaN			UNIBO		Italy		Optimal
+UNT18	wue (kg mm-1 ha-1)	42.74			UNIBO		Italy		Optimal
+UNT18	wue (kg mm-1 ha-1)	79.99			UNIBO		Italy		Optimal
+UNT18	wue (kg mm-1 ha-1)	NaN			UNIBO		Italy		Optimal
+UNT21	wue (kg mm-1 ha-1)	60.86			UNIBO		Italy		Optimal
+UNT21	wue (kg mm-1 ha-1)	54.8			UNIBO		Italy		Optimal
+UNT21	wue (kg mm-1 ha-1)	84.53			UNIBO		Italy		Optimal
+UNT21	wue (kg mm-1 ha-1)	66.31			UNIBO		Italy		Optimal
+UNT46	wue (kg mm-1 ha-1)	88.22			UNIBO		Italy		Optimal
+UNT46	wue (kg mm-1 ha-1)	44.36			UNIBO		Italy		Optimal
+UNT46	wue (kg mm-1 ha-1)	51.79			UNIBO		Italy		Optimal
+UNT46	wue (kg mm-1 ha-1)	59.12			UNIBO		Italy		Optimal
+UNT4	oil content (%)	36.96			UNIBO		Italy		Optimal
+UNT4	oil content (%)	36.54			UNIBO		Italy		Optimal
+UNT4	oil content (%)	35.5			UNIBO		Italy		Optimal
+UNT4	oil content (%)	35.06			UNIBO		Italy		Optimal
+UNT18	oil content (%)	36.01			UNIBO		Italy		Optimal
+UNT18	oil content (%)	36.51			UNIBO		Italy		Optimal
+UNT18	oil content (%)	35.39			UNIBO		Italy		Optimal
+UNT18	oil content (%)	33.93			UNIBO		Italy		Optimal
+UNT21	oil content (%)	36.48			UNIBO		Italy		Optimal
+UNT21	oil content (%)	36.01			UNIBO		Italy		Optimal
+UNT21	oil content (%)	36.22			UNIBO		Italy		Optimal
+UNT21	oil content (%)	33.85			UNIBO		Italy		Optimal
+UNT46	oil content (%)	37.24			UNIBO		Italy		Optimal
+UNT46	oil content (%)	33.53			UNIBO		Italy		Optimal
+UNT46	oil content (%)	34.46			UNIBO		Italy		Optimal
+UNT46	oil content (%)	34.93			UNIBO		Italy		Optimal
+UNT4	oil content (%)	38.6			UNIBO		Italy		Optimal
+UNT4	oil content (%)	38.71			UNIBO		Italy		Optimal
+UNT4	oil content (%)	37.56			UNIBO		Italy		Optimal
+UNT4	oil content (%)	39.16			UNIBO		Italy		Optimal
+UNT18	oil content (%)	NaN			UNIBO		Italy		Optimal
+UNT18	oil content (%)	38.94			UNIBO		Italy		Optimal
+UNT18	oil content (%)	38.16			UNIBO		Italy		Optimal
+UNT18	oil content (%)	NaN			UNIBO		Italy		Optimal
+UNT21	oil content (%)	38.11			UNIBO		Italy		Optimal
+UNT21	oil content (%)	37.08			UNIBO		Italy		Optimal
+UNT21	oil content (%)	35.93			UNIBO		Italy		Optimal
+UNT21	oil content (%)	36.51			UNIBO		Italy		Optimal
+UNT46	oil content (%)	36.56			UNIBO		Italy		Optimal
+UNT46	oil content (%)	36.19			UNIBO		Italy		Optimal
+UNT46	oil content (%)	36.65			UNIBO		Italy		Optimal
+UNT46	oil content (%)	36.54			UNIBO		Italy		Optimal
+UNT4	oil yield (mg ha-1)	0.8			UNIBO		Italy		Optimal
+UNT4	oil yield (mg ha-1)	0.7			UNIBO		Italy		Optimal
+UNT4	oil yield (mg ha-1)	0.63			UNIBO		Italy		Optimal
+UNT4	oil yield (mg ha-1)	0.42			UNIBO		Italy		Optimal
+UNT18	oil yield (mg ha-1)	0.48			UNIBO		Italy		Optimal
+UNT18	oil yield (mg ha-1)	0.57			UNIBO		Italy		Optimal
+UNT18	oil yield (mg ha-1)	0.77			UNIBO		Italy		Optimal
+UNT18	oil yield (mg ha-1)	0.34			UNIBO		Italy		Optimal
+UNT21	oil yield (mg ha-1)	0.81			UNIBO		Italy		Optimal
+UNT21	oil yield (mg ha-1)	0.83			UNIBO		Italy		Optimal
+UNT21	oil yield (mg ha-1)	0.54			UNIBO		Italy		Optimal
+UNT21	oil yield (mg ha-1)	0.58			UNIBO		Italy		Optimal
+UNT46	oil yield (mg ha-1)	0.53			UNIBO		Italy		Optimal
+UNT46	oil yield (mg ha-1)	0.57			UNIBO		Italy		Optimal
+UNT46	oil yield (mg ha-1)	0.44			UNIBO		Italy		Optimal
+UNT46	oil yield (mg ha-1)	0.66			UNIBO		Italy		Optimal
+UNT4	oil yield (mg ha-1)	0.42			UNIBO		Italy		Optimal
+UNT4	oil yield (mg ha-1)	0.43			UNIBO		Italy		Optimal
+UNT4	oil yield (mg ha-1)	0.35			UNIBO		Italy		Optimal
+UNT4	oil yield (mg ha-1)	0.35			UNIBO		Italy		Optimal
+UNT18	oil yield (mg ha-1)	NaN			UNIBO		Italy		Optimal
+UNT18	oil yield (mg ha-1)	0.36			UNIBO		Italy		Optimal
+UNT18	oil yield (mg ha-1)	0.66			UNIBO		Italy		Optimal
+UNT18	oil yield (mg ha-1)	NaN			UNIBO		Italy		Optimal
+UNT21	oil yield (mg ha-1)	0.5			UNIBO		Italy		Optimal
+UNT21	oil yield (mg ha-1)	0.44			UNIBO		Italy		Optimal
+UNT21	oil yield (mg ha-1)	0.66			UNIBO		Italy		Optimal
+UNT21	oil yield (mg ha-1)	0.53			UNIBO		Italy		Optimal
+UNT46	oil yield (mg ha-1)	0.7			UNIBO		Italy		Optimal
+UNT46	oil yield (mg ha-1)	0.35			UNIBO		Italy		Optimal
+UNT46	oil yield (mg ha-1)	0.41			UNIBO		Italy		Optimal
+UNT46	oil yield (mg ha-1)	0.47			UNIBO		Italy		Optimal
+UNT4	spad flowering	39.93			UNIBO		Italy		Optimal
+UNT4	spad flowering	42.73			UNIBO		Italy		Optimal
+UNT4	spad flowering	40.0			UNIBO		Italy		Optimal
+UNT4	spad flowering	40.1			UNIBO		Italy		Optimal
+UNT18	spad flowering	38.57			UNIBO		Italy		Optimal
+UNT18	spad flowering	40.83			UNIBO		Italy		Optimal
+UNT18	spad flowering	45.47			UNIBO		Italy		Optimal
+UNT18	spad flowering	42.0			UNIBO		Italy		Optimal
+UNT21	spad flowering	38.77			UNIBO		Italy		Optimal
+UNT21	spad flowering	40.0			UNIBO		Italy		Optimal
+UNT21	spad flowering	40.6			UNIBO		Italy		Optimal
+UNT21	spad flowering	39.77			UNIBO		Italy		Optimal
+UNT46	spad flowering	35.93			UNIBO		Italy		Optimal
+UNT46	spad flowering	39.8			UNIBO		Italy		Optimal
+UNT46	spad flowering	41.23			UNIBO		Italy		Optimal
+UNT46	spad flowering	39.33			UNIBO		Italy		Optimal
+UNT4	spad flowering	40.7			UNIBO		Italy		Optimal
+UNT4	spad flowering	44.37			UNIBO		Italy		Optimal
+UNT4	spad flowering	38.43			UNIBO		Italy		Optimal
+UNT4	spad flowering	41.33			UNIBO		Italy		Optimal
+UNT18	spad flowering	40.37			UNIBO		Italy		Optimal
+UNT18	spad flowering	40.9			UNIBO		Italy		Optimal
+UNT18	spad flowering	37.87			UNIBO		Italy		Optimal
+UNT18	spad flowering	38.8			UNIBO		Italy		Optimal
+UNT21	spad flowering	36.73			UNIBO		Italy		Optimal
+UNT21	spad flowering	37.13			UNIBO		Italy		Optimal
+UNT21	spad flowering	39.03			UNIBO		Italy		Optimal
+UNT21	spad flowering	38.13			UNIBO		Italy		Optimal
+UNT46	spad flowering	41.43			UNIBO		Italy		Optimal
+UNT46	spad flowering	39.17			UNIBO		Italy		Optimal
+UNT46	spad flowering	41.1			UNIBO		Italy		Optimal
+UNT46	spad flowering	39.27			UNIBO		Italy		Optimal
+UNT4	rwc flowering (%)	90.91			UNIBO		Italy		Optimal
+UNT4	rwc flowering (%)	76.9			UNIBO		Italy		Optimal
+UNT4	rwc flowering (%)	76.72			UNIBO		Italy		Optimal
+UNT4	rwc flowering (%)	73.11			UNIBO		Italy		Optimal
+UNT18	rwc flowering (%)	92.06			UNIBO		Italy		Optimal
+UNT18	rwc flowering (%)	80.17			UNIBO		Italy		Optimal
+UNT18	rwc flowering (%)	77.52			UNIBO		Italy		Optimal
+UNT18	rwc flowering (%)	76.55			UNIBO		Italy		Optimal
+UNT21	rwc flowering (%)	87.99			UNIBO		Italy		Optimal
+UNT21	rwc flowering (%)	86.51			UNIBO		Italy		Optimal
+UNT21	rwc flowering (%)	80.42			UNIBO		Italy		Optimal
+UNT21	rwc flowering (%)	80.16			UNIBO		Italy		Optimal
+UNT46	rwc flowering (%)	85.98			UNIBO		Italy		Optimal
+UNT46	rwc flowering (%)	92.66			UNIBO		Italy		Optimal
+UNT46	rwc flowering (%)	73.9			UNIBO		Italy		Optimal
+UNT46	rwc flowering (%)	75.74			UNIBO		Italy		Optimal
+UNT4	rwc flowering (%)	60.83			UNIBO		Italy		Optimal
+UNT4	rwc flowering (%)	61.03			UNIBO		Italy		Optimal
+UNT4	rwc flowering (%)	65.77			UNIBO		Italy		Optimal
+UNT4	rwc flowering (%)	46.04			UNIBO		Italy		Optimal
+UNT18	rwc flowering (%)	65.53			UNIBO		Italy		Optimal
+UNT18	rwc flowering (%)	58.58			UNIBO		Italy		Optimal
+UNT18	rwc flowering (%)	64.05			UNIBO		Italy		Optimal
+UNT18	rwc flowering (%)	55.21			UNIBO		Italy		Optimal
+UNT21	rwc flowering (%)	55.79			UNIBO		Italy		Optimal
+UNT21	rwc flowering (%)	72.18			UNIBO		Italy		Optimal
+UNT21	rwc flowering (%)	57.15			UNIBO		Italy		Optimal
+UNT21	rwc flowering (%)	48.37			UNIBO		Italy		Optimal
+UNT46	rwc flowering (%)	57.03			UNIBO		Italy		Optimal
+UNT46	rwc flowering (%)	56.97			UNIBO		Italy		Optimal
+UNT46	rwc flowering (%)	56.37			UNIBO		Italy		Optimal
+UNT46	rwc flowering (%)	53.76			UNIBO		Italy		Optimal
+UNT4	fv/fm flowering	0.77			UNIBO		Italy		Optimal
+UNT4	fv/fm flowering	0.75			UNIBO		Italy		Optimal
+UNT4	fv/fm flowering	0.78			UNIBO		Italy		Optimal
+UNT4	fv/fm flowering	0.76			UNIBO		Italy		Optimal
+UNT18	fv/fm flowering	0.74			UNIBO		Italy		Optimal
+UNT18	fv/fm flowering	0.78			UNIBO		Italy		Optimal
+UNT18	fv/fm flowering	0.77			UNIBO		Italy		Optimal
+UNT18	fv/fm flowering	0.77			UNIBO		Italy		Optimal
+UNT21	fv/fm flowering	0.79			UNIBO		Italy		Optimal
+UNT21	fv/fm flowering	0.65			UNIBO		Italy		Optimal
+UNT21	fv/fm flowering	0.77			UNIBO		Italy		Optimal
+UNT21	fv/fm flowering	0.74			UNIBO		Italy		Optimal
+UNT46	fv/fm flowering	0.78			UNIBO		Italy		Optimal
+UNT46	fv/fm flowering	0.74			UNIBO		Italy		Optimal
+UNT46	fv/fm flowering	0.65			UNIBO		Italy		Optimal
+UNT46	fv/fm flowering	0.74			UNIBO		Italy		Optimal
+UNT4	fv/fm flowering	0.8			UNIBO		Italy		Optimal
+UNT4	fv/fm flowering	0.81			UNIBO		Italy		Optimal
+UNT4	fv/fm flowering	0.81			UNIBO		Italy		Optimal
+UNT4	fv/fm flowering	0.77			UNIBO		Italy		Optimal
+UNT18	fv/fm flowering	0.81			UNIBO		Italy		Optimal
+UNT18	fv/fm flowering	0.81			UNIBO		Italy		Optimal
+UNT18	fv/fm flowering	0.83			UNIBO		Italy		Optimal
+UNT18	fv/fm flowering	0.78			UNIBO		Italy		Optimal
+UNT21	fv/fm flowering	0.78			UNIBO		Italy		Optimal
+UNT21	fv/fm flowering	0.77			UNIBO		Italy		Optimal
+UNT21	fv/fm flowering	0.8			UNIBO		Italy		Optimal
+UNT21	fv/fm flowering	0.8			UNIBO		Italy		Optimal
+UNT46	fv/fm flowering	0.8			UNIBO		Italy		Optimal
+UNT46	fv/fm flowering	0.8			UNIBO		Italy		Optimal
+UNT46	fv/fm flowering	0.79			UNIBO		Italy		Optimal
+UNT46	fv/fm flowering	0.78			UNIBO		Italy		Optimal
+UNT4	gs flowering ( mmol m-2 s-1)	151.39			UNIBO		Italy		Optimal
+UNT4	gs flowering ( mmol m-2 s-1)	177.78			UNIBO		Italy		Optimal
+UNT4	gs flowering ( mmol m-2 s-1)	202.9			UNIBO		Italy		Optimal
+UNT4	gs flowering ( mmol m-2 s-1)	174.38			UNIBO		Italy		Optimal
+UNT18	gs flowering ( mmol m-2 s-1)	671.33			UNIBO		Italy		Optimal
+UNT18	gs flowering ( mmol m-2 s-1)	169.88			UNIBO		Italy		Optimal
+UNT18	gs flowering ( mmol m-2 s-1)	398.32			UNIBO		Italy		Optimal
+UNT18	gs flowering ( mmol m-2 s-1)	156.22			UNIBO		Italy		Optimal
+UNT21	gs flowering ( mmol m-2 s-1)	241.63			UNIBO		Italy		Optimal
+UNT21	gs flowering ( mmol m-2 s-1)	255.58			UNIBO		Italy		Optimal
+UNT21	gs flowering ( mmol m-2 s-1)	138.05			UNIBO		Italy		Optimal
+UNT21	gs flowering ( mmol m-2 s-1)	196.97			UNIBO		Italy		Optimal
+UNT46	gs flowering ( mmol m-2 s-1)	136.65			UNIBO		Italy		Optimal
+UNT46	gs flowering ( mmol m-2 s-1)	253.83			UNIBO		Italy		Optimal
+UNT46	gs flowering ( mmol m-2 s-1)	211.59			UNIBO		Italy		Optimal
+UNT46	gs flowering ( mmol m-2 s-1)	223.8			UNIBO		Italy		Optimal
+UNT4	gs flowering ( mmol m-2 s-1)	450.9			UNIBO		Italy		Optimal
+UNT4	gs flowering ( mmol m-2 s-1)	165.17			UNIBO		Italy		Optimal
+UNT4	gs flowering ( mmol m-2 s-1)	124.18			UNIBO		Italy		Optimal
+UNT4	gs flowering ( mmol m-2 s-1)	453.11			UNIBO		Italy		Optimal
+UNT18	gs flowering ( mmol m-2 s-1)	532.1			UNIBO		Italy		Optimal
+UNT18	gs flowering ( mmol m-2 s-1)	357.22			UNIBO		Italy		Optimal
+UNT18	gs flowering ( mmol m-2 s-1)	457.35			UNIBO		Italy		Optimal
+UNT18	gs flowering ( mmol m-2 s-1)	681.47			UNIBO		Italy		Optimal
+UNT21	gs flowering ( mmol m-2 s-1)	184.2			UNIBO		Italy		Optimal
+UNT21	gs flowering ( mmol m-2 s-1)	324.33			UNIBO		Italy		Optimal
+UNT21	gs flowering ( mmol m-2 s-1)	129.18			UNIBO		Italy		Optimal
+UNT21	gs flowering ( mmol m-2 s-1)	235.22			UNIBO		Italy		Optimal
+UNT46	gs flowering ( mmol m-2 s-1)	149.77			UNIBO		Italy		Optimal
+UNT46	gs flowering ( mmol m-2 s-1)	350.89			UNIBO		Italy		Optimal
+UNT46	gs flowering ( mmol m-2 s-1)	780.95			UNIBO		Italy		Optimal
+UNT46	gs flowering ( mmol m-2 s-1)	742.32			UNIBO		Italy		Optimal
+UNT4	a flowering ( umol m-2 s-1)	12.69			UNIBO		Italy		Optimal
+UNT4	a flowering ( umol m-2 s-1)	10.59			UNIBO		Italy		Optimal
+UNT4	a flowering ( umol m-2 s-1)	11.49			UNIBO		Italy		Optimal
+UNT4	a flowering ( umol m-2 s-1)	12.61			UNIBO		Italy		Optimal
+UNT18	a flowering ( umol m-2 s-1)	18.65			UNIBO		Italy		Optimal
+UNT18	a flowering ( umol m-2 s-1)	13.84			UNIBO		Italy		Optimal
+UNT18	a flowering ( umol m-2 s-1)	17.66			UNIBO		Italy		Optimal
+UNT18	a flowering ( umol m-2 s-1)	11.16			UNIBO		Italy		Optimal
+UNT21	a flowering ( umol m-2 s-1)	15.41			UNIBO		Italy		Optimal
+UNT21	a flowering ( umol m-2 s-1)	17.55			UNIBO		Italy		Optimal
+UNT21	a flowering ( umol m-2 s-1)	14.03			UNIBO		Italy		Optimal
+UNT21	a flowering ( umol m-2 s-1)	14.35			UNIBO		Italy		Optimal
+UNT46	a flowering ( umol m-2 s-1)	13.22			UNIBO		Italy		Optimal
+UNT46	a flowering ( umol m-2 s-1)	19.14			UNIBO		Italy		Optimal
+UNT46	a flowering ( umol m-2 s-1)	15.76			UNIBO		Italy		Optimal
+UNT46	a flowering ( umol m-2 s-1)	14.11			UNIBO		Italy		Optimal
+UNT4	a flowering ( umol m-2 s-1)	14.68			UNIBO		Italy		Optimal
+UNT4	a flowering ( umol m-2 s-1)	16.67			UNIBO		Italy		Optimal
+UNT4	a flowering ( umol m-2 s-1)	14.94			UNIBO		Italy		Optimal
+UNT4	a flowering ( umol m-2 s-1)	20.0			UNIBO		Italy		Optimal
+UNT18	a flowering ( umol m-2 s-1)	13.4			UNIBO		Italy		Optimal
+UNT18	a flowering ( umol m-2 s-1)	15.68			UNIBO		Italy		Optimal
+UNT18	a flowering ( umol m-2 s-1)	23.67			UNIBO		Italy		Optimal
+UNT18	a flowering ( umol m-2 s-1)	19.52			UNIBO		Italy		Optimal
+UNT21	a flowering ( umol m-2 s-1)	10.25			UNIBO		Italy		Optimal
+UNT21	a flowering ( umol m-2 s-1)	17.17			UNIBO		Italy		Optimal
+UNT21	a flowering ( umol m-2 s-1)	9.93			UNIBO		Italy		Optimal
+UNT21	a flowering ( umol m-2 s-1)	14.33			UNIBO		Italy		Optimal
+UNT46	a flowering ( umol m-2 s-1)	9.91			UNIBO		Italy		Optimal
+UNT46	a flowering ( umol m-2 s-1)	16.84			UNIBO		Italy		Optimal
+UNT46	a flowering ( umol m-2 s-1)	15.67			UNIBO		Italy		Optimal
+UNT46	a flowering ( umol m-2 s-1)	22.2			UNIBO		Italy		Optimal
+UNT4	spad siliques	36.67			UNIBO		Italy		Optimal
+UNT4	spad siliques	32.2			UNIBO		Italy		Optimal
+UNT4	spad siliques	34.8			UNIBO		Italy		Optimal
+UNT4	spad siliques	36.8			UNIBO		Italy		Optimal
+UNT18	spad siliques	32.77			UNIBO		Italy		Optimal
+UNT18	spad siliques	29.53			UNIBO		Italy		Optimal
+UNT18	spad siliques	30.93			UNIBO		Italy		Optimal
+UNT18	spad siliques	37.3			UNIBO		Italy		Optimal
+UNT21	spad siliques	31.03			UNIBO		Italy		Optimal
+UNT21	spad siliques	29.37			UNIBO		Italy		Optimal
+UNT21	spad siliques	28.67			UNIBO		Italy		Optimal
+UNT21	spad siliques	34.57			UNIBO		Italy		Optimal
+UNT46	spad siliques	31.43			UNIBO		Italy		Optimal
+UNT46	spad siliques	33.03			UNIBO		Italy		Optimal
+UNT46	spad siliques	34.8			UNIBO		Italy		Optimal
+UNT46	spad siliques	36.1			UNIBO		Italy		Optimal
+UNT4	spad siliques	43.4			UNIBO		Italy		Optimal
+UNT4	spad siliques	39.13			UNIBO		Italy		Optimal
+UNT4	spad siliques	41.53			UNIBO		Italy		Optimal
+UNT4	spad siliques	41.83			UNIBO		Italy		Optimal
+UNT18	spad siliques	40.57			UNIBO		Italy		Optimal
+UNT18	spad siliques	38.63			UNIBO		Italy		Optimal
+UNT18	spad siliques	41.13			UNIBO		Italy		Optimal
+UNT18	spad siliques	41.23			UNIBO		Italy		Optimal
+UNT21	spad siliques	38.37			UNIBO		Italy		Optimal
+UNT21	spad siliques	38.7			UNIBO		Italy		Optimal
+UNT21	spad siliques	41.63			UNIBO		Italy		Optimal
+UNT21	spad siliques	39.9			UNIBO		Italy		Optimal
+UNT46	spad siliques	39.73			UNIBO		Italy		Optimal
+UNT46	spad siliques	39.2			UNIBO		Italy		Optimal
+UNT46	spad siliques	37.93			UNIBO		Italy		Optimal
+UNT46	spad siliques	45.17			UNIBO		Italy		Optimal
+UNT4	rwc siliques (%)	51.95			UNIBO		Italy		Optimal
+UNT4	rwc siliques (%)	80.37			UNIBO		Italy		Optimal
+UNT4	rwc siliques (%)	50.88			UNIBO		Italy		Optimal
+UNT4	rwc siliques (%)	72.27			UNIBO		Italy		Optimal
+UNT18	rwc siliques (%)	39.0			UNIBO		Italy		Optimal
+UNT18	rwc siliques (%)	66.6			UNIBO		Italy		Optimal
+UNT18	rwc siliques (%)	60.63			UNIBO		Italy		Optimal
+UNT18	rwc siliques (%)	59.84			UNIBO		Italy		Optimal
+UNT21	rwc siliques (%)	59.93			UNIBO		Italy		Optimal
+UNT21	rwc siliques (%)	54.81			UNIBO		Italy		Optimal
+UNT21	rwc siliques (%)	43.3			UNIBO		Italy		Optimal
+UNT21	rwc siliques (%)	64.49			UNIBO		Italy		Optimal
+UNT46	rwc siliques (%)	69.46			UNIBO		Italy		Optimal
+UNT46	rwc siliques (%)	75.19			UNIBO		Italy		Optimal
+UNT46	rwc siliques (%)	62.72			UNIBO		Italy		Optimal
+UNT46	rwc siliques (%)	55.71			UNIBO		Italy		Optimal
+UNT4	rwc siliques (%)	57.18			UNIBO		Italy		Optimal
+UNT4	rwc siliques (%)	54.12			UNIBO		Italy		Optimal
+UNT4	rwc siliques (%)	51.42			UNIBO		Italy		Optimal
+UNT4	rwc siliques (%)	53.67			UNIBO		Italy		Optimal
+UNT18	rwc siliques (%)	57.24			UNIBO		Italy		Optimal
+UNT18	rwc siliques (%)	57.06			UNIBO		Italy		Optimal
+UNT18	rwc siliques (%)	54.28			UNIBO		Italy		Optimal
+UNT18	rwc siliques (%)	46.56			UNIBO		Italy		Optimal
+UNT21	rwc siliques (%)	57.71			UNIBO		Italy		Optimal
+UNT21	rwc siliques (%)	51.69			UNIBO		Italy		Optimal
+UNT21	rwc siliques (%)	52.71			UNIBO		Italy		Optimal
+UNT21	rwc siliques (%)	56.22			UNIBO		Italy		Optimal
+UNT46	rwc siliques (%)	55.88			UNIBO		Italy		Optimal
+UNT46	rwc siliques (%)	52.09			UNIBO		Italy		Optimal
+UNT46	rwc siliques (%)	41.31			UNIBO		Italy		Optimal
+UNT46	rwc siliques (%)	62.48			UNIBO		Italy		Optimal
+UNT4	fv/fm siliques	0.8			UNIBO		Italy		Optimal
+UNT4	fv/fm siliques	0.82			UNIBO		Italy		Optimal
+UNT4	fv/fm siliques	0.56			UNIBO		Italy		Optimal
+UNT4	fv/fm siliques	0.83			UNIBO		Italy		Optimal
+UNT18	fv/fm siliques	0.66			UNIBO		Italy		Optimal
+UNT18	fv/fm siliques	0.83			UNIBO		Italy		Optimal
+UNT18	fv/fm siliques	0.81			UNIBO		Italy		Optimal
+UNT18	fv/fm siliques	0.9			UNIBO		Italy		Optimal
+UNT21	fv/fm siliques	0.7			UNIBO		Italy		Optimal
+UNT21	fv/fm siliques	0.04			UNIBO		Italy		Optimal
+UNT21	fv/fm siliques	0.57			UNIBO		Italy		Optimal
+UNT21	fv/fm siliques	0.58			UNIBO		Italy		Optimal
+UNT46	fv/fm siliques	0.74			UNIBO		Italy		Optimal
+UNT46	fv/fm siliques	0.79			UNIBO		Italy		Optimal
+UNT46	fv/fm siliques	0.82			UNIBO		Italy		Optimal
+UNT46	fv/fm siliques	0.73			UNIBO		Italy		Optimal
+UNT4	fv/fm siliques	0.85			UNIBO		Italy		Optimal
+UNT4	fv/fm siliques	0.73			UNIBO		Italy		Optimal
+UNT4	fv/fm siliques	0.8			UNIBO		Italy		Optimal
+UNT4	fv/fm siliques	0.8			UNIBO		Italy		Optimal
+UNT18	fv/fm siliques	0.82			UNIBO		Italy		Optimal
+UNT18	fv/fm siliques	0.7			UNIBO		Italy		Optimal
+UNT18	fv/fm siliques	0.83			UNIBO		Italy		Optimal
+UNT18	fv/fm siliques	0.77			UNIBO		Italy		Optimal
+UNT21	fv/fm siliques	0.85			UNIBO		Italy		Optimal
+UNT21	fv/fm siliques	0.83			UNIBO		Italy		Optimal
+UNT21	fv/fm siliques	0.78			UNIBO		Italy		Optimal
+UNT21	fv/fm siliques	0.84			UNIBO		Italy		Optimal
+UNT46	fv/fm siliques	0.77			UNIBO		Italy		Optimal
+UNT46	fv/fm siliques	0.82			UNIBO		Italy		Optimal
+UNT46	fv/fm siliques	0.74			UNIBO		Italy		Optimal
+UNT46	fv/fm siliques	0.84			UNIBO		Italy		Optimal
+UNT4	gs siliques ( mmol m-2 s-1)	208.95			UNIBO		Italy		Optimal
+UNT4	gs siliques ( mmol m-2 s-1)	300.62			UNIBO		Italy		Optimal
+UNT4	gs siliques ( mmol m-2 s-1)	332.56			UNIBO		Italy		Optimal
+UNT4	gs siliques ( mmol m-2 s-1)	550.44			UNIBO		Italy		Optimal
+UNT18	gs siliques ( mmol m-2 s-1)	811.56			UNIBO		Italy		Optimal
+UNT18	gs siliques ( mmol m-2 s-1)	1029.88			UNIBO		Italy		Optimal
+UNT18	gs siliques ( mmol m-2 s-1)	NaN			UNIBO		Italy		Optimal
+UNT18	gs siliques ( mmol m-2 s-1)	NaN			UNIBO		Italy		Optimal
+UNT21	gs siliques ( mmol m-2 s-1)	231.78			UNIBO		Italy		Optimal
+UNT21	gs siliques ( mmol m-2 s-1)	567.72			UNIBO		Italy		Optimal
+UNT21	gs siliques ( mmol m-2 s-1)	856.03			UNIBO		Italy		Optimal
+UNT21	gs siliques ( mmol m-2 s-1)	793.89			UNIBO		Italy		Optimal
+UNT46	gs siliques ( mmol m-2 s-1)	184.92			UNIBO		Italy		Optimal
+UNT46	gs siliques ( mmol m-2 s-1)	281.69			UNIBO		Italy		Optimal
+UNT46	gs siliques ( mmol m-2 s-1)	528.13			UNIBO		Italy		Optimal
+UNT46	gs siliques ( mmol m-2 s-1)	385.32			UNIBO		Italy		Optimal
+UNT4	gs siliques ( mmol m-2 s-1)	56.62			UNIBO		Italy		Optimal
+UNT4	gs siliques ( mmol m-2 s-1)	89.21			UNIBO		Italy		Optimal
+UNT4	gs siliques ( mmol m-2 s-1)	959.52			UNIBO		Italy		Optimal
+UNT4	gs siliques ( mmol m-2 s-1)	167.48			UNIBO		Italy		Optimal
+UNT18	gs siliques ( mmol m-2 s-1)	199.42			UNIBO		Italy		Optimal
+UNT18	gs siliques ( mmol m-2 s-1)	631.07			UNIBO		Italy		Optimal
+UNT18	gs siliques ( mmol m-2 s-1)	432.42			UNIBO		Italy		Optimal
+UNT18	gs siliques ( mmol m-2 s-1)	571.0			UNIBO		Italy		Optimal
+UNT21	gs siliques ( mmol m-2 s-1)	182.31			UNIBO		Italy		Optimal
+UNT21	gs siliques ( mmol m-2 s-1)	646.29			UNIBO		Italy		Optimal
+UNT21	gs siliques ( mmol m-2 s-1)	237.75			UNIBO		Italy		Optimal
+UNT21	gs siliques ( mmol m-2 s-1)	255.89			UNIBO		Italy		Optimal
+UNT46	gs siliques ( mmol m-2 s-1)	81.36			UNIBO		Italy		Optimal
+UNT46	gs siliques ( mmol m-2 s-1)	385.08			UNIBO		Italy		Optimal
+UNT46	gs siliques ( mmol m-2 s-1)	356.42			UNIBO		Italy		Optimal
+UNT46	gs siliques ( mmol m-2 s-1)	419.76			UNIBO		Italy		Optimal
+UNT4	a siliques ( umol m-2 s-1)	9.2			UNIBO		Italy		Optimal
+UNT4	a siliques ( umol m-2 s-1)	10.44			UNIBO		Italy		Optimal
+UNT4	a siliques ( umol m-2 s-1)	7.89			UNIBO		Italy		Optimal
+UNT4	a siliques ( umol m-2 s-1)	9.17			UNIBO		Italy		Optimal
+UNT18	a siliques ( umol m-2 s-1)	21.95			UNIBO		Italy		Optimal
+UNT18	a siliques ( umol m-2 s-1)	25.55			UNIBO		Italy		Optimal
+UNT18	a siliques ( umol m-2 s-1)	27.97			UNIBO		Italy		Optimal
+UNT18	a siliques ( umol m-2 s-1)	20.53			UNIBO		Italy		Optimal
+UNT21	a siliques ( umol m-2 s-1)	13.89			UNIBO		Italy		Optimal
+UNT21	a siliques ( umol m-2 s-1)	11.43			UNIBO		Italy		Optimal
+UNT21	a siliques ( umol m-2 s-1)	9.86			UNIBO		Italy		Optimal
+UNT21	a siliques ( umol m-2 s-1)	12.79			UNIBO		Italy		Optimal
+UNT46	a siliques ( umol m-2 s-1)	12.3			UNIBO		Italy		Optimal
+UNT46	a siliques ( umol m-2 s-1)	8.1			UNIBO		Italy		Optimal
+UNT46	a siliques ( umol m-2 s-1)	9.87			UNIBO		Italy		Optimal
+UNT46	a siliques ( umol m-2 s-1)	6.84			UNIBO		Italy		Optimal
+UNT4	a siliques ( umol m-2 s-1)	17.15			UNIBO		Italy		Optimal
+UNT4	a siliques ( umol m-2 s-1)	27.57			UNIBO		Italy		Optimal
+UNT4	a siliques ( umol m-2 s-1)	31.97			UNIBO		Italy		Optimal
+UNT4	a siliques ( umol m-2 s-1)	25.83			UNIBO		Italy		Optimal
+UNT18	a siliques ( umol m-2 s-1)	28.19			UNIBO		Italy		Optimal
+UNT18	a siliques ( umol m-2 s-1)	26.4			UNIBO		Italy		Optimal
+UNT18	a siliques ( umol m-2 s-1)	21.52			UNIBO		Italy		Optimal
+UNT18	a siliques ( umol m-2 s-1)	24.57			UNIBO		Italy		Optimal
+UNT21	a siliques ( umol m-2 s-1)	25.16			UNIBO		Italy		Optimal
+UNT21	a siliques ( umol m-2 s-1)	26.18			UNIBO		Italy		Optimal
+UNT21	a siliques ( umol m-2 s-1)	16.75			UNIBO		Italy		Optimal
+UNT21	a siliques ( umol m-2 s-1)	14.99			UNIBO		Italy		Optimal
+UNT46	a siliques ( umol m-2 s-1)	29.13			UNIBO		Italy		Optimal
+UNT46	a siliques ( umol m-2 s-1)	30.35			UNIBO		Italy		Optimal
+UNT46	a siliques ( umol m-2 s-1)	19.94			UNIBO		Italy		Optimal
+UNT46	a siliques ( umol m-2 s-1)	17.92			UNIBO		Italy		Optimal
+UNT4	swc flowering (%)	18.34			UNIBO		Italy		Optimal
+UNT4	swc flowering (%)	16.41			UNIBO		Italy		Optimal
+UNT4	swc flowering (%)	17.38			UNIBO		Italy		Optimal
+UNT4	swc flowering (%)	17.6			UNIBO		Italy		Optimal
+UNT18	swc flowering (%)	18.34			UNIBO		Italy		Optimal
+UNT18	swc flowering (%)	16.41			UNIBO		Italy		Optimal
+UNT18	swc flowering (%)	17.38			UNIBO		Italy		Optimal
+UNT18	swc flowering (%)	17.6			UNIBO		Italy		Optimal
+UNT21	swc flowering (%)	18.34			UNIBO		Italy		Optimal
+UNT21	swc flowering (%)	16.41			UNIBO		Italy		Optimal
+UNT21	swc flowering (%)	17.38			UNIBO		Italy		Optimal
+UNT21	swc flowering (%)	17.6			UNIBO		Italy		Optimal
+UNT46	swc flowering (%)	18.34			UNIBO		Italy		Optimal
+UNT46	swc flowering (%)	16.41			UNIBO		Italy		Optimal
+UNT46	swc flowering (%)	17.38			UNIBO		Italy		Optimal
+UNT46	swc flowering (%)	17.6			UNIBO		Italy		Optimal
+UNT4	swc flowering (%)	18.89			UNIBO		Italy		Optimal
+UNT4	swc flowering (%)	18.89			UNIBO		Italy		Optimal
+UNT4	swc flowering (%)	18.89			UNIBO		Italy		Optimal
+UNT4	swc flowering (%)	18.89			UNIBO		Italy		Optimal
+UNT18	swc flowering (%)	17.81			UNIBO		Italy		Optimal
+UNT18	swc flowering (%)	17.81			UNIBO		Italy		Optimal
+UNT18	swc flowering (%)	17.81			UNIBO		Italy		Optimal
+UNT18	swc flowering (%)	17.81			UNIBO		Italy		Optimal
+UNT21	swc flowering (%)	16.46			UNIBO		Italy		Optimal
+UNT21	swc flowering (%)	16.46			UNIBO		Italy		Optimal
+UNT21	swc flowering (%)	16.46			UNIBO		Italy		Optimal
+UNT21	swc flowering (%)	16.46			UNIBO		Italy		Optimal
+UNT46	swc flowering (%)	17.03			UNIBO		Italy		Optimal
+UNT46	swc flowering (%)	17.03			UNIBO		Italy		Optimal
+UNT46	swc flowering (%)	17.03			UNIBO		Italy		Optimal
+UNT46	swc flowering (%)	17.03			UNIBO		Italy		Optimal
+UNT4	swc siliques (%)	21.85			UNIBO		Italy		Optimal
+UNT4	swc siliques (%)	22.49			UNIBO		Italy		Optimal
+UNT4	swc siliques (%)	22.19			UNIBO		Italy		Optimal
+UNT4	swc siliques (%)	22.78			UNIBO		Italy		Optimal
+UNT18	swc siliques (%)	21.85			UNIBO		Italy		Optimal
+UNT18	swc siliques (%)	22.49			UNIBO		Italy		Optimal
+UNT18	swc siliques (%)	22.19			UNIBO		Italy		Optimal
+UNT18	swc siliques (%)	22.78			UNIBO		Italy		Optimal
+UNT21	swc siliques (%)	21.85			UNIBO		Italy		Optimal
+UNT21	swc siliques (%)	22.49			UNIBO		Italy		Optimal
+UNT21	swc siliques (%)	22.19			UNIBO		Italy		Optimal
+UNT21	swc siliques (%)	22.78			UNIBO		Italy		Optimal
+UNT46	swc siliques (%)	21.85			UNIBO		Italy		Optimal
+UNT46	swc siliques (%)	22.49			UNIBO		Italy		Optimal
+UNT46	swc siliques (%)	22.19			UNIBO		Italy		Optimal
+UNT46	swc siliques (%)	22.78			UNIBO		Italy		Optimal
+UNT4	swc siliques (%)	12.28			UNIBO		Italy		Optimal
+UNT4	swc siliques (%)	12.28			UNIBO		Italy		Optimal
+UNT4	swc siliques (%)	12.28			UNIBO		Italy		Optimal
+UNT4	swc siliques (%)	12.28			UNIBO		Italy		Optimal
+UNT18	swc siliques (%)	10.48			UNIBO		Italy		Optimal
+UNT18	swc siliques (%)	10.48			UNIBO		Italy		Optimal
+UNT18	swc siliques (%)	10.48			UNIBO		Italy		Optimal
+UNT18	swc siliques (%)	10.48			UNIBO		Italy		Optimal
+UNT21	swc siliques (%)	8.62			UNIBO		Italy		Optimal
+UNT21	swc siliques (%)	8.62			UNIBO		Italy		Optimal
+UNT21	swc siliques (%)	8.62			UNIBO		Italy		Optimal
+UNT21	swc siliques (%)	8.62			UNIBO		Italy		Optimal
+UNT46	swc siliques (%)	9.03			UNIBO		Italy		Optimal
+UNT46	swc siliques (%)	9.03			UNIBO		Italy		Optimal
+UNT46	swc siliques (%)	9.03			UNIBO		Italy		Optimal
+UNT46	swc siliques (%)	9.03			UNIBO		Italy		Optimal
+UNT4	final plant density (plant m-2)	73.0			UNIBO		Italy		Optimal
+UNT4	final plant density (plant m-2)	85.0			UNIBO		Italy		Optimal
+UNT4	final plant density (plant m-2)	150.0			UNIBO		Italy		Optimal
+UNT4	final plant density (plant m-2)	112.0			UNIBO		Italy		Optimal
+UNT18	final plant density (plant m-2)	65.0			UNIBO		Italy		Optimal
+UNT18	final plant density (plant m-2)	92.0			UNIBO		Italy		Optimal
+UNT18	final plant density (plant m-2)	127.0			UNIBO		Italy		Optimal
+UNT18	final plant density (plant m-2)	115.0			UNIBO		Italy		Optimal
+UNT21	final plant density (plant m-2)	46.0			UNIBO		Italy		Optimal
+UNT21	final plant density (plant m-2)	46.0			UNIBO		Italy		Optimal
+UNT21	final plant density (plant m-2)	88.0			UNIBO		Italy		Optimal
+UNT21	final plant density (plant m-2)	50.0			UNIBO		Italy		Optimal
+UNT46	final plant density (plant m-2)	73.0			UNIBO		Italy		Optimal
+UNT46	final plant density (plant m-2)	85.0			UNIBO		Italy		Optimal
+UNT46	final plant density (plant m-2)	77.0			UNIBO		Italy		Optimal
+UNT46	final plant density (plant m-2)	54.0			UNIBO		Italy		Optimal
+UNT4	final plant density (plant m-2)	73.0			UNIBO		Italy		Optimal
+UNT4	final plant density (plant m-2)	NaN			UNIBO		Italy		Optimal
+UNT4	final plant density (plant m-2)	92.0			UNIBO		Italy		Optimal
+UNT4	final plant density (plant m-2)	62.0			UNIBO		Italy		Optimal
+UNT18	final plant density (plant m-2)	88.0			UNIBO		Italy		Optimal
+UNT18	final plant density (plant m-2)	77.0			UNIBO		Italy		Optimal
+UNT18	final plant density (plant m-2)	112.0			UNIBO		Italy		Optimal
+UNT18	final plant density (plant m-2)	58.0			UNIBO		Italy		Optimal
+UNT21	final plant density (plant m-2)	92.0			UNIBO		Italy		Optimal
+UNT21	final plant density (plant m-2)	81.0			UNIBO		Italy		Optimal
+UNT21	final plant density (plant m-2)	108.0			UNIBO		Italy		Optimal
+UNT21	final plant density (plant m-2)	112.0			UNIBO		Italy		Optimal
+UNT46	final plant density (plant m-2)	108.0			UNIBO		Italy		Optimal
+UNT46	final plant density (plant m-2)	NaN			UNIBO		Italy		Optimal
+UNT46	final plant density (plant m-2)	131.0			UNIBO		Italy		Optimal
+UNT46	final plant density (plant m-2)	88.0			UNIBO		Italy		Optimal
+UNT4	h (cm)	87.0			UNIBO		Italy		Optimal
+UNT4	h (cm)	72.0			UNIBO		Italy		Optimal
+UNT4	h (cm)	84.0			UNIBO		Italy		Optimal
+UNT4	h (cm)	89.0			UNIBO		Italy		Optimal
+UNT18	h (cm)	84.0			UNIBO		Italy		Optimal
+UNT18	h (cm)	73.0			UNIBO		Italy		Optimal
+UNT18	h (cm)	81.0			UNIBO		Italy		Optimal
+UNT18	h (cm)	88.0			UNIBO		Italy		Optimal
+UNT21	h (cm)	85.0			UNIBO		Italy		Optimal
+UNT21	h (cm)	70.0			UNIBO		Italy		Optimal
+UNT21	h (cm)	81.0			UNIBO		Italy		Optimal
+UNT21	h (cm)	90.0			UNIBO		Italy		Optimal
+UNT46	h (cm)	81.0			UNIBO		Italy		Optimal
+UNT46	h (cm)	71.0			UNIBO		Italy		Optimal
+UNT46	h (cm)	78.0			UNIBO		Italy		Optimal
+UNT46	h (cm)	90.0			UNIBO		Italy		Optimal
+UNT4	h (cm)	84.0			UNIBO		Italy		Optimal
+UNT4	h (cm)	70.0			UNIBO		Italy		Optimal
+UNT4	h (cm)	81.0			UNIBO		Italy		Optimal
+UNT4	h (cm)	90.0			UNIBO		Italy		Optimal
+UNT18	h (cm)	83.0			UNIBO		Italy		Optimal
+UNT18	h (cm)	71.0			UNIBO		Italy		Optimal
+UNT18	h (cm)	81.0			UNIBO		Italy		Optimal
+UNT18	h (cm)	88.0			UNIBO		Italy		Optimal
+UNT21	h (cm)	88.0			UNIBO		Italy		Optimal
+UNT21	h (cm)	66.0			UNIBO		Italy		Optimal
+UNT21	h (cm)	80.0			UNIBO		Italy		Optimal
+UNT21	h (cm)	91.0			UNIBO		Italy		Optimal
+UNT46	h (cm)	84.0			UNIBO		Italy		Optimal
+UNT46	h (cm)	70.0			UNIBO		Italy		Optimal
+UNT46	h (cm)	81.0			UNIBO		Italy		Optimal
+UNT46	h (cm)	88.0			UNIBO		Italy		Optimal

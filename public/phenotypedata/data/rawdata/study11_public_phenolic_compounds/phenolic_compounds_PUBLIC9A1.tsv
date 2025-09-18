@@ -1,0 +1,82 @@
+subject	variable	value	sample_plant_anatomical_entity	sample_collection_date	sample_institute	sample_city	sample_country	sample_associated_interval	sample_associated_factor
+camelina-3	Peak_1 Protocatechuic acid	0.0			University of Ljubljana		Slovenia		
+camelina-3	Peak_2 Catechin	0.6			University of Ljubljana		Slovenia		
+camelina-3	Peak_3 p-Hydroxybenzoic acid	0.1			University of Ljubljana		Slovenia		
+camelina-3	Peak_4 Sinapine	0.0			University of Ljubljana		Slovenia		
+camelina-3	Peak_5 Ellagic acid	0.2			University of Ljubljana		Slovenia		
+camelina-3	Peak_6 unidentified_compound	0.0			University of Ljubljana		Slovenia		
+camelina-3	Peak_7 unidentified_compound	0.0			University of Ljubljana		Slovenia		
+camelina-3	Peak_8 Sinapic acid	1.9			University of Ljubljana		Slovenia		
+camelina-3	Peak_9 unidentified_compound	0.0			University of Ljubljana		Slovenia		
+camelina-3	Peak_10 unidentified_compound	0.0			University of Ljubljana		Slovenia		
+camelina-3	Peak_11 rutin	0.0			University of Ljubljana		Slovenia		
+camelina-3	Peak_12 unidentified_compound	0.0			University of Ljubljana		Slovenia		
+camelina-3	Peak_13 unidentified_compound	0.0			University of Ljubljana		Slovenia		
+camelina-3	Peak_14 Quercetin-3-O-glucoside	0.0			University of Ljubljana		Slovenia		
+camelina-3	Peak_15 unidentified_compound	0.0			University of Ljubljana		Slovenia		
+camelina-3	Peak_16 unidentified_compound	0.0			University of Ljubljana		Slovenia		
+camelina-3	Peak_17 unidentified_compound	0.0			University of Ljubljana		Slovenia		
+camelina-3	Peak_18 unidentified_compound	0.0			University of Ljubljana		Slovenia		
+camelina-3	Peak_19 unidentified_compound	0.0			University of Ljubljana		Slovenia		
+camelina-3	Peak_20 unidentified_compound	0.0			University of Ljubljana		Slovenia		
+camelina-3	Peak_21 4-Vinylcatechol	0.0			University of Ljubljana		Slovenia		
+camelina-3	Peak_22 unidentified_compound	0.0			University of Ljubljana		Slovenia		
+camelina-3	Peak_23 Salicylic acid	0.4			University of Ljubljana		Slovenia		
+camelina-3	Peak_24 Quercetin	0.1			University of Ljubljana		Slovenia		
+camelina-3	Peak_25 4-Vinylphenol	0.0			University of Ljubljana		Slovenia		
+camelina-3	Peak_26 4-Vinylsyringol	0.0			University of Ljubljana		Slovenia		
+camelina-3	Peak_27 4-Vinylguaiacol	0.0			University of Ljubljana		Slovenia		
+camelina-2	Peak_1 Protocatechuic acid	92.8			University of Ljubljana		Slovenia		
+camelina-2	Peak_2 Catechin	62.3			University of Ljubljana		Slovenia		
+camelina-2	Peak_3 p-Hydroxybenzoic acid	77.2			University of Ljubljana		Slovenia		
+camelina-2	Peak_4 Sinapine	50.2			University of Ljubljana		Slovenia		
+camelina-2	Peak_5 Ellagic acid	60.8			University of Ljubljana		Slovenia		
+camelina-2	Peak_6 unidentified_compound	48.3			University of Ljubljana		Slovenia		
+camelina-2	Peak_7 unidentified_compound	52.7			University of Ljubljana		Slovenia		
+camelina-2	Peak_8 Sinapic acid	20.8			University of Ljubljana		Slovenia		
+camelina-2	Peak_9 unidentified_compound	46.9			University of Ljubljana		Slovenia		
+camelina-2	Peak_10 unidentified_compound	45.6			University of Ljubljana		Slovenia		
+camelina-2	Peak_11 rutin	46.5			University of Ljubljana		Slovenia		
+camelina-2	Peak_12 unidentified_compound	61.4			University of Ljubljana		Slovenia		
+camelina-2	Peak_13 unidentified_compound	49.9			University of Ljubljana		Slovenia		
+camelina-2	Peak_14 Quercetin-3-O-glucoside	48.2			University of Ljubljana		Slovenia		
+camelina-2	Peak_15 unidentified_compound	58.1			University of Ljubljana		Slovenia		
+camelina-2	Peak_16 unidentified_compound	48.3			University of Ljubljana		Slovenia		
+camelina-2	Peak_17 unidentified_compound	48.7			University of Ljubljana		Slovenia		
+camelina-2	Peak_18 unidentified_compound	48.2			University of Ljubljana		Slovenia		
+camelina-2	Peak_19 unidentified_compound	46.4			University of Ljubljana		Slovenia		
+camelina-2	Peak_20 unidentified_compound	45.3			University of Ljubljana		Slovenia		
+camelina-2	Peak_21 4-Vinylcatechol	33.8			University of Ljubljana		Slovenia		
+camelina-2	Peak_22 unidentified_compound	51.2			University of Ljubljana		Slovenia		
+camelina-2	Peak_23 Salicylic acid	61.4			University of Ljubljana		Slovenia		
+camelina-2	Peak_24 Quercetin	66.5			University of Ljubljana		Slovenia		
+camelina-2	Peak_25 4-Vinylphenol	41.1			University of Ljubljana		Slovenia		
+camelina-2	Peak_26 4-Vinylsyringol	23.4			University of Ljubljana		Slovenia		
+camelina-2	Peak_27 4-Vinylguaiacol	40.6			University of Ljubljana		Slovenia		
+camelina-1	Peak_1 Protocatechuic acid	7.2			University of Ljubljana		Slovenia		
+camelina-1	Peak_2 Catechin	37.2			University of Ljubljana		Slovenia		
+camelina-1	Peak_3 p-Hydroxybenzoic acid	22.7			University of Ljubljana		Slovenia		
+camelina-1	Peak_4 Sinapine	49.8			University of Ljubljana		Slovenia		
+camelina-1	Peak_5 Ellagic acid	39.0			University of Ljubljana		Slovenia		
+camelina-1	Peak_6 unidentified_compound	51.7			University of Ljubljana		Slovenia		
+camelina-1	Peak_7 unidentified_compound	47.3			University of Ljubljana		Slovenia		
+camelina-1	Peak_8 Sinapic acid	77.3			University of Ljubljana		Slovenia		
+camelina-1	Peak_9 unidentified_compound	53.1			University of Ljubljana		Slovenia		
+camelina-1	Peak_10 unidentified_compound	54.4			University of Ljubljana		Slovenia		
+camelina-1	Peak_11 rutin	53.5			University of Ljubljana		Slovenia		
+camelina-1	Peak_12 unidentified_compound	38.6			University of Ljubljana		Slovenia		
+camelina-1	Peak_13 unidentified_compound	50.1			University of Ljubljana		Slovenia		
+camelina-1	Peak_14 Quercetin-3-O-glucoside	51.8			University of Ljubljana		Slovenia		
+camelina-1	Peak_15 unidentified_compound	41.9			University of Ljubljana		Slovenia		
+camelina-1	Peak_16 unidentified_compound	51.7			University of Ljubljana		Slovenia		
+camelina-1	Peak_17 unidentified_compound	51.3			University of Ljubljana		Slovenia		
+camelina-1	Peak_18 unidentified_compound	51.8			University of Ljubljana		Slovenia		
+camelina-1	Peak_19 unidentified_compound	53.6			University of Ljubljana		Slovenia		
+camelina-1	Peak_20 unidentified_compound	54.7			University of Ljubljana		Slovenia		
+camelina-1	Peak_21 4-Vinylcatechol	66.2			University of Ljubljana		Slovenia		
+camelina-1	Peak_22 unidentified_compound	48.8			University of Ljubljana		Slovenia		
+camelina-1	Peak_23 Salicylic acid	38.1			University of Ljubljana		Slovenia		
+camelina-1	Peak_24 Quercetin	33.4			University of Ljubljana		Slovenia		
+camelina-1	Peak_25 4-Vinylphenol	58.9			University of Ljubljana		Slovenia		
+camelina-1	Peak_26 4-Vinylsyringol	76.6			University of Ljubljana		Slovenia		
+camelina-1	Peak_27 4-Vinylguaiacol	59.2			University of Ljubljana		Slovenia		

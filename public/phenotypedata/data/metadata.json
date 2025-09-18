@@ -1,0 +1,174 @@
+{
+  "studies": [
+    {
+      "study_title": "Characterization of camelina core collection and RILs under controlled conditions",
+      "species": "Camelina sativa (L.) Crantz",
+      "biological_condition": "Control, Drought, Heat",
+      "tissue": "Leaf, aerial tissue, silique, cotyledons",
+      "source": "UNTWIST",
+      "doi": null
+    },
+    {
+      "study_title": "Characterization of camelina core collection under field conditions",
+      "species": "Camelina sativa (L.) Crantz",
+      "biological_condition": null,
+      "tissue": null,
+      "source": "UNTWIST",
+      "doi": null
+    },
+    {
+      "study_title": "Controlled stress-testing of selected camelina focus lines",
+      "species": "Camelina sativa (L.) Crantz",
+      "biological_condition": "Control, Drought, Heat, Pest (Molluscs)",
+      "tissue": "Leaf, Seeds, siliqua",
+      "source": "UNTWIST",
+      "doi": null
+    },
+    {
+      "study_title": "Environmental suitability of camelina to stressful conditions.",
+      "species": "Camelina sativa (L.) Crantz",
+      "biological_condition": "Optimal, Stressed",
+      "tissue": "Leaf, Seed, Siliqua",
+      "source": "UNTWIST",
+      "doi": null
+    },
+    {
+      "study_title": "Redox-status analysis of core collection and focus lines (redox profiling)",
+      "species": "Camelina sativa (L.) Crantz",
+      "biological_condition": "Control, Drought, Heat",
+      "tissue": "Cotyledon, Junction cotyledon - root...",
+      "source": "UNTWIST",
+      "doi": null
+    },
+    {
+      "study_title": "Targeted measurement of enzyme activities in focus lines (enzyme activity profiling)",
+      "species": "Camelina sativa (L.) Crantz",
+      "biological_condition": "Control, Drought, Heat",
+      "tissue": "Leaf, Root",
+      "source": "UNTWIST",
+      "doi": null
+    },
+    {
+      "study_title": "Phenotypic Examination of Camelina sativa (L.) Crantz Accessions from the USDA-ARS National Genetics Resource Program",
+      "species": "Camelina sativa",
+      "biological_condition": null,
+      "tissue": null,
+      "source": "PUBLIC",
+      "doi": "https://doi.org/10.3390/plants10050842"
+    },
+    {
+      "study_title": "Agronomic and seed quality evaluation of Camelina sativa in western Canada",
+      "species": "Camelina sativa",
+      "biological_condition": null,
+      "tissue": null,
+      "source": "PUBLIC",
+      "doi": "https://doi.org/10.4141/P04-061"
+    },
+    {
+      "study_title": "Camelina (Camelina sativa L. Crantz) under low-input management systems in northern Italy: Yields, chemical characterization and environmental sustainability",
+      "species": "Camelina sativa",
+      "biological_condition": "low input cultivation systems",
+      "tissue": null,
+      "source": "PUBLIC",
+      "doi": "https://doi.org/10.4081/ija.2021.1518"
+    },
+    {
+      "study_title": "Fatty Acid Composition of Cannabis sativa, Linum usitatissimum and Camelina sativa Seeds Harvested in Lithuania for Food Use",
+      "species": "Camelina sativa, Cannabis s..., Linum usitatissimum",
+      "biological_condition": null,
+      "tissue": null,
+      "source": "PUBLIC",
+      "doi": "https://doi.org/10.3390/foods10011962"
+    },
+    {
+      "study_title": "The occurrence and characterisation of phenolic compounds in Camelina sativa seed, cake and oil",
+      "species": "Camelina sativa",
+      "biological_condition": null,
+      "tissue": null,
+      "source": "PUBLIC",
+      "doi": "https://doi.org/10.1016/j.foodchem.2017.06.033"
+    }
+  ],
+  "institutes": [
+    {
+      "institute_name": "Austrian Institute of Technology GmbH",
+      "institute_abbreviation": "AIT",
+      "institute_city": "Seibersdorf",
+      "institute_country": "Austria",
+      "institute_lat": 47.97941022497,
+      "institute_lng": 16.50465871665,
+      "institute_logourl": "https://www.ait.ac.at/fileadmin/_processed_/template_default/archit/logo_AIT-logo_mobile.svg",
+      "institute_weburl": "https://www.ait.ac.at/"
+    },
+    {
+      "institute_name": "Institut national de la recherche agronomique",
+      "institute_abbreviation": "INRAE",
+      "institute_city": "Bordeaux",
+      "institute_country": "France",
+      "institute_lat": 43.25044089046,
+      "institute_lng": -0.520038126963,
+      "institute_logourl": "https://www.inrae.fr/themes/custom/inrae_socle/logo.svg",
+      "institute_weburl": "https://www.inrae.fr/"
+    },
+    {
+      "institute_name": "Rothamsted Research",
+      "institute_abbreviation": "RRES",
+      "institute_city": "Harpenden",
+      "institute_country": "United Kingdom",
+      "institute_lat": 51.80906958406,
+      "institute_lng": -0.3565596310194,
+      "institute_logourl": "https://www.rothamsted.ac.uk/sites/default/files/rothamsted-logo.png",
+      "institute_weburl": "https://www.rothamsted.ac.uk/"
+    },
+    {
+      "institute_name": "Forschungszentrum Juelich",
+      "institute_abbreviation": "FZJ",
+      "institute_city": "Jülich",
+      "institute_country": "Germany",
+      "institute_lat": 50.905559028267,
+      "institute_lng": 6.4132615796119,
+      "institute_logourl": "https://www.fz-juelich.de/static/media/3_logo_jsc/35.svg",
+      "institute_weburl": "https://www.fz-juelich.de/de"
+    },
+    {
+      "institute_name": "University of Bologna",
+      "institute_abbreviation": "UNIBO",
+      "institute_city": "Bologna",
+      "institute_country": "Italy",
+      "institute_lat": 44.49774296719,
+      "institute_lng": 11.353461089373,
+      "institute_logourl": "https://www.unibo.it/++theme++almatheme.portal/img/header_logo@1x_it.png?t=2",
+      "institute_weburl": "https://www.unibo.it/en"
+    },
+    {
+      "institute_name": "Camelina Company",
+      "institute_abbreviation": "CCE",
+      "institute_city": "Madrid",
+      "institute_country": "Spain",
+      "institute_lat": 40.635882580877,
+      "institute_lng": -3.5189061439046,
+      "institute_logourl": "httpsV://pages.rtsfases.net/lp/rts/RtsWebLin/rtsWEbLinV2/img/ZwnvH2slhYk4915/R1esIooD62LTXz76/s79GYKB/CamelinaCompanyLogoA.png",
+      "institute_weburl": "https://camelinacompany.es/?lang=en_ES"
+    },
+    {
+      "institute_name": "Iniciativas Innovadoras",
+      "institute_abbreviation": "INI",
+      "institute_city": "Zizur Mayor",
+      "institute_country": "Spain",
+      "institute_lat": 42.788781290896,
+      "institute_lng": -1.6905272107461,
+      "institute_logourl": "https://www.parofinnova.es/wp-content/uploads/2021/05/inni_new.jpg",
+      "institute_weburl": "https://www.iniciativas-innovadoras.es/en"
+    },
+    {
+      "institute_name": "RTDS Group",
+      "institute_abbreviation": "RTDS",
+      "institute_city": "Austria",
+      "institute_country": "Austria",
+      "institute_lat": 48.209730677078,
+      "institute_lng": 16.345461671049,
+      "institute_logourl": "https://www.rtds-group.com/wp-content/uploads/2020/05/rtds-logo.png",
+      "institute_weburl": "https://www.rtds-group.com/"
+    }
+  ]
+}
