@@ -11,6 +11,10 @@
     <!-- Custom CSS -->
     <link href="assets/css/main.css" rel="stylesheet">
     <link href="assets/css/gwas.css" rel="stylesheet">
+        <script
+      src="https://unpkg.com/@jbrowse/react-app2/dist/react-app.umd.production.min.js"
+      crossorigin
+    ></script>
 </head>
 <body>
     <!-- Header -->
@@ -65,20 +69,20 @@
                     </ul>
 
                     <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted text-uppercase">
-                        <span>Saved reports</span>
+                        <span>Tools</span>
                         <a class="link-secondary" href="https://dataplan.top" aria-label="Add a new report"></a>
                     </h6>
                     <ul class="nav flex-column mb-2">
                         <li class="nav-item">
-                            <a class="nav-link" href="https://dataplan.top">Current month</a>
+                            <a class="nav-link" href="https://dataplan.top">Plink 2.0</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="https://dataplan.top">Last quarter</a>
+                            <a class="nav-link" href="https://dataplan.top">Manhattan Plotly</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="https://dataplan.top">Social engagement</a>
+                            <a class="nav-link" href="https://dataplan.top">JBrowse 3.6.5</a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item d-none">
                             <a class="nav-link" href="https://dataplan.top">Year-end sale</a>
                         </li>
                     </ul>
@@ -272,11 +276,11 @@
                             <div class="col-md-12">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h5 class="card-title">Genome Visualization</h5>
+                                        <h5 class="card-title">Genome Browse</h5>
                                         <p class="card-text">Observe and visualize genomic structures and variations.</p>
-                                        <div class="alert alert-info">
-                                            <strong>Info:</strong> Genome observation features will be implemented here.
-                                        </div>
+                                        
+
+   
                                     </div>
                                 </div>
                             </div>
@@ -286,19 +290,11 @@
                     <!-- Genome Browse Tab -->
                     <div class="tab-pane fade" id="browse" role="tabpanel" aria-labelledby="browse-tab">
                         <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-                            <h1 class="h2">Genome Browse</h1>
+                            
                         </div>
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="card">
-                                    <div class="card-body">
-                                        <h5 class="card-title">Genome Browser</h5>
-                                        <p class="card-text">Browse genomic regions and annotations.</p>
-                                        <div class="alert alert-info">
-                                            <strong>Info:</strong> Genome browser features will be implemented here.
-                                        </div>
-                                    </div>
-                                </div>
+                                <div id="jbrowse_app"></div>
                             </div>
                         </div>
                     </div>
@@ -315,6 +311,7 @@
     <script src="public/router.js"></script>
     <script src="public/gwas.js"></script>
     <script src="public/app.js"></script>
+    <script src="js/genomeBrowser.js"></script>
 
     <!-- Helper functions -->
     <script>
@@ -604,5 +601,6 @@
             }
         }
     </script>
+     
 </body>
 </html>
